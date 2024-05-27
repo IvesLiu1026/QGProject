@@ -7,9 +7,11 @@ from rouge_score import rouge_scorer
 from bert_score import score as bert_score
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
+from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def load_json(file_path):
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         return json.load(file)
 
 def extract_questions(data):
@@ -65,11 +67,42 @@ def calculate_cosine_similarity(reference, candidate, model):
     candidate_embedding = model.encode(candidate)
     return float(cosine_similarity([reference_embedding], [candidate_embedding])[0][0])
 
+def evaluate_question_pair(original_q, generated_q, model):
+    question_bleu = calculate_bleu(original_q['question'], generated_q['question'])
+    question_rouge = calculate_rouge(original_q['question'], generated_q['question'])
+    question_bertscore = calculate_bertscore(original_q['question'], generated_q['question'])
+    question_cosine = calculate_cosine_similarity(original_q['question'], generated_q['question'], model)
+    
+    question_scores = {
+        'bleu': question_bleu,
+        'rouge': question_rouge,
+        'bert-score': question_bertscore,
+        'cosine-similarity': question_cosine
+    }
+
+    options_results = []
+    for orig_opt, gen_opt in zip(original_q['options'], generated_q['options']):
+        option_bleu = calculate_bleu(orig_opt, gen_opt)
+        option_rouge = calculate_rouge(orig_opt, gen_opt)
+        option_bertscore = calculate_bertscore(orig_opt, gen_opt)
+        option_cosine = calculate_cosine_similarity(orig_opt, gen_opt, model)
+        
+        options_results.append({
+            'text': gen_opt,
+            'bleu': option_bleu,
+            'rouge': option_rouge,
+            'bert-score': option_bertscore,
+            'cosine-similarity': option_cosine
+        })
+
+    question_scores['options'] = options_results
+    return question_scores
+
 def evaluate_questions(original_questions, generated_questions):
     model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
     results = []
 
-    for title, original_data in original_questions.items():
+    for title, original_data in tqdm(original_questions.items(), desc="Processing titles"):
         if title in generated_questions:
             generated_data = generated_questions[title]
             category = original_data['category']
@@ -77,59 +110,26 @@ def evaluate_questions(original_questions, generated_questions):
             generated_qs = generated_data['questions']
             multiple_choice = []
 
-            question_bleu_scores = []
-            question_rouge_scores = []
-            question_bertscores = []
-            question_cosine_scores = []
-            option_bleu_scores = []
-            option_rouge_scores = []
-            option_bertscores = []
-            option_cosine_scores = []
+            with ThreadPoolExecutor() as executor:
+                futures = [executor.submit(evaluate_question_pair, original_q, generated_q, model) for original_q, generated_q in zip(original_qs, generated_qs)]
+                for future in tqdm(as_completed(futures), desc="Processing questions", leave=False, total=len(futures)):
+                    question_scores = future.result()
+                    multiple_choice.append(question_scores)
 
-            for original_q, generated_q in zip(original_qs, generated_qs):
-                question_bleu = calculate_bleu(original_q['question'], generated_q['question'])
-                question_rouge = calculate_rouge(original_q['question'], generated_q['question'])
-                question_bertscore = calculate_bertscore(original_q['question'], generated_q['question'])
-                question_cosine = calculate_cosine_similarity(original_q['question'], generated_q['question'], model)
-                
-                question_bleu_scores.append(question_bleu)
-                question_rouge_scores.append(question_rouge['rougeL'])
-                question_bertscores.append(question_bertscore)
-                question_cosine_scores.append(question_cosine)
-
-                options_results = []
-                for orig_opt, gen_opt in zip(original_q['options'], generated_q['options']):
-                    option_bleu = calculate_bleu(orig_opt, gen_opt)
-                    option_rouge = calculate_rouge(orig_opt, gen_opt)
-                    option_bertscore = calculate_bertscore(orig_opt, gen_opt)
-                    option_cosine = calculate_cosine_similarity(orig_opt, gen_opt, model)
-                    
-                    option_bleu_scores.append(option_bleu)
-                    option_rouge_scores.append(option_rouge['rougeL'])
-                    option_bertscores.append(option_bertscore)
-                    option_cosine_scores.append(option_cosine)
-
-                    options_results.append({
-                        'text': gen_opt,
-                        'bleu': option_bleu,
-                        'rouge': option_rouge,
-                        'bert-score': option_bertscore,
-                        'cosine-similarity': option_cosine
-                    })
-
-                multiple_choice.append({
-                    'question': generated_q['question'],
-                    'bleu': question_bleu,
-                    'rouge': question_rouge,
-                    'bert-score': question_bertscore,
-                    'cosine-similarity': question_cosine,
-                    'options': options_results
-                })
+            question_bleu_scores = [q['bleu'] for q in multiple_choice]
+            question_rouge_scores = [q['rouge']['rougeL'] for q in multiple_choice]
+            question_bertscores = [q['bert-score'] for q in multiple_choice]
+            question_cosine_scores = [q['cosine-similarity'] for q in multiple_choice]
 
             avg_question_bleu = sum(question_bleu_scores) / len(question_bleu_scores) if question_bleu_scores else 0
             avg_question_rouge = sum(question_rouge_scores) / len(question_rouge_scores) if question_rouge_scores else 0
             avg_question_bertscore = sum(question_bertscores) / len(question_bertscores) if question_bertscores else 0
             avg_question_cosine = sum(question_cosine_scores) / len(question_cosine_scores) if question_cosine_scores else 0
+
+            option_bleu_scores = [opt['bleu'] for q in multiple_choice for opt in q['options']]
+            option_rouge_scores = [opt['rouge']['rougeL'] for q in multiple_choice for opt in q['options']]
+            option_bertscores = [opt['bert-score'] for q in multiple_choice for opt in q['options']]
+            option_cosine_scores = [opt['cosine-similarity'] for q in multiple_choice for opt in q['options']]
 
             avg_option_bleu = sum(option_bleu_scores) / len(option_bleu_scores) if option_bleu_scores else 0
             avg_option_rouge = sum(option_rouge_scores) / len(option_rouge_scores) if option_rouge_scores else 0
@@ -154,13 +154,13 @@ def evaluate_questions(original_questions, generated_questions):
     return results
 
 def save_to_json(data, file_path):
-    with open(file_path, 'w') as file:
+    with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
 def main():
-    original_file_path = '../original_questions.json'
-    generated_file_path = '../generated_questions.json'
-    output_file_path = 'all_v2.json'
+    original_file_path = '../dataset/dataset.json'
+    generated_file_path = '../results/dolphin-llama3-generated.json'
+    output_file_path = 'llama3-v1.json'
     
     original_data = load_json(original_file_path)
     generated_data = load_json(generated_file_path)
