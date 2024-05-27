@@ -3,16 +3,10 @@ langchain-community
 langchain-core
 ijson
 
-# bleu score
-nltk
-bleu
-numpy
-
-
-# for consine similarity
-sentence-transformers
-sci-kit-learn
-
-# for bert score
-transformers
-bert-score
+# metrics
+nltk 
+rouge-score 
+bert-score 
+sentence-transformers 
+scikit-learn 
+tqdm
