@@ -2,3 +2,17 @@ tqdm
 langchain-community
 langchain-core
 ijson
+
+# bleu score
+nltk
+bleu
+numpy
+
+
+# for consine similarity
+sentence-transformers
+sci-kit-learn
+
+# for bert score
+transformers
+bert-score
