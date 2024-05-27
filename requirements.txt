@@ -1,0 +1,4 @@
+tqdm
+langchain-community
+langchain-core
+ijson
