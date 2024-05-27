@@ -8,11 +8,11 @@ from langchain_core.prompts import ChatPromptTemplate
 import ijson
 import re
 
-DATASET_FILE = "D:/NYCU1122courses/Project/ollama/dataset/dataset.json"
-OUTPUT_FILE = "generated_questions.json"
+DATASET_FILE = "../dataset/dataset.json"
+OUTPUT_FILE = "../results/TWCC_generate.json"
 
 llm = ChatOllama(
-    model="dolphin-llama3:latest",
+    model="dolphin-llama3",
     keep_alive=-1,
     temperature=0.7,
     max_new_tokens=8192
@@ -21,7 +21,7 @@ llm = ChatOllama(
 with open(DATASET_FILE, "r", encoding="utf-8") as file:
     data = json.load(file)
     
-data = data[:2]
+# data = data[:2]
 
 titles = [item["title"] for item in data]
 categories = [item["category"] for item in data]
