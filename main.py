@@ -8,11 +8,11 @@ from langchain_core.prompts import ChatPromptTemplate
 import ijson
 import re
 
-DATASET_FILE = "../dataset/dataset.json"
-OUTPUT_FILE = "../results/TWCC_generate.json"
+DATASET_FILE = "dataset/dataset.json"
+OUTPUT_FILE = "results/generate10.json"
 
 llm = ChatOllama(
-    model="dolphin-llama3",
+    model="dolphin-llama3:latest",
     keep_alive=-1,
     temperature=0.7,
     max_new_tokens=8192
@@ -20,6 +20,9 @@ llm = ChatOllama(
 
 with open(DATASET_FILE, "r", encoding="utf-8") as file:
     data = json.load(file)
+    
+    
+data = data[:10]
     
 # data = data[:2]
 
@@ -62,11 +65,11 @@ def generate_questions(category, transcript):
     generated_chunks = []
 
     for chunk in chain.stream({"category": category, "transcript": transcript}):
-        print(chunk, end="", flush=True)
+        # print(chunk, end="", flush=True)
         generated_chunks.append(chunk)
 
     generated_output = "".join(generated_chunks)
-    print(generated_output)
+    # print(generated_output)
     return generated_output
 
 
@@ -103,7 +106,9 @@ def parse_questions(generated_output):
     return questions
 
 all_questions = []
+i = 0
 for title, category, transcript in zip(titles, categories, transcripts):
+    i += 1
     generated_output = generate_questions(category, transcript)
     questions = parse_questions(generated_output)
     all_questions.append({
@@ -111,6 +116,7 @@ for title, category, transcript in zip(titles, categories, transcripts):
         "category": category,
         "multiple-choice": questions
     })
+    print(f"Questions generated for video {i}/{len(titles)}")
 
 with open(OUTPUT_FILE, "w") as file:
     json.dump(all_questions, file, indent=4)
