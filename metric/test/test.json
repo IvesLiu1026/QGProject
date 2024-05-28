@@ -1,0 +1,2184 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "average-bleu": 0.6637390528838838,
+        "average-rouge": 0.12455357142857143,
+        "average-bert-score": 0.45651410426944494,
+        "average-cosine-similarity": 0.4278455332387239,
+        "multiple-choice": [
+            {
+                "bleu": 0.851748936078004,
+                "rouge": {
+                    "rouge1": 0.0,
+                    "rougeL": 0.0
+                },
+                "bert-score": 0.4016769230365753,
+                "cosine-similarity": 0.11960101127624512,
+                "options": [
+                    {
+                        "text": "A farming technique that increases crops.",
+                        "bleu": 0.6185030540247987,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3765992522239685,
+                        "cosine-similarity": 0.11958671361207962
+                    },
+                    {
+                        "text": "A shelter built from branches, leaves, and grass.",
+                        "bleu": 0.4974292207467277,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2803112268447876,
+                        "cosine-similarity": 0.18879950046539307
+                    },
+                    {
+                        "text": "A shelter built from mud bricks and clay.",
+                        "bleu": 0.46996069213253683,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.36145222187042236,
+                        "cosine-similarity": 0.19649642705917358
+                    },
+                    {
+                        "text": "A fishing technique that used a spear.",
+                        "bleu": 0.6022774485691837,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.36704105138778687,
+                        "cosine-similarity": 0.21715937554836273
+                    }
+                ]
+            },
+            {
+                "bleu": 0.785629301801026,
+                "rouge": {
+                    "rouge1": 0.4,
+                    "rougeL": 0.4
+                },
+                "bert-score": 0.6451708674430847,
+                "cosine-similarity": 0.8338354825973511,
+                "options": [
+                    {
+                        "text": "That you were among the largest group of people living in the United States of America.",
+                        "bleu": 0.6333622806442432,
+                        "rouge": {
+                            "rouge1": 0.1,
+                            "rougeL": 0.1
+                        },
+                        "bert-score": 0.2965632677078247,
+                        "cosine-similarity": 0.20067092776298523
+                    },
+                    {
+                        "text": "That you are among the most important groups of people living in the United States of America.",
+                        "bleu": 0.5848792417791194,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3513782322406769,
+                        "cosine-similarity": 0.19557932019233704
+                    },
+                    {
+                        "text": "That you were one of the original people who lived in the United States of America.",
+                        "bleu": 0.6408589971235484,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2602015733718872,
+                        "cosine-similarity": 0.1776713728904724
+                    },
+                    {
+                        "text": "That you were one of the founding fathers of the United States of America.",
+                        "bleu": 0.6709882032426115,
+                        "rouge": {
+                            "rouge1": 0.4,
+                            "rougeL": 0.4
+                        },
+                        "bert-score": 0.5117142200469971,
+                        "cosine-similarity": 0.5044857263565063
+                    }
+                ]
+            },
+            {
+                "bleu": 0.645777692487244,
+                "rouge": {
+                    "rouge1": 0.24000000000000005,
+                    "rougeL": 0.16
+                },
+                "bert-score": 0.5177397727966309,
+                "cosine-similarity": 0.5939631462097168,
+                "options": [
+                    {
+                        "text": "Apache, Cherokee, Iroquois, Navajo, and Sioux",
+                        "bleu": 0.6042750794713536,
+                        "rouge": {
+                            "rouge1": 0.2857142857142857,
+                            "rougeL": 0.2857142857142857
+                        },
+                        "bert-score": 0.45337194204330444,
+                        "cosine-similarity": 0.7052925825119019
+                    },
+                    {
+                        "text": "Cherokee, Anasazi, Chippewa, Pawnee, and Osage",
+                        "bleu": 0.4566337854967312,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3439991772174835,
+                        "cosine-similarity": 0.33542561531066895
+                    },
+                    {
+                        "text": "Apache, Iroquois, Chippewa, Pawnee, and Lakota",
+                        "bleu": 0.4566337854967312,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.4548158347606659,
+                        "cosine-similarity": 0.6032615900039673
+                    },
+                    {
+                        "text": "Navajo, Sioux, Lakota, Pawnee, and Osage",
+                        "bleu": 0.4728708045015879,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.38637876510620117,
+                        "cosine-similarity": 0.26977473497390747
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7875110621102679,
+                "rouge": {
+                    "rouge1": 0.32,
+                    "rougeL": 0.24
+                },
+                "bert-score": 0.6101512908935547,
+                "cosine-similarity": 0.6855659484863281,
+                "options": [
+                    {
+                        "text": "People known as farmers.",
+                        "bleu": 0.5946035575013605,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.4081863462924957,
+                        "cosine-similarity": 0.16471129655838013
+                    },
+                    {
+                        "text": "People known as warriors.",
+                        "bleu": 0.5318295896944989,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.39681726694107056,
+                        "cosine-similarity": 0.3379335403442383
+                    },
+                    {
+                        "text": "People with another religion.",
+                        "bleu": 0.5124576721246791,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.30400416254997253,
+                        "cosine-similarity": 0.24844123423099518
+                    },
+                    {
+                        "text": "People with another language.",
+                        "bleu": 0.6094183098284,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3566613793373108,
+                        "cosine-similarity": 0.29390475153923035
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "average-bleu": 0.7054649844014105,
+        "average-rouge": 0.08997354497354498,
+        "average-bert-score": 0.44972206130623815,
+        "average-cosine-similarity": 0.3488746318500489,
+        "multiple-choice": [
+            {
+                "bleu": 0.584307551548814,
+                "rouge": {
+                    "rouge1": 0.14285714285714288,
+                    "rougeL": 0.09523809523809525
+                },
+                "bert-score": 0.39160358905792236,
+                "cosine-similarity": 0.1814863085746765,
+                "options": [
+                    {
+                        "text": "Human eyeballs would be the size of tomatoes.",
+                        "bleu": 0.5773502691896257,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.32771196961402893,
+                        "cosine-similarity": 0.031457655131816864
+                    },
+                    {
+                        "text": "Human eyeballs would be the size of watermelons.",
+                        "bleu": 0.5681096832337497,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.35819169878959656,
+                        "cosine-similarity": 0.15833592414855957
+                    },
+                    {
+                        "text": "Human eyeballs would be the size of grapefruits.",
+                        "bleu": 0.7071067811865476,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.38789814710617065,
+                        "cosine-similarity": 0.24691155552864075
+                    },
+                    {
+                        "text": "Human eyeballs would be the size of baseballs.",
+                        "bleu": 0.5741865870062566,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.37666159868240356,
+                        "cosine-similarity": 0.1957666128873825
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7098962112020106,
+                "rouge": {
+                    "rouge1": 0.14814814814814817,
+                    "rougeL": 0.14814814814814817
+                },
+                "bert-score": 0.4995085299015045,
+                "cosine-similarity": 0.5958958864212036,
+                "options": [
+                    {
+                        "text": "He trained them to help crash enemy planes.",
+                        "bleu": 0.7111824933579799,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.5893824100494385,
+                        "cosine-similarity": 0.2742159366607666
+                    },
+                    {
+                        "text": "He trained them to deliver messages.",
+                        "bleu": 0.7751936613371729,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.5813730359077454,
+                        "cosine-similarity": 0.21962870657444
+                    },
+                    {
+                        "text": "He trained them in order to make them aerial bombers.",
+                        "bleu": 0.7037475090852178,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.5168864727020264,
+                        "cosine-similarity": 0.3889254927635193
+                    },
+                    {
+                        "text": "He trained them to crack enemy messages.",
+                        "bleu": 0.7071067811865476,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.5372210741043091,
+                        "cosine-similarity": 0.16335873305797577
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7638455118619067,
+                "rouge": {
+                    "rouge1": 0.28571428571428575,
+                    "rougeL": 0.28571428571428575
+                },
+                "bert-score": 0.5088151097297668,
+                "cosine-similarity": 0.6170808672904968,
+                "options": [
+                    {
+                        "text": "It allows them to be more balanced and agile than humans.",
+                        "bleu": 0.5919783121240433,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3588472604751587,
+                        "cosine-similarity": -0.016861896961927414
+                    },
+                    {
+                        "text": "It allows them to magnify their focus on objects.",
+                        "bleu": 0.7311104457090247,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3158622086048126,
+                        "cosine-similarity": 0.04445876181125641
+                    },
+                    {
+                        "text": "It allows them to remember things humans can't.",
+                        "bleu": 0.6955425557411256,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3343331515789032,
+                        "cosine-similarity": 0.030482085421681404
+                    },
+                    {
+                        "text": "It allows them to see things humans can't.",
+                        "bleu": 0.6389431042462724,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3015449643135071,
+                        "cosine-similarity": 0.17345695197582245
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7842988494376653,
+                "rouge": {
+                    "rouge1": 0.1904761904761905,
+                    "rougeL": 0.09523809523809525
+                },
+                "bert-score": 0.48957422375679016,
+                "cosine-similarity": 0.5007650852203369,
+                "options": [
+                    {
+                        "text": "The size of your thumb",
+                        "bleu": 0.8593887047640296,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.33610862493515015,
+                        "cosine-similarity": 0.09513971209526062
+                    },
+                    {
+                        "text": "The size of a fingertip",
+                        "bleu": 0.8498912392268879,
+                        "rouge": {
+                            "rouge1": 0.13333333333333333,
+                            "rougeL": 0.13333333333333333
+                        },
+                        "bert-score": 0.3288781940937042,
+                        "cosine-similarity": 0.024733275175094604
+                    },
+                    {
+                        "text": "The size of a walnut",
+                        "bleu": 0.8979007600118484,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3327541649341583,
+                        "cosine-similarity": 0.11789894104003906
+                    },
+                    {
+                        "text": "The size of a golf ball",
+                        "bleu": 0.8316033157750904,
+                        "rouge": {
+                            "rouge1": 0.2222222222222222,
+                            "rougeL": 0.1111111111111111
+                        },
+                        "bert-score": 0.35417142510414124,
+                        "cosine-similarity": -0.016918767243623734
+                    }
+                ]
+            },
+            {
+                "bleu": 0.6553587376109387,
+                "rouge": {
+                    "rouge1": 0.35714285714285715,
+                    "rougeL": 0.21428571428571427
+                },
+                "bert-score": 0.5828387141227722,
+                "cosine-similarity": 0.7666756510734558,
+                "options": [
+                    {
+                        "text": "Darwin knew that every country had a form of pigeons.",
+                        "bleu": 0.7293799946522604,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.5268775224685669,
+                        "cosine-similarity": 0.5359169244766235
+                    },
+                    {
+                        "text": "Darwin knew that despite the differences, pigeons all came from the Rock Dove.",
+                        "bleu": 0.6930977286178778,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.4072585701942444,
+                        "cosine-similarity": 0.2322710156440735
+                    },
+                    {
+                        "text": "Darwin was able to examine pigeons more easily than other animals.",
+                        "bleu": 0.7016879391277372,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.4450336992740631,
+                        "cosine-similarity": 0.3892415761947632
+                    },
+                    {
+                        "text": "Darwin thought the fancy pigeons would attract more attention than armadillos.",
+                        "bleu": 0.6832640638317855,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.38252559304237366,
+                        "cosine-similarity": 0.01895088329911232
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "average-bleu": 0.0,
+        "average-rouge": 0.0,
+        "average-bert-score": 0.0,
+        "average-cosine-similarity": 0.0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is it normal to talk to yourself?",
+        "category": "Psychology",
+        "average-bleu": 0.7767964969043978,
+        "average-rouge": 0.12157422771960394,
+        "average-bert-score": 0.47174019735110434,
+        "average-cosine-similarity": 0.3852703413484912,
+        "multiple-choice": [
+            {
+                "bleu": 0.6668954865619205,
+                "rouge": {
+                    "rouge1": 0.0,
+                    "rougeL": 0.0
+                },
+                "bert-score": 0.4099682867527008,
+                "cosine-similarity": 0.47613489627838135,
+                "options": [
+                    {
+                        "text": "Distanced self-talk",
+                        "bleu": 0.8055344092731546,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.301122784614563,
+                        "cosine-similarity": -0.0917089432477951
+                    },
+                    {
+                        "text": "Stressed self-talk",
+                        "bleu": 0.8633400213704505,
+                        "rouge": {
+                            "rouge1": 0.2,
+                            "rougeL": 0.2
+                        },
+                        "bert-score": 0.5622124075889587,
+                        "cosine-similarity": 0.4074596166610718
+                    },
+                    {
+                        "text": "Negative self-talk",
+                        "bleu": 0.8841583342199357,
+                        "rouge": {
+                            "rouge1": 0.13333333333333333,
+                            "rougeL": 0.13333333333333333
+                        },
+                        "bert-score": 0.4970794916152954,
+                        "cosine-similarity": 0.17877471446990967
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7025297977970931,
+                "rouge": {
+                    "rouge1": 0.32,
+                    "rougeL": 0.23999999999999996
+                },
+                "bert-score": 0.6271525025367737,
+                "cosine-similarity": 0.6121346950531006,
+                "options": [
+                    {
+                        "text": "Motivational self-talk",
+                        "bleu": 0.7510499815709779,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3273313045501709,
+                        "cosine-similarity": 0.02032478153705597
+                    },
+                    {
+                        "text": "Instructional self-talk",
+                        "bleu": 0.8670694387164803,
+                        "rouge": {
+                            "rouge1": 0.4,
+                            "rougeL": 0.4
+                        },
+                        "bert-score": 0.5984638929367065,
+                        "cosine-similarity": 0.36303049325942993
+                    },
+                    {
+                        "text": "Negative self-talk",
+                        "bleu": 0.9036020036098448,
+                        "rouge": {
+                            "rouge1": 0.2608695652173913,
+                            "rougeL": 0.2608695652173913
+                        },
+                        "bert-score": 0.5663844347000122,
+                        "cosine-similarity": 0.5985186100006104
+                    },
+                    {
+                        "text": "Manipulative self-talk",
+                        "bleu": 0.8408964152537145,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3289065361022949,
+                        "cosine-similarity": 0.07067554444074631
+                    }
+                ]
+            },
+            {
+                "bleu": 0.6896338634418056,
+                "rouge": {
+                    "rouge1": 0.4761904761904762,
+                    "rougeL": 0.28571428571428575
+                },
+                "bert-score": 0.5645237565040588,
+                "cosine-similarity": 0.7833447456359863,
+                "options": [
+                    {
+                        "text": "Vocal",
+                        "bleu": 0.9457416090031758,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3109855055809021,
+                        "cosine-similarity": 0.232211172580719
+                    },
+                    {
+                        "text": "Silent",
+                        "bleu": 0.9554427922043668,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.28698158264160156,
+                        "cosine-similarity": 0.10779297351837158
+                    },
+                    {
+                        "text": "Negative",
+                        "bleu": 0.9306048591020996,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3631841242313385,
+                        "cosine-similarity": 0.09887005388736725
+                    },
+                    {
+                        "text": "Confusing",
+                        "bleu": 0.816496580927726,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.41061633825302124,
+                        "cosine-similarity": 0.22189608216285706
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7199451752382372,
+                "rouge": {
+                    "rouge1": 0.16666666666666669,
+                    "rougeL": 0.16666666666666669
+                },
+                "bert-score": 0.5599504709243774,
+                "cosine-similarity": 0.47387903928756714,
+                "options": [
+                    {
+                        "text": "Planning",
+                        "bleu": 0.8891397050194614,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3414769470691681,
+                        "cosine-similarity": -0.06405054032802582
+                    },
+                    {
+                        "text": "Motivation",
+                        "bleu": 0.8801117367933934,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3447953462600708,
+                        "cosine-similarity": 0.15319624543190002
+                    },
+                    {
+                        "text": "Emotional regulation",
+                        "bleu": 0.7952707287670506,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.45109477639198303,
+                        "cosine-similarity": 0.2189043015241623
+                    },
+                    {
+                        "text": "Perception of time",
+                        "bleu": 0.816496580927726,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.33047187328338623,
+                        "cosine-similarity": -0.03048108145594597
+                    }
+                ]
+            },
+            {
+                "bleu": 0.668740304976422,
+                "rouge": {
+                    "rouge1": 0.23076923076923075,
+                    "rougeL": 0.23076923076923075
+                },
+                "bert-score": 0.5519716739654541,
+                "cosine-similarity": 0.5760530233383179,
+                "options": [
+                    {
+                        "text": "Exposure Therapy",
+                        "bleu": 0.9105801434189359,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.35897693037986755,
+                        "cosine-similarity": 0.15812169015407562
+                    },
+                    {
+                        "text": "Cognitive Behavioral Therapy",
+                        "bleu": 0.7916963878457504,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.34878009557724,
+                        "cosine-similarity": 0.3306429088115692
+                    },
+                    {
+                        "text": "Self-Talk Therapy",
+                        "bleu": 0.8529987544592307,
+                        "rouge": {
+                            "rouge1": 0.11764705882352941,
+                            "rougeL": 0.11764705882352941
+                        },
+                        "bert-score": 0.4527614414691925,
+                        "cosine-similarity": 0.44043058156967163
+                    },
+                    {
+                        "text": "Distanced Therapy",
+                        "bleu": 0.9166068134248218,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.4329482614994049,
+                        "cosine-similarity": 0.12378744781017303
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How tall can a tree grow? - Valentin Hammoudi",
+        "category": "Science & Technology",
+        "average-bleu": 0.7966028876863642,
+        "average-rouge": 0.087270985434601,
+        "average-bert-score": 0.4603778012096882,
+        "average-cosine-similarity": 0.2728920107940212,
+        "multiple-choice": [
+            {
+                "bleu": 0.7952707287670506,
+                "rouge": {
+                    "rouge1": 0.0,
+                    "rougeL": 0.0
+                },
+                "bert-score": 0.46421751379966736,
+                "cosine-similarity": 0.18833589553833008,
+                "options": [
+                    {
+                        "text": "It's composed of dead cells",
+                        "bleu": 0.7598356856515925,
+                        "rouge": {
+                            "rouge1": 0.2,
+                            "rougeL": 0.2
+                        },
+                        "bert-score": 0.29303210973739624,
+                        "cosine-similarity": -0.015407632105052471
+                    },
+                    {
+                        "text": "It's related to animal neurons",
+                        "bleu": 0.7952707287670506,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3448270559310913,
+                        "cosine-similarity": 0.030602313578128815
+                    },
+                    {
+                        "text": "It's surrounded by a porous layer to deliver chemicals all along the trunk",
+                        "bleu": 0.647407771147717,
+                        "rouge": {
+                            "rouge1": 0.09523809523809523,
+                            "rougeL": 0.09523809523809523
+                        },
+                        "bert-score": 0.35357797145843506,
+                        "cosine-similarity": 0.09236519038677216
+                    },
+                    {
+                        "text": "It's has a high photosynthesis activity",
+                        "bleu": 0.6729864884660303,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3099549412727356,
+                        "cosine-similarity": 0.25435706973075867
+                    }
+                ]
+            },
+            {
+                "bleu": 0.710084138739636,
+                "rouge": {
+                    "rouge1": 0.0,
+                    "rougeL": 0.0
+                },
+                "bert-score": 0.3873376250267029,
+                "cosine-similarity": 0.1324521005153656,
+                "options": [
+                    {
+                        "text": "Blood",
+                        "bleu": 1.0,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.31815335154533386,
+                        "cosine-similarity": 0.15579581260681152
+                    },
+                    {
+                        "text": "Sap",
+                        "bleu": 1.0,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3854678273200989,
+                        "cosine-similarity": 0.06152486056089401
+                    },
+                    {
+                        "text": "Air",
+                        "bleu": 0.7598356856515925,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.33518150448799133,
+                        "cosine-similarity": 0.18065319955348969
+                    },
+                    {
+                        "text": "Sunlight",
+                        "bleu": 0.5946035575013605,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3643113970756531,
+                        "cosine-similarity": 0.10141891241073608
+                    }
+                ]
+            },
+            {
+                "bleu": 0.8633400213704505,
+                "rouge": {
+                    "rouge1": 0.17391304347826086,
+                    "rougeL": 0.08695652173913043
+                },
+                "bert-score": 0.34831929206848145,
+                "cosine-similarity": 0.3304376006126404,
+                "options": [
+                    {
+                        "text": "Yellow",
+                        "bleu": 0.8408964152537145,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.4457237124443054,
+                        "cosine-similarity": 0.1396925449371338
+                    },
+                    {
+                        "text": "Salty",
+                        "bleu": 0.7952707287670506,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.431835412979126,
+                        "cosine-similarity": 0.07134142518043518
+                    },
+                    {
+                        "text": "Corrosive",
+                        "bleu": 0.8633400213704505,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.44808632135391235,
+                        "cosine-similarity": 0.03337990120053291
+                    },
+                    {
+                        "text": "Thick",
+                        "bleu": 0.9457416090031758,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.49540022015571594,
+                        "cosine-similarity": 0.1449577659368515
+                    }
+                ]
+            },
+            {
+                "bleu": 0.8757653731721587,
+                "rouge": {
+                    "rouge1": 0.125,
+                    "rougeL": 0.125
+                },
+                "bert-score": 0.52528977394104,
+                "cosine-similarity": 0.09275250881910324,
+                "options": [
+                    {
+                        "text": "A specific tissue where the sap flows",
+                        "bleu": 0.7546487907970829,
+                        "rouge": {
+                            "rouge1": 0.1,
+                            "rougeL": 0.1
+                        },
+                        "bert-score": 0.514205276966095,
+                        "cosine-similarity": 0.5265616178512573
+                    },
+                    {
+                        "text": "Molecules that play an important role in the ascending movement of the xylem Sap",
+                        "bleu": 0.668740304976422,
+                        "rouge": {
+                            "rouge1": 0.08695652173913043,
+                            "rougeL": 0.08695652173913043
+                        },
+                        "bert-score": 0.5171441435813904,
+                        "cosine-similarity": 0.411237895488739
+                    },
+                    {
+                        "text": "A tree species that grows over 100 meters",
+                        "bleu": 0.7355282324972029,
+                        "rouge": {
+                            "rouge1": 0.10526315789473685,
+                            "rougeL": 0.10526315789473685
+                        },
+                        "bert-score": 0.45714056491851807,
+                        "cosine-similarity": 0.5970928072929382
+                    },
+                    {
+                        "text": "Cells that act like pores and allow gas exchanges at the leaf level.",
+                        "bleu": 0.7071067811865476,
+                        "rouge": {
+                            "rouge1": 0.16666666666666669,
+                            "rougeL": 0.16666666666666669
+                        },
+                        "bert-score": 0.5192664861679077,
+                        "cosine-similarity": 0.48379743099212646
+                    }
+                ]
+            },
+            {
+                "bleu": 0.715008642007595,
+                "rouge": {
+                    "rouge1": 0.22222222222222224,
+                    "rougeL": 0.22222222222222224
+                },
+                "bert-score": 0.6406862139701843,
+                "cosine-similarity": 0.7466955184936523,
+                "options": [
+                    {
+                        "text": "Capillary action",
+                        "bleu": 0.8660254037844387,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.5252763032913208,
+                        "cosine-similarity": 0.26277077198028564
+                    },
+                    {
+                        "text": "Root pressure",
+                        "bleu": 0.912167909070388,
+                        "rouge": {
+                            "rouge1": 1.0,
+                            "rougeL": 1.0
+                        },
+                        "bert-score": 0.9999998807907104,
+                        "cosine-similarity": 1.0
+                    },
+                    {
+                        "text": "Gravity",
+                        "bleu": 0.9193227152249185,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3666232228279114,
+                        "cosine-similarity": 0.08555075526237488
+                    },
+                    {
+                        "text": "Transpiration",
+                        "bleu": 0.7875110621102679,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.5265026688575745,
+                        "cosine-similarity": 0.3352932929992676
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you solve the dark matter fuel riddle? - Daniel Finkel",
+        "category": "Literature & Language",
+        "average-bleu": 0.7784751441391833,
+        "average-rouge": 0.1535130180277239,
+        "average-bert-score": 0.47671960732516117,
+        "average-cosine-similarity": 0.3076949189033579,
+        "multiple-choice": [
+            {
+                "bleu": 0.668740304976422,
+                "rouge": {
+                    "rouge1": 0.3125,
+                    "rougeL": 0.3125
+                },
+                "bert-score": 0.5465830564498901,
+                "cosine-similarity": 0.6135545969009399,
+                "options": [
+                    {
+                        "text": "True",
+                        "bleu": 0.9306048591020996,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.30706459283828735,
+                        "cosine-similarity": 0.11657505482435226
+                    },
+                    {
+                        "text": "False",
+                        "bleu": 0.8801117367933934,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3229730427265167,
+                        "cosine-similarity": -0.04307197779417038
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7270447990811325,
+                "rouge": {
+                    "rouge1": 0.23999999999999996,
+                    "rougeL": 0.16
+                },
+                "bert-score": 0.5051754117012024,
+                "cosine-similarity": 0.32768845558166504,
+                "options": [
+                    {
+                        "text": "Point 8 only",
+                        "bleu": 0.537284965911771,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.31760403513908386,
+                        "cosine-similarity": 0.1731950342655182
+                    },
+                    {
+                        "text": "Point 3 and 8",
+                        "bleu": 0.6262844962765469,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2906496524810791,
+                        "cosine-similarity": 0.29115962982177734
+                    },
+                    {
+                        "text": "Point 8 and 12",
+                        "bleu": 0.6803749333171202,
+                        "rouge": {
+                            "rouge1": 0.3333333333333333,
+                            "rougeL": 0.3333333333333333
+                        },
+                        "bert-score": 0.3570564389228821,
+                        "cosine-similarity": 0.3701697587966919
+                    },
+                    {
+                        "text": "Point 15 only",
+                        "bleu": 0.6262844962765469,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3468520939350128,
+                        "cosine-similarity": 0.17829382419586182
+                    }
+                ]
+            },
+            {
+                "bleu": 0.6723070464202471,
+                "rouge": {
+                    "rouge1": 0.07142857142857144,
+                    "rougeL": 0.07142857142857144
+                },
+                "bert-score": 0.43161338567733765,
+                "cosine-similarity": 0.01871241256594658,
+                "options": [
+                    {
+                        "text": "Dark matter is stable in deep space",
+                        "bleu": 0.7952707287670506,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3583672046661377,
+                        "cosine-similarity": 0.06126383692026138
+                    },
+                    {
+                        "text": "Dark matter has infinite power",
+                        "bleu": 0.7952707287670506,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.37937837839126587,
+                        "cosine-similarity": 0.25655120611190796
+                    },
+                    {
+                        "text": "Dark matter regenerates",
+                        "bleu": 0.7679634266158699,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3165282607078552,
+                        "cosine-similarity": -0.02008857950568199
+                    }
+                ]
+            },
+            {
+                "bleu": 0.8408964152537145,
+                "rouge": {
+                    "rouge1": 0.6153846153846153,
+                    "rougeL": 0.6153846153846153
+                },
+                "bert-score": 0.8154752254486084,
+                "cosine-similarity": 0.8567199110984802,
+                "options": [
+                    {
+                        "text": "15 Parsecs",
+                        "bleu": 0.9457416090031758,
+                        "rouge": {
+                            "rouge1": 0.25,
+                            "rougeL": 0.25
+                        },
+                        "bert-score": 0.6710157990455627,
+                        "cosine-similarity": 0.5766340494155884
+                    },
+                    {
+                        "text": "21 Parsecs",
+                        "bleu": 0.8801117367933934,
+                        "rouge": {
+                            "rouge1": 0.22222222222222224,
+                            "rougeL": 0.22222222222222224
+                        },
+                        "bert-score": 0.63582444190979,
+                        "cosine-similarity": 0.5948016047477722
+                    },
+                    {
+                        "text": "23 parsecs",
+                        "bleu": 0.9146912192286945,
+                        "rouge": {
+                            "rouge1": 0.22222222222222224,
+                            "rougeL": 0.22222222222222224
+                        },
+                        "bert-score": 0.6338766813278198,
+                        "cosine-similarity": 0.6200212836265564
+                    },
+                    {
+                        "text": "45 Parsecs",
+                        "bleu": 0.9146912192286945,
+                        "rouge": {
+                            "rouge1": 0.25,
+                            "rougeL": 0.25
+                        },
+                        "bert-score": 0.6733419895172119,
+                        "cosine-similarity": 0.5547462701797485
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7179054277564751,
+                "rouge": {
+                    "rouge1": 0.0,
+                    "rougeL": 0.0
+                },
+                "bert-score": 0.4181479513645172,
+                "cosine-similarity": 0.00713692232966423,
+                "options": [
+                    {
+                        "text": "2 trips",
+                        "bleu": 0.9621954581957615,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.30833542346954346,
+                        "cosine-similarity": 0.19874972105026245
+                    },
+                    {
+                        "text": "3 trips",
+                        "bleu": 0.9621954581957615,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.35872241854667664,
+                        "cosine-similarity": 0.20002144575119019
+                    },
+                    {
+                        "text": "2 trip",
+                        "bleu": 0.9554427922043668,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.32283085584640503,
+                        "cosine-similarity": 0.06389439105987549
+                    },
+                    {
+                        "text": "0 trips",
+                        "bleu": 0.9621954581957615,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3702622354030609,
+                        "cosine-similarity": 0.06774887442588806
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read Toni Morrison's \"Beloved\"? - Yen Pham",
+        "category": "Literature",
+        "average-bleu": 0.7761163845152652,
+        "average-rouge": 0.1026686507936508,
+        "average-bert-score": 0.4170802339911461,
+        "average-cosine-similarity": 0.1661413218360394,
+        "multiple-choice": [
+            {
+                "bleu": 0.7516200388933441,
+                "rouge": {
+                    "rouge1": 0.0,
+                    "rougeL": 0.0
+                },
+                "bert-score": 0.4542042911052704,
+                "cosine-similarity": 0.10785682499408722,
+                "options": [
+                    {
+                        "text": "Her mother-in-law Baby Suggs",
+                        "bleu": 0.8254605646966103,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.34926533699035645,
+                        "cosine-similarity": 0.07133664935827255
+                    },
+                    {
+                        "text": "Her daughter Denver",
+                        "bleu": 0.8296066547537364,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.315472275018692,
+                        "cosine-similarity": -0.10391436517238617
+                    },
+                    {
+                        "text": "Her husband Halle",
+                        "bleu": 0.8282477531331041,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3458753526210785,
+                        "cosine-similarity": 0.16133984923362732
+                    },
+                    {
+                        "text": "Stamp Paid, who helped Sethe escape to freedom",
+                        "bleu": 0.7427498127683173,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3147011399269104,
+                        "cosine-similarity": 0.18245945870876312
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7633947323726819,
+                "rouge": {
+                    "rouge1": 0.11111111111111112,
+                    "rougeL": 0.11111111111111112
+                },
+                "bert-score": 0.450246661901474,
+                "cosine-similarity": 0.055624477565288544,
+                "options": [
+                    {
+                        "text": "Love and trauma in African-American history",
+                        "bleu": 0.7553789791604315,
+                        "rouge": {
+                            "rouge1": 0.26666666666666666,
+                            "rougeL": 0.26666666666666666
+                        },
+                        "bert-score": 0.41418421268463135,
+                        "cosine-similarity": 0.44455963373184204
+                    },
+                    {
+                        "text": "The role of religion in the lives of enslaved people",
+                        "bleu": 0.7203294535577252,
+                        "rouge": {
+                            "rouge1": 0.11111111111111112,
+                            "rougeL": 0.11111111111111112
+                        },
+                        "bert-score": 0.4408639073371887,
+                        "cosine-similarity": 0.3566316068172455
+                    },
+                    {
+                        "text": "The most important battles of the Civil War",
+                        "bleu": 0.7415129228605242,
+                        "rouge": {
+                            "rouge1": 0.26666666666666666,
+                            "rougeL": 0.26666666666666666
+                        },
+                        "bert-score": 0.32741454243659973,
+                        "cosine-similarity": 0.013427361845970154
+                    },
+                    {
+                        "text": "Segregation and anti-miscegenation laws",
+                        "bleu": 0.7740443718000138,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3728140890598297,
+                        "cosine-similarity": 0.0027929283678531647
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7598356856515925,
+                "rouge": {
+                    "rouge1": 0.125,
+                    "rougeL": 0.125
+                },
+                "bert-score": 0.4243490993976593,
+                "cosine-similarity": 0.20909619331359863,
+                "options": [
+                    {
+                        "text": "Her grandmother",
+                        "bleu": 0.9036020036098448,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.33829179406166077,
+                        "cosine-similarity": 0.016825342550873756
+                    },
+                    {
+                        "text": "Her husband",
+                        "bleu": 0.9510699415570292,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3008405566215515,
+                        "cosine-similarity": 0.17245519161224365
+                    },
+                    {
+                        "text": "Her eldest daughter",
+                        "bleu": 0.851748936078004,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.31732404232025146,
+                        "cosine-similarity": 0.13136973977088928
+                    },
+                    {
+                        "text": "Her former neighbor",
+                        "bleu": 0.749634235443537,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3059528172016144,
+                        "cosine-similarity": 0.04723021388053894
+                    }
+                ]
+            },
+            {
+                "bleu": 0.725205974975922,
+                "rouge": {
+                    "rouge1": 0.0,
+                    "rougeL": 0.0
+                },
+                "bert-score": 0.39817845821380615,
+                "cosine-similarity": 0.24318581819534302,
+                "options": [
+                    {
+                        "text": "Onomatopoeia",
+                        "bleu": 0.8408964152537145,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3794955313205719,
+                        "cosine-similarity": 0.18659141659736633
+                    },
+                    {
+                        "text": "Stream-of-consciousness",
+                        "bleu": 0.7427498127683173,
+                        "rouge": {
+                            "rouge1": 0.25,
+                            "rougeL": 0.25
+                        },
+                        "bert-score": 0.41794538497924805,
+                        "cosine-similarity": 0.2201186567544937
+                    },
+                    {
+                        "text": "Allusion",
+                        "bleu": 0.8891397050194614,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.37035781145095825,
+                        "cosine-similarity": 0.03948532044887543
+                    },
+                    {
+                        "text": "Foreshadowing",
+                        "bleu": 0.7447819789879647,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2407951056957245,
+                        "cosine-similarity": 0.2663152813911438
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7714395865600262,
+                "rouge": {
+                    "rouge1": 0.5,
+                    "rougeL": 0.5
+                },
+                "bert-score": 0.6534368395805359,
+                "cosine-similarity": 0.3326854407787323,
+                "options": [
+                    {
+                        "text": "By dissociating and forgetting",
+                        "bleu": 0.8265168183793802,
+                        "rouge": {
+                            "rouge1": 0.14285714285714288,
+                            "rougeL": 0.14285714285714288
+                        },
+                        "bert-score": 0.4459770619869232,
+                        "cosine-similarity": 0.04494709521532059
+                    },
+                    {
+                        "text": "By drinking excessively",
+                        "bleu": 0.7909129169328468,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.4336235821247101,
+                        "cosine-similarity": 0.22129419445991516
+                    },
+                    {
+                        "text": "By talking about it with Halle",
+                        "bleu": 0.8113449257895087,
+                        "rouge": {
+                            "rouge1": 0.125,
+                            "rougeL": 0.125
+                        },
+                        "bert-score": 0.40981245040893555,
+                        "cosine-similarity": 0.22218866646289825
+                    },
+                    {
+                        "text": "By remaining mired in it",
+                        "bleu": 0.6389431042462724,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3205409646034241,
+                        "cosine-similarity": 0.15440361201763153
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you outsmart this logical fallacy? - Alex Gendler",
+        "category": "Thinking & Learning",
+        "average-bleu": 0.7353050620723973,
+        "average-rouge": 0.10278980652765819,
+        "average-bert-score": 0.4136343687772751,
+        "average-cosine-similarity": 0.13461035589377085,
+        "multiple-choice": [
+            {
+                "bleu": 0.7022798316312892,
+                "rouge": {
+                    "rouge1": 0.07142857142857144,
+                    "rougeL": 0.07142857142857144
+                },
+                "bert-score": 0.45846548676490784,
+                "cosine-similarity": 0.08350685238838196,
+                "options": [
+                    {
+                        "text": "THTHHH",
+                        "bleu": 0.6389431042462724,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3185200095176697,
+                        "cosine-similarity": 0.315980464220047
+                    },
+                    {
+                        "text": "THTHHHT",
+                        "bleu": 0.6147881529512643,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2880401611328125,
+                        "cosine-similarity": 0.3545539975166321
+                    },
+                    {
+                        "text": "HTHHH",
+                        "bleu": 0.668740304976422,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3532249927520752,
+                        "cosine-similarity": 0.2578396201133728
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7679634266158699,
+                "rouge": {
+                    "rouge1": 0.18181818181818185,
+                    "rougeL": 0.18181818181818185
+                },
+                "bert-score": 0.5356712937355042,
+                "cosine-similarity": 0.17230208218097687,
+                "options": [
+                    {
+                        "text": "The United States declares war on Iran in response to an attack on an oil tanker",
+                        "bleu": 0.6580370064762462,
+                        "rouge": {
+                            "rouge1": 0.15384615384615385,
+                            "rougeL": 0.15384615384615385
+                        },
+                        "bert-score": 0.32201841473579407,
+                        "cosine-similarity": -0.06098662689328194
+                    },
+                    {
+                        "text": "The United States declares war on Iran",
+                        "bleu": 0.7790872728179328,
+                        "rouge": {
+                            "rouge1": 0.125,
+                            "rougeL": 0.125
+                        },
+                        "bert-score": 0.32508230209350586,
+                        "cosine-similarity": -0.07549732178449631
+                    },
+                    {
+                        "text": "The United States and the United Kingdom declare war on Iran",
+                        "bleu": 0.7186082239261684,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.300253689289093,
+                        "cosine-similarity": 0.0417197123169899
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7092270651939114,
+                "rouge": {
+                    "rouge1": 0.35294117647058826,
+                    "rougeL": 0.35294117647058826
+                },
+                "bert-score": 0.5101926922798157,
+                "cosine-similarity": 0.33305662870407104,
+                "options": [
+                    {
+                        "text": "Making snap judgments based on believability rather than calculation",
+                        "bleu": 0.6853234406569368,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3419865369796753,
+                        "cosine-similarity": 0.1424306035041809
+                    },
+                    {
+                        "text": "Need to impose a narrative on a collection of details",
+                        "bleu": 0.7037475090852178,
+                        "rouge": {
+                            "rouge1": 0.10000000000000002,
+                            "rougeL": 0.10000000000000002
+                        },
+                        "bert-score": 0.3826020359992981,
+                        "cosine-similarity": 0.05422927811741829
+                    },
+                    {
+                        "text": "Lack of knowledge about the particular subject",
+                        "bleu": 0.8016761109807073,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.32088661193847656,
+                        "cosine-similarity": 0.10924317687749863
+                    }
+                ]
+            },
+            {
+                "bleu": 0.8010548969451144,
+                "rouge": {
+                    "rouge1": 0.16,
+                    "rougeL": 0.16
+                },
+                "bert-score": 0.45705628395080566,
+                "cosine-similarity": 0.11564157158136368,
+                "options": [
+                    {
+                        "text": "Lucy is a portrait artist",
+                        "bleu": 0.7952707287670506,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.36678069829940796,
+                        "cosine-similarity": 0.017345115542411804
+                    },
+                    {
+                        "text": "Lucy is a portrait artist who plays professional poker",
+                        "bleu": 0.7259795291154771,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3303126096725464,
+                        "cosine-similarity": -0.08167575299739838
+                    },
+                    {
+                        "text": "Lucy is a portrait artist who also plays violin",
+                        "bleu": 0.7387670965262431,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3651352524757385,
+                        "cosine-similarity": 0.03958927094936371
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7049141756270427,
+                "rouge": {
+                    "rouge1": 0.11764705882352941,
+                    "rougeL": 0.058823529411764705
+                },
+                "bert-score": 0.46718063950538635,
+                "cosine-similarity": 0.22760449349880219,
+                "options": [
+                    {
+                        "text": "B contradicts A",
+                        "bleu": 0.9036020036098448,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.35935139656066895,
+                        "cosine-similarity": 0.02423951029777527
+                    },
+                    {
+                        "text": "A contains fewer conditions",
+                        "bleu": 0.8329997998131278,
+                        "rouge": {
+                            "rouge1": 0.14285714285714288,
+                            "rougeL": 0.14285714285714288
+                        },
+                        "bert-score": 0.3723013997077942,
+                        "cosine-similarity": -0.10888271033763885
+                    },
+                    {
+                        "text": "A is true in all cases where A and B is true",
+                        "bleu": 0.7372633901833245,
+                        "rouge": {
+                            "rouge1": 0.08695652173913043,
+                            "rougeL": 0.08695652173913043
+                        },
+                        "bert-score": 0.37683576345443726,
+                        "cosine-similarity": 0.2118474543094635
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Einstein's twin paradox explained - Amber Stuver",
+        "category": "Mathematics",
+        "average-bleu": 0.6585417287993289,
+        "average-rouge": 0.09028006589284093,
+        "average-bert-score": 0.4257038623094559,
+        "average-cosine-similarity": 0.2956689585000276,
+        "multiple-choice": [
+            {
+                "bleu": 0.7516200388933441,
+                "rouge": {
+                    "rouge1": 0.14814814814814814,
+                    "rougeL": 0.14814814814814814
+                },
+                "bert-score": 0.47273799777030945,
+                "cosine-similarity": 0.5193407535552979,
+                "options": [
+                    {
+                        "text": "Both Terra and Stella see each other aging first slowly then aging quickly.",
+                        "bleu": 0.727427152512826,
+                        "rouge": {
+                            "rouge1": 0.06666666666666667,
+                            "rougeL": 0.06666666666666667
+                        },
+                        "bert-score": 0.37715816497802734,
+                        "cosine-similarity": 0.21835526823997498
+                    },
+                    {
+                        "text": "Terra observes Stella aging slowly for most of their time apart, while Stella measures Terra aging slowly for just half of their time apart.",
+                        "bleu": 0.5988059642324198,
+                        "rouge": {
+                            "rouge1": 0.14634146341463414,
+                            "rougeL": 0.14634146341463414
+                        },
+                        "bert-score": 0.4795331358909607,
+                        "cosine-similarity": 0.31679481267929077
+                    },
+                    {
+                        "text": "When Stella is traveling in her spaceship, the distance between Earth and the destination star appears less than it does to Terra.",
+                        "bleu": 0.6013487219075048,
+                        "rouge": {
+                            "rouge1": 0.12500000000000003,
+                            "rougeL": 0.12500000000000003
+                        },
+                        "bert-score": 0.367186963558197,
+                        "cosine-similarity": 0.2343837320804596
+                    },
+                    {
+                        "text": "Stella aged the same amount as Terra on the way to the destination star but traveled back in time on her way back to Earth.",
+                        "bleu": 0.6428039633283764,
+                        "rouge": {
+                            "rouge1": 0.3181818181818182,
+                            "rougeL": 0.1818181818181818
+                        },
+                        "bert-score": 0.4921318292617798,
+                        "cosine-similarity": 0.4278727173805237
+                    }
+                ]
+            },
+            {
+                "bleu": 0.5122254229500924,
+                "rouge": {
+                    "rouge1": 0.10526315789473684,
+                    "rougeL": 0.07017543859649122
+                },
+                "bert-score": 0.4101356863975525,
+                "cosine-similarity": 0.19675356149673462,
+                "options": [
+                    {
+                        "text": "160 seconds",
+                        "bleu": 0.8931539818068694,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2873757779598236,
+                        "cosine-similarity": 0.18916305899620056
+                    },
+                    {
+                        "text": "200 seconds",
+                        "bleu": 0.8931539818068694,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.30279216170310974,
+                        "cosine-similarity": 0.18126630783081055
+                    },
+                    {
+                        "text": "250 seconds",
+                        "bleu": 0.9234732618882052,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.29851704835891724,
+                        "cosine-similarity": 0.07454978674650192
+                    },
+                    {
+                        "text": "400 seconds",
+                        "bleu": 0.8931539818068694,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3137165606021881,
+                        "cosine-similarity": 0.3268902003765106
+                    }
+                ]
+            },
+            {
+                "bleu": 0.5741865870062566,
+                "rouge": {
+                    "rouge1": 0.13636363636363635,
+                    "rougeL": 0.09090909090909091
+                },
+                "bert-score": 0.4300275146961212,
+                "cosine-similarity": 0.26493608951568604,
+                "options": [
+                    {
+                        "text": "It has a constant speed.",
+                        "bleu": 0.8408964152537145,
+                        "rouge": {
+                            "rouge1": 0.2222222222222222,
+                            "rougeL": 0.2222222222222222
+                        },
+                        "bert-score": 0.5048962831497192,
+                        "cosine-similarity": 0.21314293146133423
+                    },
+                    {
+                        "text": "If moving, its direction is constant.",
+                        "bleu": 0.8109228996775397,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.48570746183395386,
+                        "cosine-similarity": 0.26688718795776367
+                    },
+                    {
+                        "text": "It is possible to stay in the same inertial reference frame during a round trip voyage.",
+                        "bleu": 0.7009305846091448,
+                        "rouge": {
+                            "rouge1": 0.23529411764705882,
+                            "rougeL": 0.23529411764705882
+                        },
+                        "bert-score": 0.4964275658130646,
+                        "cosine-similarity": 0.18345104157924652
+                    },
+                    {
+                        "text": "To an observer in an inertial reference frame, the length and mass of objects, and the passage of time are constant.",
+                        "bleu": 0.6276299057399732,
+                        "rouge": {
+                            "rouge1": 0.12121212121212123,
+                            "rougeL": 0.060606060606060615
+                        },
+                        "bert-score": 0.47622546553611755,
+                        "cosine-similarity": 0.43513357639312744
+                    }
+                ]
+            },
+            {
+                "bleu": 0.46663378057942434,
+                "rouge": {
+                    "rouge1": 0.22857142857142854,
+                    "rougeL": 0.09523809523809522
+                },
+                "bert-score": 0.49853596091270447,
+                "cosine-similarity": 0.5260728597640991,
+                "options": [
+                    {
+                        "text": "If Stella measures Terra's time passing slower than her own, Terra will see Stella's time passing faster than her own.",
+                        "bleu": 0.624953384615582,
+                        "rouge": {
+                            "rouge1": 0.1142857142857143,
+                            "rougeL": 0.05714285714285715
+                        },
+                        "bert-score": 0.48824506998062134,
+                        "cosine-similarity": 0.4711993932723999
+                    },
+                    {
+                        "text": "Stella will always measure her time passing at the same rate regardless of how fast she is moving.",
+                        "bleu": 0.6635625712217014,
+                        "rouge": {
+                            "rouge1": 0.1935483870967742,
+                            "rougeL": 0.12903225806451615
+                        },
+                        "bert-score": 0.5036270618438721,
+                        "cosine-similarity": 0.26960504055023193
+                    },
+                    {
+                        "text": "As long as Stella is moving in an inertial reference frame, she can claim that she is not moving and everything else is moving around her.",
+                        "bleu": 0.609142117457528,
+                        "rouge": {
+                            "rouge1": 0.13636363636363638,
+                            "rougeL": 0.13636363636363638
+                        },
+                        "bert-score": 0.4798988997936249,
+                        "cosine-similarity": 0.3010290861129761
+                    },
+                    {
+                        "text": "The distance Stella measures between her origin and destination appears to decrease as her speed increases.",
+                        "bleu": 0.6491461053401895,
+                        "rouge": {
+                            "rouge1": 0.07142857142857144,
+                            "rougeL": 0.07142857142857144
+                        },
+                        "bert-score": 0.4817138910293579,
+                        "cosine-similarity": 0.3461299538612366
+                    }
+                ]
+            },
+            {
+                "bleu": 0.5261352166307947,
+                "rouge": {
+                    "rouge1": 0.14035087719298245,
+                    "rougeL": 0.14035087719298245
+                },
+                "bert-score": 0.4621439278125763,
+                "cosine-similarity": 0.2844569683074951,
+                "options": [
+                    {
+                        "text": "0.3c",
+                        "bleu": 0.8408964152537145,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.29374635219573975,
+                        "cosine-similarity": 0.05000143498182297
+                    },
+                    {
+                        "text": "0.6c",
+                        "bleu": 0.8408964152537145,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.27080902457237244,
+                        "cosine-similarity": 0.007912404835224152
+                    },
+                    {
+                        "text": "0.8c",
+                        "bleu": 0.8408964152537145,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2867783308029175,
+                        "cosine-similarity": 0.05655936151742935
+                    },
+                    {
+                        "text": "1.25c",
+                        "bleu": 0.7952707287670506,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.24734309315681458,
+                        "cosine-similarity": 0.0901901125907898
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you wear sunscreen?",
+        "category": "Science & Technology",
+        "average-bleu": 0.713653776013716,
+        "average-rouge": 0.11166666666666666,
+        "average-bert-score": 0.41155251754181726,
+        "average-cosine-similarity": 0.3788012467058641,
+        "multiple-choice": [
+            {
+                "bleu": 0.7043713071646472,
+                "rouge": {
+                    "rouge1": 0.08,
+                    "rougeL": 0.08
+                },
+                "bert-score": 0.46637290716171265,
+                "cosine-similarity": 0.5852031707763672,
+                "options": [
+                    {
+                        "text": "True",
+                        "bleu": 0.9306048591020996,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.33472198247909546,
+                        "cosine-similarity": 0.12695521116256714
+                    },
+                    {
+                        "text": "False",
+                        "bleu": 0.7952707287670506,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.34038951992988586,
+                        "cosine-similarity": 0.05302156135439873
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7131252538759287,
+                "rouge": {
+                    "rouge1": 0.08333333333333334,
+                    "rougeL": 0.08333333333333334
+                },
+                "bert-score": 0.4736435115337372,
+                "cosine-similarity": 0.5845813751220703,
+                "options": [
+                    {
+                        "text": "If you have lighter skin you are more easily sunburned.",
+                        "bleu": 0.7226568811456053,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.3864907920360565,
+                        "cosine-similarity": 0.19177338480949402
+                    },
+                    {
+                        "text": "Spending more time outside can lead to more of a sunburn.",
+                        "bleu": 0.6627953568839928,
+                        "rouge": {
+                            "rouge1": 0.12500000000000003,
+                            "rougeL": 0.12500000000000003
+                        },
+                        "bert-score": 0.3366675078868866,
+                        "cosine-similarity": 0.10221314430236816
+                    },
+                    {
+                        "text": "The more times you have gotten a sunburn the less likely you are to be sunburned.",
+                        "bleu": 0.5421921872325952,
+                        "rouge": {
+                            "rouge1": 0.1,
+                            "rougeL": 0.1
+                        },
+                        "bert-score": 0.2454451471567154,
+                        "cosine-similarity": 0.05523939058184624
+                    },
+                    {
+                        "text": "Not using sunscreen can leave your skin less safe from the sun.",
+                        "bleu": 0.631196907822589,
+                        "rouge": {
+                            "rouge1": 0.125,
+                            "rougeL": 0.125
+                        },
+                        "bert-score": 0.30923423171043396,
+                        "cosine-similarity": 0.11351310461759567
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7463819494944633,
+                "rouge": {
+                    "rouge1": 0.25,
+                    "rougeL": 0.25
+                },
+                "bert-score": 0.6104560494422913,
+                "cosine-similarity": 0.7263996601104736,
+                "options": [
+                    {
+                        "text": "The skin is damaged.",
+                        "bleu": 0.668740304976422,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.41262897849082947,
+                        "cosine-similarity": 0.2182619273662567
+                    },
+                    {
+                        "text": "The body is trying to fix the sunburn as quickly as possible and sends red blood cells to that part of the skin.",
+                        "bleu": 0.5466325569645467,
+                        "rouge": {
+                            "rouge1": 0.08,
+                            "rougeL": 0.08
+                        },
+                        "bert-score": 0.3117254674434662,
+                        "cosine-similarity": 0.45245468616485596
+                    },
+                    {
+                        "text": "The skin needs to be helped right away and your body sends blood cells to help.",
+                        "bleu": 0.47436017980560385,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2741200625896454,
+                        "cosine-similarity": 0.05268295854330063
+                    },
+                    {
+                        "text": "All of the above are correct.",
+                        "bleu": 0.5124576721246791,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.29900097846984863,
+                        "cosine-similarity": 0.07184076309204102
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7553789791604315,
+                "rouge": {
+                    "rouge1": 0.07142857142857142,
+                    "rougeL": 0.07142857142857142
+                },
+                "bert-score": 0.32012635469436646,
+                "cosine-similarity": 0.43038952350616455,
+                "options": [
+                    {
+                        "text": "a lotion",
+                        "bleu": 0.8408964152537145,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.27424147725105286,
+                        "cosine-similarity": 0.06417559832334518
+                    },
+                    {
+                        "text": "a cream",
+                        "bleu": 0.8091067115702212,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.2992497980594635,
+                        "cosine-similarity": 0.029795780777931213
+                    },
+                    {
+                        "text": "a spray",
+                        "bleu": 0.7311104457090247,
+                        "rouge": {
+                            "rouge1": 0.0,
+                            "rougeL": 0.0
+                        },
+                        "bert-score": 0.31346315145492554,
+                        "cosine-similarity": -0.009239453822374344
+                    },
+                    {
+                        "text": "All of the above.",
+                        "bleu": 0.8968833070917552,
+                        "rouge": {
+                            "rouge1": 1.0,
+                            "rougeL": 1.0
+                        },
+                        "bert-score": 0.8389955163002014,
+                        "cosine-similarity": 0.9407387971878052
+                    }
+                ]
+            }
+        ]
+    }
+]
