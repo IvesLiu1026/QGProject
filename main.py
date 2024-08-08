@@ -20,13 +20,36 @@ llm = ChatOllama(
 with open(DATASET_FILE, "r", encoding="utf-8") as file:
     data = json.load(file)
 
+data = data[:100]
+
 titles = [item["title"] for item in data]
 categories = [item["category"] for item in data]
 transcripts = [item["transcript"] for item in data]
 
+# Simple Summarization Prompt Template
+simple_summary_prompt = """
+You are an expert educational content creator. Based on the following video transcript, first, provide a comprehensive summary that captures the main points, key facts, and important details. Ensure the summary is detailed and objective. Then, generate five multiple-choice questions from this summary that cover key facts and details. Ensure each question has four answer choices and one correct answer.
+
+Provide the summary followed by the questions and answers in the following format:
+Summary:
+[Your summary here]
+
+1) [Your question here]
+    - A: [Option A]
+    - B: [Option B]
+    - C: [Option C]
+    - D: [Option D]
+[Your answer here]: [Correct option]
+
+Category: {category}
+
+Transcript:
+{transcript}
+"""
+
 # Detailed Summarization Prompt Template
 detailed_summary_prompt = """
-You are an expert summarizer. Based on the following video transcript, follow these steps to provide a detailed summary that captures the main points, key facts, and important details. Ensure the summary is comprehensive and covers all significant aspects of the content.
+You are an expert educational content creator. Based on the following video transcript, first, provide a detailed summary that captures the main points, key facts, and important details. Ensure the summary is comprehensive and covers all significant aspects of the content.
 
 Step 1: Identify Main Ideas and Key Points
 - Extract the main ideas from each section of the transcript.
@@ -47,6 +70,21 @@ Step 4: Ensure Comprehensive Coverage
 Step 5: Ensure Logical Flow
 - Use transition words and phrases to connect ideas.
 - Ensure the summary flows logically from one point to the next.
+
+Once the summary is completed, generate five multiple-choice questions that cover key facts and details from the transcript. Ensure each question has four answer choices and one correct answer.
+
+Provide the summary followed by the questions and answers in the following format:
+Summary:
+[Your summary here]
+
+1) [Your question here]
+    - A: [Option A]
+    - B: [Option B]
+    - C: [Option C]
+    - D: [Option D]
+[Your answer here]: [Correct option]
+
+Category: {category}
 
 Transcript:
 {transcript}
@@ -118,7 +156,7 @@ Transcript:
 
 # Few-Shot Prompt Template
 few_shot_prompt = """
-You are an expert educational content creator. Based on the following example and the provided transcript, generate five multiple-choice questions.
+You are an expert educational content creator. Based on the following example and the provided transcript, generate "five multiple-choice questions".
 
 Example 1:
 transcipt: welcome to kids academy [Music] hello let's get started on the lesson native americans are the original\npeople who lived in the united states native americans lived in tribes and nations\nthat had their own religions traditions and languages [Music] among the famous indian\nnations there are cherokee [Music] sioux [Music] navajo [Music] iroquois [Music] and apache [Music] today there are more\nthan 500 native american tribes and nations let's take a look at the worksheet [Music]\ncan you find the names of five indian tribes or nations in the word search we're looking for\ncherokee sioux navajo [Music] iroquois and apache the words are written horizontally and vertically\nfirst let's find the name cherokee it begins with the letter c cherokee means people with another\nlanguage do you see it in the word search there it is c h e r o k e e awesome job now let's look for sue native americans of the\nsioux tribe were known as warriors and hunters can you find this name it's spelled s i o u x [Music] bounded s i o u x great work the next name\nis navajo it begins with the letter n the navajo tribe originally lived in the\nsouthwest region of the united states let's find the tribal name\nin the word search [Music] n a v a j o correct native americans of the\niroquois tribe lived in the northeast region they were known for fishing and agriculture\nagriculture is another word for farming do you see the name iroquois\nit starts with the letter i [Music] it's right here i r o q u o i s good\njob the last name that we need to find is apache the apache indians built shelters\ncalled wigwams from branches leaves and grass let's find\nthe name apache [Music] here a p a c h e excellent let's review [Music] native americans are\nthe original people who lived in the united states the five largest tribes and nations\nare cherokee sioux navajo iroquois and apache each tribe has its own unique culture\nand traditions they were known for unique skills such as hunting and fishing [Music]\nagriculture is another word for farming a wigwam is a native american shelter\nbuilt from branches leaves and grass thanks for watching goodbye [Music] subscribe\nto our channel to stay updated on new videos find links to our apps in the comments below
@@ -146,6 +184,12 @@ transcipt: welcome to kids academy [Music] hello let's get started on the lesson
     - B: A shelter built from branches, leaves, and grass.
     - C: A shelter built from mud bricks and clay.
     - D: A fishing technique that used a spear.
+
+5) What is the significance of the Navajo tribe?
+    - A: They were known for their skills in agriculture.
+    - B: They were known for their skills in hunting.
+    - C: They were known for their skills in fishing.
+    - D: They were known for their skills in warfare.
 
 Example 2:
 transcript: Human history is intertwined with some of Earth's mightiest species, but there is one graceful creature that rises above the\nrest. Only when seen it in its ideal habitat, can\nwe truly appreciate this king among birds. Behold: the nobel pigeon.\" If you think they're only good for pooping\non statues, then think again. [OPENING MUSIC] In On the Origin of Species, Charles Darwin\npresented an idea that changed the world. He knew if he was right, this idea was gonna\nturn science on its head, so in chapter 1, you know what he chose as his very first\nexample? It wasn't the tortoises, or finches, or\neven the giant fossil armadillos he found during his journeys. He chose pigeons. Over giant fossil armadillos. But he had a good reason, and if you think\notherwise, then you've never seen FANCY pigeons. These are the birds that got Darwin's attention,\nbecause underneath all that feathery fashion, is just one species, like dogs with wings\ninstead of rats with wings. All of that variation was tweaked from one\nancient mold. The wild rock dove. Thousands of years before they were eating\nold hot dog buns out of the trash, these birds were found on seaside cliffs, but pretty much\nas soon as cities sprung up, they moved in, because to a pigeon, a building is just\na cliff with better architecture. Pigeons are uniquely suited to city life,\nbut they were only able to conquer all of Earth's urban areas because we brought them\nthere. Why? Because we liked feeding them… to ourselves. In fact, from Egypt to Rome to the early 20th\ncentury, the main roles of a pigeon were dinner, or something for rich people to breed into\nsilly shapes. Over time here and there, a few of these domestic\nbirds escaped and returned to a \"wild\" life, they just never left the city. But for some reason along that journey, our opinion\nof pigeons went from this… to this. Watch pigeons pecking at the sidewalk and\nyou're not looking at the smartest birds in the tree. They can't solve puzzles like crows. They can't talk like parrots. A pigeon's brain is only about the size\nof that fingertip… but like most things in nature there's more to the story. Most of their skull is eyeball: if they were\nthe size of humans, their eyes would be as big as grapefruits… Those huge eyes have five color receptors,\ncompared to our three, letting them see things we can't imagine. One pigeon named Linus was trained to remember\nnearly a thousand images. Pigeons can peck out a Monet from a Picasso,\nthey can even judge if a child's drawing is good or bad. Pigeons can tell correctly spelled words among\nmisspelled words, As if they aren't annoying enough.. They can even put groups of objects in numerical\norder, which sounds easy because we're smart, but pigeons do numbers as well as monkeys\ndo, Pigeon vision is the bomb. Literally. During WW II, psychologist B.F. Skinner tried\nto turn these birds into weapons. He trained pigeons to keep an image centered\non a tiny screen by pecking at it. He hooked this up to a navigation system,\nand then loaded it inside of a bomb. He wanted to create explosive missiles piloted\nby kamikaze pigeons. He built several successful prototypes using\nmoney from the General Mills cereal company… yes, the people who make Cheerios, but the\nArmy never let it get off the ground. Pigeon navigation goes a lot farther than\nbird bombs. Just like /human/ city-dwellers, pigeons are\ncommuters, flying out in the morning to find food and coming back at night. They're tightly bonded to their home, and\nthis instinct is so strong that we've used them as messengers for centuries, like Flapchat\ninstead of Snapchat. Before Paul Reuter founded a global news service,\nhe used pigeons to deliver news. During World War I and II, racing pigeons\nwith names like Cher Ami and GI Joe were given actual medals for delivering messages under\nfire. How are pigeons so good at finding their way\nhome from places they've never been? Different experiments have found pigeons use\nvisual maps, Earth's magnetic field, the angle of the sun, even smells to navigate. But when scientists knock each of these senses\nout, some birds can still find their way home. What we do know is pigeons use a lot of senses,\nmaybe even some we don't know about yet. Even though pigeons are everywhere, there's\none thing you never seem to see: Baby pigeons. They do exist, and… they are ugly. But it's a reminder that even a bird that's\neverywhere only gives us glimpses into its life. Darwin's ideas about natural selection were\nborn on a voyage around the world. But you don't have to go to exotic places\nto have your mind blown by evolution's awesomeness. Darwin knew that, and that's why he picked\nthe pigeon to introduce the world to his theory. If you know where to look, wildlife is everywhere that\nwe are: just make sure if you look up to admire it, you keep your mouth closed. Stay curious. I want to thank our friends from BBC Earth\nfor helping us make this episode, because pigeons look awesome in slow-motion. Some of pigeons' oldest enemies have followed\nthem to cities: birds of prey. These scientists are studying peregrine falcons\nfor Planet Earth II, the sequel to the groundbreaking BBC series. It's part of \"Cities\", an entire episode\ndedicated to urban wildlife. Of course, birds of prey aren't pigeons'\nonly urban predators. For Planet Earth II, the team filmed a pigeon\nhunt you have to see to believe. You can find Planet Earth II on BBC One in\nthe UK and coming soon to BBC America. For more information, check out their website.
@@ -213,24 +257,6 @@ transcipt: As your morning alarm blares,\nyou mutter to yourself, \"Why did I se
     - C: Emotional regulation
     - D: Perception of time
 
-6) Speaking directly to yourself, as if in conversation with another person, is known as what?
-    - A: Distanced self-talk
-    - B: Stressed self-talk
-    - C: Negative self-talk
-
-7) Which of the following therapies is partially focused on regulating the tone of self-talk?
-    - A: Exposure Therapy
-    - B: Cognitive Behavioral Therapy
-    - C: Self-Talk Therapy
-    - D: Distanced Therapy
-
-8) Which form of self-talk is often predictive of anxiety in children and adults?
-    - A: Motivational self-talk
-    - B: Instructional self-talk
-    - C: Negative self-talk
-    - D: Manipulative self-talk
-
-
 Provide the questions and answers in the following format:
 1) [Your question here]
     - A: [Option A]
@@ -238,6 +264,8 @@ Provide the questions and answers in the following format:
     - C: [Option C]
     - D: [Option D]
 [Your answer here]: [Correct option]
+
+Ensure generating five multiple-choice questions.
 
 Category: {category}
 
@@ -268,6 +296,8 @@ Category: {category}
 Transcript:
 {transcript}
 """
+
+# def generate_simple_summary()
 
 # Function to generate detailed summary
 def generate_detailed_summary(transcript):
@@ -320,11 +350,12 @@ def parse_questions(generated_output):
 
 # Different prompt templates
 prompts = [
-    ("zero_shot", zero_shot_prompt),
-    ("one_shot", one_shot_prompt),
-    ("few_shot", few_shot_prompt),
-    ("purpose_driven", purpose_driven_prompt),
-    ("detailed_summary", detailed_summary_prompt)
+    # ("zero_shot", zero_shot_prompt),
+    # ("one_shot", one_shot_prompt),
+    # ("few_shot", few_shot_prompt),
+    # ("purpose_driven", purpose_driven_prompt),
+    # ("detailed_summary", detailed_summary_prompt),
+    ("simple_summary", simple_summary_prompt)
 ]
 
 # Process each transcript to generate questions
@@ -332,10 +363,10 @@ for prompt_name, prompt in prompts:
     all_questions = []
     total_videos = len(titles)
     for idx, (title, category, transcript) in enumerate(zip(titles, categories, transcripts)):
-        if prompt_name == "detailed_summary":
-            text = generate_detailed_summary(transcript)
-        else:
-            text = transcript
+        # if prompt_name == "detailed_summary":
+        #     text = generate_detailed_summary(transcript)
+        # else:
+        text = transcript
         generated_output = generate_questions(prompt, category, text)
         questions = parse_questions(generated_output)
         all_questions.append({
