@@ -6,7 +6,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 # File paths
 DATASET_FILE = "dataset/dataset.json"
-OUTPUT_FILE_TEMPLATE = "results/generate_all_{}.json"
+OUTPUT_FILE_TEMPLATE = "results/0808/generate_all_{}.json"
 
 # Initialize LLM
 llm = ChatOllama(
