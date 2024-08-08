@@ -1,4 +1,5 @@
 import json
+import csv
 from rouge_score import rouge_scorer
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -111,10 +112,27 @@ def save_to_json(data, file_path):
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
+def save_to_csv(data, file_path):
+    with open(file_path, 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(['Title', 'Category', 'Questions Average ROUGE-1', 'Questions Average ROUGE-2', 'Questions Average ROUGE-L', 'Options Average ROUGE-1', 'Options Average ROUGE-2', 'Options Average ROUGE-L'])
+        for item in data:
+            writer.writerow([
+                item['title'], 
+                item['category'], 
+                item['questions-average-rouge1'], 
+                item['questions-average-rouge2'], 
+                item['questions-average-rougeL'], 
+                item['options-average-rouge1'], 
+                item['options-average-rouge2'], 
+                item['options-average-rougeL']
+            ])
+
 def main():
     original_file_path = '../dataset/dataset.json'
-    generated_file_path = '../results/dolphin-llama3-generated.json'
-    output_file_path = 'rouge_score.json'
+    generated_file_path = '../results/0802/gemma2_9b/generate_self_consistency.json'
+    output_json_file_path = '0802/gemma2_9b/rouge/sc_rouge.json'
+    output_csv_file_path = '0802/gemma2_9b/rouge/sc_rouge.csv'
     
     original_data = load_json(original_file_path)
     generated_data = load_json(generated_file_path)
@@ -124,8 +142,9 @@ def main():
     
     evaluated_data = evaluate_questions(original_questions, generated_questions)
     
-    save_to_json(evaluated_data, output_file_path)
-    print(f"ROUGE evaluation results saved to {output_file_path}")
+    save_to_json(evaluated_data, output_json_file_path)
+    save_to_csv(evaluated_data, output_csv_file_path)
+    print(f"ROUGE evaluation results saved to {output_json_file_path} and {output_csv_file_path}")
 
 if __name__ == "__main__":
     main()

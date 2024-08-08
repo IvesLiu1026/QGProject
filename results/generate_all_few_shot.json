@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "multiple-choice": [
+            {
+                "question": "What is the main theme of this video lesson?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Education"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Technology"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Healthcare"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Environment"
+                    }
+                ]
+            },
+            {
+                "question": "Which group of people does this video lesson focus on?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "African Americans"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Asian Americans"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Native Americans"
+                    },
+                    {
+                        "label": "D",
+                        "text": "European Americans"
+                    }
+                ]
+            },
+            {
+                "question": "What type of shelter is discussed in the video lesson?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Teepee"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Igloo"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Log cabin"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Wigwam"
+                    }
+                ]
+            },
+            {
+                "question": "How many Native American tribes and nations are there today?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "100"
+                    },
+                    {
+                        "label": "B",
+                        "text": "200"
+                    },
+                    {
+                        "label": "C",
+                        "text": "500"
+                    },
+                    {
+                        "label": "D",
+                        "text": "1,000"
+                    }
+                ]
+            },
+            {
+                "question": "What unique skills do the video lesson mention that Native Americans have developed?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Cooking exotic dishes"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Building complex machinery"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Hunting, fishing, and agriculture"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Performing intricate dance routines"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "What is the main theme of the text?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Education"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Technology"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Healthcare"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Environment"
+                    }
+                ]
+            },
+            {
+                "question": "Which factor is highlighted as a key challenge?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Economic instability"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Political unrest"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Technological advancements"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Social inequality"
+                    }
+                ]
+            },
+            {
+                "question": "What role do pigeons play in Charles Darwin's theory of evolution?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They are an example of natural selection at work."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They are a direct result of genetic mutation."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They are the primary driving force behind evolution."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They have no significant role in the theory."
+                    }
+                ]
+            },
+            {
+                "question": "What unique abilities do pigeons possess?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Flight and strong beak"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Navigation, visual acuity, and cognitive skills"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Mimicking human speech and swimming underwater"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Producing electricity and controlling weather patterns"
+                    }
+                ]
+            },
+            {
+                "question": "How have humans influenced the adaptation of pigeons to city life?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "By providing them with natural habitats within cities."
+                    },
+                    {
+                        "label": "B",
+                        "text": "By selectively breeding pigeons for specific traits."
+                    },
+                    {
+                        "label": "C",
+                        "text": "By feeding them regularly, which has led to increased trust and interaction between humans and pigeons."
+                    },
+                    {
+                        "label": "D",
+                        "text": "By introducing new predators into urban environments that pigeons have learned to evade."
+                    }
+                ]
+            }
+        ]
+    }
+]

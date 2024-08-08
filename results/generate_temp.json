@@ -1,0 +1,128 @@
+[
+    {
+        "title": "The surprising origins of the word \u201clesbian\u201d - Diane J. Rayor",
+        "category": "Literature & Language",
+        "multiple-choice": [
+            {
+                "question": "Who is credited as the first ancient Greek poet to combine the words \"bitter\" and \"sweet\" in her lyrics?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Homer"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Sappho"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Aeschylus"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Euripides"
+                    }
+                ],
+                "distractor_option": null,
+                "correct_option": "B"
+            },
+            {
+                "question": "In which location did Sappho live during the 6th century BCE?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Sparta"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Athens"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Lesbos"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Corinth"
+                    }
+                ],
+                "distractor_option": null,
+                "correct_option": "C"
+            },
+            {
+                "question": "What instrument did Sappho primarily play while performing her songs?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Lute"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Lyre"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Flute"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Violin"
+                    }
+                ],
+                "distractor_option": null,
+                "correct_option": "B"
+            },
+            {
+                "question": "What term is derived from the stringed instrument Sappho played?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Symphony"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Lyrical"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Lyric"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Ballad"
+                    }
+                ],
+                "distractor_option": null,
+                "correct_option": "C"
+            },
+            {
+                "question": "What was the primary subject matter of Sappho's lyrics?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Political intrigue"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Religious rituals"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Love and desire"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Historical events"
+                    }
+                ],
+                "distractor_option": null,
+                "correct_option": "C"
+            }
+        ]
+    },
+    {
+        "title": "Why I'm done trying to be \"man enough\" - Justin Baldoni",
+        "category": "Psychology",
+        "multiple-choice": []
+    }
+]

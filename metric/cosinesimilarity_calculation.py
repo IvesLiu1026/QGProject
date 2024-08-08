@@ -97,7 +97,7 @@ def save_to_json(data, file_path):
 
 def main():
     original_file_path = '../dataset/dataset.json'
-    generated_file_path = '../results/dolphin-llama3-generated.json'
+    generated_file_path = '../generate10.json'
     output_file_path = 'cosine_similarity_score.json'
     
     original_data = load_json(original_file_path)

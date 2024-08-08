@@ -1,0 +1,3088 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is it normal to talk to yourself?",
+        "category": "Psychology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How tall can a tree grow? - Valentin Hammoudi",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the dark matter fuel riddle? - Daniel Finkel",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0.34135042735042737,
+        "questions-average-rouge2": 0.11617391304347827,
+        "questions-average-rougeL": 0.2951965811965812,
+        "options-average-rouge1": 0.0495970695970696,
+        "options-average-rouge2": 0.02,
+        "options-average-rougeL": 0.0495970695970696,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.30769230769230765,
+                    "rouge2": 0.0,
+                    "rougeL": 0.23076923076923075
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.5714285714285715,
+                        "rouge2": 0.4,
+                        "rougeL": 0.5714285714285715
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.25,
+                    "rouge2": 0.0,
+                    "rougeL": 0.25
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3846153846153846,
+                    "rouge2": 0.0,
+                    "rougeL": 0.23076923076923075
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.26666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.26666666666666666
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.15384615384615383,
+                        "rouge2": 0,
+                        "rougeL": 0.15384615384615383
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.4444444444444445,
+                    "rouge2": 0.32,
+                    "rougeL": 0.4444444444444445
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.32,
+                    "rouge2": 0.2608695652173913,
+                    "rougeL": 0.32
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read Toni Morrison's \"Beloved\"? - Yen Pham",
+        "category": "Literature",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you outsmart this logical fallacy? - Alex Gendler",
+        "category": "Thinking & Learning",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Einstein's twin paradox explained - Amber Stuver",
+        "category": "Mathematics",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you wear sunscreen?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The surprisingly long history of electric cars - Daniel Sperling and Gil Tal",
+        "category": "Design, Engineering & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Food waste causes climate change. Here's how we stop it",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0.5066381766381766,
+        "questions-average-rouge2": 0.14718548118548117,
+        "questions-average-rougeL": 0.41786731786731784,
+        "options-average-rouge1": 0.08765984015984016,
+        "options-average-rouge2": 0.01111111111111111,
+        "options-average-rougeL": 0.08765984015984016,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.5,
+                    "rouge2": 0.07692307692307691,
+                    "rougeL": 0.35714285714285715
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.25,
+                        "rouge2": 0,
+                        "rougeL": 0.25
+                    },
+                    {
+                        "rouge1": 0.2,
+                        "rouge2": 0,
+                        "rougeL": 0.2
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.3636363636363636,
+                        "rouge2": 0.2222222222222222,
+                        "rougeL": 0.3636363636363636
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.41666666666666663,
+                    "rouge2": 0.09090909090909093,
+                    "rougeL": 0.3333333333333333
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.8461538461538461,
+                    "rouge2": 0.41666666666666663,
+                    "rougeL": 0.7692307692307692
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.4,
+                    "rouge2": 0.07142857142857142,
+                    "rougeL": 0.33333333333333337
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.28571428571428575,
+                        "rouge2": 0,
+                        "rougeL": 0.28571428571428575
+                    },
+                    {
+                        "rouge1": 0.15384615384615383,
+                        "rouge2": 0,
+                        "rougeL": 0.15384615384615383
+                    },
+                    {
+                        "rouge1": 0.16666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666666
+                    },
+                    {
+                        "rouge1": 0.3333333333333333,
+                        "rouge2": 0,
+                        "rougeL": 0.3333333333333333
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3703703703703704,
+                    "rouge2": 0.08,
+                    "rougeL": 0.29629629629629634
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How do self-driving cars \"see\"? - Sajan Saini",
+        "category": "Design, Engineering & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is meningitis so dangerous? - Melvin Sanicas",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is phantom traffic and why is it ruining your life? - Benjamin Seibold",
+        "category": "Design, Engineering & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The race to decode a mysterious language - Susan Lupack",
+        "category": "Linguistics",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What if all the ice melted on Earth?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why are you always tired?",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The life, legacy & assassination of an African revolutionary - Lisa Janae Bacon",
+        "category": "History",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "I Like Myself - Children's books read aloud",
+        "category": "Literature",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is schizophrenia? - Anees Bahji",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How do pelicans survive their death-defying dives?",
+        "category": "Environmental Science",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The truth about electroconvulsive therapy (ECT) - Helen M. Farrell",
+        "category": "Health",
+        "questions-average-rouge1": 0.41344537815126053,
+        "questions-average-rouge2": 0.10526315789473684,
+        "questions-average-rougeL": 0.41344537815126053,
+        "options-average-rouge1": 0.17023809523809524,
+        "options-average-rouge2": 0.03428571428571429,
+        "options-average-rougeL": 0.17023809523809524,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.33333333333333337,
+                    "rouge2": 0.0,
+                    "rougeL": 0.33333333333333337
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.28571428571428575,
+                    "rouge2": 0.0,
+                    "rougeL": 0.28571428571428575
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.761904761904762,
+                    "rouge2": 0.5263157894736842,
+                    "rougeL": 0.761904761904762
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 0.5714285714285715,
+                        "rouge2": 0.4,
+                        "rougeL": 0.5714285714285715
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.35294117647058826,
+                    "rouge2": 0.0,
+                    "rougeL": 0.35294117647058826
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.4444444444444445,
+                        "rouge2": 0.2857142857142857,
+                        "rougeL": 0.4444444444444445
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3333333333333333,
+                    "rouge2": 0.0,
+                    "rougeL": 0.3333333333333333
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.2222222222222222,
+                        "rouge2": 0,
+                        "rougeL": 0.2222222222222222
+                    },
+                    {
+                        "rouge1": 0.16666666666666669,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666669
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What is imposter syndrome and how can you combat it? - Elizabeth Cox",
+        "category": "Psychology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Fabulous food chains",
+        "category": "Environmental Science",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How An Igloo Keeps You Warm",
+        "category": "Design, Engineering & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Infinity according to Jorge Luis Borges - Ilan Stavans",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Volcanic eruption explained - Steven Anderson",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The strange history of the world's most stolen painting - Noah Charney",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0.3663095238095238,
+        "questions-average-rouge2": 0.13626373626373625,
+        "questions-average-rougeL": 0.3253095238095239,
+        "options-average-rouge1": 0.24821969696969698,
+        "options-average-rouge2": 0.01769230769230769,
+        "options-average-rougeL": 0.24821969696969698,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.5,
+                    "rouge2": 0.3846153846153846,
+                    "rougeL": 0.5
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.33333333333333337,
+                    "rouge2": 0.14285714285714285,
+                    "rougeL": 0.33333333333333337
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.31250000000000006,
+                    "rouge2": 0.0,
+                    "rougeL": 0.1875
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.4,
+                    "rouge2": 0.0,
+                    "rougeL": 0.32
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.125,
+                        "rouge2": 0,
+                        "rougeL": 0.125
+                    },
+                    {
+                        "rouge1": 0.16666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666666
+                    },
+                    {
+                        "rouge1": 0.39999999999999997,
+                        "rouge2": 0.15384615384615383,
+                        "rougeL": 0.39999999999999997
+                    },
+                    {
+                        "rouge1": 0.2727272727272727,
+                        "rouge2": 0.2,
+                        "rougeL": 0.2727272727272727
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.2857142857142857,
+                    "rouge2": 0.15384615384615383,
+                    "rougeL": 0.2857142857142857
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read \"The God of Small Things\" by Arundhati Roy? - Laura Wright",
+        "category": "Literature",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Performing brain surgery without a scalpel - Hyunsoo Joshua No",
+        "category": "Design, Engineering & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How this disease changes the shape of your cells - Amber M. Yates",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The counting by fives song | Counting songs",
+        "category": "Numbers & Operations",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we have leap years?",
+        "category": "Teaching & Education",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is binge watching bad for you?",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Meet the microscopic life in your home--- and on your face - Anne Madden",
+        "category": "Design, Engineering & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we wrinkle when wet?",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "3D shapes song | Shapes for kids",
+        "category": "Geometry",
+        "questions-average-rouge1": 0.41455599783773156,
+        "questions-average-rouge2": 0.09872549019607843,
+        "questions-average-rougeL": 0.30400511081625636,
+        "options-average-rouge1": 0.3,
+        "options-average-rouge2": 0.1,
+        "options-average-rougeL": 0.3,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.2857142857142857,
+                    "rouge2": 0.0,
+                    "rougeL": 0.1904761904761905
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.33333333333333326,
+                    "rouge2": 0.0,
+                    "rougeL": 0.22222222222222224
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.4444444444444445,
+                    "rouge2": 0.125,
+                    "rougeL": 0.33333333333333326
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.4210526315789474,
+                    "rouge2": 0.23529411764705882,
+                    "rougeL": 0.4210526315789474
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 1.0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 1.0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.5882352941176471,
+                    "rouge2": 0.13333333333333333,
+                    "rougeL": 0.35294117647058826
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The most common STI in the world - Emma Bryce",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Who was the world's first author? - Soraya Field Fiorio",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Harvey Milk's radical vision of equality - Lillian Faderman",
+        "category": "Social Studies",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is human evolution speeding up or slowing down? - Laurence Hurst",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0.3289331282752336,
+        "questions-average-rouge2": 0.10241463874740615,
+        "questions-average-rougeL": 0.2606117566643883,
+        "options-average-rouge1": 0.09281217750257997,
+        "options-average-rouge2": 0.007692307692307691,
+        "options-average-rougeL": 0.07670106639146887,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.5,
+                    "rouge2": 0.2222222222222222,
+                    "rougeL": 0.5
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.10526315789473685,
+                        "rouge2": 0,
+                        "rougeL": 0.10526315789473685
+                    },
+                    {
+                        "rouge1": 0.3,
+                        "rouge2": 0,
+                        "rougeL": 0.20000000000000004
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.11764705882352941,
+                        "rouge2": 0,
+                        "rougeL": 0.11764705882352941
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3684210526315789,
+                    "rouge2": 0.05555555555555555,
+                    "rougeL": 0.21052631578947367
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.30303030303030304,
+                    "rouge2": 0.12903225806451615,
+                    "rougeL": 0.18181818181818185
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.2,
+                        "rouge2": 0,
+                        "rougeL": 0.2
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.2222222222222222,
+                        "rouge2": 0,
+                        "rougeL": 0.2222222222222222
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.18749999999999997,
+                    "rouge2": 0.0,
+                    "rougeL": 0.125
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.28571428571428575,
+                    "rouge2": 0.10526315789473682,
+                    "rougeL": 0.28571428571428575
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.26666666666666666,
+                        "rouge2": 0.15384615384615383,
+                        "rougeL": 0.26666666666666666
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.4444444444444445,
+                        "rouge2": 0,
+                        "rougeL": 0.22222222222222224
+                    },
+                    {
+                        "rouge1": 0.2,
+                        "rouge2": 0,
+                        "rougeL": 0.2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The surprising similarities between Twister and intelligence",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why beavers are the smartest thing in fur pants",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why we should draw more (and photograph less)",
+        "category": "Physical Fitness",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The history of manners",
+        "category": "Psychology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the multiplying rabbits riddle? - Alex Gendler",
+        "category": "Mathematics",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Art with Mati and Dada \u2013 Henri Matisse",
+        "category": "Visual Arts",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why don't haircuts hurt?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "An Exercise in Self Compassion",
+        "category": "Emotional Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The secret language of trees - Camille Defrenne and Suzanne Simard",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The myth of the Sampo--- an infinite source of fortune and greed - Hanna-Ilona H\u00e4rm\u00e4vaara",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why some people don't have an inner monologue",
+        "category": "Psychology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you survive nuclear fallout? - Brooke Buddemeier and Jessica S. Wieder",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The rise and fall of the Lakota Empire - Pekka H\u00e4m\u00e4l\u00e4inen",
+        "category": "History",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Climate change will displace millions. Here's how we prepare - Colette Pichon Battle",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The counting by tens song | Counting songs",
+        "category": "Numbers & Operations",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Licking bees and pulping trees: The reign of a wasp queen - Kenny Coogan",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The physics of surfing - Nick Pizzo",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do these deadly insects look like flowers?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Better know the Mona Lisa",
+        "category": "Visual Arts",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "SH | fun phonics | how to read",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0.2842063492063492,
+        "questions-average-rouge2": 0.08160818713450294,
+        "questions-average-rougeL": 0.23698412698412694,
+        "options-average-rouge1": 0.0,
+        "options-average-rouge2": 0.0,
+        "options-average-rougeL": 0.0,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.375,
+                    "rouge2": 0.06666666666666667,
+                    "rougeL": 0.25
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.2222222222222222,
+                    "rouge2": 0.0,
+                    "rougeL": 0.2222222222222222
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3,
+                    "rouge2": 0.11111111111111112,
+                    "rougeL": 0.3
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.1904761904761905,
+                    "rouge2": 0.10526315789473685,
+                    "rougeL": 0.1904761904761905
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3333333333333333,
+                    "rouge2": 0.125,
+                    "rougeL": 0.2222222222222222
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What makes neon signs glow? A 360 degree animation - Michael Lipman",
+        "category": "Design, Engineering & Technology",
+        "questions-average-rouge1": 0.3062722462722463,
+        "questions-average-rouge2": 0.09827505827505827,
+        "questions-average-rougeL": 0.25717171717171716,
+        "options-average-rouge1": 0.2125,
+        "options-average-rouge2": 0.01666666666666667,
+        "options-average-rougeL": 0.2125,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.2857142857142857,
+                    "rouge2": 0.060606060606060615,
+                    "rougeL": 0.17142857142857143
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.36363636363636365,
+                    "rouge2": 0.2,
+                    "rougeL": 0.36363636363636365
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.25,
+                        "rouge2": 0,
+                        "rougeL": 0.25
+                    },
+                    {
+                        "rouge1": 0.25,
+                        "rouge2": 0,
+                        "rougeL": 0.25
+                    },
+                    {
+                        "rouge1": 0.5,
+                        "rouge2": 0.33333333333333337,
+                        "rougeL": 0.5
+                    },
+                    {
+                        "rouge1": 0.25,
+                        "rouge2": 0,
+                        "rougeL": 0.25
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.29629629629629634,
+                    "rouge2": 0.0,
+                    "rougeL": 0.22222222222222224
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.35714285714285715,
+                    "rouge2": 0.23076923076923075,
+                    "rougeL": 0.35714285714285715
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.22857142857142854,
+                    "rouge2": 0.0,
+                    "rougeL": 0.17142857142857143
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Prohibition: Banning alcohol was a bad idea... - Rod Phillips",
+        "category": "Social Studies",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne",
+        "category": "Health",
+        "questions-average-rouge1": 0.32956105679217806,
+        "questions-average-rouge2": 0.0,
+        "questions-average-rougeL": 0.14882463074682753,
+        "options-average-rouge1": 0.04086691086691087,
+        "options-average-rouge2": 0.0,
+        "options-average-rougeL": 0.04086691086691087,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.3157894736842105,
+                    "rouge2": 0.0,
+                    "rougeL": 0.2105263157894737
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.1111111111111111,
+                        "rouge2": 0,
+                        "rougeL": 0.1111111111111111
+                    },
+                    {
+                        "rouge1": 0.14285714285714285,
+                        "rouge2": 0,
+                        "rougeL": 0.14285714285714285
+                    },
+                    {
+                        "rouge1": 0.14285714285714285,
+                        "rouge2": 0,
+                        "rougeL": 0.14285714285714285
+                    },
+                    {
+                        "rouge1": 0.13333333333333333,
+                        "rouge2": 0,
+                        "rougeL": 0.13333333333333333
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3636363636363636,
+                    "rouge2": 0.0,
+                    "rougeL": 0.1818181818181818
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.15384615384615385,
+                        "rouge2": 0,
+                        "rougeL": 0.15384615384615385
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.2727272727272727,
+                    "rouge2": 0.0,
+                    "rougeL": 0.0909090909090909
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.34782608695652173,
+                    "rouge2": 0.0,
+                    "rougeL": 0.08695652173913043
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.13333333333333333,
+                        "rouge2": 0,
+                        "rougeL": 0.13333333333333333
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.34782608695652173,
+                    "rouge2": 0.0,
+                    "rougeL": 0.17391304347826086
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The science of Flint's water crisis",
+        "category": "Public Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How bones make blood - Melody Smith",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How soap kills the coronavirus",
+        "category": "Public Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What makes TB the world's most infectious killer? - Melvin Sanicas",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The world's ugliest animal",
+        "category": "Environmental Science",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is this painting so shocking? - Iseult Gillespie",
+        "category": "The Arts",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The imaginary king who changed the real world - Matteo Salvadore",
+        "category": "Social Studies",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What happens when you lose a balloon?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0.3812371838687628,
+        "questions-average-rouge2": 0.07315347191508181,
+        "questions-average-rougeL": 0.3229551150603782,
+        "options-average-rouge1": 0.195404567228736,
+        "options-average-rouge2": 0.03454545454545454,
+        "options-average-rougeL": 0.182904567228736,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.47619047619047616,
+                    "rouge2": 0.0,
+                    "rougeL": 0.380952380952381
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.14285714285714288,
+                        "rouge2": 0,
+                        "rougeL": 0.14285714285714288
+                    },
+                    {
+                        "rouge1": 0.16666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666666
+                    },
+                    {
+                        "rouge1": 0.18181818181818182,
+                        "rouge2": 0,
+                        "rougeL": 0.18181818181818182
+                    },
+                    {
+                        "rouge1": 0.16666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666666
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.5263157894736842,
+                    "rouge2": 0.11764705882352941,
+                    "rougeL": 0.4210526315789474
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.23529411764705882,
+                        "rouge2": 0.09523809523809522,
+                        "rougeL": 0.23529411764705882
+                    },
+                    {
+                        "rouge1": 0.26086956521739124,
+                        "rouge2": 0.09523809523809522,
+                        "rougeL": 0.26086956521739124
+                    },
+                    {
+                        "rouge1": 0.1818181818181818,
+                        "rouge2": 0,
+                        "rougeL": 0.1818181818181818
+                    },
+                    {
+                        "rouge1": 0.13333333333333333,
+                        "rouge2": 0,
+                        "rougeL": 0.13333333333333333
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.2727272727272727,
+                    "rouge2": 0.0,
+                    "rougeL": 0.1818181818181818
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.26666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.26666666666666666
+                    },
+                    {
+                        "rouge1": 0.2727272727272727,
+                        "rouge2": 0.1,
+                        "rougeL": 0.2727272727272727
+                    },
+                    {
+                        "rouge1": 0.16,
+                        "rouge2": 0,
+                        "rougeL": 0.16
+                    },
+                    {
+                        "rouge1": 0.28571428571428575,
+                        "rouge2": 0.16666666666666666,
+                        "rougeL": 0.28571428571428575
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.25,
+                    "rouge2": 0.14285714285714285,
+                    "rougeL": 0.25
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.25,
+                        "rouge2": 0,
+                        "rougeL": 0.125
+                    },
+                    {
+                        "rouge1": 0.125,
+                        "rouge2": 0,
+                        "rougeL": 0.125
+                    },
+                    {
+                        "rouge1": 0.25,
+                        "rouge2": 0,
+                        "rougeL": 0.125
+                    },
+                    {
+                        "rouge1": 0.28571428571428575,
+                        "rouge2": 0.14285714285714285,
+                        "rougeL": 0.28571428571428575
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.380952380952381,
+                    "rouge2": 0.10526315789473685,
+                    "rougeL": 0.380952380952381
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.22222222222222224,
+                        "rouge2": 0.09090909090909091,
+                        "rougeL": 0.22222222222222224
+                    },
+                    {
+                        "rouge1": 0.09090909090909091,
+                        "rouge2": 0,
+                        "rougeL": 0.09090909090909091
+                    },
+                    {
+                        "rouge1": 0.08695652173913043,
+                        "rouge2": 0,
+                        "rougeL": 0.08695652173913043
+                    },
+                    {
+                        "rouge1": 0.14285714285714288,
+                        "rouge2": 0,
+                        "rougeL": 0.14285714285714288
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The quest for the perfect apple",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "3 bizarre (and delightful) ancient theories about bird migration - Lucy Cooke",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why perfect grades don't matter",
+        "category": "Teaching & Education",
+        "questions-average-rouge1": 0.22134646962233168,
+        "questions-average-rouge2": 0.01785714285714286,
+        "questions-average-rougeL": 0.22134646962233168,
+        "options-average-rouge1": 0.0,
+        "options-average-rouge2": 0.0,
+        "options-average-rougeL": 0.0,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.14285714285714288,
+                    "rouge2": 0.0,
+                    "rougeL": 0.14285714285714288
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.06896551724137931,
+                    "rouge2": 0.0,
+                    "rougeL": 0.06896551724137931
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.4666666666666667,
+                    "rouge2": 0.07142857142857144,
+                    "rougeL": 0.4666666666666667
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.20689655172413793,
+                    "rouge2": 0.0,
+                    "rougeL": 0.20689655172413793
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you trust your ears? (audio illusions)",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is my leg asleep?",
+        "category": "Health",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why don't we throw trash in volcanoes?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is life meaningless? And other absurd questions - Nina Medvinskaya",
+        "category": "Philosophy",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you read \"Moby Dick\"? - Sascha Morrell",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do American schools have such long hours?",
+        "category": "Teaching & Education",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Here Comes Teacher Cat - Read aloud picture book",
+        "category": "Literature",
+        "questions-average-rouge1": 0.3636047811837285,
+        "questions-average-rouge2": 0.05375494071146245,
+        "questions-average-rougeL": 0.2594532485058801,
+        "options-average-rouge1": 0.18269230769230765,
+        "options-average-rouge2": 0.0,
+        "options-average-rougeL": 0.18269230769230765,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.32,
+                    "rouge2": 0.08695652173913043,
+                    "rougeL": 0.16
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 1.0,
+                        "rouge2": 0,
+                        "rougeL": 1.0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.380952380952381,
+                    "rouge2": 0.0,
+                    "rougeL": 0.28571428571428564
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3157894736842105,
+                    "rouge2": 0.0,
+                    "rougeL": 0.2105263157894737
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.38461538461538464,
+                    "rouge2": 0.0,
+                    "rougeL": 0.3076923076923077
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.41666666666666663,
+                    "rouge2": 0.1818181818181818,
+                    "rougeL": 0.33333333333333337
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.16666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666666
+                    },
+                    {
+                        "rouge1": 0.15384615384615383,
+                        "rouge2": 0,
+                        "rougeL": 0.15384615384615383
+                    },
+                    {
+                        "rouge1": 0.16666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666666
+                    },
+                    {
+                        "rouge1": 0.16666666666666666,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666666
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What happens when nature goes viral?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The myth of Loki and the master builder - Alex Gendler",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How Thor got his hammer - Scott A. Mellor",
+        "category": "Social Studies",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Helping others makes us happier--- but it matters how we do it - Elizabeth Dunn",
+        "category": "Psychology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is Juneteenth, and why is it important? - Karlos K. Hill and Soraya Field Fiorio",
+        "category": "Social Studies",
+        "questions-average-rouge1": 0.29618983957219247,
+        "questions-average-rouge2": 0.11655667701863356,
+        "questions-average-rougeL": 0.22934491978609628,
+        "options-average-rouge1": 0.10014014655365275,
+        "options-average-rouge2": 0.005208333333333333,
+        "options-average-rougeL": 0.09014014655365275,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.18181818181818185,
+                    "rouge2": 0.0,
+                    "rougeL": 0.09090909090909093
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.2,
+                        "rouge2": 0,
+                        "rougeL": 0.2
+                    },
+                    {
+                        "rouge1": 0.09090909090909091,
+                        "rouge2": 0,
+                        "rougeL": 0.09090909090909091
+                    },
+                    {
+                        "rouge1": 0.15384615384615383,
+                        "rouge2": 0.08333333333333333,
+                        "rougeL": 0.15384615384615383
+                    },
+                    {
+                        "rouge1": 0.32,
+                        "rouge2": 0,
+                        "rougeL": 0.16
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.25,
+                    "rouge2": 0.14285714285714288,
+                    "rougeL": 0.25
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.11764705882352941,
+                        "rouge2": 0,
+                        "rougeL": 0.11764705882352941
+                    },
+                    {
+                        "rouge1": 0.13333333333333333,
+                        "rouge2": 0,
+                        "rougeL": 0.13333333333333333
+                    },
+                    {
+                        "rouge1": 0.11764705882352941,
+                        "rouge2": 0,
+                        "rougeL": 0.11764705882352941
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.39999999999999997,
+                    "rouge2": 0.26086956521739135,
+                    "rougeL": 0.39999999999999997
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.125,
+                        "rouge2": 0,
+                        "rougeL": 0.125
+                    },
+                    {
+                        "rouge1": 0.13333333333333333,
+                        "rouge2": 0,
+                        "rougeL": 0.13333333333333333
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.2105263157894737,
+                        "rouge2": 0,
+                        "rougeL": 0.2105263157894737
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.3529411764705882,
+                    "rouge2": 0.06250000000000001,
+                    "rougeL": 0.1764705882352941
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read Sylvia Plath? - Iseult Gillespie",
+        "category": "Literature & Language",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "There may be extraterrestrial life in our solar system - Augusto Carballido",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The Princess and the Pea - Read aloud picture book",
+        "category": "Literature",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the secret sauce riddle? - Alex Gendler",
+        "category": "Problem Solving",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The secret society of the Great Dismal Swamp - Dan Sayers",
+        "category": "Social Studies",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why parrots can talk like humans",
+        "category": "Life Sciences",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Your brain hallucinates your conscious reality - Anil Seth",
+        "category": "Consciousness, Sensation and Perception",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the Ragnarok riddle? - Dan Finkel",
+        "category": "Thinking & Learning",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is depression? - Helen M. Farrell",
+        "category": "Psychology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why does smoke follow you around a fire?",
+        "category": "Science & Technology",
+        "questions-average-rouge1": 0,
+        "questions-average-rouge2": 0,
+        "questions-average-rougeL": 0,
+        "options-average-rouge1": 0,
+        "options-average-rouge2": 0,
+        "options-average-rougeL": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How to deal with rejection",
+        "category": "Psychology",
+        "questions-average-rouge1": 0.25264957264957266,
+        "questions-average-rouge2": 0.06388888888888888,
+        "questions-average-rougeL": 0.20854700854700853,
+        "options-average-rouge1": 0.0937625691302162,
+        "options-average-rouge2": 0.02,
+        "options-average-rougeL": 0.08824786324786325,
+        "multiple-choice": [
+            {
+                "question_rouge": {
+                    "rouge1": 0.30769230769230765,
+                    "rouge2": 0.08333333333333334,
+                    "rougeL": 0.15384615384615383
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.23529411764705882,
+                        "rouge2": 0,
+                        "rougeL": 0.125
+                    },
+                    {
+                        "rouge1": 0.13333333333333333,
+                        "rouge2": 0,
+                        "rougeL": 0.13333333333333333
+                    },
+                    {
+                        "rouge1": 0.09523809523809525,
+                        "rouge2": 0,
+                        "rougeL": 0.09523809523809525
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.20000000000000004,
+                    "rouge2": 0.1111111111111111,
+                    "rougeL": 0.20000000000000004
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0.15384615384615383,
+                        "rouge2": 0,
+                        "rougeL": 0.15384615384615383
+                    },
+                    {
+                        "rouge1": 0.125,
+                        "rouge2": 0,
+                        "rougeL": 0.125
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.1111111111111111,
+                        "rouge2": 0,
+                        "rougeL": 0.1111111111111111
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.33333333333333337,
+                    "rouge2": 0.0,
+                    "rougeL": 0.26666666666666666
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.5714285714285715,
+                        "rouge2": 0.4,
+                        "rougeL": 0.5714285714285715
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.2,
+                    "rouge2": 0.0,
+                    "rougeL": 0.2
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    }
+                ]
+            },
+            {
+                "question_rouge": {
+                    "rouge1": 0.2222222222222222,
+                    "rouge2": 0.125,
+                    "rougeL": 0.2222222222222222
+                },
+                "options_rouge": [
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.25,
+                        "rouge2": 0,
+                        "rougeL": 0.25
+                    },
+                    {
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0
+                    },
+                    {
+                        "rouge1": 0.19999999999999998,
+                        "rouge2": 0,
+                        "rougeL": 0.19999999999999998
+                    }
+                ]
+            }
+        ]
+    }
+]

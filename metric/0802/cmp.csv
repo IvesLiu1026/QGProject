@@ -1,0 +1,17 @@
+	llama3.1:8b							
+	Q-bleu	O-bleu	Q-rouge1	Q-rouge2	Q-rougeL	O-rouge1	O-rouge2	O-rougeL
+chain-of-thought	0.708	0.492	0.253	0.050	0.114	0.052	0.016	0.057
+few-shot	0.709	0.677	0.312	0.049	0.295	0.051	0.016	0.050
+zero-shot	0.718	0.692	0.291	0.043	0.250	0.064	0.020	0.053
+generated-knowledge	0.717	0.492	0.359	0.044	0.222	0.044	0.011	0.046
+self-consistency	0.729	0.611	0.152	0.043	0.133	0.058	0.015	0.055
+								
+								
+								
+	gemma2:9b							
+	Q-bleu	O-bleu	Q-rouge1	Q-rouge2	Q-rougeL	O-rouge1	O-rouge2	O-rougeL
+chain-of-though								
+few-shot	0.713	0.701	0.251	0.045	0.226	0.051	0.012	0.050
+zero-shot								
+generated-knowledge								
+self-consistency	0.722	0.765	0.259	0.033	0.145	0.050	0.016	0.050

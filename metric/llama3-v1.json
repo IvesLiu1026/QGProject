@@ -1,0 +1,935 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "average-bleu": 0.4226287927208803,
+        "average-rouge1": 0.18557595697141732,
+        "average-rouge2": 0.040584415584415584,
+        "average-rougeL": 0.16634518774064808,
+        "average-bert-score": 0.4796271910890937,
+        "average-cosine-similarity": 0.4239161896985024,
+        "multiple-choice": [
+            {
+                "bleu": 0.6233091888805311,
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "bert-score": 0.42342400550842285,
+                "cosine-similarity": 0.15053823590278625,
+                "options": [
+                    {
+                        "text": "Northeast United States",
+                        "bleu": 0.27266206924913977,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.27229294180870056,
+                        "cosine-similarity": 0.09027015417814255
+                    },
+                    {
+                        "text": "Southwest United States",
+                        "bleu": 0.3017501822261,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.2785622775554657,
+                        "cosine-similarity": 0.11868764460086823
+                    },
+                    {
+                        "text": "Midwest United States",
+                        "bleu": 0.24651786346975413,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.2911238670349121,
+                        "cosine-similarity": 0.1067509576678276
+                    },
+                    {
+                        "text": "Southeast United States",
+                        "bleu": 0.27266206924913977,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.2746371626853943,
+                        "cosine-similarity": 0.07611589878797531
+                    }
+                ]
+            },
+            {
+                "bleu": 0.6447788067558897,
+                "rouge1": 0.3,
+                "rouge2": 0.0,
+                "rougeL": 0.3,
+                "bert-score": 0.5843000411987305,
+                "cosine-similarity": 0.514180064201355,
+                "options": [
+                    {
+                        "text": "Agriculture",
+                        "bleu": 0.23818242442380938,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.43934905529022217,
+                        "cosine-similarity": 0.6735418438911438
+                    },
+                    {
+                        "text": "Hunting",
+                        "bleu": 0.06445666311461945,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3748433589935303,
+                        "cosine-similarity": 0.1954999566078186
+                    },
+                    {
+                        "text": "Fishing",
+                        "bleu": 0.06445666311461945,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.41660887002944946,
+                        "cosine-similarity": 0.14330242574214935
+                    },
+                    {
+                        "text": "Trading",
+                        "bleu": 0.07133302367316396,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3863847255706787,
+                        "cosine-similarity": 0.15780675411224365
+                    }
+                ]
+            },
+            {
+                "bleu": 0.8857000285382948,
+                "rouge1": 0.46153846153846156,
+                "rouge2": 0.18181818181818182,
+                "rougeL": 0.46153846153846156,
+                "bert-score": 0.681795060634613,
+                "cosine-similarity": 0.8483701944351196,
+                "options": [
+                    {
+                        "text": "People who lived in the United States",
+                        "bleu": 0.2803137321699375,
+                        "rouge1": 0.6086956521739131,
+                        "rouge2": 0.5714285714285715,
+                        "rougeL": 0.6086956521739131,
+                        "bert-score": 0.6106588840484619,
+                        "cosine-similarity": 0.7077739238739014
+                    },
+                    {
+                        "text": "Immigrants from Europe",
+                        "bleu": 0.04899987875546887,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4064733684062958,
+                        "cosine-similarity": 0.2761637568473816
+                    },
+                    {
+                        "text": "Inhabitants of Asia",
+                        "bleu": 0.020130893394589768,
+                        "rouge1": 0.11764705882352941,
+                        "rouge2": 0.0,
+                        "rougeL": 0.11764705882352941,
+                        "bert-score": 0.3963569700717926,
+                        "cosine-similarity": 0.23616017401218414
+                    },
+                    {
+                        "text": "Indigenous people from Africa",
+                        "bleu": 0.06621742130921597,
+                        "rouge1": 0.1,
+                        "rouge2": 0.0,
+                        "rougeL": 0.1,
+                        "bert-score": 0.43864378333091736,
+                        "cosine-similarity": 0.2563699185848236
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7326545101601926,
+                "rouge1": 0.23076923076923075,
+                "rouge2": 0.0,
+                "rougeL": 0.07692307692307693,
+                "bert-score": 0.5274718999862671,
+                "cosine-similarity": 0.4223487079143524,
+                "options": [
+                    {
+                        "text": "Cherokee",
+                        "bleu": 0.010011924518188053,
+                        "rouge1": 0.2857142857142857,
+                        "rouge2": 0.0,
+                        "rougeL": 0.2857142857142857,
+                        "bert-score": 0.45337188243865967,
+                        "cosine-similarity": 0.7052925825119019
+                    },
+                    {
+                        "text": "Sioux",
+                        "bleu": 0.0009118819655545162,
+                        "rouge1": 0.2857142857142857,
+                        "rouge2": 0.0,
+                        "rougeL": 0.2857142857142857,
+                        "bert-score": 0.49212270975112915,
+                        "cosine-similarity": 0.6474226713180542
+                    },
+                    {
+                        "text": "Navajo",
+                        "bleu": 0.0034593773364647584,
+                        "rouge1": 0.2857142857142857,
+                        "rouge2": 0.0,
+                        "rougeL": 0.2857142857142857,
+                        "bert-score": 0.4747319221496582,
+                        "cosine-similarity": 0.7324776649475098
+                    },
+                    {
+                        "text": "Iroquois",
+                        "bleu": 0.016285161758772083,
+                        "rouge1": 0.2857142857142857,
+                        "rouge2": 0.0,
+                        "rougeL": 0.2857142857142857,
+                        "bert-score": 0.4739443063735962,
+                        "cosine-similarity": 0.6999329328536987
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "average-bleu": 0.4792523557334324,
+        "average-rouge1": 0.129032770422022,
+        "average-rouge2": 0.020624999999999998,
+        "average-rougeL": 0.11663197677122836,
+        "average-bert-score": 0.4547551117837429,
+        "average-cosine-similarity": 0.32472059205174447,
+        "multiple-choice": [
+            {
+                "bleu": 0.725205974975922,
+                "rouge1": 0.3333333333333333,
+                "rouge2": 0.125,
+                "rougeL": 0.3333333333333333,
+                "bert-score": 0.5666840076446533,
+                "cosine-similarity": 0.45178747177124023,
+                "options": [
+                    {
+                        "text": "Visual maps",
+                        "bleu": 0.3020646112085098,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.39636531472206116,
+                        "cosine-similarity": 0.09428078681230545
+                    },
+                    {
+                        "text": "Earth's magnetic field",
+                        "bleu": 0.8767588692370368,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3976288437843323,
+                        "cosine-similarity": 0.13012294471263885
+                    },
+                    {
+                        "text": "The angle of the sun",
+                        "bleu": 0.41520940062605305,
+                        "rouge1": 0.4000000000000001,
+                        "rouge2": 0.0,
+                        "rougeL": 0.4000000000000001,
+                        "bert-score": 0.5799992084503174,
+                        "cosine-similarity": 0.28221696615219116
+                    },
+                    {
+                        "text": "All of the above",
+                        "bleu": 0.20207938879963666,
+                        "rouge1": 0.4444444444444445,
+                        "rouge2": 0.0,
+                        "rougeL": 0.22222222222222224,
+                        "bert-score": 0.3158623278141022,
+                        "cosine-similarity": 0.13239595293998718
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7270447990811325,
+                "rouge1": 0.14285714285714288,
+                "rouge2": 0.05,
+                "rougeL": 0.09523809523809525,
+                "bert-score": 0.3916035294532776,
+                "cosine-similarity": 0.18148645758628845,
+                "options": [
+                    {
+                        "text": "Tortoises",
+                        "bleu": 0.012742924631807569,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3647753596305847,
+                        "cosine-similarity": 0.0736401304602623
+                    },
+                    {
+                        "text": "Finches",
+                        "bleu": 0.003066119388190815,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.360684871673584,
+                        "cosine-similarity": 0.2774536907672882
+                    },
+                    {
+                        "text": "Giant fossil armadillos",
+                        "bleu": 0.23919585841342092,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3973549008369446,
+                        "cosine-similarity": 0.24691158533096313
+                    },
+                    {
+                        "text": "Pigeons",
+                        "bleu": 0.004035240047407727,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.38347458839416504,
+                        "cosine-similarity": 0.19576674699783325
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7979439453790055,
+                "rouge1": 0.08695652173913045,
+                "rouge2": 0.0,
+                "rougeL": 0.08695652173913045,
+                "bert-score": 0.4628864824771881,
+                "cosine-similarity": 0.5010769367218018,
+                "options": [
+                    {
+                        "text": "They have three color receptors.",
+                        "bleu": 0.13150735068985883,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4435557723045349,
+                        "cosine-similarity": 0.16249284148216248
+                    },
+                    {
+                        "text": "Their eyes are small compared to other birds.",
+                        "bleu": 0.215514542682518,
+                        "rouge1": 0.2105263157894737,
+                        "rouge2": 0.0,
+                        "rougeL": 0.2105263157894737,
+                        "bert-score": 0.5495242476463318,
+                        "cosine-similarity": 0.4676048755645752
+                    },
+                    {
+                        "text": "They have five color receptors, allowing them to see things humans can't imagine.",
+                        "bleu": 0.20476706388533034,
+                        "rouge1": 0.08,
+                        "rouge2": 0.0,
+                        "rougeL": 0.08,
+                        "bert-score": 0.475704550743103,
+                        "cosine-similarity": 0.2509935200214386
+                    },
+                    {
+                        "text": "They can only see in black and white.",
+                        "bleu": 0.21635131257895338,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.41823065280914307,
+                        "cosine-similarity": 0.08496256172657013
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7431990115298822,
+                "rouge1": 0.09999999999999999,
+                "rouge2": 0.0,
+                "rougeL": 0.09999999999999999,
+                "bert-score": 0.44140833616256714,
+                "cosine-similarity": 0.5512012243270874,
+                "options": [
+                    {
+                        "text": "He trained them to find food in dangerous areas.",
+                        "bleu": 0.27581825275156907,
+                        "rouge1": 0.2222222222222222,
+                        "rouge2": 0.125,
+                        "rougeL": 0.2222222222222222,
+                        "bert-score": 0.5688521862030029,
+                        "cosine-similarity": 0.20786553621292114
+                    },
+                    {
+                        "text": "He used them as messengers for delivering news.",
+                        "bleu": 0.19747632076863422,
+                        "rouge1": 0.11764705882352941,
+                        "rouge2": 0.0,
+                        "rougeL": 0.11764705882352941,
+                        "bert-score": 0.5134873986244202,
+                        "cosine-similarity": 0.1700364053249359
+                    },
+                    {
+                        "text": "He tried to turn them into weapons by using their navigation skills to guide bombs.",
+                        "bleu": 0.2173273484187124,
+                        "rouge1": 0.25,
+                        "rouge2": 0.0,
+                        "rougeL": 0.16666666666666669,
+                        "bert-score": 0.530561625957489,
+                        "cosine-similarity": 0.33230993151664734
+                    },
+                    {
+                        "text": "He studied their brain structure.",
+                        "bleu": 0.15235552795082222,
+                        "rouge1": 0.14285714285714285,
+                        "rouge2": 0.0,
+                        "rougeL": 0.14285714285714285,
+                        "bert-score": 0.49161553382873535,
+                        "cosine-similarity": 0.1857462227344513
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7207374568102588,
+                "rouge1": 0.08333333333333334,
+                "rouge2": 0.0,
+                "rougeL": 0.08333333333333334,
+                "bert-score": 0.4761015474796295,
+                "cosine-similarity": 0.5393240451812744,
+                "options": [
+                    {
+                        "text": "As pets",
+                        "bleu": 0.014596475230076887,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.37824586033821106,
+                        "cosine-similarity": 0.155690535902977
+                    },
+                    {
+                        "text": "As food",
+                        "bleu": 0.013804493969867914,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3941420316696167,
+                        "cosine-similarity": 0.02256457507610321
+                    },
+                    {
+                        "text": "As messengers for delivering news and messages",
+                        "bleu": 0.5547169436610897,
+                        "rouge1": 0.30769230769230765,
+                        "rouge2": 0.0,
+                        "rougeL": 0.30769230769230765,
+                        "bert-score": 0.5699084401130676,
+                        "cosine-similarity": 0.48422491550445557
+                    },
+                    {
+                        "text": "All of the above",
+                        "bleu": 0.06418143329299543,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.30549514293670654,
+                        "cosine-similarity": 0.132038414478302
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "average-bleu": 0.0,
+        "average-rouge1": 0.0,
+        "average-rouge2": 0.0,
+        "average-rougeL": 0.0,
+        "average-bert-score": 0.0,
+        "average-cosine-similarity": 0.0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is it normal to talk to yourself?",
+        "category": "Psychology",
+        "average-bleu": 0.5964714601183857,
+        "average-rouge1": 0.1402710359563808,
+        "average-rouge2": 0.039067760942760946,
+        "average-rougeL": 0.11568217653993516,
+        "average-bert-score": 0.4785388998687268,
+        "average-cosine-similarity": 0.4441638650372624,
+        "multiple-choice": [
+            {
+                "bleu": 0.749634235443537,
+                "rouge1": 0.08,
+                "rouge2": 0.0,
+                "rougeL": 0.08,
+                "bert-score": 0.4251178801059723,
+                "cosine-similarity": 0.5431936979293823,
+                "options": [
+                    {
+                        "text": "Increase focus, boost self-esteem, and help tackle everyday tasks.",
+                        "bleu": 0.1067237948233273,
+                        "rouge1": 0.15384615384615383,
+                        "rouge2": 0.0,
+                        "rougeL": 0.15384615384615383,
+                        "bert-score": 0.5161400437355042,
+                        "cosine-similarity": 0.41802018880844116
+                    },
+                    {
+                        "text": "Decrease stress levels when engaging in anxiety-inducing tasks.",
+                        "bleu": 0.4077771433541953,
+                        "rouge1": 0.16666666666666666,
+                        "rouge2": 0.0,
+                        "rougeL": 0.16666666666666666,
+                        "bert-score": 0.45744287967681885,
+                        "cosine-similarity": 0.5406613349914551
+                    },
+                    {
+                        "text": "Improve overall mental health over time.",
+                        "bleu": 0.21211347686223223,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.42026621103286743,
+                        "cosine-similarity": 0.3353956341743469
+                    },
+                    {
+                        "text": "All of the above.",
+                        "bleu": 0.7809325628873461,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3418765962123871,
+                        "cosine-similarity": 0.0474385991692543
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7241577342575828,
+                "rouge1": 0.2758620689655172,
+                "rouge2": 0.07407407407407408,
+                "rougeL": 0.20689655172413796,
+                "bert-score": 0.5548617243766785,
+                "cosine-similarity": 0.5363390445709229,
+                "options": [
+                    {
+                        "text": "A form of psychotherapy that focuses on changing negative thought patterns and behaviors.",
+                        "bleu": 0.16049406181465947,
+                        "rouge1": 0.125,
+                        "rouge2": 0.0,
+                        "rougeL": 0.125,
+                        "bert-score": 0.45745840668678284,
+                        "cosine-similarity": 0.5001320838928223
+                    },
+                    {
+                        "text": "A method of identifying and replacing toxic self-talk with more neutral or compassionate reflections.",
+                        "bleu": 0.2776242952819623,
+                        "rouge1": 0.2222222222222222,
+                        "rouge2": 0.125,
+                        "rougeL": 0.2222222222222222,
+                        "bert-score": 0.5350010991096497,
+                        "cosine-similarity": 0.6809868812561035
+                    },
+                    {
+                        "text": "A technique for regulating the tone of one's inner voice.",
+                        "bleu": 0.4403313338639102,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4381568431854248,
+                        "cosine-similarity": 0.3207933306694031
+                    },
+                    {
+                        "text": "All of the above.",
+                        "bleu": 0.4583034067124109,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3761730492115021,
+                        "cosine-similarity": 0.04632945358753204
+                    }
+                ]
+            },
+            {
+                "bleu": 0.8153072164002068,
+                "rouge1": 0.3,
+                "rouge2": 0.1111111111111111,
+                "rougeL": 0.2,
+                "bert-score": 0.5076949000358582,
+                "cosine-similarity": 0.744876503944397,
+                "options": [
+                    {
+                        "text": "The process of recalling facts and figures mentally.",
+                        "bleu": 0.5828233954152654,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3938184380531311,
+                        "cosine-similarity": 0.24331414699554443
+                    },
+                    {
+                        "text": "Conversations with oneself, either silently or out loud.",
+                        "bleu": 0.48109772909788073,
+                        "rouge1": 0.2222222222222222,
+                        "rouge2": 0.0,
+                        "rougeL": 0.2222222222222222,
+                        "bert-score": 0.3151909410953522,
+                        "cosine-similarity": 0.3315950036048889
+                    },
+                    {
+                        "text": "Mental imagery or visualizing scenarios.",
+                        "bleu": 0.6467843638084008,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.40102776885032654,
+                        "cosine-similarity": 0.2840191721916199
+                    },
+                    {
+                        "text": "External conversations with others.",
+                        "bleu": 0.6147881529512643,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.40478307008743286,
+                        "cosine-similarity": 0.28516343235969543
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7529586373193689,
+                "rouge1": 0.16666666666666669,
+                "rouge2": 0.0909090909090909,
+                "rougeL": 0.16666666666666669,
+                "bert-score": 0.559950590133667,
+                "cosine-similarity": 0.47387924790382385,
+                "options": [
+                    {
+                        "text": "They have a higher level of anxiety.",
+                        "bleu": 0.6640471006217092,
+                        "rouge1": 0.2,
+                        "rouge2": 0.0,
+                        "rougeL": 0.2,
+                        "bert-score": 0.4741247296333313,
+                        "cosine-similarity": 0.3432086706161499
+                    },
+                    {
+                        "text": "They are more introspective and reflective individuals.",
+                        "bleu": 0.3271000548359163,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4174683392047882,
+                        "cosine-similarity": 0.2983347177505493
+                    },
+                    {
+                        "text": "They have experienced trauma or abuse.",
+                        "bleu": 0.733503637924837,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4212181866168976,
+                        "cosine-similarity": 0.34211114048957825
+                    },
+                    {
+                        "text": "They lack social skills and struggle to communicate with others.",
+                        "bleu": 0.3250296630171846,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.43142229318618774,
+                        "cosine-similarity": 0.21127060055732727
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7219122568893311,
+                "rouge1": 0.30769230769230765,
+                "rouge2": 0.08333333333333334,
+                "rougeL": 0.23076923076923075,
+                "bert-score": 0.6073710918426514,
+                "cosine-similarity": 0.5956331491470337,
+                "options": [
+                    {
+                        "text": "Increased anxiety levels.",
+                        "bleu": 0.5318295896944989,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4612939655780792,
+                        "cosine-similarity": 0.21518641710281372
+                    },
+                    {
+                        "text": "More intense feelings of depression.",
+                        "bleu": 0.4111336169005197,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4758754074573517,
+                        "cosine-similarity": 0.2800912857055664
+                    },
+                    {
+                        "text": "The development of toxic thought patterns that can harm mental health.",
+                        "bleu": 0.16231912797831763,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4467223584651947,
+                        "cosine-similarity": 0.384998083114624
+                    },
+                    {
+                        "text": "All of the above.",
+                        "bleu": 0.4782215756494834,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3361106216907501,
+                        "cosine-similarity": 0.08181785047054291
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How tall can a tree grow? - Valentin Hammoudi",
+        "category": "Science & Technology",
+        "average-bleu": 0.6351095839182219,
+        "average-rouge1": 0.14684065934065935,
+        "average-rouge2": 0.058333333333333334,
+        "average-rougeL": 0.12803724053724053,
+        "average-bert-score": 0.4735567353665828,
+        "average-cosine-similarity": 0.3125797629356384,
+        "multiple-choice": [
+            {
+                "bleu": 0.7071067811865476,
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "bert-score": 0.3773254454135895,
+                "cosine-similarity": 0.15452510118484497,
+                "options": [
+                    {
+                        "text": "100 meters",
+                        "bleu": 1.0,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3714575171470642,
+                        "cosine-similarity": 0.196293905377388
+                    },
+                    {
+                        "text": "130 meters",
+                        "bleu": 1.0,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4392322301864624,
+                        "cosine-similarity": 0.2036987990140915
+                    },
+                    {
+                        "text": "150 meters",
+                        "bleu": 1.0,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3703240752220154,
+                        "cosine-similarity": 0.20655107498168945
+                    },
+                    {
+                        "text": "200 meters",
+                        "bleu": 1.0,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3643121123313904,
+                        "cosine-similarity": 0.191311776638031
+                    }
+                ]
+            },
+            {
+                "bleu": 0.725205974975922,
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "bert-score": 0.45120030641555786,
+                "cosine-similarity": 0.14731228351593018,
+                "options": [
+                    {
+                        "text": "Sierra Nevada",
+                        "bleu": 0.25327399962479336,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.30373409390449524,
+                        "cosine-similarity": 0.058834776282310486
+                    },
+                    {
+                        "text": "Rocky Mountains",
+                        "bleu": 0.37137794582786865,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.30336225032806396,
+                        "cosine-similarity": 0.15901336073875427
+                    },
+                    {
+                        "text": "Appalachian Mountains",
+                        "bleu": 0.5903825810780619,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3366573452949524,
+                        "cosine-similarity": 0.12312410771846771
+                    },
+                    {
+                        "text": "Andes Mountains",
+                        "bleu": 0.23606934033817736,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3274597227573395,
+                        "cosine-similarity": 0.07850269228219986
+                    }
+                ]
+            },
+            {
+                "bleu": 0.6337268058487422,
+                "rouge1": 0.125,
+                "rouge2": 0.0,
+                "rougeL": 0.125,
+                "bert-score": 0.5252895951271057,
+                "cosine-similarity": 0.09275251626968384,
+                "options": [
+                    {
+                        "text": "To distribute nutrients absorbed through roots",
+                        "bleu": 0.21860499356319926,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.499442458152771,
+                        "cosine-similarity": 0.4453620910644531
+                    },
+                    {
+                        "text": "To transport sugars obtained from photosynthesis",
+                        "bleu": 0.2750567958060704,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.4733158349990845,
+                        "cosine-similarity": 0.4173353910446167
+                    },
+                    {
+                        "text": "To support new leaf growth",
+                        "bleu": 0.3879753954606264,
+                        "rouge1": 0.1111111111111111,
+                        "rouge2": 0.0,
+                        "rougeL": 0.1111111111111111,
+                        "bert-score": 0.4986394941806793,
+                        "cosine-similarity": 0.4996141493320465
+                    },
+                    {
+                        "text": "To maintain the tree's overall structure",
+                        "bleu": 0.28359702636939854,
+                        "rouge1": 0.14285714285714285,
+                        "rouge2": 0.0,
+                        "rougeL": 0.14285714285714285,
+                        "bert-score": 0.4834766983985901,
+                        "cosine-similarity": 0.5922874808311462
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7749491592845789,
+                "rouge1": 0.30769230769230765,
+                "rouge2": 0.08333333333333333,
+                "rougeL": 0.23076923076923075,
+                "bert-score": 0.6531456112861633,
+                "cosine-similarity": 0.7211222648620605,
+                "options": [
+                    {
+                        "text": "Transpiration",
+                        "bleu": 1.0,
+                        "rouge1": 1.0,
+                        "rouge2": 0.0,
+                        "rougeL": 1.0,
+                        "bert-score": 1.000000238418579,
+                        "cosine-similarity": 1.0
+                    },
+                    {
+                        "text": "Capillary action",
+                        "bleu": 1.0,
+                        "rouge1": 1.0,
+                        "rouge2": 1.0,
+                        "rougeL": 1.0,
+                        "bert-score": 1.0,
+                        "cosine-similarity": 1.0000001192092896
+                    },
+                    {
+                        "text": "Root pressure",
+                        "bleu": 1.0,
+                        "rouge1": 1.0,
+                        "rouge2": 1.0,
+                        "rougeL": 1.0,
+                        "bert-score": 1.0,
+                        "cosine-similarity": 1.0
+                    },
+                    {
+                        "text": "All of the above",
+                        "bleu": 0.7825422900366437,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.35648664832115173,
+                        "cosine-similarity": 0.11625213921070099
+                    }
+                ]
+            },
+            {
+                "bleu": 0.5726368115061906,
+                "rouge1": 0.22222222222222224,
+                "rouge2": 0.0,
+                "rougeL": 0.11111111111111112,
+                "bert-score": 0.3302627205848694,
+                "cosine-similarity": 0.247529536485672,
+                "options": [
+                    {
+                        "text": "The idea that trees can only grow as tall as their water supply allows",
+                        "bleu": 0.19511368322427836,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.36677980422973633,
+                        "cosine-similarity": 0.30851688981056213
+                    },
+                    {
+                        "text": "The theory that trees stop growing when they run out of nutrients",
+                        "bleu": 0.463502386414385,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.37926173210144043,
+                        "cosine-similarity": 0.12716051936149597
+                    },
+                    {
+                        "text": "The concept that trees cannot exceed a certain height due to the limitations of photosynthesis",
+                        "bleu": 0.45418525873453736,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.35219767689704895,
+                        "cosine-similarity": 0.20320767164230347
+                    },
+                    {
+                        "text": "The hypothesis that trees' growth is limited by the availability of sap",
+                        "bleu": 0.23819952904291017,
+                        "rouge1": 0.0,
+                        "rouge2": 0.0,
+                        "rougeL": 0.0,
+                        "bert-score": 0.3672347664833069,
+                        "cosine-similarity": 0.12315676361322403
+                    }
+                ]
+            }
+        ]
+    }
+]

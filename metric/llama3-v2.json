@@ -1,0 +1,451 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "average-bleu": 0.4226287927208803,
+        "average-rouge1": 0.18557595697141732,
+        "average-rouge2": 0.040584415584415584,
+        "average-rougeL": 0.1663451877406481,
+        "average-bert-score": 0.4796271910890937,
+        "average-cosine-similarity": 0.4239161896985024,
+        "multiple-choice": [
+            {
+                "bleu": 0.8857000285382948,
+                "rouge1": 0.46153846153846156,
+                "rouge2": 0.18181818181818182,
+                "rougeL": 0.46153846153846156,
+                "bert-score": 0.681795060634613,
+                "cosine-similarity": 0.8483701944351196,
+                "options": [
+                    {
+                        "text": "People who lived in the United States",
+                        "bleu": 0.2803137321699375,
+                        "rouge1": 0.6086956521739131,
+                        "rouge2": 0.5714285714285715,
+                        "rougeL": 0.6086956521739131,
+                        "bert-score": 0.6106588840484619,
+                        "cosine-similarity": 0.7077739238739014
+                    },
+                    {
+                        "text": "Immigrants from Europe",
+                        "bleu": 0.04899987875546887,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.4064733684062958,
+                        "cosine-similarity": 0.2761637568473816
+                    },
+                    {
+                        "text": "Inhabitants of Asia",
+                        "bleu": 0.020130893394589768,
+                        "rouge1": 0.11764705882352941,
+                        "rouge2": 0,
+                        "rougeL": 0.11764705882352941,
+                        "bert-score": 0.3963569700717926,
+                        "cosine-similarity": 0.23616017401218414
+                    },
+                    {
+                        "text": "Indigenous people from Africa",
+                        "bleu": 0.06621742130921597,
+                        "rouge1": 0.1,
+                        "rouge2": 0,
+                        "rougeL": 0.1,
+                        "bert-score": 0.43864378333091736,
+                        "cosine-similarity": 0.2563699185848236
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7326545101601926,
+                "rouge1": 0.23076923076923075,
+                "rouge2": 0.0,
+                "rougeL": 0.07692307692307693,
+                "bert-score": 0.5274718999862671,
+                "cosine-similarity": 0.4223487079143524,
+                "options": [
+                    {
+                        "text": "Cherokee",
+                        "bleu": 0.010011924518188053,
+                        "rouge1": 0.2857142857142857,
+                        "rouge2": 0,
+                        "rougeL": 0.2857142857142857,
+                        "bert-score": 0.45337188243865967,
+                        "cosine-similarity": 0.7052925825119019
+                    },
+                    {
+                        "text": "Sioux",
+                        "bleu": 0.0009118819655545162,
+                        "rouge1": 0.2857142857142857,
+                        "rouge2": 0,
+                        "rougeL": 0.2857142857142857,
+                        "bert-score": 0.49212270975112915,
+                        "cosine-similarity": 0.6474226713180542
+                    },
+                    {
+                        "text": "Navajo",
+                        "bleu": 0.0034593773364647584,
+                        "rouge1": 0.2857142857142857,
+                        "rouge2": 0,
+                        "rougeL": 0.2857142857142857,
+                        "bert-score": 0.4747319221496582,
+                        "cosine-similarity": 0.7324776649475098
+                    },
+                    {
+                        "text": "Iroquois",
+                        "bleu": 0.016285161758772083,
+                        "rouge1": 0.2857142857142857,
+                        "rouge2": 0,
+                        "rougeL": 0.2857142857142857,
+                        "bert-score": 0.4739443063735962,
+                        "cosine-similarity": 0.6999329328536987
+                    }
+                ]
+            },
+            {
+                "bleu": 0.6233091888805311,
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "bert-score": 0.42342400550842285,
+                "cosine-similarity": 0.15053823590278625,
+                "options": [
+                    {
+                        "text": "Northeast United States",
+                        "bleu": 0.27266206924913977,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.27229294180870056,
+                        "cosine-similarity": 0.09027015417814255
+                    },
+                    {
+                        "text": "Southwest United States",
+                        "bleu": 0.3017501822261,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.2785622775554657,
+                        "cosine-similarity": 0.11868764460086823
+                    },
+                    {
+                        "text": "Midwest United States",
+                        "bleu": 0.24651786346975413,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.2911238670349121,
+                        "cosine-similarity": 0.1067509576678276
+                    },
+                    {
+                        "text": "Southeast United States",
+                        "bleu": 0.27266206924913977,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.2746371626853943,
+                        "cosine-similarity": 0.07611589878797531
+                    }
+                ]
+            },
+            {
+                "bleu": 0.6447788067558897,
+                "rouge1": 0.3,
+                "rouge2": 0.0,
+                "rougeL": 0.3,
+                "bert-score": 0.5843000411987305,
+                "cosine-similarity": 0.514180064201355,
+                "options": [
+                    {
+                        "text": "Agriculture",
+                        "bleu": 0.23818242442380938,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.43934905529022217,
+                        "cosine-similarity": 0.6735418438911438
+                    },
+                    {
+                        "text": "Hunting",
+                        "bleu": 0.06445666311461945,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.3748433589935303,
+                        "cosine-similarity": 0.1954999566078186
+                    },
+                    {
+                        "text": "Fishing",
+                        "bleu": 0.06445666311461945,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.41660887002944946,
+                        "cosine-similarity": 0.14330242574214935
+                    },
+                    {
+                        "text": "Trading",
+                        "bleu": 0.07133302367316396,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.3863847255706787,
+                        "cosine-similarity": 0.15780675411224365
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "average-bleu": 0.4792523557334324,
+        "average-rouge1": 0.12903277042202202,
+        "average-rouge2": 0.020624999999999998,
+        "average-rougeL": 0.11663197677122837,
+        "average-bert-score": 0.4547551117837429,
+        "average-cosine-similarity": 0.32472059205174447,
+        "multiple-choice": [
+            {
+                "bleu": 0.725205974975922,
+                "rouge1": 0.3333333333333333,
+                "rouge2": 0.125,
+                "rougeL": 0.3333333333333333,
+                "bert-score": 0.5666840076446533,
+                "cosine-similarity": 0.45178747177124023,
+                "options": [
+                    {
+                        "text": "Visual maps",
+                        "bleu": 0.3020646112085098,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.39636531472206116,
+                        "cosine-similarity": 0.09428078681230545
+                    },
+                    {
+                        "text": "Earth's magnetic field",
+                        "bleu": 0.8767588692370368,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.3976288437843323,
+                        "cosine-similarity": 0.13012294471263885
+                    },
+                    {
+                        "text": "The angle of the sun",
+                        "bleu": 0.41520940062605305,
+                        "rouge1": 0.4000000000000001,
+                        "rouge2": 0,
+                        "rougeL": 0.4000000000000001,
+                        "bert-score": 0.5799992084503174,
+                        "cosine-similarity": 0.28221696615219116
+                    },
+                    {
+                        "text": "All of the above",
+                        "bleu": 0.20207938879963666,
+                        "rouge1": 0.4444444444444445,
+                        "rouge2": 0,
+                        "rougeL": 0.22222222222222224,
+                        "bert-score": 0.3158623278141022,
+                        "cosine-similarity": 0.13239595293998718
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7270447990811325,
+                "rouge1": 0.14285714285714288,
+                "rouge2": 0.05,
+                "rougeL": 0.09523809523809525,
+                "bert-score": 0.3916035294532776,
+                "cosine-similarity": 0.18148645758628845,
+                "options": [
+                    {
+                        "text": "Tortoises",
+                        "bleu": 0.012742924631807569,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.3647753596305847,
+                        "cosine-similarity": 0.0736401304602623
+                    },
+                    {
+                        "text": "Finches",
+                        "bleu": 0.003066119388190815,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.360684871673584,
+                        "cosine-similarity": 0.2774536907672882
+                    },
+                    {
+                        "text": "Giant fossil armadillos",
+                        "bleu": 0.23919585841342092,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.3973549008369446,
+                        "cosine-similarity": 0.24691158533096313
+                    },
+                    {
+                        "text": "Pigeons",
+                        "bleu": 0.004035240047407727,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.38347458839416504,
+                        "cosine-similarity": 0.19576674699783325
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7431990115298822,
+                "rouge1": 0.09999999999999999,
+                "rouge2": 0.0,
+                "rougeL": 0.09999999999999999,
+                "bert-score": 0.44140833616256714,
+                "cosine-similarity": 0.5512012243270874,
+                "options": [
+                    {
+                        "text": "He trained them to find food in dangerous areas.",
+                        "bleu": 0.27581825275156907,
+                        "rouge1": 0.2222222222222222,
+                        "rouge2": 0.125,
+                        "rougeL": 0.2222222222222222,
+                        "bert-score": 0.5688521862030029,
+                        "cosine-similarity": 0.20786553621292114
+                    },
+                    {
+                        "text": "He used them as messengers for delivering news.",
+                        "bleu": 0.19747632076863422,
+                        "rouge1": 0.11764705882352941,
+                        "rouge2": 0,
+                        "rougeL": 0.11764705882352941,
+                        "bert-score": 0.5134873986244202,
+                        "cosine-similarity": 0.1700364053249359
+                    },
+                    {
+                        "text": "He tried to turn them into weapons by using their navigation skills to guide bombs.",
+                        "bleu": 0.2173273484187124,
+                        "rouge1": 0.25,
+                        "rouge2": 0,
+                        "rougeL": 0.16666666666666669,
+                        "bert-score": 0.530561625957489,
+                        "cosine-similarity": 0.33230993151664734
+                    },
+                    {
+                        "text": "He studied their brain structure.",
+                        "bleu": 0.15235552795082222,
+                        "rouge1": 0.14285714285714285,
+                        "rouge2": 0,
+                        "rougeL": 0.14285714285714285,
+                        "bert-score": 0.49161553382873535,
+                        "cosine-similarity": 0.1857462227344513
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7207374568102588,
+                "rouge1": 0.08333333333333334,
+                "rouge2": 0.0,
+                "rougeL": 0.08333333333333334,
+                "bert-score": 0.4761015474796295,
+                "cosine-similarity": 0.5393240451812744,
+                "options": [
+                    {
+                        "text": "As pets",
+                        "bleu": 0.014596475230076887,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.37824586033821106,
+                        "cosine-similarity": 0.155690535902977
+                    },
+                    {
+                        "text": "As food",
+                        "bleu": 0.013804493969867914,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.3941420316696167,
+                        "cosine-similarity": 0.02256457507610321
+                    },
+                    {
+                        "text": "As messengers for delivering news and messages",
+                        "bleu": 0.5547169436610897,
+                        "rouge1": 0.30769230769230765,
+                        "rouge2": 0,
+                        "rougeL": 0.30769230769230765,
+                        "bert-score": 0.5699084401130676,
+                        "cosine-similarity": 0.48422491550445557
+                    },
+                    {
+                        "text": "All of the above",
+                        "bleu": 0.06418143329299543,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.30549514293670654,
+                        "cosine-similarity": 0.132038414478302
+                    }
+                ]
+            },
+            {
+                "bleu": 0.7979439453790055,
+                "rouge1": 0.08695652173913045,
+                "rouge2": 0.0,
+                "rougeL": 0.08695652173913045,
+                "bert-score": 0.4628864824771881,
+                "cosine-similarity": 0.5010769367218018,
+                "options": [
+                    {
+                        "text": "They have three color receptors.",
+                        "bleu": 0.13150735068985883,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.4435557723045349,
+                        "cosine-similarity": 0.16249284148216248
+                    },
+                    {
+                        "text": "Their eyes are small compared to other birds.",
+                        "bleu": 0.215514542682518,
+                        "rouge1": 0.2105263157894737,
+                        "rouge2": 0,
+                        "rougeL": 0.2105263157894737,
+                        "bert-score": 0.5495242476463318,
+                        "cosine-similarity": 0.4676048755645752
+                    },
+                    {
+                        "text": "They have five color receptors, allowing them to see things humans can't imagine.",
+                        "bleu": 0.20476706388533034,
+                        "rouge1": 0.08,
+                        "rouge2": 0,
+                        "rougeL": 0.08,
+                        "bert-score": 0.475704550743103,
+                        "cosine-similarity": 0.2509935200214386
+                    },
+                    {
+                        "text": "They can only see in black and white.",
+                        "bleu": 0.21635131257895338,
+                        "rouge1": 0,
+                        "rouge2": 0,
+                        "rougeL": 0,
+                        "bert-score": 0.41823065280914307,
+                        "cosine-similarity": 0.08496256172657013
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "average-bleu": 0.0,
+        "average-rouge1": 0.0,
+        "average-rouge2": 0.0,
+        "average-rougeL": 0.0,
+        "average-bert-score": 0.0,
+        "average-cosine-similarity": 0.0,
+        "multiple-choice": []
+    }
+]

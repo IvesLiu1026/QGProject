@@ -1,0 +1,1986 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "multiple-choice": []
+    },
+    {
+        "title": "Is it normal to talk to yourself?",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "How tall can a tree grow? - Valentin Hammoudi",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the dark matter fuel riddle? - Daniel Finkel",
+        "category": "Literature & Language",
+        "multiple-choice": [
+            {
+                "question": "**What is the primary obstacle in reaching the abandoned alien space station?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Navigating through a dense asteroid field."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Communicating with the station's inhabitants."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Limited fuel supply for interstellar travel."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Repairing damage to the spaceship's engine."
+                    }
+                ]
+            },
+            {
+                "question": "**How many parsecs away is the abandoned alien space station?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "10 parsecs"
+                    },
+                    {
+                        "label": "B",
+                        "text": "15 parsecs"
+                    },
+                    {
+                        "label": "C",
+                        "text": "23 parsecs"
+                    },
+                    {
+                        "label": "D",
+                        "text": "30 parsecs"
+                    }
+                ]
+            },
+            {
+                "question": "**What resource does the solution utilize to overcome the fuel limitation?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Antimatter propulsion"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Dark matter fuel caching"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Solar energy conversion"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Warp drive technology"
+                    }
+                ]
+            },
+            {
+                "question": "**What is the significance of \"point X\" in the puzzle's solution?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It represents the location of the abandoned space station."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It serves as a strategic point for fuel caching and retrieval."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It indicates the optimal trajectory for interstellar travel."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It marks the starting point of the spaceship's journey."
+                    }
+                ]
+            },
+            {
+                "question": "**What does the transcript provide to help solve the puzzle?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "A fictional story about an astronaut's experience."
+                    },
+                    {
+                        "label": "B",
+                        "text": "A detailed step-by-step process for reaching the space station."
+                    },
+                    {
+                        "label": "C",
+                        "text": "A historical account of interstellar travel discoveries."
+                    },
+                    {
+                        "label": "D",
+                        "text": "An analysis of the scientific principles behind dark matter."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read Toni Morrison's \"Beloved\"? - Yen Pham",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you outsmart this logical fallacy? - Alex Gendler",
+        "category": "Thinking & Learning",
+        "multiple-choice": []
+    },
+    {
+        "title": "Einstein's twin paradox explained - Amber Stuver",
+        "category": "Mathematics",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you wear sunscreen?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The surprisingly long history of electric cars - Daniel Sperling and Gil Tal",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Food waste causes climate change. Here's how we stop it",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "According to the video, what percentage of food produced globally is wasted?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "10%"
+                    },
+                    {
+                        "label": "B",
+                        "text": "25%"
+                    },
+                    {
+                        "label": "C",
+                        "text": "33%"
+                    },
+                    {
+                        "label": "D",
+                        "text": "40%"
+                    }
+                ]
+            },
+            {
+                "question": "Which greenhouse gas is released during the decomposition of food waste in landfills?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Carbon dioxide"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Nitrogen oxide"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Methane"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Ozone"
+                    }
+                ]
+            },
+            {
+                "question": "What is one example of a \"pre-sale\" cause of food waste mentioned in the video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Consumers throwing away expired food."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Grocery stores donating surplus food to charities."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Cosmetic standards leading to discarding edible produce."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Farmers leaving crops unharvested due to low market prices."
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following is NOT suggested as a solution for reducing food waste at the individual level?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Planning meals in advance."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Utilizing resources like \"Eat by Date.\""
+                    },
+                    {
+                        "label": "C",
+                        "text": "Purchasing more food than needed to avoid running out."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Composting food scraps."
+                    }
+                ]
+            },
+            {
+                "question": "What policy change is suggested to help address food waste?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Banning the use of single-use plastics."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Standardizing expiration dates based on scientific evidence."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Increasing taxes on processed foods."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Promoting organic farming practices."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How do self-driving cars \"see\"? - Sajan Saini",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is meningitis so dangerous? - Melvin Sanicas",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is phantom traffic and why is it ruining your life? - Benjamin Seibold",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The race to decode a mysterious language - Susan Lupack",
+        "category": "Linguistics",
+        "multiple-choice": []
+    },
+    {
+        "title": "What if all the ice melted on Earth?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why are you always tired?",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "The life, legacy & assassination of an African revolutionary - Lisa Janae Bacon",
+        "category": "History",
+        "multiple-choice": []
+    },
+    {
+        "title": "I Like Myself - Children's books read aloud",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is schizophrenia? - Anees Bahji",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "How do pelicans survive their death-defying dives?",
+        "category": "Environmental Science",
+        "multiple-choice": []
+    },
+    {
+        "title": "The truth about electroconvulsive therapy (ECT) - Helen M. Farrell",
+        "category": "Health",
+        "multiple-choice": [
+            {
+                "question": "What is the primary purpose of electroconvulsive therapy (ECT)?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To induce sleep in patients with insomnia."
+                    },
+                    {
+                        "label": "B",
+                        "text": "To treat severe depression and bipolar disorder."
+                    },
+                    {
+                        "label": "C",
+                        "text": "To alleviate chronic pain conditions."
+                    },
+                    {
+                        "label": "D",
+                        "text": "To improve cognitive function in elderly individuals."
+                    }
+                ]
+            },
+            {
+                "question": "Which statement accurately describes the administration of modern ECT?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It is performed without anesthesia, causing prolonged seizures."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It involves brief electrical pulses under general anesthesia, triggering controlled seizures."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It utilizes high-frequency sound waves to stimulate brain activity."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It relies on magnetic fields to induce changes in brain chemistry."
+                    }
+                ]
+            },
+            {
+                "question": "Approximately what percentage of patients experience symptom improvement after ECT treatment?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Less than 10%"
+                    },
+                    {
+                        "label": "B",
+                        "text": "25% to 49%"
+                    },
+                    {
+                        "label": "C",
+                        "text": "50% or more"
+                    },
+                    {
+                        "label": "D",
+                        "text": "75% to 99%"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following is NOT a typical side effect of ECT?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Temporary muscle aches"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Fatigue"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Nausea"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Permanent memory loss"
+                    }
+                ]
+            },
+            {
+                "question": "How does ECT primarily influence mood and behavior?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "By directly stimulating specific brain regions associated with emotions."
+                    },
+                    {
+                        "label": "B",
+                        "text": "By altering brain chemistry through the release of neurotransmitters and hormones."
+                    },
+                    {
+                        "label": "C",
+                        "text": "By blocking the effects of certain neurochemicals involved in depression."
+                    },
+                    {
+                        "label": "D",
+                        "text": "By inducing a state of deep relaxation and reducing anxiety levels."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What is imposter syndrome and how can you combat it? - Elizabeth Cox",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Fabulous food chains",
+        "category": "Environmental Science",
+        "multiple-choice": []
+    },
+    {
+        "title": "How An Igloo Keeps You Warm",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Infinity according to Jorge Luis Borges - Ilan Stavans",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Volcanic eruption explained - Steven Anderson",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The strange history of the world's most stolen painting - Noah Charney",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "**What year was a panel of the Ghent Altarpiece stolen?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "1432"
+                    },
+                    {
+                        "label": "B",
+                        "text": "1934"
+                    },
+                    {
+                        "label": "C",
+                        "text": "1945"
+                    },
+                    {
+                        "label": "D",
+                        "text": "2019"
+                    }
+                ]
+            },
+            {
+                "question": "**Which war led to the Nazis seizing the Ghent Altarpiece?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "World War I"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The Cold War"
+                    },
+                    {
+                        "label": "C",
+                        "text": "World War II"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The Vietnam War"
+                    }
+                ]
+            },
+            {
+                "question": "**What artistic technique did Jan van Eyck pioneer with the Ghent Altarpiece?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Fresco painting"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Mosaic art"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Oil paint"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Watercolor"
+                    }
+                ]
+            },
+            {
+                "question": "**What surprising discovery was made about the \"mystic lamb\" during conservation work in 2019?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It was painted with gold leaf."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It depicted a hidden message."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It had been repainted, concealing a humanoid original."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It contained traces of Van Eyck's signature."
+                    }
+                ]
+            },
+            {
+                "question": "**What recent development suggests the missing panel might be located in a secure place?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "An anonymous tip from an art collector."
+                    },
+                    {
+                        "label": "B",
+                        "text": "A deathbed confession from a stockbroker."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Declassified documents from World War II."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The discovery of a hidden compartment in the altarpiece."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read \"The God of Small Things\" by Arundhati Roy? - Laura Wright",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "Performing brain surgery without a scalpel - Hyunsoo Joshua No",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "How this disease changes the shape of your cells - Amber M. Yates",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "The counting by fives song | Counting songs",
+        "category": "Numbers & Operations",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we have leap years?",
+        "category": "Teaching & Education",
+        "multiple-choice": []
+    },
+    {
+        "title": "Is binge watching bad for you?",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Meet the microscopic life in your home--- and on your face - Anne Madden",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we wrinkle when wet?",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "3D shapes song | Shapes for kids",
+        "category": "Geometry",
+        "multiple-choice": [
+            {
+                "question": "Which 3D shape is compared to a dice?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Cone"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Sphere"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Cylinder"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Cube"
+                    }
+                ]
+            },
+            {
+                "question": "What everyday object is used as an example for a cone?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Ball"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Soda can"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Party hat"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Block"
+                    }
+                ]
+            },
+            {
+                "question": "Which shape is described as being able to be rolled?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Cube"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Cone"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Sphere"
+                    },
+                    {
+                        "label": "D",
+                        "text": "All of the above"
+                    }
+                ]
+            },
+            {
+                "question": "What action is associated with a sphere in the video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Shaking"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Rolling"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Dancing"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Bouncing"
+                    }
+                ]
+            },
+            {
+                "question": "The main purpose of this video lesson is to help children learn about:",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "2D shapes"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Basic 3D shapes"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Fractions"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Measurement"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The most common STI in the world - Emma Bryce",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Who was the world's first author? - Soraya Field Fiorio",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Harvey Milk's radical vision of equality - Lillian Faderman",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "Is human evolution speeding up or slowing down? - Laurence Hurst",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "Which of the following is NOT an example of human adaptation mentioned in the video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Tibetans adapting to high altitude"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Siberians thriving in extreme cold"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The development of opposable thumbs"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The Bajau people's diving abilities"
+                    }
+                ]
+            },
+            {
+                "question": "How does modern medicine impact natural selection according to the video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It accelerates the rate of adaptation."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It eliminates the need for genetic variation."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It reduces the impact of natural selection by keeping individuals alive despite genetic weaknesses."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It introduces new genes into the human population."
+                    }
+                ]
+            },
+            {
+                "question": "What is a key characteristic of the Bajau people's adaptation to diving?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They have unusually large lungs for oxygen storage."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They possess webbed feet for efficient swimming."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They have unusually large spleens for oxygen storage."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They can hold their breath for extended periods without conscious effort."
+                    }
+                ]
+            },
+            {
+                "question": "What is the estimated timeframe for the Tibetan adaptation to high altitude?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "300 years"
+                    },
+                    {
+                        "label": "B",
+                        "text": "1,000 years"
+                    },
+                    {
+                        "label": "C",
+                        "text": "3,000 years"
+                    },
+                    {
+                        "label": "D",
+                        "text": "10,000 years"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following statements about epigenetic modifications is TRUE according to the video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They always result in permanent changes to DNA sequence."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They are a proven mechanism for rapid adaptation in humans."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They involve changes in gene expression rather than DNA sequence."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They have no impact on human evolution."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The surprising similarities between Twister and intelligence",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why beavers are the smartest thing in fur pants",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why we should draw more (and photograph less)",
+        "category": "Physical Fitness",
+        "multiple-choice": []
+    },
+    {
+        "title": "The history of manners",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the multiplying rabbits riddle? - Alex Gendler",
+        "category": "Mathematics",
+        "multiple-choice": []
+    },
+    {
+        "title": "Art with Mati and Dada \u2013 Henri Matisse",
+        "category": "Visual Arts",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why don't haircuts hurt?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "An Exercise in Self Compassion",
+        "category": "Emotional Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "The secret language of trees - Camille Defrenne and Suzanne Simard",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "The myth of the Sampo--- an infinite source of fortune and greed - Hanna-Ilona H\u00e4rm\u00e4vaara",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why some people don't have an inner monologue",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you survive nuclear fallout? - Brooke Buddemeier and Jessica S. Wieder",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The rise and fall of the Lakota Empire - Pekka H\u00e4m\u00e4l\u00e4inen",
+        "category": "History",
+        "multiple-choice": []
+    },
+    {
+        "title": "Climate change will displace millions. Here's how we prepare - Colette Pichon Battle",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The counting by tens song | Counting songs",
+        "category": "Numbers & Operations",
+        "multiple-choice": []
+    },
+    {
+        "title": "Licking bees and pulping trees: The reign of a wasp queen - Kenny Coogan",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The physics of surfing - Nick Pizzo",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do these deadly insects look like flowers?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Better know the Mona Lisa",
+        "category": "Visual Arts",
+        "multiple-choice": []
+    },
+    {
+        "title": "SH | fun phonics | how to read",
+        "category": "Literature & Language",
+        "multiple-choice": [
+            {
+                "question": "Which of the following is the primary focus of the video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Teaching children about different animal sounds."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Exploring the concept of rhyming words."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Differentiating between short and long vowel sounds."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Understanding basic grammar rules."
+                    }
+                ]
+            },
+            {
+                "question": "What type of words are used in the video to illustrate short and long vowel sounds?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Abstract nouns"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Action verbs"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Common everyday words"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Scientific terminology"
+                    }
+                ]
+            },
+            {
+                "question": "Which teaching method does the video primarily employ to make learning engaging?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Direct instruction with flashcards."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Interactive games and puzzles."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Repetition and rhyme."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Real-life scenarios and role-playing."
+                    }
+                ]
+            },
+            {
+                "question": "What kind of visuals accompany the video's narrative?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Black and white illustrations."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Realistic photographs."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Animated visuals."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Silent, static images."
+                    }
+                ]
+            },
+            {
+                "question": "What is the overall goal of this educational video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To prepare children for advanced reading comprehension."
+                    },
+                    {
+                        "label": "B",
+                        "text": "To make learning about phonics fun and accessible."
+                    },
+                    {
+                        "label": "C",
+                        "text": "To teach children how to write their own rhymes."
+                    },
+                    {
+                        "label": "D",
+                        "text": "To introduce children to different cultures through storytelling."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What makes neon signs glow? A 360 degree animation - Michael Lipman",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": [
+            {
+                "question": "**Who is credited with pioneering the techniques to liquefy air and separate neon gas, leading to the creation of neon lighting?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Thomas Edison"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Nikola Tesla"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Georges Claude"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Albert Einstein"
+                    }
+                ]
+            },
+            {
+                "question": "**What is the name given to the artisans who handcrafted neon signs by bending glass tubes and filling them with gas?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Glassblowers"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Electricians"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Tube-benders"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Sign painters"
+                    }
+                ]
+            },
+            {
+                "question": "**What happens when electricity passes through neon gas to create the characteristic glow?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Neon atoms absorb energy and release heat."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Electrons in neon atoms are energized and release photons of light."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Neon gas expands rapidly, creating a visible wave."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Chemical reactions within the neon gas produce light."
+                    }
+                ]
+            },
+            {
+                "question": "**Which decade saw neon signs become widely popular due to their vibrant colors and durability?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The 1910s"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The 1930s"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The 1950s"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The 1970s"
+                    }
+                ]
+            },
+            {
+                "question": "**Besides neon, what other gas is commonly used in neon signs to produce a lavender glow?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Helium"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Krypton"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Argon"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Xenon"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Prohibition: Banning alcohol was a bad idea... - Rod Phillips",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne",
+        "category": "Health",
+        "multiple-choice": [
+            {
+                "question": "What is the primary function of messenger RNA (mRNA) in mRNA vaccines?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To directly attack and destroy invading viruses."
+                    },
+                    {
+                        "label": "B",
+                        "text": "To replicate itself within human cells, creating copies of the virus."
+                    },
+                    {
+                        "label": "C",
+                        "text": "To instruct cells to produce harmless viral proteins, triggering an immune response."
+                    },
+                    {
+                        "label": "D",
+                        "text": "To repair damaged DNA caused by viral infections."
+                    }
+                ]
+            },
+            {
+                "question": "What is a significant advantage of mRNA vaccines compared to traditional vaccines?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They provide lifelong immunity with a single dose."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They are significantly cheaper to produce."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They can be developed much faster due to their simpler design."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They eliminate the need for booster shots."
+                    }
+                ]
+            },
+            {
+                "question": "How are mRNA molecules delivered into cells in an mRNA vaccine?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Through specialized immune cells that recognize and engulf the mRNA."
+                    },
+                    {
+                        "label": "B",
+                        "text": "By directly injecting the mRNA into the bloodstream."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Encased within lipid nanoparticles that fuse with cell membranes."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Using a viral vector to carry the mRNA into cells."
+                    }
+                ]
+            },
+            {
+                "question": "What happens inside cells after mRNA molecules are delivered?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The mRNA integrates itself into the cell's DNA, altering its genetic code."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Ribosomes build the viral protein instructed by the mRNA."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The mRNA is immediately broken down by cellular enzymes."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The mRNA replicates itself, creating multiple copies within the cell."
+                    }
+                ]
+            },
+            {
+                "question": "What is a potential future implication of mRNA technology discussed in the summary?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Replacing traditional antibiotics with mRNA-based treatments for bacterial infections."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Developing personalized cancer therapies based on an individual's genetic makeup."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Creating vaccines against emerging diseases much faster than currently possible."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Eradicating all known infectious diseases through widespread vaccination."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The science of Flint's water crisis",
+        "category": "Public Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "How bones make blood - Melody Smith",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "How soap kills the coronavirus",
+        "category": "Public Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "What makes TB the world's most infectious killer? - Melvin Sanicas",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The world's ugliest animal",
+        "category": "Environmental Science",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is this painting so shocking? - Iseult Gillespie",
+        "category": "The Arts",
+        "multiple-choice": []
+    },
+    {
+        "title": "The imaginary king who changed the real world - Matteo Salvadore",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "What happens when you lose a balloon?",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "**Why do helium-filled balloons float?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Because helium is heavier than air."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Because helium is filled with magic."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Because helium is lighter than air."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Because the balloon strings are attached to clouds."
+                    }
+                ]
+            },
+            {
+                "question": "**What happens to the helium inside a rising balloon?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It shrinks because the air pressure increases."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It expands because the air thins out."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It disappears into the atmosphere."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It turns into hot air."
+                    }
+                ]
+            },
+            {
+                "question": "**What can happen to a weak balloon as it rises high?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It will turn into a cloud."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It will freeze solid."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It will pop."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It will become invisible."
+                    }
+                ]
+            },
+            {
+                "question": "**How does the cold temperature at high altitudes affect a strong balloon?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It makes the rubber soft and stretchy."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It causes the helium to escape."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It makes the rubber stiff, causing it to shatter."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It turns the balloon into ice."
+                    }
+                ]
+            },
+            {
+                "question": "**What is one potential consequence of balloons shattering in the atmosphere?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They can pollute the air with harmful gases."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They can cause damage to satellites."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Small fragments can be harmful to animals."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They can create holes in the ozone layer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The quest for the perfect apple",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "3 bizarre (and delightful) ancient theories about bird migration - Lucy Cooke",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why perfect grades don't matter",
+        "category": "Teaching & Education",
+        "multiple-choice": [
+            {
+                "question": "According to the video, what is a potential negative consequence of basing self-worth solely on grades?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Increased motivation to learn"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Improved critical thinking skills"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Low self-esteem and decreased risk-taking in learning"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Enhanced collaboration with peers"
+                    }
+                ]
+            },
+            {
+                "question": "What does the video suggest as a potential consequence of the pressure to achieve high grades?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Increased creativity and innovation"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Reduced stress levels and anxiety"
+                    },
+                    {
+                        "label": "C",
+                        "text": "High stress levels and even cheating"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Improved time management skills"
+                    }
+                ]
+            },
+            {
+                "question": "What does the video claim about the relationship between high test scores and real-world success?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "High test scores always guarantee success in college and life."
+                    },
+                    {
+                        "label": "B",
+                        "text": "High test scores are irrelevant to success in college or life."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Consistent hard work demonstrated through good grades often leads to better outcomes than solely relying on test scores."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Test scores are the most important factor for determining future career paths."
+                    }
+                ]
+            },
+            {
+                "question": "What does the video highlight as a successful example of an alternative approach to education?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The United States' emphasis on standardized testing"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Finland's education system, which prioritizes learning over grades"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The traditional grading system used in most schools worldwide"
+                    },
+                    {
+                        "label": "D",
+                        "text": "A system where students are only graded on their creativity and innovation"
+                    }
+                ]
+            },
+            {
+                "question": "What is the main argument presented by the video regarding true success?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "True success is solely measured by achieving high grades."
+                    },
+                    {
+                        "label": "B",
+                        "text": "True success lies in fostering a love of learning beyond achieving high marks."
+                    },
+                    {
+                        "label": "C",
+                        "text": "True success requires memorizing vast amounts of information."
+                    },
+                    {
+                        "label": "D",
+                        "text": "True success depends on pleasing teachers and adhering to strict rules."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you trust your ears? (audio illusions)",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is my leg asleep?",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why don't we throw trash in volcanoes?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Is life meaningless? And other absurd questions - Nina Medvinskaya",
+        "category": "Philosophy",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you read \"Moby Dick\"? - Sascha Morrell",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do American schools have such long hours?",
+        "category": "Teaching & Education",
+        "multiple-choice": []
+    },
+    {
+        "title": "Here Comes Teacher Cat - Read aloud picture book",
+        "category": "Literature",
+        "multiple-choice": [
+            {
+                "question": "What prompts the cat to become a substitute teacher?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The kittens ask him to teach them."
+                    },
+                    {
+                        "label": "B",
+                        "text": "He wants to impress Miss Melba."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Miss Melba goes to the doctor."
+                    },
+                    {
+                        "label": "D",
+                        "text": "He is bored at home."
+                    }
+                ]
+            },
+            {
+                "question": "Which activity do the kittens NOT participate in during their day with the cat?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Music"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Building"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Reading"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Art"
+                    }
+                ]
+            },
+            {
+                "question": "What special treat does the cat provide during snack time?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Milk and cookies"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Chicken nuggets"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Fish"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Pizza"
+                    }
+                ]
+            },
+            {
+                "question": "How would you best describe the cat's teaching methods?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Traditional and structured"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Unconventional and chaotic"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Boring and repetitive"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Strict and disciplined"
+                    }
+                ]
+            },
+            {
+                "question": "What is one of the main themes explored in \"Here Comes Teacher Cat\"?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The importance of following rules"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The benefits of having a pet"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The unexpected joys of learning"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The dangers of being unprepared"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What happens when nature goes viral?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The myth of Loki and the master builder - Alex Gendler",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "How Thor got his hammer - Scott A. Mellor",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "Helping others makes us happier--- but it matters how we do it - Elizabeth Dunn",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is Juneteenth, and why is it important? - Karlos K. Hill and Soraya Field Fiorio",
+        "category": "Social Studies",
+        "multiple-choice": [
+            {
+                "question": "According to the video, what was a significant economic impact of slavery in the United States?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It led to rapid industrialization in the North."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It fueled the US economy for centuries."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It caused widespread poverty among free citizens."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It resulted in the decline of agricultural production."
+                    }
+                ]
+            },
+            {
+                "question": "How did enslaved people resist their enslavement?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "By remaining passive and accepting their fate."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Through escapes, sabotage, and rebellions."
+                    },
+                    {
+                        "label": "C",
+                        "text": "By petitioning the government for immediate emancipation."
+                    },
+                    {
+                        "label": "D",
+                        "text": "By forming alliances with European powers to overthrow slaveholders."
+                    }
+                ]
+            },
+            {
+                "question": "What was Abraham Lincoln's role in the fight against slavery?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "He initially supported slavery but later changed his stance."
+                    },
+                    {
+                        "label": "B",
+                        "text": "He issued the Emancipation Proclamation, freeing enslaved people in Confederate states."
+                    },
+                    {
+                        "label": "C",
+                        "text": "He led a military campaign to capture and free all enslaved people."
+                    },
+                    {
+                        "label": "D",
+                        "text": "He negotiated a treaty with Southern states to abolish slavery peacefully."
+                    }
+                ]
+            },
+            {
+                "question": "What does Juneteenth commemorate?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The signing of the Emancipation Proclamation."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The ratification of the 13th Amendment."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The announcement of emancipation in Galveston, Texas."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The end of the Civil War."
+                    }
+                ]
+            },
+            {
+                "question": "What is the main message conveyed by the video regarding slavery's legacy?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Slavery is a distant historical issue with no impact on modern society."
+                    },
+                    {
+                        "label": "B",
+                        "text": "While officially abolished, slavery's legacy continues to shape American society."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Juneteenth is solely a celebration of the end of slavery and has no relevance today."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Racial equality has been achieved in the United States since the abolition of slavery."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read Sylvia Plath? - Iseult Gillespie",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "There may be extraterrestrial life in our solar system - Augusto Carballido",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The Princess and the Pea - Read aloud picture book",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the secret sauce riddle? - Alex Gendler",
+        "category": "Problem Solving",
+        "multiple-choice": []
+    },
+    {
+        "title": "The secret society of the Great Dismal Swamp - Dan Sayers",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why parrots can talk like humans",
+        "category": "Life Sciences",
+        "multiple-choice": []
+    },
+    {
+        "title": "Your brain hallucinates your conscious reality - Anil Seth",
+        "category": "Consciousness, Sensation and Perception",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the Ragnarok riddle? - Dan Finkel",
+        "category": "Thinking & Learning",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is depression? - Helen M. Farrell",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why does smoke follow you around a fire?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "How to deal with rejection",
+        "category": "Psychology",
+        "multiple-choice": [
+            {
+                "question": "According to the video, which brain regions are activated during social rejection?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Visual cortex and auditory cortex"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Amygdala and hippocampus"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Frontal lobe and parietal lobe"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Areas associated with physical pain"
+                    }
+                ]
+            },
+            {
+                "question": "What makes social rejection distinct from other types of rejection?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It involves a perceived threat to our physical safety."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It triggers a warning system about threats to our social well-being."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It always results in long-term emotional distress."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It is more common among younger individuals."
+                    }
+                ]
+            },
+            {
+                "question": "Why might our ancestors have reacted strongly to rejection?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Social groups were essential for their survival."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They lacked the cognitive ability to process complex emotions."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Rejection was often accompanied by physical violence."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They had a strong fear of being ostracized from their community."
+                    }
+                ]
+            },
+            {
+                "question": "Which coping strategy does the video suggest for dealing with social rejection?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Immediately seeking validation from others."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Ignoring the situation and pretending it didn't happen."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Reflecting on your self-view and potential insecurities."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Blaming the other person for their hurtful actions."
+                    }
+                ]
+            },
+            {
+                "question": "What is a key message emphasized in the video about social rejection?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It is a sign of personal weakness and failure."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It should be avoided at all costs through careful social maneuvering."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It is a universal experience that can lead to growth and self-reflection."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It is best to suppress your feelings and move on quickly."
+                    }
+                ]
+            }
+        ]
+    }
+]

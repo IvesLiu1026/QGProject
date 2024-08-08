@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "multiple-choice": [
+            {
+                "question": "What were the main causes of World War II?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Territorial disputes and economic instability"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The rise of totalitarian regimes and the failure of international diplomacy"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Technological advancements and political disagreements"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Religious differences and resource competition"
+                    }
+                ]
+            },
+            {
+                "question": "What are some unique aspects of Native American cultures?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "All tribes share similar traditions, religions, and languages"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Each tribe has its own culture, religion, and language"
+                    },
+                    {
+                        "label": "C",
+                        "text": "They all primarily relied on hunting for their sustenance"
+                    },
+                    {
+                        "label": "D",
+                        "text": "They all built the same type of shelter, a wigwam"
+                    }
+                ]
+            },
+            {
+                "question": "Which five Native American tribes are mentioned in the video as the largest?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Cherokee, Sioux, Navajo, Iroquois, and Comanche"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Cherokee, Sioux, Navajo, Iroquois, and Apache"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Cherokee, Sioux, Navajo, Pueblo, and Inca"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Cherokee, Sioux, Navajo, Cheyenne, and Arapaho"
+                    }
+                ]
+            },
+            {
+                "question": "What skills did Native Americans have that were mentioned in the video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Only hunting and fishing"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Hunting, fishing, agriculture, and crafting"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Just building shelters and making pottery"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Only speaking their native languages"
+                    }
+                ]
+            },
+            {
+                "question": "What is a wigwam made of?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Rocks and stones"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Branches, leaves, and grass"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Metal and plastic"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Wood and brick"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "What were the main causes of World War II?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Territorial disputes and economic instability"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The rise of totalitarian regimes and failure of international diplomacy"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Technological advancements and resource scarcity"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Religious differences and cultural misunderstandings"
+                    }
+                ]
+            },
+            {
+                "question": "What unique abilities do pigeons possess?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Enhanced vision and the ability to detect subtle changes in Earth's magnetic field"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The capacity to communicate complex messages through cooing sounds"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Expertise in navigating using visual maps, Earth's magnetic field, and the angle of the sun"
+                    },
+                    {
+                        "label": "D",
+                        "text": "An extraordinary sense of smell that allows them to locate food and avoid predators"
+                    }
+                ]
+            },
+            {
+                "question": "What is the significance of pigeons in Charles Darwin's theory of evolution?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Pigeons are a key example used by Darwin to illustrate natural selection and adaptation"
+                    },
+                    {
+                        "label": "B",
+                        "text": "They played an essential role in the development of the theory itself"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Pigeons were instrumental in proving the existence of intelligent design"
+                    },
+                    {
+                        "label": "D",
+                        "text": "There is no connection between pigeons and Charles Darwin's theory of evolution"
+                    }
+                ]
+            },
+            {
+                "question": "What adaptations have pigeons developed to thrive in urban environments?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They have evolved to be more resistant to noise pollution, allowing them to navigate busy streets effectively"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Pigeons have become more adept at finding shelter and nesting materials within human-made structures"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Their sense of smell has grown stronger, enabling them to detect food scraps in garbage cans"
+                    },
+                    {
+                        "label": "D",
+                        "text": "They have developed the ability to fly in a straight line for long distances without stopping"
+                    }
+                ]
+            },
+            {
+                "question": "How have pigeons been used throughout history?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Pigeons were primarily kept as pets and ornamental fowl"
+                    },
+                    {
+                        "label": "B",
+                        "text": "They have been used as messengers, with their rapid mobility making them ideal for delivering important information quickly"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Pigeons played a significant role in the development of navigation systems, helping sailors navigate the open seas"
+                    },
+                    {
+                        "label": "D",
+                        "text": "They were primarily used for scientific research and understanding animal behavior"
+                    }
+                ]
+            }
+        ]
+    }
+]

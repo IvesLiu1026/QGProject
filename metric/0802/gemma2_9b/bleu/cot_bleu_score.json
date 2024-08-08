@@ -1,0 +1,1346 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is it normal to talk to yourself?",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How tall can a tree grow? - Valentin Hammoudi",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the dark matter fuel riddle? - Daniel Finkel",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.7144651774490731,
+        "options-average-bleu": 0.41929536083878205,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7236262419845225,
+                "options_bleu": [
+                    0.4494780405208269,
+                    0.4803776286976387,
+                    0.2430081724445992,
+                    0.23617861373322546
+                ]
+            },
+            {
+                "question_bleu": 0.697613262053043,
+                "options_bleu": [
+                    0.28149018369595064,
+                    0.4992217875249571,
+                    0.4254345887619655,
+                    0.42470150216399166
+                ]
+            },
+            {
+                "question_bleu": 0.7097305991036781,
+                "options_bleu": [
+                    0.32303524793448585,
+                    0.10943194305312254,
+                    0.11814277944903066,
+                    0.07578478544277846
+                ]
+            },
+            {
+                "question_bleu": 0.7410598136218668,
+                "options_bleu": [
+                    0.7598356856515925,
+                    0.7598356856515925,
+                    1.0,
+                    0.7825422900366437
+                ]
+            },
+            {
+                "question_bleu": 0.7002959704822554,
+                "options_bleu": [
+                    0.2760525182096131,
+                    0.33851431553981304,
+                    0.3005046148503396,
+                    0.5023368334134732
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read Toni Morrison's \"Beloved\"? - Yen Pham",
+        "category": "Literature",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you outsmart this logical fallacy? - Alex Gendler",
+        "category": "Thinking & Learning",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Einstein's twin paradox explained - Amber Stuver",
+        "category": "Mathematics",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you wear sunscreen?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The surprisingly long history of electric cars - Daniel Sperling and Gil Tal",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Food waste causes climate change. Here's how we stop it",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7118604645853708,
+        "options-average-bleu": 0.8247896188647938,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7630350645544293,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6964705665515708,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7093339167321887,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.733503637924837,
+                "options_bleu": [
+                    0.12228923309170908,
+                    0.1353352832366127,
+                    0.1353352832366127,
+                    0.10283257773094409
+                ]
+            },
+            {
+                "question_bleu": 0.6569591371638285,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How do self-driving cars \"see\"? - Sajan Saini",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is meningitis so dangerous? - Melvin Sanicas",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is phantom traffic and why is it ruining your life? - Benjamin Seibold",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The race to decode a mysterious language - Susan Lupack",
+        "category": "Linguistics",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What if all the ice melted on Earth?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why are you always tired?",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The life, legacy & assassination of an African revolutionary - Lisa Janae Bacon",
+        "category": "History",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "I Like Myself - Children's books read aloud",
+        "category": "Literature",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is schizophrenia? - Anees Bahji",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How do pelicans survive their death-defying dives?",
+        "category": "Environmental Science",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The truth about electroconvulsive therapy (ECT) - Helen M. Farrell",
+        "category": "Health",
+        "questions-average-bleu": 0.7645821873855032,
+        "options-average-bleu": 0.4383681347962226,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7723992097442183,
+                "options_bleu": [
+                    0.45613878879582226,
+                    0.4256279541919936,
+                    0.27768352844338134,
+                    0.4784023976826744
+                ]
+            },
+            {
+                "question_bleu": 0.8194819929960947,
+                "options_bleu": [
+                    0.215377563692651,
+                    0.27857380744897714,
+                    0.15891533690303702,
+                    0.16963334090662577
+                ]
+            },
+            {
+                "question_bleu": 0.7687241639790432,
+                "options_bleu": [
+                    0.36330554542576643,
+                    0.5946035575013605,
+                    0.6345814629568174,
+                    0.6028448325695556
+                ]
+            },
+            {
+                "question_bleu": 0.7571073267517036,
+                "options_bleu": [
+                    0.5555238068023582,
+                    0.27921139722930266,
+                    0.2769100081654451,
+                    0.37407225566230956
+                ]
+            },
+            {
+                "question_bleu": 0.7051982434564569,
+                "options_bleu": [
+                    0.6930977286178779,
+                    0.6051012508914458,
+                    0.7226568811456053,
+                    0.6051012508914458
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What is imposter syndrome and how can you combat it? - Elizabeth Cox",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Fabulous food chains",
+        "category": "Environmental Science",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How An Igloo Keeps You Warm",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Infinity according to Jorge Luis Borges - Ilan Stavans",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Volcanic eruption explained - Steven Anderson",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The strange history of the world's most stolen painting - Noah Charney",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7301108902751828,
+        "options-average-bleu": 0.9920448207626859,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.769642045212638,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.8408964152537145
+                ]
+            },
+            {
+                "question_bleu": 0.6950150297221263,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7264385742573204,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6996231165322373,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read \"The God of Small Things\" by Arundhati Roy? - Laura Wright",
+        "category": "Literature",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Performing brain surgery without a scalpel - Hyunsoo Joshua No",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How this disease changes the shape of your cells - Amber M. Yates",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The counting by fives song | Counting songs",
+        "category": "Numbers & Operations",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we have leap years?",
+        "category": "Teaching & Education",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is binge watching bad for you?",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Meet the microscopic life in your home--- and on your face - Anne Madden",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we wrinkle when wet?",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "3D shapes song | Shapes for kids",
+        "category": "Geometry",
+        "questions-average-bleu": 0.7482784344608633,
+        "options-average-bleu": 0.826675112479542,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7293799946522604,
+                "options_bleu": [
+                    0.7013967267997694,
+                    0.7514772930752859,
+                    0.8091067115702212,
+                    0.8824969025845955
+                ]
+            },
+            {
+                "question_bleu": 0.7842988494376653,
+                "options_bleu": [
+                    0.7071067811865476,
+                    0.6389431042462724,
+                    0.8891397050194614,
+                    0.7071067811865476
+                ]
+            },
+            {
+                "question_bleu": 0.691441569283882,
+                "options_bleu": [
+                    0.6865890479690392,
+                    0.7186082239261684,
+                    0.816496580927726,
+                    0.7226568811456053
+                ]
+            },
+            {
+                "question_bleu": 0.7801157731069053,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.7952707287670506
+                ]
+            },
+            {
+                "question_bleu": 0.7561559858236034,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.7071067811865476
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The most common STI in the world - Emma Bryce",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Who was the world's first author? - Soraya Field Fiorio",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Harvey Milk's radical vision of equality - Lillian Faderman",
+        "category": "Social Studies",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is human evolution speeding up or slowing down? - Laurence Hurst",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7128948386326123,
+        "options-average-bleu": 0.7843360280647599,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7234804230870479,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7348889200874658,
+                "options_bleu": [
+                    0.19901231549596865,
+                    0.5681096832337497,
+                    0.19518444069129323,
+                    0.5115779132205639
+                ]
+            },
+            {
+                "question_bleu": 0.6918912876154527,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7071067811865476,
+                "options_bleu": [
+                    0.5773502691896257,
+                    0.5491004867761125,
+                    0.5491004867761125,
+                    0.537284965911771
+                ]
+            },
+            {
+                "question_bleu": 0.7071067811865476,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The surprising similarities between Twister and intelligence",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why beavers are the smartest thing in fur pants",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why we should draw more (and photograph less)",
+        "category": "Physical Fitness",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The history of manners",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the multiplying rabbits riddle? - Alex Gendler",
+        "category": "Mathematics",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Art with Mati and Dada \u2013 Henri Matisse",
+        "category": "Visual Arts",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why don't haircuts hurt?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "An Exercise in Self Compassion",
+        "category": "Emotional Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The secret language of trees - Camille Defrenne and Suzanne Simard",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The myth of the Sampo--- an infinite source of fortune and greed - Hanna-Ilona H\u00e4rm\u00e4vaara",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why some people don't have an inner monologue",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you survive nuclear fallout? - Brooke Buddemeier and Jessica S. Wieder",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The rise and fall of the Lakota Empire - Pekka H\u00e4m\u00e4l\u00e4inen",
+        "category": "History",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Climate change will displace millions. Here's how we prepare - Colette Pichon Battle",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The counting by tens song | Counting songs",
+        "category": "Numbers & Operations",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Licking bees and pulping trees: The reign of a wasp queen - Kenny Coogan",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The physics of surfing - Nick Pizzo",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do these deadly insects look like flowers?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Better know the Mona Lisa",
+        "category": "Visual Arts",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "SH | fun phonics | how to read",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.7227829690652062,
+        "options-average-bleu": 0.570429409919512,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    0.4366835442847812,
+                    0.3760603093086394,
+                    0.37991784282579627,
+                    0.3521856535823236
+                ]
+            },
+            {
+                "question_bleu": 0.7389984311706962,
+                "options_bleu": [
+                    0.6756000774035172,
+                    0.21163412130853046,
+                    0.6262844962765469,
+                    0.2905857294915733
+                ]
+            },
+            {
+                "question_bleu": 0.6727329617725385,
+                "options_bleu": [
+                    0.7311104457090247,
+                    0.7391898294044948,
+                    0.7311104457090247,
+                    0.3627538269845734
+                ]
+            },
+            {
+                "question_bleu": 0.7633947323726819,
+                "options_bleu": [
+                    0.5081327481546147,
+                    0.5491004867761125,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6789530343585221,
+                "options_bleu": [
+                    0.488923022434901,
+                    1.0,
+                    0.4671379777282001,
+                    0.48217764100758403
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What makes neon signs glow? A 360 degree animation - Michael Lipman",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0.661263191161816,
+        "options-average-bleu": 0.7828954639850474,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.684694991173804,
+                "options_bleu": [
+                    0.6389431042462724,
+                    0.7311104457090247,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6262844962765469,
+                "options_bleu": [
+                    0.8242367502646054,
+                    0.6389431042462724,
+                    0.6803749333171202,
+                    0.7186082239261684
+                ]
+            },
+            {
+                "question_bleu": 0.6650758366266898,
+                "options_bleu": [
+                    0.5555238068023582,
+                    0.4600040051538459,
+                    0.2527600769504433,
+                    0.5800545598952107
+                ]
+            },
+            {
+                "question_bleu": 0.6481388934544839,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6821217382775556,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    0.5773502691896257,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Prohibition: Banning alcohol was a bad idea... - Rod Phillips",
+        "category": "Social Studies",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne",
+        "category": "Health",
+        "questions-average-bleu": 0.7504773617223603,
+        "options-average-bleu": 0.366274414162257,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7571073267517036,
+                "options_bleu": [
+                    0.36260298748796105,
+                    0.3613541076616218,
+                    0.1061525103616806,
+                    0.35884493644111554
+                ]
+            },
+            {
+                "question_bleu": 0.7277437694115145,
+                "options_bleu": [
+                    0.6116908849062525,
+                    0.3538609623417823,
+                    0.3123526853944361,
+                    0.4490205559174078
+                ]
+            },
+            {
+                "question_bleu": 0.7506238537503395,
+                "options_bleu": [
+                    0.3520696440183301,
+                    0.34823528327578535,
+                    0.3406227682100307,
+                    0.3816887106228539
+                ]
+            },
+            {
+                "question_bleu": 0.7333027055301685,
+                "options_bleu": [
+                    0.35182375656023107,
+                    0.31020161970069987,
+                    0.30680874711160605,
+                    0.30913378416714554
+                ]
+            },
+            {
+                "question_bleu": 0.7836091531680753,
+                "options_bleu": [
+                    0.3311995165665254,
+                    0.6471892368478446,
+                    0.3811453801202293,
+                    0.34949020553159976
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The science of Flint's water crisis",
+        "category": "Public Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How bones make blood - Melody Smith",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How soap kills the coronavirus",
+        "category": "Public Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What makes TB the world's most infectious killer? - Melvin Sanicas",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The world's ugliest animal",
+        "category": "Environmental Science",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is this painting so shocking? - Iseult Gillespie",
+        "category": "The Arts",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The imaginary king who changed the real world - Matteo Salvadore",
+        "category": "Social Studies",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What happens when you lose a balloon?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7387302029664845,
+        "options-average-bleu": 0.5589639737220644,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.745626883328766,
+                "options_bleu": [
+                    0.5053483543335474,
+                    0.5336172773868456,
+                    0.5450176720923848,
+                    0.5491004867761125
+                ]
+            },
+            {
+                "question_bleu": 0.7162326270441588,
+                "options_bleu": [
+                    0.5300714512917181,
+                    0.5039843787265444,
+                    0.4974292207467277,
+                    0.5623413251903491
+                ]
+            },
+            {
+                "question_bleu": 0.6908938923636813,
+                "options_bleu": [
+                    0.5491004867761125,
+                    0.537284965911771,
+                    0.5169731539571706,
+                    0.5588805988556161
+                ]
+            },
+            {
+                "question_bleu": 0.7952707287670506,
+                "options_bleu": [
+                    0.5410822690539396,
+                    0.4854917717073234,
+                    0.5410822690539396,
+                    0.4924790605054523
+                ]
+            },
+            {
+                "question_bleu": 0.745626883328766,
+                "options_bleu": [
+                    0.5266403878479265,
+                    0.6147881529512643,
+                    1.0,
+                    0.5885661912765424
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The quest for the perfect apple",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "3 bizarre (and delightful) ancient theories about bird migration - Lucy Cooke",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why perfect grades don't matter",
+        "category": "Teaching & Education",
+        "questions-average-bleu": 0.6564116106121385,
+        "options-average-bleu": 1.0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6865890479690392,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.642314952732316,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6638167286527448,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.642314952732316,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6470223709742765,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you trust your ears? (audio illusions)",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is my leg asleep?",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why don't we throw trash in volcanoes?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is life meaningless? And other absurd questions - Nina Medvinskaya",
+        "category": "Philosophy",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you read \"Moby Dick\"? - Sascha Morrell",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do American schools have such long hours?",
+        "category": "Teaching & Education",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Here Comes Teacher Cat - Read aloud picture book",
+        "category": "Literature",
+        "questions-average-bleu": 0.7220274477651547,
+        "options-average-bleu": 0.1917855114271235,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7203294535577252,
+                "options_bleu": [
+                    0.44162483837034555,
+                    0.22552525188467942,
+                    0.39679994182366224,
+                    0.2590781802435377
+                ]
+            },
+            {
+                "question_bleu": 0.7666510377252865,
+                "options_bleu": [
+                    0.3636312324622432,
+                    0.34300209111065993,
+                    0.24418594906441643,
+                    0.3176933344469287
+                ]
+            },
+            {
+                "question_bleu": 0.6964705665515708,
+                "options_bleu": [
+                    0.3054798996193149,
+                    0.14320257448163054,
+                    0.2545925576837852,
+                    0.13118240454355432
+                ]
+            },
+            {
+                "question_bleu": 0.7357922886275104,
+                "options_bleu": [
+                    0.16111348713975107,
+                    0.21073535701801824,
+                    0.00023720789902452564,
+                    0.0016139467811090876
+                ]
+            },
+            {
+                "question_bleu": 0.6908938923636813,
+                "options_bleu": [
+                    0.00178612572201196,
+                    0.02539287146986957,
+                    0.008820286229656357,
+                    1.2690548271504056e-05
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What happens when nature goes viral?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The myth of Loki and the master builder - Alex Gendler",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How Thor got his hammer - Scott A. Mellor",
+        "category": "Social Studies",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Helping others makes us happier--- but it matters how we do it - Elizabeth Dunn",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is Juneteenth, and why is it important? - Karlos K. Hill and Soraya Field Fiorio",
+        "category": "Social Studies",
+        "questions-average-bleu": 0.76188709129703,
+        "options-average-bleu": 0.4219373100107339,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8210967436686386,
+                "options_bleu": [
+                    0.5460241725418133,
+                    0.5266403878479265,
+                    0.1816395889284431,
+                    0.5885661912765424
+                ]
+            },
+            {
+                "question_bleu": 0.7162326270441588,
+                "options_bleu": [
+                    0.2073963340127641,
+                    0.5659119256652702,
+                    0.5345224838248488,
+                    0.5216948600244291
+                ]
+            },
+            {
+                "question_bleu": 0.7674731847914632,
+                "options_bleu": [
+                    1.0,
+                    0.392814650900513,
+                    0.3639412530979476,
+                    0.34823528327578535
+                ]
+            },
+            {
+                "question_bleu": 0.7836091531680753,
+                "options_bleu": [
+                    0.18334293624964318,
+                    0.1922655986955145,
+                    0.49430647245672443,
+                    0.2200710132593446
+                ]
+            },
+            {
+                "question_bleu": 0.721023747812814,
+                "options_bleu": [
+                    0.16843250226168374,
+                    0.4714045207910317,
+                    0.4671379777282001,
+                    0.46439804737625334
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read Sylvia Plath? - Iseult Gillespie",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "There may be extraterrestrial life in our solar system - Augusto Carballido",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The Princess and the Pea - Read aloud picture book",
+        "category": "Literature",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the secret sauce riddle? - Alex Gendler",
+        "category": "Problem Solving",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The secret society of the Great Dismal Swamp - Dan Sayers",
+        "category": "Social Studies",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why parrots can talk like humans",
+        "category": "Life Sciences",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Your brain hallucinates your conscious reality - Anil Seth",
+        "category": "Consciousness, Sensation and Perception",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the Ragnarok riddle? - Dan Finkel",
+        "category": "Thinking & Learning",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is depression? - Helen M. Farrell",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why does smoke follow you around a fire?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How to deal with rejection",
+        "category": "Psychology",
+        "questions-average-bleu": 0.7383270151654439,
+        "options-average-bleu": 0.39540808698024615,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6938010250361648,
+                "options_bleu": [
+                    0.5900468726392808,
+                    0.5946035575013605,
+                    0.668740304976422,
+                    0.5410822690539396
+                ]
+            },
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    0.5222609974390414,
+                    0.2755130239952913,
+                    0.2984313898039855,
+                    0.2699662923772086
+                ]
+            },
+            {
+                "question_bleu": 0.7391605811379237,
+                "options_bleu": [
+                    0.46860008630143446,
+                    0.43820909954964415,
+                    0.333341836409328,
+                    0.4590283814117439
+                ]
+            },
+            {
+                "question_bleu": 0.7723992097442183,
+                "options_bleu": [
+                    0.49731893823895407,
+                    0.28224251235532793,
+                    0.3633533543136063,
+                    0.301136828452404
+                ]
+            },
+            {
+                "question_bleu": 0.7264385742573204,
+                "options_bleu": [
+                    0.2959255527974987,
+                    0.1976628939353096,
+                    0.27901593935858265,
+                    0.2316816086945585
+                ]
+            }
+        ]
+    }
+]

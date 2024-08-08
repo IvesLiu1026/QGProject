@@ -1,0 +1,2304 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "multiple-choice": []
+    },
+    {
+        "title": "Is it normal to talk to yourself?",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "How tall can a tree grow? - Valentin Hammoudi",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "What is the primary reason trees have a maximum height they can reach?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Lack of sunlight at higher altitudes"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Competition for nutrients with other plants"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The \"hydraulic limitation hypothesis\""
+                    },
+                    {
+                        "label": "D",
+                        "text": "Limited lifespan of tree species"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following is NOT a force that helps xylem sap ascend in trees?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Transpiration"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Capillary action"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Photosynthesis"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Root pressure"
+                    }
+                ]
+            },
+            {
+                "question": "What type of sap is responsible for transporting nutrients throughout a tree?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Phloem"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Xylem"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Cambium"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Resin"
+                    }
+                ]
+            },
+            {
+                "question": "According to the \"hydraulic limitation hypothesis,\" what happens as trees grow taller?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Photosynthesis increases due to more sunlight exposure."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Water loss through transpiration becomes too significant, hindering photosynthesis."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Root pressure weakens, making it harder to transport sap."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The tree's vascular system expands rapidly to accommodate the increased height."
+                    }
+                ]
+            },
+            {
+                "question": "What is the approximate maximum height that sequoias, the tallest known trees, can reach?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "50 meters"
+                    },
+                    {
+                        "label": "B",
+                        "text": "100 meters"
+                    },
+                    {
+                        "label": "C",
+                        "text": "130 meters"
+                    },
+                    {
+                        "label": "D",
+                        "text": "200 meters"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you solve the dark matter fuel riddle? - Daniel Finkel",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you read Toni Morrison's \"Beloved\"? - Yen Pham",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you outsmart this logical fallacy? - Alex Gendler",
+        "category": "Thinking & Learning",
+        "multiple-choice": []
+    },
+    {
+        "title": "Einstein's twin paradox explained - Amber Stuver",
+        "category": "Mathematics",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you wear sunscreen?",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "What is the main reason why wearing sunscreen is important during summer?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To make your skin look tanner."
+                    },
+                    {
+                        "label": "B",
+                        "text": "To protect your skin from harmful UV rays."
+                    },
+                    {
+                        "label": "C",
+                        "text": "To keep your skin cool in hot weather."
+                    },
+                    {
+                        "label": "D",
+                        "text": "To prevent wrinkles from forming."
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following is NOT a factor that can increase the risk of sunburn?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Having lighter skin tones."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Spending a long time in the sun."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Wearing dark-colored clothing."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Swimming in the ocean."
+                    }
+                ]
+            },
+            {
+                "question": "How often should you reapply sunscreen after being outside for a while?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Every hour."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Every few hours, especially after sweating or swimming."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Only when your skin feels hot."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Once a day is enough."
+                    }
+                ]
+            },
+            {
+                "question": "What should you do before applying sunscreen?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Take a shower."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Eat a snack."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Apply moisturizer."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Wait at least 10 minutes."
+                    }
+                ]
+            },
+            {
+                "question": "According to the video, who can get sunburned?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Only people with fair skin."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Everyone."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Only children."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Only people who spend a lot of time outdoors."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The surprisingly long history of electric cars - Daniel Sperling and Gil Tal",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": [
+            {
+                "question": "What was a major factor contributing to the initial decline of electric vehicles (EVs) at the turn of the 20th century?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Lack of government support for EV development"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The rise of popularity of bicycles"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Expensive and inefficient batteries"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Public preference for faster speeds"
+                    }
+                ]
+            },
+            {
+                "question": "Which event is considered a turning point in the history of EVs, showcasing their potential for long-range performance?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The introduction of the Ford Model T"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The oil crisis of the 1970s"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Tesla's launch of the Roadster in 2008"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The development of lithium-ion batteries"
+                    }
+                ]
+            },
+            {
+                "question": "What factor contributed to the renewed interest in EVs during the 1970s and 1980s?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Decreasing oil prices"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Concerns about environmental pollution and oil availability"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The invention of the internet"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Increased demand for luxury vehicles"
+                    }
+                ]
+            },
+            {
+                "question": "Which country currently leads in EV adoption, with 75% of car sales being plug-in electric vehicles in 2020?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "United States"
+                    },
+                    {
+                        "label": "B",
+                        "text": "China"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Germany"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Norway"
+                    }
+                ]
+            },
+            {
+                "question": "What is a primary reason for the current surge in EV popularity?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Decreased demand for gasoline-powered cars"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Improved performance, affordability, and government incentives"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The ban on gasoline-powered vehicles in major cities"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The rise of self-driving technology"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Food waste causes climate change. Here's how we stop it",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "What percentage of global food production is wasted annually?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "10%"
+                    },
+                    {
+                        "label": "B",
+                        "text": "25%"
+                    },
+                    {
+                        "label": "C",
+                        "text": "33%"
+                    },
+                    {
+                        "label": "D",
+                        "text": "50%"
+                    }
+                ]
+            },
+            {
+                "question": "Which country, besides China and the US, contributes significantly to global greenhouse gas emissions through food waste?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "India"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Brazil"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The European Union"
+                    },
+                    {
+                        "label": "D",
+                        "text": "None of the above"
+                    }
+                ]
+            },
+            {
+                "question": "What is a common cause of food waste \"pre-point of sale\"?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Consumers discarding expired food."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Grocery stores donating unsold produce."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Cosmetic standards leading to the rejection of edible produce."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Farmers leaving crops unharvested due to low market prices."
+                    }
+                ]
+            },
+            {
+                "question": "Which app can help consumers understand expiration dates and reduce food waste?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "\"Food Waste Warrior\""
+                    },
+                    {
+                        "label": "B",
+                        "text": "\"Eat by Date\""
+                    },
+                    {
+                        "label": "C",
+                        "text": "\"Grocery Guru\""
+                    },
+                    {
+                        "label": "D",
+                        "text": "\"Sustainable Eats\""
+                    }
+                ]
+            },
+            {
+                "question": "What policy change could help standardize expiration dates and reduce food waste?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Implementing a national ban on buy-one-get-one promotions."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Requiring grocery stores to donate unsold food to local charities."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Standardizing expiration dates based on scientific evidence and promoting transparency."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Encouraging consumers to compost all food scraps."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How do self-driving cars \"see\"? - Sajan Saini",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is meningitis so dangerous? - Melvin Sanicas",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is phantom traffic and why is it ruining your life? - Benjamin Seibold",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The race to decode a mysterious language - Susan Lupack",
+        "category": "Linguistics",
+        "multiple-choice": [
+            {
+                "question": "What was the primary reason scholars initially believed Linear B represented the Minoan language?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The tablets were found in a palace complex associated with the Minoans."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Evans observed that Linear B used symbols resembling ancient Minoan art."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Linguistic analysis revealed similarities between Linear B and known Minoan languages."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The tablets contained religious texts written in a language believed to be Minoan."
+                    }
+                ]
+            },
+            {
+                "question": "What significant contribution did Alice Kober make to the decipherment of Linear B?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "She discovered that Linear B was a syllabary, representing syllables rather than individual letters."
+                    },
+                    {
+                        "label": "B",
+                        "text": "She identified key words in Linear B through comparisons with ancient Egyptian hieroglyphs."
+                    },
+                    {
+                        "label": "C",
+                        "text": "She realized that Linear B relied on word endings for grammatical structure."
+                    },
+                    {
+                        "label": "D",
+                        "text": "She developed a system of translating Linear B into modern Greek using mathematical algorithms."
+                    }
+                ]
+            },
+            {
+                "question": "How did Michael Ventris's background contribute to his success in deciphering Linear B?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "His expertise in archaeology allowed him to accurately date the tablets and understand their context."
+                    },
+                    {
+                        "label": "B",
+                        "text": "His knowledge of ancient languages, particularly Latin and Greek, proved essential for translation."
+                    },
+                    {
+                        "label": "C",
+                        "text": "His interest in architecture led him to study ancient writing systems as a hobby since childhood."
+                    },
+                    {
+                        "label": "D",
+                        "text": "His experience working with computers enabled him to analyze vast amounts of textual data efficiently."
+                    }
+                ]
+            },
+            {
+                "question": "What was the primary impact of Ventris's discovery on historical understanding?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It confirmed that Minoans were a highly advanced civilization with sophisticated writing systems."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It established a direct link between the Minoan and Egyptian civilizations, revealing shared cultural influences."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It overturned the theory of Minoan conquest, showing that mainland Greeks invaded Crete and adopted their script."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It provided conclusive evidence that Linear A was a precursor to the development of the Greek alphabet."
+                    }
+                ]
+            },
+            {
+                "question": "What remains a mystery despite the successful decipherment of Linear B?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The exact purpose of the Linear B tablets found in Knossos and Pylos."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The meaning of certain symbols within the Linear B script that have yet to be identified."
+                    },
+                    {
+                        "label": "C",
+                        "text": "The identity of the individuals who created and used the Linear B writing system."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The language spoken by the Minoans, represented by the undeciphered Linear A script."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What if all the ice melted on Earth?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why are you always tired?",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "The life, legacy & assassination of an African revolutionary - Lisa Janae Bacon",
+        "category": "History",
+        "multiple-choice": []
+    },
+    {
+        "title": "I Like Myself - Children's books read aloud",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is schizophrenia? - Anees Bahji",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "How do pelicans survive their death-defying dives?",
+        "category": "Environmental Science",
+        "multiple-choice": [
+            {
+                "question": "What is the approximate speed at which brown pelicans dive into water to catch fish?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "10 mph"
+                    },
+                    {
+                        "label": "B",
+                        "text": "20 mph"
+                    },
+                    {
+                        "label": "C",
+                        "text": "40 mph"
+                    },
+                    {
+                        "label": "D",
+                        "text": "60 mph"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following features helps a pelican absorb the impact of diving at high speed?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Sharp talons"
+                    },
+                    {
+                        "label": "B",
+                        "text": "A network of air sacs under their skin and bones"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Dense, heavy feathers"
+                    },
+                    {
+                        "label": "D",
+                        "text": "A thick layer of blubber"
+                    }
+                ]
+            },
+            {
+                "question": "How do pelicans capture fish?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "By using their beaks to spear them underwater."
+                    },
+                    {
+                        "label": "B",
+                        "text": "By trapping them in their large pouches with a sideways opening."
+                    },
+                    {
+                        "label": "C",
+                        "text": "By sucking them up through their long, narrow throats."
+                    },
+                    {
+                        "label": "D",
+                        "text": "By herding them into shallow water and catching them with their feet."
+                    }
+                ]
+            },
+            {
+                "question": "What is the approximate capacity of a pelican's gular pouch?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "One gallon"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Two gallons"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Three gallons"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Four gallons"
+                    }
+                ]
+            },
+            {
+                "question": "During which season do California pelicans breed and display red coloration?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Spring"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Summer"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Fall"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Winter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The truth about electroconvulsive therapy (ECT) - Helen M. Farrell",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is imposter syndrome and how can you combat it? - Elizabeth Cox",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Fabulous food chains",
+        "category": "Environmental Science",
+        "multiple-choice": []
+    },
+    {
+        "title": "How An Igloo Keeps You Warm",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Infinity according to Jorge Luis Borges - Ilan Stavans",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Volcanic eruption explained - Steven Anderson",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The strange history of the world's most stolen painting - Noah Charney",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you read \"The God of Small Things\" by Arundhati Roy? - Laura Wright",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "Performing brain surgery without a scalpel - Hyunsoo Joshua No",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": [
+            {
+                "question": "**What is the primary purpose of stereotactic radiosurgery?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To diagnose brain tumors"
+                    },
+                    {
+                        "label": "B",
+                        "text": "To surgically remove brain tumors"
+                    },
+                    {
+                        "label": "C",
+                        "text": "To destroy cancerous cells in the brain with focused radiation"
+                    },
+                    {
+                        "label": "D",
+                        "text": "To treat neurological disorders like Parkinson's disease"
+                    }
+                ]
+            },
+            {
+                "question": "**Which imaging techniques are used to create a 3D map of the tumor for radiosurgery?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "X-rays and Ultrasound"
+                    },
+                    {
+                        "label": "B",
+                        "text": "CT scans and MRI scans"
+                    },
+                    {
+                        "label": "C",
+                        "text": "PET scans and EEG"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Blood tests and biopsies"
+                    }
+                ]
+            },
+            {
+                "question": "**How does stereotactic radiosurgery achieve precise targeting of the tumor?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "By using a single, high-dose beam of radiation."
+                    },
+                    {
+                        "label": "B",
+                        "text": "By converging multiple beams of low-dose radiation from different angles."
+                    },
+                    {
+                        "label": "C",
+                        "text": "By injecting radioactive material directly into the tumor."
+                    },
+                    {
+                        "label": "D",
+                        "text": "By using a robotic arm to deliver radiation with pinpoint accuracy."
+                    }
+                ]
+            },
+            {
+                "question": "**What is one limitation of stereotactic radiosurgery?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It can cause significant pain during treatment."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It requires a lengthy recovery period."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It is primarily effective for smaller tumors."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It is only suitable for treating brain tumors."
+                    }
+                ]
+            },
+            {
+                "question": "**Besides brain tumors, what other conditions are being explored for treatment with radiosurgery?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Heart disease and diabetes"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Lung cancer and skin lesions"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Parkinson's disease and epilepsy"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Common cold and flu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How this disease changes the shape of your cells - Amber M. Yates",
+        "category": "Health",
+        "multiple-choice": [
+            {
+                "question": "What causes the characteristic sickle shape in red blood cells affected by sickle-cell disease?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "A viral infection"
+                    },
+                    {
+                        "label": "B",
+                        "text": "A bacterial infection"
+                    },
+                    {
+                        "label": "C",
+                        "text": "A mutation in the hemoglobin protein"
+                    },
+                    {
+                        "label": "D",
+                        "text": "An autoimmune disorder"
+                    }
+                ]
+            },
+            {
+                "question": "What is the primary consequence of the deformed red blood cells in sickle-cell disease?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Impaired production of white blood cells"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Blockages in blood vessels, leading to oxygen deprivation"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Increased susceptibility to viral infections"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Weakening of the immune system"
+                    }
+                ]
+            },
+            {
+                "question": "Why is sickle-cell disease most prevalent in regions where malaria is endemic?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Malaria weakens the immune system, making individuals more susceptible to sickle-cell disease."
+                    },
+                    {
+                        "label": "B",
+                        "text": "The mutated gene that causes sickle-cell disease also provides some protection against malaria."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Mosquitoes carrying malaria are attracted to individuals with sickle-cell disease."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Malaria infection triggers the mutation responsible for sickle-cell disease."
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following is NOT a current treatment option for sickle-cell disease?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Hydroxyurea to reduce sickling"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Bone marrow transplants"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Antibiotics to treat malaria"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Gene editing to produce normal hemoglobin"
+                    }
+                ]
+            },
+            {
+                "question": "What is a promising area of research for treating sickle-cell disease?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Developing vaccines against malaria"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Preventing sickling by keeping oxygen bound to hemoglobin"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Creating artificial red blood cells"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Gene therapy to replace the mutated gene with a healthy one"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The counting by fives song | Counting songs",
+        "category": "Numbers & Operations",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we have leap years?",
+        "category": "Teaching & Education",
+        "multiple-choice": []
+    },
+    {
+        "title": "Is binge watching bad for you?",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Meet the microscopic life in your home--- and on your face - Anne Madden",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we wrinkle when wet?",
+        "category": "Health",
+        "multiple-choice": [
+            {
+                "question": "What did the 1935 study reveal about the cause of finger wrinkling?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It is solely due to osmosis."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It is caused by damage to blood vessels."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It is an involuntary response controlled by the nervous system."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It is a result of dehydration."
+                    }
+                ]
+            },
+            {
+                "question": "According to the video, what is the proposed evolutionary function of wrinkled skin?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To regulate body temperature in cold environments."
+                    },
+                    {
+                        "label": "B",
+                        "text": "To improve grip and balance on wet surfaces."
+                    },
+                    {
+                        "label": "C",
+                        "text": "To protect against harmful bacteria."
+                    },
+                    {
+                        "label": "D",
+                        "text": "To enhance blood circulation."
+                    }
+                ]
+            },
+            {
+                "question": "What did the 2013 study demonstrate about the effect of wrinkled fingers?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They allow for better sensation in cold water."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They improve the ability to distinguish textures."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They enable faster picking up of wet objects."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They reduce the risk of slipping on smooth surfaces."
+                    }
+                ]
+            },
+            {
+                "question": "Why are shriveled fingers and toes generally considered a disadvantage?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They make it difficult to perform fine motor tasks."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They increase sensitivity to pain."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They impair blood flow to the extremities."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They reduce tactile perception."
+                    }
+                ]
+            },
+            {
+                "question": "What does the video encourage viewers to do?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Conduct their own experiments on finger wrinkling."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Share their thoughts and questions about the topic."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Subscribe to SciShow's social media channels."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Donate to support scientific research."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "3D shapes song | Shapes for kids",
+        "category": "Geometry",
+        "multiple-choice": [
+            {
+                "question": "Which of the following was **NOT** a major cause of World War II?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Territorial disputes"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Economic instability"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The rise of democracy"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The failure of international diplomacy"
+                    }
+                ]
+            },
+            {
+                "question": "What type of government system contributed to the outbreak of World War II?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Constitutional monarchy"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Representative democracy"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Totalitarianism"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Anarchy"
+                    }
+                ]
+            },
+            {
+                "question": "The Treaty of Versailles, signed after World War I, is often cited as a contributing factor to World War II. What was the main purpose of this treaty?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To promote international cooperation"
+                    },
+                    {
+                        "label": "B",
+                        "text": "To punish Germany for its role in the war"
+                    },
+                    {
+                        "label": "C",
+                        "text": "To establish a new world order based on equality"
+                    },
+                    {
+                        "label": "D",
+                        "text": "To create a unified European nation"
+                    }
+                ]
+            },
+            {
+                "question": "Which event is widely considered to be the immediate trigger for the start of World War II?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The assassination of Archduke Franz Ferdinand"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Germany's invasion of Poland"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Japan's attack on Pearl Harbor"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The signing of the Molotov-Ribbentrop Pact"
+                    }
+                ]
+            },
+            {
+                "question": "What was one significant consequence of World War II?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The collapse of the Soviet Union"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The formation of the United Nations"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The beginning of the Cold War"
+                    },
+                    {
+                        "label": "D",
+                        "text": "All of the above"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The most common STI in the world - Emma Bryce",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Who was the world's first author? - Soraya Field Fiorio",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Harvey Milk's radical vision of equality - Lillian Faderman",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "Is human evolution speeding up or slowing down? - Laurence Hurst",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The surprising similarities between Twister and intelligence",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why beavers are the smartest thing in fur pants",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why we should draw more (and photograph less)",
+        "category": "Physical Fitness",
+        "multiple-choice": []
+    },
+    {
+        "title": "The history of manners",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the multiplying rabbits riddle? - Alex Gendler",
+        "category": "Mathematics",
+        "multiple-choice": []
+    },
+    {
+        "title": "Art with Mati and Dada \u2013 Henri Matisse",
+        "category": "Visual Arts",
+        "multiple-choice": [
+            {
+                "question": "What is the main focus of the conversation between Matty and Henri Matisse?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The history of painting"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Matisse's life story"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Matisse's use of color and artistic techniques"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The importance of art museums"
+                    }
+                ]
+            },
+            {
+                "question": "According to Matisse, what is the purpose of using bold colors in his paintings?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To make the paintings look more realistic"
+                    },
+                    {
+                        "label": "B",
+                        "text": "To create a sense of energy and evoke emotions"
+                    },
+                    {
+                        "label": "C",
+                        "text": "To follow traditional painting techniques"
+                    },
+                    {
+                        "label": "D",
+                        "text": "To impress viewers with technical skill"
+                    }
+                ]
+            },
+            {
+                "question": "How does Matisse describe his approach to depicting objects in his artwork?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "He paints them in great detail, capturing every nuance."
+                    },
+                    {
+                        "label": "B",
+                        "text": "He simplifies them into basic shapes and balances their arrangements."
+                    },
+                    {
+                        "label": "C",
+                        "text": "He uses photographs as references for accurate representation."
+                    },
+                    {
+                        "label": "D",
+                        "text": "He focuses on portraying the emotional state of the subject rather than its physical form."
+                    }
+                ]
+            },
+            {
+                "question": "What type of art does Matisse introduce to Matty that involves vibrant colors and geometric shapes?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Sculptures"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Watercolors"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Paper cutouts"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Photography"
+                    }
+                ]
+            },
+            {
+                "question": "What is the main message Matisse conveys to Matty about art?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Art should always be realistic and accurate."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It's important to follow established rules and techniques."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Experimentation and personal expression are crucial."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Only talented individuals can create meaningful art."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why don't haircuts hurt?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "An Exercise in Self Compassion",
+        "category": "Emotional Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "The secret language of trees - Camille Defrenne and Suzanne Simard",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "The myth of the Sampo--- an infinite source of fortune and greed - Hanna-Ilona H\u00e4rm\u00e4vaara",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why some people don't have an inner monologue",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you survive nuclear fallout? - Brooke Buddemeier and Jessica S. Wieder",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The rise and fall of the Lakota Empire - Pekka H\u00e4m\u00e4l\u00e4inen",
+        "category": "History",
+        "multiple-choice": [
+            {
+                "question": "**What was a key factor in the Lakota Empire's rise to power?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The discovery of gold in the Black Hills"
+                    },
+                    {
+                        "label": "B",
+                        "text": "European colonization and competition for resources"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The invention of new weapons technology"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Internal conflicts within Lakota tribes"
+                    }
+                ]
+            },
+            {
+                "question": "**How did the Lakotas maintain unity across their vast territory?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Through a strict military hierarchy"
+                    },
+                    {
+                        "label": "B",
+                        "text": "By relying solely on trade alliances with other tribes"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Through complex diplomacy and annual Sun Dances"
+                    },
+                    {
+                        "label": "D",
+                        "text": "By imposing heavy taxes on conquered populations"
+                    }
+                ]
+            },
+            {
+                "question": "**What event significantly contributed to the conflict between Lakotas and white settlers?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The Louisiana Purchase"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The California Gold Rush"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The signing of the Treaty of Fort Laramie"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The American Revolution"
+                    }
+                ]
+            },
+            {
+                "question": "**What was a tactic used by the US government to weaken the Lakota resistance?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Encouraging intertribal warfare among Lakota groups"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Decimating buffalo populations, essential to Lakota life"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Offering generous land grants in exchange for peaceful surrender"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Establishing schools to assimilate Lakota children into white culture"
+                    }
+                ]
+            },
+            {
+                "question": "**What event marked a tragic end to the Lakota resistance?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The Battle of Little Bighorn"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The Wounded Knee Massacre"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The Sand Creek Massacre"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The Trail of Tears"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Climate change will displace millions. Here's how we prepare - Colette Pichon Battle",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The counting by tens song | Counting songs",
+        "category": "Numbers & Operations",
+        "multiple-choice": [
+            {
+                "question": "What number should you start with when counting by tens?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "1"
+                    },
+                    {
+                        "label": "B",
+                        "text": "5"
+                    },
+                    {
+                        "label": "C",
+                        "text": "10"
+                    },
+                    {
+                        "label": "D",
+                        "text": "20"
+                    }
+                ]
+            },
+            {
+                "question": "How many numbers should you jump each time when counting by tens?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Five"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Ten"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Twenty"
+                    },
+                    {
+                        "label": "D",
+                        "text": "One Hundred"
+                    }
+                ]
+            },
+            {
+                "question": "Which of these is a helpful hint for counting by tens?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Count backwards from 100."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Count up by ones and add a zero."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Skip every other number."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Multiply each number by two."
+                    }
+                ]
+            },
+            {
+                "question": "What is the highest number demonstrated in the video?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "50"
+                    },
+                    {
+                        "label": "B",
+                        "text": "70"
+                    },
+                    {
+                        "label": "C",
+                        "text": "100"
+                    },
+                    {
+                        "label": "D",
+                        "text": "200"
+                    }
+                ]
+            },
+            {
+                "question": "What does the video aim to do?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Make learning how to count by tens boring."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Make learning how to count by tens difficult."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Make learning how to count by tens a fun and engaging experience."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Teach viewers how to count by fives instead."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Licking bees and pulping trees: The reign of a wasp queen - Kenny Coogan",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The physics of surfing - Nick Pizzo",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do these deadly insects look like flowers?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Better know the Mona Lisa",
+        "category": "Visual Arts",
+        "multiple-choice": [
+            {
+                "question": "**What is the primary artistic technique used in the \"Mona Lisa\" to create a soft, hazy effect?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Chiaroscuro"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Impasto"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Sfumato"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Pointillism"
+                    }
+                ]
+            },
+            {
+                "question": "**Who is believed to be the subject of the \"Mona Lisa\" painting?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Isabella d'Este"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Caterina Sforza"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Lisa del Giocondo"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Lucrezia Borgia"
+                    }
+                ]
+            },
+            {
+                "question": "**To which historical period does the \"Mona Lisa\" belong?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Baroque"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Gothic"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Renaissance"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Medieval"
+                    }
+                ]
+            },
+            {
+                "question": "**Where is the \"Mona Lisa\" currently displayed?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The Uffizi Gallery in Florence"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The Vatican Museums in Rome"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The Louvre Museum in Paris"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The Hermitage Museum in St. Petersburg"
+                    }
+                ]
+            },
+            {
+                "question": "**What event significantly increased the \"Mona Lisa's\" fame?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Its inclusion in Leonardo da Vinci's will"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Its purchase by King Francois I of France"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Its theft and subsequent recovery in 1913"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Its reproduction on countless postcards and souvenirs"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "SH | fun phonics | how to read",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "What makes neon signs glow? A 360 degree animation - Michael Lipman",
+        "category": "Design, Engineering & Technology",
+        "multiple-choice": [
+            {
+                "question": "What was the primary reason for the decline of neon signs after World War II?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The invention of LED lighting"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Increased energy costs"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The rise of plastic signage"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Public safety concerns"
+                    }
+                ]
+            },
+            {
+                "question": "Who is credited with pioneering the techniques to create the first neon lights?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Thomas Edison"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Nikola Tesla"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Georges Claude"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Albert Einstein"
+                    }
+                ]
+            },
+            {
+                "question": "What happens when electricity passes through neon gas inside a sign?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The gas expands rapidly, creating a bright flash."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Electrons are energized and release photons of light."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Chemical reactions occur, producing heat and light."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Sound waves are generated, causing the characteristic humming noise."
+                    }
+                ]
+            },
+            {
+                "question": "What is the name given to the skilled artisans who handcrafted neon signs?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Electricians"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Glassblowers"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Tube-benders"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Sign painters"
+                    }
+                ]
+            },
+            {
+                "question": "Besides neon gas, what else can be used to create different colors in neon signs?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Different types of metal filaments"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Various other gases"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Fluorescent pigments"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Colored glass tubing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Prohibition: Banning alcohol was a bad idea... - Rod Phillips",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "The science of Flint's water crisis",
+        "category": "Public Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "How bones make blood - Melody Smith",
+        "category": "Health",
+        "multiple-choice": [
+            {
+                "question": "**What is the primary function of bone marrow?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To store calcium for strong bones."
+                    },
+                    {
+                        "label": "B",
+                        "text": "To produce red blood cells, white blood cells, and platelets."
+                    },
+                    {
+                        "label": "C",
+                        "text": "To filter waste products from the blood."
+                    },
+                    {
+                        "label": "D",
+                        "text": "To synthesize hormones that regulate growth."
+                    }
+                ]
+            },
+            {
+                "question": "**Where are stem cells found that give rise to different types of blood cells?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "In the liver"
+                    },
+                    {
+                        "label": "B",
+                        "text": "In the spleen"
+                    },
+                    {
+                        "label": "C",
+                        "text": "In the bone marrow"
+                    },
+                    {
+                        "label": "D",
+                        "text": "In the thymus gland"
+                    }
+                ]
+            },
+            {
+                "question": "**What is a common characteristic of blood cancers?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They originate from mutations in bone marrow stem cells."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They are always curable with antibiotics."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They primarily affect the nervous system."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They are caused by viral infections."
+                    }
+                ]
+            },
+            {
+                "question": "**What is the purpose of a bone marrow transplant?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To strengthen bones and prevent fractures."
+                    },
+                    {
+                        "label": "B",
+                        "text": "To replace diseased bone marrow with healthy donor marrow."
+                    },
+                    {
+                        "label": "C",
+                        "text": "To stimulate the production of red blood cells in patients with anemia."
+                    },
+                    {
+                        "label": "D",
+                        "text": "To treat infections caused by bacteria."
+                    }
+                ]
+            },
+            {
+                "question": "**What is a potential risk associated with bone marrow transplants?**",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Donor immune cells attacking the recipient's organs (graft-versus-host disease)."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Increased susceptibility to viral infections."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Accelerated bone growth and increased height."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Improved digestion and nutrient absorption."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How soap kills the coronavirus",
+        "category": "Public Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "What makes TB the world's most infectious killer? - Melvin Sanicas",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The world's ugliest animal",
+        "category": "Environmental Science",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is this painting so shocking? - Iseult Gillespie",
+        "category": "The Arts",
+        "multiple-choice": []
+    },
+    {
+        "title": "The imaginary king who changed the real world - Matteo Salvadore",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "What happens when you lose a balloon?",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "What causes a helium-filled balloon to float?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The air inside the balloon is warmer than the surrounding air."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Helium is heavier than air."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Helium is lighter than air."
+                    },
+                    {
+                        "label": "D",
+                        "text": "The balloon's walls are made of a special material that repels gravity."
+                    }
+                ]
+            },
+            {
+                "question": "What happens to the air as a balloon rises higher into the sky?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It becomes warmer and denser."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It becomes colder and thinner."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It stays at the same temperature and density."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It disappears completely."
+                    }
+                ]
+            },
+            {
+                "question": "What can happen to a balloon as it rises due to the pressure of the helium inside?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It can shrink in size."
+                    },
+                    {
+                        "label": "B",
+                        "text": "It can become transparent."
+                    },
+                    {
+                        "label": "C",
+                        "text": "It can either pop or shatter."
+                    },
+                    {
+                        "label": "D",
+                        "text": "It can change color."
+                    }
+                ]
+            },
+            {
+                "question": "What is a potential danger posed by popped or shattered balloons?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They can block sunlight and cause plants to die."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They can create loud noises that scare animals."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They can harm animals if they ingest the pieces."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They can attract insects and spread disease."
+                    }
+                ]
+            },
+            {
+                "question": "What does the SciShow Kids video encourage viewers to do?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Send in drawings of their favorite balloons."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Build their own helium-filled balloons at home."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Share their experiences with lost balloons and ask questions."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Donate money to help clean up litter from parks."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The quest for the perfect apple",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "3 bizarre (and delightful) ancient theories about bird migration - Lucy Cooke",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why perfect grades don't matter",
+        "category": "Teaching & Education",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you trust your ears? (audio illusions)",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why is my leg asleep?",
+        "category": "Health",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why don't we throw trash in volcanoes?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Is life meaningless? And other absurd questions - Nina Medvinskaya",
+        "category": "Philosophy",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you read \"Moby Dick\"? - Sascha Morrell",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do American schools have such long hours?",
+        "category": "Teaching & Education",
+        "multiple-choice": []
+    },
+    {
+        "title": "Here Comes Teacher Cat - Read aloud picture book",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "What happens when nature goes viral?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The myth of Loki and the master builder - Alex Gendler",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "How Thor got his hammer - Scott A. Mellor",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "Helping others makes us happier--- but it matters how we do it - Elizabeth Dunn",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is Juneteenth, and why is it important? - Karlos K. Hill and Soraya Field Fiorio",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you read Sylvia Plath? - Iseult Gillespie",
+        "category": "Literature & Language",
+        "multiple-choice": []
+    },
+    {
+        "title": "There may be extraterrestrial life in our solar system - Augusto Carballido",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "The Princess and the Pea - Read aloud picture book",
+        "category": "Literature",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the secret sauce riddle? - Alex Gendler",
+        "category": "Problem Solving",
+        "multiple-choice": []
+    },
+    {
+        "title": "The secret society of the Great Dismal Swamp - Dan Sayers",
+        "category": "Social Studies",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why parrots can talk like humans",
+        "category": "Life Sciences",
+        "multiple-choice": []
+    },
+    {
+        "title": "Your brain hallucinates your conscious reality - Anil Seth",
+        "category": "Consciousness, Sensation and Perception",
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the Ragnarok riddle? - Dan Finkel",
+        "category": "Thinking & Learning",
+        "multiple-choice": []
+    },
+    {
+        "title": "What is depression? - Helen M. Farrell",
+        "category": "Psychology",
+        "multiple-choice": []
+    },
+    {
+        "title": "Why does smoke follow you around a fire?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    },
+    {
+        "title": "How to deal with rejection",
+        "category": "Psychology",
+        "multiple-choice": []
+    }
+]

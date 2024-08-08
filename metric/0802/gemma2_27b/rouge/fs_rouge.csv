@@ -1,0 +1,51 @@
+Title,Category,Questions Average ROUGE-1,Questions Average ROUGE-2,Questions Average ROUGE-L,Options Average ROUGE-1,Options Average ROUGE-2,Options Average ROUGE-L
+"Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",Anthropology,0,0,0,0,0,0
+Why does everyone hate pigeons?,Science & Technology,0.35213997560746785,0.14368279569892475,0.30508115207805614,0.07166955378642685,0.0,0.06162053417858372
+What it's like to be a Muslim in America - Dalia Mogahed,Religion,0.16644231131187653,0.03904761904761905,0.16644231131187653,0.17788220551378447,0.0,0.12265174153332048
+Is it normal to talk to yourself?,Psychology,0,0,0,0,0,0
+How tall can a tree grow? - Valentin Hammoudi,Science & Technology,0.20788819875776396,0.04126984126984127,0.17455486542443063,0.12159033948507632,0.0,0.10390293916609705
+Can you solve the dark matter fuel riddle? - Daniel Finkel,Literature & Language,0,0,0,0,0,0
+"Why should you read Toni Morrison's ""Beloved""? - Yen Pham",Literature,0.39619047619047615,0.1286549707602339,0.39619047619047615,0.2275184945773181,0.07769230769230769,0.2275184945773181
+Can you outsmart this logical fallacy? - Alex Gendler,Thinking & Learning,0.27520550373528047,0.04810032414049631,0.21750542354281857,0.05894664545980335,0.0,0.05894664545980335
+Einstein's twin paradox explained - Amber Stuver,Mathematics,0,0,0,0,0,0
+Why should you wear sunscreen?,Science & Technology,0.30281170442460764,0.06817906836055657,0.2304762441859216,0.081328197945845,0.0071428571428571435,0.06956349206349206
+The surprisingly long history of electric cars - Daniel Sperling and Gil Tal,"Design, Engineering & Technology",0.33442226255293406,0.11979571855732847,0.33442226255293406,0.11290116745999097,0.0,0.11290116745999097
+Food waste causes climate change. Here's how we stop it,Science & Technology,0,0,0,0,0,0
+"How do self-driving cars ""see""? - Sajan Saini","Design, Engineering & Technology",0,0,0,0,0,0
+Why is meningitis so dangerous? - Melvin Sanicas,Health,0.33371428571428574,0.05333333333333333,0.2439047619047619,0.14261155511155507,0.05,0.12722693972693971
+What is phantom traffic and why is it ruining your life? - Benjamin Seibold,"Design, Engineering & Technology",0,0,0,0,0,0
+The race to decode a mysterious language - Susan Lupack,Linguistics,0.35459509066784606,0.17212669683257914,0.35459509066784606,0.04401154401154401,0.0,0.03845598845598845
+What if all the ice melted on Earth?,Science & Technology,0.36862643423975766,0.01818181818181818,0.2632206784710254,0.0071428571428571435,0.0,0.0071428571428571435
+Why are you always tired?,Health,0.13143924315757755,0.0,0.07434031123396118,0.0,0.0,0.0
+"The life, legacy & assassination of an African revolutionary - Lisa Janae Bacon",History,0,0,0,0,0,0
+I Like Myself - Children's books read aloud,Literature,0.09820891751926233,0.0,0.09820891751926233,0.12353535353535353,0.0,0.0763131313131313
+What is schizophrenia? - Anees Bahji,Health,0,0,0,0,0,0
+How do pelicans survive their death-defying dives?,Environmental Science,0,0,0,0,0,0
+The truth about electroconvulsive therapy (ECT) - Helen M. Farrell,Health,0.31510436432637573,0.06435091277890467,0.29288214210415353,0.02,0.0125,0.02
+What is imposter syndrome and how can you combat it? - Elizabeth Cox,Psychology,0,0,0,0,0,0
+Fabulous food chains,Environmental Science,0.33609696433834363,0.13456302151954327,0.2787176539935161,0.0,0.0,0.0
+How An Igloo Keeps You Warm,"Design, Engineering & Technology",0.252005772005772,0.02222222222222222,0.21295815295815296,0.10753336103181306,0.006666666666666666,0.10753336103181306
+Infinity according to Jorge Luis Borges - Ilan Stavans,Health,0,0,0,0,0,0
+Volcanic eruption explained - Steven Anderson,Science & Technology,0.3662972085385879,0.19892255892255895,0.3662972085385879,0.2353545882222353,0.0316374269005848,0.2215450644127115
+The strange history of the world's most stolen painting - Noah Charney,Science & Technology,0,0,0,0,0,0
+"Why should you read ""The God of Small Things"" by Arundhati Roy? - Laura Wright",Literature,0,0,0,0,0,0
+Performing brain surgery without a scalpel - Hyunsoo Joshua No,"Design, Engineering & Technology",0.38542857142857145,0.06429107124759299,0.3134761904761905,0.16117687867687863,0.048381844763423706,0.15617687867687866
+How this disease changes the shape of your cells - Amber M. Yates,Health,0,0,0,0,0,0
+The counting by fives song | Counting songs,Numbers & Operations,0,0,0,0,0,0
+Why do we have leap years?,Teaching & Education,0.20545940278976987,0.016,0.17876307353504242,0.028574660633484163,0.0,0.028574660633484163
+Is binge watching bad for you?,Health,0.1665725080808817,0.0287670485542826,0.09855880135749755,0.03550448519488768,0.0,0.03550448519488768
+Meet the microscopic life in your home--- and on your face - Anne Madden,"Design, Engineering & Technology",0,0,0,0,0,0
+Why do we wrinkle when wet?,Health,0.25720497825760985,0.03266666666666666,0.16036887089518667,0.0,0.0,0.0
+3D shapes song | Shapes for kids,Geometry,0.4081269349845201,0.09725490196078432,0.2689628482972136,0.3,0.1,0.3
+The most common STI in the world - Emma Bryce,Literature & Language,0,0,0,0,0,0
+Who was the world's first author? - Soraya Field Fiorio,Literature & Language,0.28422980528243685,0.03643724696356275,0.17892808945440525,0.10010683760683761,0.0,0.0889957264957265
+Harvey Milk's radical vision of equality - Lillian Faderman,Social Studies,0,0,0,0,0,0
+Is human evolution speeding up or slowing down? - Laurence Hurst,Science & Technology,0.21928222736571884,0.025914315569487985,0.1477241417658875,0.03578042328042328,0.0,0.025826719576719576
+The surprising similarities between Twister and intelligence,Health,0.3266984126984127,0.08714624505928856,0.2536825396825397,0.04649572649572649,0.0,0.04649572649572649
+Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas,Science & Technology,0.2967728381675251,0.030769230769230764,0.17786120899972893,0.09564975199565993,0.006250000000000001,0.074069392509795
+Why beavers are the smartest thing in fur pants,Science & Technology,0.2784219001610306,0.01904761904761905,0.17439613526570047,0.0,0.0,0.0
+Why we should draw more (and photograph less),Physical Fitness,0,0,0,0,0,0
+The history of manners,Psychology,0.20145501903426166,0.0,0.18406371468643556,0.0,0.0,0.0
+Can you solve the multiplying rabbits riddle? - Alex Gendler,Mathematics,0,0,0,0,0,0
+Art with Mati and Dada – Henri Matisse,Visual Arts,0,0,0,0,0,0
+Why don't haircuts hurt?,Science & Technology,0.2920685850097615,0.05333333333333333,0.2920685850097615,0.14827300150829564,0.0,0.13938411261940675

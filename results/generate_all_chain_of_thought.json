@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "multiple-choice": [
+            {
+                "question": "Who were the original people who lived in the United States?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "African Americans"
+                    },
+                    {
+                        "label": "B",
+                        "text": "European settlers"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Native Americans"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Asian immigrants"
+                    }
+                ]
+            },
+            {
+                "question": "What are some famous Indian nations mentioned in the lesson?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Cherokee, Sioux, Navajo, Iroquois, and Apache"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Comanche, Cheyenne, Arapaho, Kiowa, and Pueblo"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Inca, Maya, Aztec, Olmec, and Moche"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Norse, Celts, Huns, Goths, and Vandals"
+                    }
+                ]
+            },
+            {
+                "question": "What unique skills did these tribes have?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Advanced technology and machinery"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Hunting, fishing, and agriculture"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Advanced medicine and healthcare"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Engineering and construction"
+                    }
+                ]
+            },
+            {
+                "question": "What type of shelter was constructed by Native American tribes?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Teepees"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Igloos"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Yurts"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Log cabins"
+                    }
+                ]
+            },
+            {
+                "question": "How many native American tribes and nations are there today?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "100"
+                    },
+                    {
+                        "label": "B",
+                        "text": "200"
+                    },
+                    {
+                        "label": "C",
+                        "text": "500"
+                    },
+                    {
+                        "label": "D",
+                        "text": "1,000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "What role did pigeons play in Charles Darwin's theory of evolution?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They were the primary subject of his research."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They provided evidence for natural selection."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They were used as a metaphor for human behavior."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They were an example of convergent evolution."
+                    }
+                ]
+            },
+            {
+                "question": "What unique abilities do pigeons possess?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They can fly at high altitudes without getting tired."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They have excellent navigation skills and visual acuity."
+                    },
+                    {
+                        "label": "C",
+                        "text": "They are great swimmers and can hold their breath for long periods."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They communicate using complex language."
+                    }
+                ]
+            },
+            {
+                "question": "What is the connection between pigeons and human activity?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Pigeons are a favorite food of humans, especially in Italy."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Humans have domesticated pigeons for thousands of years."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Pigeons have adapted to urban environments due to human activity."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Pigeons were used as currency and traded like stocks."
+                    }
+                ]
+            },
+            {
+                "question": "What is the mystery surrounding baby pigeons?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They are born with a full set of feathers."
+                    },
+                    {
+                        "label": "B",
+                        "text": "They can fly within hours of hatching."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Little is known about their early development and behavior."
+                    },
+                    {
+                        "label": "D",
+                        "text": "They only drink milk for the first year of their life."
+                    }
+                ]
+            },
+            {
+                "question": "What unusual use did pigeons have during World War II?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They were used as couriers to deliver messages secretly."
+                    },
+                    {
+                        "label": "B",
+                        "text": "Pigeons were trained to find and eat landmines to defuse them safely."
+                    },
+                    {
+                        "label": "C",
+                        "text": "Pigeons were used in weather forecasting due to their sensitivity to air pressure changes."
+                    },
+                    {
+                        "label": "D",
+                        "text": "Pigeons were taught to recognize enemy planes and signal the information to humans."
+                    }
+                ]
+            }
+        ]
+    }
+]

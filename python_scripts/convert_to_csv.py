@@ -2,8 +2,8 @@ import ijson
 import csv
 
 # Define the input and output file paths
-input_file_path = '../dataset/data_info/missing_report.json'  # Update this path
-output_file_path = '../dataset/data_info/missing_report.csv'  # Update this path
+input_file_path = 'D:\\NYCU1122courses\\Project\\ollama\\metric\\gemma7b-v1-cleaned.json'  # Update this path
+output_file_path = 'D:\\NYCU1122courses\\Project\\ollama\\metric\\gemma7b-v1-cleaned.csv'  # Update this path
 
 # Open the JSON file and initialize the ijson parser
 with open(input_file_path, 'r', encoding='utf-8') as json_file:

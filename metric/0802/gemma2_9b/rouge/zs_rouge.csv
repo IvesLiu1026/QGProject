@@ -1,0 +1,101 @@
+Title,Category,Questions Average ROUGE-1,Questions Average ROUGE-2,Questions Average ROUGE-L,Options Average ROUGE-1,Options Average ROUGE-2,Options Average ROUGE-L
+"Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",Anthropology,0.24978221778221782,0.07182186234817814,0.23549650349650353,0.11428571428571425,0.0,0.11428571428571425
+Why does everyone hate pigeons?,Science & Technology,0.28692221091601894,0.061071428571428575,0.2244787720019918,0.08190489034529283,0.0,0.0732791593511408
+What it's like to be a Muslim in America - Dalia Mogahed,Religion,0.22747474747474747,0.03636363636363636,0.19480808080808082,0.1275840825840826,0.00625,0.1275840825840826
+Is it normal to talk to yourself?,Psychology,0,0,0,0,0,0
+How tall can a tree grow? - Valentin Hammoudi,Science & Technology,0.31588995112214924,0.0882051282051282,0.2862196214518196,0.17502506265664158,0.10555555555555556,0.17502506265664158
+Can you solve the dark matter fuel riddle? - Daniel Finkel,Literature & Language,0,0,0,0,0,0
+"Why should you read Toni Morrison's ""Beloved""? - Yen Pham",Literature,0.37180952380952387,0.08421052631578947,0.3177142857142857,0.19471048945894148,0.05670106639146888,0.19231888064150143
+Can you outsmart this logical fallacy? - Alex Gendler,Thinking & Learning,0,0,0,0,0,0
+Einstein's twin paradox explained - Amber Stuver,Mathematics,0,0,0,0,0,0
+Why should you wear sunscreen?,Science & Technology,0.2916638916638916,0.08210526315789475,0.2726162726162725,0.07442195231668916,0.03619652406417113,0.06956084120557804
+The surprisingly long history of electric cars - Daniel Sperling and Gil Tal,"Design, Engineering & Technology",0.33590603202672176,0.1051005291005291,0.28089497986049705,0.1103643578643579,0.0,0.1103643578643579
+Food waste causes climate change. Here's how we stop it,Science & Technology,0,0,0,0,0,0
+"How do self-driving cars ""see""? - Sajan Saini","Design, Engineering & Technology",0,0,0,0,0,0
+Why is meningitis so dangerous? - Melvin Sanicas,Health,0,0,0,0,0,0
+What is phantom traffic and why is it ruining your life? - Benjamin Seibold,"Design, Engineering & Technology",0,0,0,0,0,0
+The race to decode a mysterious language - Susan Lupack,Linguistics,0.5248591174906965,0.29161437908496735,0.5248591174906965,0.23406496281496283,0.007692307692307693,0.2206306193806194
+What if all the ice melted on Earth?,Science & Technology,0.39839080459770115,0.014814814814814814,0.2888045977011494,0.17159090909090907,0.1,0.17159090909090907
+Why are you always tired?,Health,0,0,0,0,0,0
+"The life, legacy & assassination of an African revolutionary - Lisa Janae Bacon",History,0.3781142696312975,0.11908496732026144,0.3399324514494793,0.02587412587412587,0.01111111111111111,0.02587412587412587
+I Like Myself - Children's books read aloud,Literature,0.1738852840604787,0.0,0.13468895480575124,0.044444444444444446,0.014285714285714287,0.03333333333333334
+What is schizophrenia? - Anees Bahji,Health,0,0,0,0,0,0
+How do pelicans survive their death-defying dives?,Environmental Science,0.3104239028944912,0.011764705882352943,0.20740242763772176,0.07885003885003886,0.0,0.07115773115773115
+The truth about electroconvulsive therapy (ECT) - Helen M. Farrell,Health,0,0,0,0,0,0
+What is imposter syndrome and how can you combat it? - Elizabeth Cox,Psychology,0,0,0,0,0,0
+Fabulous food chains,Environmental Science,0.3188881294144451,0.15888888888888889,0.25603098655730233,0.10285256410256412,0.04496753246753246,0.10285256410256412
+How An Igloo Keeps You Warm,"Design, Engineering & Technology",0.3185645272601795,0.05347985347985348,0.3011732229123533,0.11450245789642075,0.02287581699346405,0.10783579122975409
+Infinity according to Jorge Luis Borges - Ilan Stavans,Health,0,0,0,0,0,0
+Volcanic eruption explained - Steven Anderson,Science & Technology,0,0,0,0,0,0
+The strange history of the world's most stolen painting - Noah Charney,Science & Technology,0.3413010340707782,0.14880204342273307,0.2879083755613233,0.0,0.0,0.0
+"Why should you read ""The God of Small Things"" by Arundhati Roy? - Laura Wright",Literature,0,0,0,0,0,0
+Performing brain surgery without a scalpel - Hyunsoo Joshua No,"Design, Engineering & Technology",0.433264765466729,0.10623202684372099,0.3702438314892733,0.12228839143312827,0.038253968253968255,0.11702523353839142
+How this disease changes the shape of your cells - Amber M. Yates,Health,0,0,0,0,0,0
+The counting by fives song | Counting songs,Numbers & Operations,0,0,0,0,0,0
+Why do we have leap years?,Teaching & Education,0,0,0,0,0,0
+Is binge watching bad for you?,Health,0.21043856728904448,0.010256410256410255,0.13407018487612338,0.03787610050767945,0.0,0.03787610050767945
+Meet the microscopic life in your home--- and on your face - Anne Madden,"Design, Engineering & Technology",0,0,0,0,0,0
+Why do we wrinkle when wet?,Health,0.19395705587009934,0.017391304347826087,0.1277752376882812,0.025,0.01666666666666667,0.025
+3D shapes song | Shapes for kids,Geometry,0.4552631578947368,0.09898989898989899,0.29982456140350877,0.35,0.1,0.35
+The most common STI in the world - Emma Bryce,Literature & Language,0.29288326615912824,0.04444444444444444,0.25565382892969096,0.028809523809523813,0.0,0.028809523809523813
+Who was the world's first author? - Soraya Field Fiorio,Literature & Language,0.33619805481874454,0.1015873015873016,0.21625110521662244,0.24108669108669106,0.09909090909090909,0.1966422466422466
+Harvey Milk's radical vision of equality - Lillian Faderman,Social Studies,0,0,0,0,0,0
+Is human evolution speeding up or slowing down? - Laurence Hurst,Science & Technology,0.22649151614668855,0.04327485380116959,0.20426929392446636,0.09581709956709956,0.015384615384615382,0.07071608946608947
+The surprising similarities between Twister and intelligence,Health,0.2880399385560676,0.08932806324110673,0.21837788018433182,0.07619880119880121,0.01111111111111111,0.07619880119880121
+Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas,Science & Technology,0,0,0,0,0,0
+Why beavers are the smartest thing in fur pants,Science & Technology,0.37887494858083093,0.13333333333333333,0.28139448786507615,0.02456367162249515,0.0,0.02456367162249515
+Why we should draw more (and photograph less),Physical Fitness,0.2191111384295968,0.016,0.16273851428415323,0.2006287988757029,0.0336016511867905,0.18693338481264177
+The history of manners,Psychology,0,0,0,0,0,0
+Can you solve the multiplying rabbits riddle? - Alex Gendler,Mathematics,0.33333333333333337,0.08571428571428572,0.33333333333333337,0.02361111111111111,0.0,0.02361111111111111
+Art with Mati and Dada – Henri Matisse,Visual Arts,0.3025248435774751,0.030769230769230764,0.25357379462642615,0.0804502442002442,0.0,0.0804502442002442
+Why don't haircuts hurt?,Science & Technology,0.29298408326541314,0.05333333333333333,0.27559277891758704,0.06428189457601223,0.006666666666666666,0.06241023682200153
+An Exercise in Self Compassion,Emotional Health,0.2685319865319865,0.05418181818181818,0.20135353535353534,0.03207070707070707,0.0,0.03207070707070707
+The secret language of trees - Camille Defrenne and Suzanne Simard,Health,0.3356360354621224,0.06510025062656641,0.29919711206667726,0.06129329004329004,0.01,0.06129329004329004
+The myth of the Sampo--- an infinite source of fortune and greed - Hanna-Ilona Härmävaara,Literature & Language,0.38734335839598993,0.14669365721997302,0.36067669172932326,0.14936812155852403,0.0,0.14936812155852403
+Why some people don't have an inner monologue,Psychology,0.365011041589989,0.1392337074690016,0.28257514415409146,0.06542180042180043,0.0,0.06542180042180043
+Can you survive nuclear fallout? - Brooke Buddemeier and Jessica S. Wieder,Science & Technology,0.33887179487179486,0.12633045825265507,0.24448351648351654,0.0,0.0,0.0
+The rise and fall of the Lakota Empire - Pekka Hämäläinen,History,0.3240086809741982,0.16365539452495975,0.29044224740776464,0.03742424242424242,0.0,0.03742424242424242
+Climate change will displace millions. Here's how we prepare - Colette Pichon Battle,Science & Technology,0,0,0,0,0,0
+The counting by tens song | Counting songs,Numbers & Operations,0,0,0,0,0,0
+Licking bees and pulping trees: The reign of a wasp queen - Kenny Coogan,Science & Technology,0.3144303065355697,0.06811145510835914,0.29538268748795066,0.0125,0.0,0.0125
+The physics of surfing - Nick Pizzo,Science & Technology,0.2883333333333334,0.02105263157894737,0.26333333333333336,0.15496880570409982,0.024444444444444446,0.1410702043054984
+Why do these deadly insects look like flowers?,Science & Technology,0.2140459379589814,0.10133834586466166,0.19866132257436603,0.04136500754147813,0.006666666666666666,0.04136500754147813
+Better know the Mona Lisa,Visual Arts,0.2817777777777778,0.01739130434782609,0.17688888888888887,0.04,0.0,0.04
+SH | fun phonics | how to read,Literature & Language,0.273204833716169,0.09249492900608519,0.2263457505243184,0.0,0.0,0.0
+What makes neon signs glow? A 360 degree animation - Michael Lipman,"Design, Engineering & Technology",0.31723913104987267,0.12376556776556775,0.24085625466699634,0.0,0.0,0.0
+Prohibition: Banning alcohol was a bad idea... - Rod Phillips,Social Studies,0.3356043956043956,0.06549707602339182,0.215018315018315,0.16190476190476194,0.02,0.16190476190476194
+How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne,Health,0,0,0,0,0,0
+The science of Flint's water crisis,Public Health,0.22118712205668728,0.0,0.14408387104039277,0.023449883449883448,0.0,0.023449883449883448
+How bones make blood - Melody Smith,Health,0.4747114845938375,0.1568878718535469,0.4396638655462185,0.13912809412809413,0.0,0.13912809412809413
+How soap kills the coronavirus,Public Health,0.32686716791979953,0.05777591973244147,0.2965814536340852,0.3149034299034299,0.05,0.2910689310689311
+What makes TB the world's most infectious killer? - Melvin Sanicas,Science & Technology,0,0,0,0,0,0
+The world's ugliest animal,Environmental Science,0.37295482295482296,0.12484848484848488,0.27503052503052505,0.1983220852694287,0.05154637029637029,0.17974131962983955
+Why is this painting so shocking? - Iseult Gillespie,The Arts,0,0,0,0,0,0
+The imaginary king who changed the real world - Matteo Salvadore,Social Studies,0.3903448275862069,0.17096494487798836,0.33198029556650244,0.15861874236874238,0.022624269005847953,0.15584817959817962
+What happens when you lose a balloon?,Science & Technology,0.43773291925465835,0.09724310776942356,0.3839026915113871,0.1463310519889467,0.01724110671936759,0.13651651564809458
+The quest for the perfect apple,Science & Technology,0.24045410628019326,0.05714285714285713,0.1774911433172303,0.010000000000000002,0.0,0.010000000000000002
+3 bizarre (and delightful) ancient theories about bird migration - Lucy Cooke,Literature & Language,0.2597717754797551,0.026696329254727473,0.2129126922879045,0.08030126306442095,0.0,0.06635895537211327
+Why perfect grades don't matter,Teaching & Education,0,0,0,0,0,0
+Can you trust your ears? (audio illusions),Health,0.3747878787878788,0.1333333333333333,0.35878787878787877,0.09019757416496547,0.0,0.07416143638969726
+Why is my leg asleep?,Health,0.28650456297515126,0.04516666666666667,0.25350792997851823,0.10754915088725156,0.009523809523809525,0.10515784653942548
+Why don't we throw trash in volcanoes?,Science & Technology,0.1,0.0,0.1,0.0,0.0,0.0
+Is life meaningless? And other absurd questions - Nina Medvinskaya,Philosophy,0,0,0,0,0,0
+"Why should you read ""Moby Dick""? - Sascha Morrell",Literature & Language,0,0,0,0,0,0
+Why do American schools have such long hours?,Teaching & Education,0.2334723760305156,0.06315789473684211,0.19347237603051556,0.07346715755025714,0.0,0.06550479195885929
+Here Comes Teacher Cat - Read aloud picture book,Literature,0.329087579087579,0.09559808612440192,0.2946553446553446,0.1206431068931069,0.0,0.11439310689310689
+What happens when nature goes viral?,Science & Technology,0.3174234960441857,0.14598290598290597,0.28934467831019556,0.1567146215211231,0.02238235294117647,0.14059835045129165
+The myth of Loki and the master builder - Alex Gendler,Literature & Language,0.29242236024844714,0.03333333333333334,0.2511525189786059,0.02,0.0,0.02
+How Thor got his hammer - Scott A. Mellor,Social Studies,0,0,0,0,0,0
+Helping others makes us happier--- but it matters how we do it - Elizabeth Dunn,Psychology,0.341007483455996,0.07999999999999999,0.3193858618343744,0.13831974061034163,0.003125,0.12603555420850818
+"What is Juneteenth, and why is it important? - Karlos K. Hill and Soraya Field Fiorio",Social Studies,0,0,0,0,0,0
+Why should you read Sylvia Plath? - Iseult Gillespie,Literature & Language,0,0,0,0,0,0
+There may be extraterrestrial life in our solar system - Augusto Carballido,Science & Technology,0.25619604566972987,0.046315789473684206,0.23767752715121135,0.010416666666666666,0.0,0.010416666666666666
+The Princess and the Pea - Read aloud picture book,Literature,0.36848970251716245,0.1607843137254902,0.35515636918382915,0.1640038040734635,0.03843137254901961,0.14467138210946262
+Can you solve the secret sauce riddle? - Alex Gendler,Problem Solving,0.41276052449965495,0.1936925647451963,0.3620358868184955,0.0,0.0,0.0
+The secret society of the Great Dismal Swamp - Dan Sayers,Social Studies,0,0,0,0,0,0
+Why parrots can talk like humans,Life Sciences,0,0,0,0,0,0
+Your brain hallucinates your conscious reality - Anil Seth,"Consciousness, Sensation and Perception",0.28639430744693906,0.04623655913978495,0.170702981229297,0.01,0.0,0.01
+Can you solve the Ragnarok riddle? - Dan Finkel,Thinking & Learning,0,0,0,0,0,0
+What is depression? - Helen M. Farrell,Psychology,0.3497013142174432,0.13030103995621237,0.29383512544802864,0.12,0.0,0.12
+Why does smoke follow you around a fire?,Science & Technology,0,0,0,0,0,0
+How to deal with rejection,Psychology,0,0,0,0,0,0

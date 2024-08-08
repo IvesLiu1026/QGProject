@@ -1,4 +1,5 @@
 import json
+import csv
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from collections import Counter
 from fractions import Fraction
@@ -115,10 +116,18 @@ def save_to_json(data, file_path):
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
+def save_to_csv(data, file_path):
+    with open(file_path, 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(['Title', 'Category', 'Questions Average BLEU', 'Options Average BLEU'])
+        for item in data:
+            writer.writerow([item['title'], item['category'], item['questions-average-bleu'], item['options-average-bleu']])
+
 def main():
     original_file_path = '../dataset/dataset.json'
-    generated_file_path = '../results/dolphin-llama3-generated.json'
-    output_file_path = 'bleu_score.json'
+    generated_file_path = '../results/0802/gemma2_9b/generate_self_consistency.json'
+    output_json_file_path = '0802/gemma2_9b/bleu/sc_bleu_score.json'
+    output_csv_file_path = '0802/gemma2_9b/bleu/sc_bleu_score.csv'
     
     original_data = load_json(original_file_path)
     generated_data = load_json(generated_file_path)
@@ -128,8 +137,9 @@ def main():
     
     evaluated_data = evaluate_questions(original_questions, generated_questions)
     
-    save_to_json(evaluated_data, output_file_path)
-    print(f"BLEU evaluation results saved to {output_file_path}")
+    save_to_json(evaluated_data, output_json_file_path)
+    save_to_csv(evaluated_data, output_csv_file_path)
+    print(f"BLEU evaluation results saved to {output_json_file_path} and {output_csv_file_path}")
 
 if __name__ == "__main__":
     main()
