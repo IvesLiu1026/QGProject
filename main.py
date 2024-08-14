@@ -6,11 +6,11 @@ from langchain_core.prompts import ChatPromptTemplate
 
 # File paths
 DATASET_FILE = "dataset/dataset.json"
-OUTPUT_FILE_TEMPLATE = "results/0808/generate_all_{}.json"
+OUTPUT_FILE_TEMPLATE = "results/0815/output/{}.json"
 
 # Initialize LLM
 llm = ChatOllama(
-    model="llama3.1:latest",
+    model="llama3:latest",
     keep_alive=-1,
     temperature=0.2,
     max_new_tokens=8192
@@ -28,7 +28,16 @@ transcripts = [item["transcript"] for item in data]
 
 # Simple Summarization Prompt Template
 simple_summary_prompt = """
-You are an expert educational content creator. Based on the following video transcript, first, provide a comprehensive summary that captures the main points, key facts, and important details. Ensure the summary is detailed and objective. Then, generate five multiple-choice questions from this summary that cover key facts and details. Ensure each question has four answer choices and one correct answer.
+You are an expert educational content creator. 
+Based on the following video transcript, 
+first, provide a comprehensive summary that captures 
+the main points, 
+key facts, 
+and important details. 
+Ensure the summary is detailed and objective. 
+Then, generate five multiple-choice questions from this summary 
+that cover key facts and details. 
+Ensure each question has four answer choices and one correct answer.
 
 Provide the summary followed by the questions and answers in the following format:
 Summary:
@@ -319,6 +328,35 @@ def generate_questions(prompt_template, category, text):
     generated_output = "".join(generated_chunks)
     return generated_output
 
+# Self-review and refinement prompt with stopping criterion
+refinement_prompt = """
+Review the following multiple-choice questions. Identify any ambiguities, errors, or ways in which the questions could be improved to better assess the key concepts. If you believe that no further refinements are needed, state "No further refinement needed." Otherwise, provide a refined version of each question.
+
+Questions:
+{questions}
+
+Transcript (for reference):
+{transcript}
+"""
+
+# Function to refine questions based on self-feedback
+def refine_questions(questions, transcript):
+    prompt = ChatPromptTemplate.from_template(refinement_prompt)
+    chain = prompt | llm | StrOutputParser()
+    generated_chunks = []
+    for chunk in chain.stream({"questions": questions, "transcript": transcript}):
+        generated_chunks.append(chunk)
+    generated_output = "".join(generated_chunks)
+    return generated_output
+
+# Function to parse generated questions and check if further refinement is needed
+def parse_and_check_refinement(generated_output):
+    if "No further refinement needed" in generated_output:
+        return None, True
+    else:
+        questions = parse_questions(generated_output)
+        return questions, False
+
 # Function to parse generated questions
 def parse_questions(generated_output):
     questions = []
@@ -353,9 +391,9 @@ prompts = [
     # ("zero_shot", zero_shot_prompt),
     # ("one_shot", one_shot_prompt),
     # ("few_shot", few_shot_prompt),
-    # ("purpose_driven", purpose_driven_prompt),
+    ("purpose_driven", purpose_driven_prompt),
     # ("detailed_summary", detailed_summary_prompt),
-    ("simple_summary", simple_summary_prompt)
+    # ("simple_summary", simple_summary_prompt)
 ]
 
 # Process each transcript to generate questions
@@ -363,18 +401,26 @@ for prompt_name, prompt in prompts:
     all_questions = []
     total_videos = len(titles)
     for idx, (title, category, transcript) in enumerate(zip(titles, categories, transcripts)):
-        # if prompt_name == "detailed_summary":
-        #     text = generate_detailed_summary(transcript)
-        # else:
-        text = transcript
+        text = transcript  # Use the raw transcript
+
+        # Initial MCQ Generation
         generated_output = generate_questions(prompt, category, text)
-        questions = parse_questions(generated_output)
+        
+        # Iterative Refinement (self-feedback loop with stopping criterion)
+        refined_output = generated_output
+        refinement_needed = True
+        while refinement_needed:
+            refined_output = refine_questions(refined_output, transcript)
+            parsed_questions, refinement_needed = parse_and_check_refinement(refined_output)
+        
         all_questions.append({
             "title": title,
             "category": category,
-            "multiple-choice": questions
+            "multiple-choice": parsed_questions
         })
+        
         print(f"Progress: {idx + 1}/{total_videos} videos processed using {prompt_name} prompt")
+    
     
     output_file = OUTPUT_FILE_TEMPLATE.format(prompt_name)
     with open(output_file, "w") as file:
