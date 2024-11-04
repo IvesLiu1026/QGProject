@@ -1,0 +1,69 @@
+Title,Category,Questions Average BLEU,Options Average BLEU
+"Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",Anthropology,0.6970640377468434,0.0934429163381851
+Is it normal to talk to yourself?,Psychology,0.8103660073798234,0.4510674352855058
+How tall can a tree grow? - Valentin Hammoudi,Science & Technology,0.7059335827516299,0.7386016968415776
+Can you solve the dark matter fuel riddle? - Daniel Finkel,Literature & Language,0.743697103498156,0.3894826699928805
+"Why should you read Toni Morrison's ""Beloved""? - Yen Pham",Literature,0.6981609636051949,0.3852037325773151
+Can you outsmart this logical fallacy? - Alex Gendler,Thinking & Learning,0.6727524093329446,0.3537290026469603
+Why should you wear sunscreen?,Science & Technology,0.7145392527669422,0.3324940731251673
+The surprisingly long history of electric cars - Daniel Sperling and Gil Tal,"Design, Engineering & Technology",0.7241944489686898,0.6459767385293869
+Why is meningitis so dangerous? - Melvin Sanicas,Health,0.7668499823915802,0.3650750813085572
+What is phantom traffic and why is it ruining your life? - Benjamin Seibold,"Design, Engineering & Technology",0.7451565597426333,0.3486882638045993
+The race to decode a mysterious language - Susan Lupack,Linguistics,0.7417419008536156,0.4733426599766243
+Why are you always tired?,Health,0.7230496928150115,0.6718335106157383
+I Like Myself - Children's books read aloud,Literature,0.7263888564202509,0.7339036064497773
+What is schizophrenia? - Anees Bahji,Health,0.6895032262146837,0.5217003952997217
+How do pelicans survive their death-defying dives?,Environmental Science,0.7512017269517635,0.1491042596195421
+The truth about electroconvulsive therapy (ECT) - Helen M. Farrell,Health,0.74670507323065,0.611140174640699
+What is imposter syndrome and how can you combat it? - Elizabeth Cox,Psychology,0.660706043239834,0.6450085473821232
+Fabulous food chains,Environmental Science,0.8044019981000801,0.3015192274689903
+Infinity according to Jorge Luis Borges - Ilan Stavans,Health,0.677186853666967,0.3093186582885503
+Volcanic eruption explained - Steven Anderson,Science & Technology,0.7341656749906903,0.2888450790193554
+"Why should you read ""The God of Small Things"" by Arundhati Roy? - Laura Wright",Literature,0.7362412180748754,0.5007547283908711
+Performing brain surgery without a scalpel - Hyunsoo Joshua No,"Design, Engineering & Technology",0.7253875968669059,0.3011903317540937
+How this disease changes the shape of your cells - Amber M. Yates,Health,0.7337276181908761,0.5222652048131722
+The counting by fives song | Counting songs,Numbers & Operations,0.6925850515244335,0.4014434949335009
+Is binge watching bad for you?,Health,0.7221829692600761,0.5747548099291656
+Why do we wrinkle when wet?,Health,0.7111408217468044,0.4764955433689217
+3D shapes song | Shapes for kids,Geometry,0.680249683777592,0.7337710885951284
+The most common STI in the world - Emma Bryce,Literature & Language,0.7245714957104502,0.502150275558104
+Who was the world's first author? - Soraya Field Fiorio,Literature & Language,0.7572591104566697,0.3915416690292024
+Harvey Milk's radical vision of equality - Lillian Faderman,Social Studies,0.7779792271304886,1.0
+Is human evolution speeding up or slowing down? - Laurence Hurst,Science & Technology,0.7166218925390292,0.7775001139877179
+Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas,Science & Technology,0.7355437014318691,0.391825010903514
+Why we should draw more (and photograph less),Physical Fitness,0.6957208534093999,0.3582396809946421
+Can you solve the multiplying rabbits riddle? - Alex Gendler,Mathematics,0.7261130625794913,1.0
+An Exercise in Self Compassion,Emotional Health,0.7061314710068815,0.5132527492188105
+The secret language of trees - Camille Defrenne and Suzanne Simard,Health,0.7428585352059723,0.395828458996109
+Can you survive nuclear fallout? - Brooke Buddemeier and Jessica S. Wieder,Science & Technology,0.6784925526822043,0.8393813251548691
+The counting by tens song | Counting songs,Numbers & Operations,0.6899427137853335,0.4808799461394377
+Licking bees and pulping trees: The reign of a wasp queen - Kenny Coogan,Science & Technology,0.7436702314523171,0.4909833102669059
+The physics of surfing - Nick Pizzo,Science & Technology,0.7425478760249886,0.2511994289823867
+Why do these deadly insects look like flowers?,Science & Technology,0.679224635693473,0.561957886875567
+SH | fun phonics | how to read,Literature & Language,0.758977795148029,0.4530822228095231
+What makes neon signs glow? A 360 degree animation - Michael Lipman,"Design, Engineering & Technology",0.7156807638779651,0.7603157197297111
+Prohibition: Banning alcohol was a bad idea... - Rod Phillips,Social Studies,0.6658338886510953,0.6323515556338493
+How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne,Health,0.7894941705153112,0.4779842998490803
+How bones make blood - Melody Smith,Health,0.7805692685186152,0.4109418713200128
+How soap kills the coronavirus,Public Health,0.7190046857411883,0.5080408618493649
+What makes TB the world's most infectious killer? - Melvin Sanicas,Science & Technology,0.729559794515893,0.5748213506536466
+The world's ugliest animal,Environmental Science,0.7378445444016369,0.2342505963906232
+Why is this painting so shocking? - Iseult Gillespie,The Arts,0.7092029232561481,0.622337574263286
+The imaginary king who changed the real world - Matteo Salvadore,Social Studies,0.7192480832734076,0.3878575491342938
+What happens when you lose a balloon?,Science & Technology,0.7148636066514071,0.5106329725240312
+The quest for the perfect apple,Science & Technology,0.7126981603697007,0.469996045917316
+3 bizarre (and delightful) ancient theories about bird migration - Lucy Cooke,Literature & Language,0.6780779620536704,0.2090275119061388
+Why perfect grades don't matter,Teaching & Education,0.6961399610128833,1.0
+Can you trust your ears? (audio illusions),Health,0.6934118301523011,0.4149338555428496
+Why is my leg asleep?,Health,0.7691400036352499,0.4160254381184078
+Why don't we throw trash in volcanoes?,Science & Technology,0.6720960100296607,0.5102482751547248
+Here Comes Teacher Cat - Read aloud picture book,Literature,0.7088558988917208,0.1126465669411516
+The myth of Loki and the master builder - Alex Gendler,Literature & Language,0.6671849842138171,0.4884054389248523
+Why should you read Sylvia Plath? - Iseult Gillespie,Literature & Language,0.7402433282399942,0.5757612361199589
+There may be extraterrestrial life in our solar system - Augusto Carballido,Science & Technology,0.6986669600319895,0.624135448998988
+The Princess and the Pea - Read aloud picture book,Literature,0.7120427920098542,0.2794848944266492
+Can you solve the secret sauce riddle? - Alex Gendler,Problem Solving,0.7439233016430071,0.3632515981434394
+The secret society of the Great Dismal Swamp - Dan Sayers,Social Studies,0.7277281433558997,0.4974519790347708
+Can you solve the Ragnarok riddle? - Dan Finkel,Thinking & Learning,0.6858548907921431,0.5181702035982327
+What is depression? - Helen M. Farrell,Psychology,0.69591419293276,0.5393704094941933
+How to deal with rejection,Psychology,0.7343245750177856,0.2489091663222105

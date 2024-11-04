@@ -1,0 +1,3920 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "questions-average-bleu": 0.7110317841336429,
+        "options-average-bleu": 0.09608282062846864,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6434588841607617,
+                "options_bleu": [
+                    0.010011924518188053,
+                    0.0009118819655545162,
+                    0.0034593773364647584,
+                    0.0026285583503802795
+                ]
+            },
+            {
+                "question_bleu": 0.6930977286178778,
+                "options_bleu": [
+                    0.003125900292472044,
+                    0.0019453508357210522,
+                    3.978126371817915e-06,
+                    0.0008025580204547586
+                ]
+            },
+            {
+                "question_bleu": 0.6999271023161167,
+                "options_bleu": [
+                    4.402520529973925e-06,
+                    4.402520529973925e-06,
+                    0.0006098122237474263,
+                    0.0006098122237474263
+                ]
+            },
+            {
+                "question_bleu": 0.7501542733805745,
+                "options_bleu": [
+                    0.010011924518188053,
+                    0.0009118819655545162,
+                    0.016285161758772083,
+                    0.0026285583503802795
+                ]
+            },
+            {
+                "question_bleu": 0.7685209321928833,
+                "options_bleu": [
+                    0.9649159443723699,
+                    0.2901430207838037,
+                    0.3691811644108759,
+                    0.24346079747526622
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7688392011323303,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8076682939508287,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7217950347929304,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.8222672338010394,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7236262419845225,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is it normal to talk to yourself?",
+        "category": "Psychology",
+        "questions-average-bleu": 0.7696839137251625,
+        "options-average-bleu": 0.36776687117802404,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7476743906106103,
+                "options_bleu": [
+                    0.40648573259323145,
+                    0.16551341351669868,
+                    0.43000007605628365,
+                    0.3836613277863661
+                ]
+            },
+            {
+                "question_bleu": 0.8120224586769673,
+                "options_bleu": [
+                    0.18975464141824344,
+                    0.4025636325702218,
+                    0.3443867888943789,
+                    0.5326461004734815
+                ]
+            },
+            {
+                "question_bleu": 0.7976271123027049,
+                "options_bleu": [
+                    0.31947155212313627,
+                    0.1449946751256347,
+                    0.22071139559265973,
+                    0.27042049185058636
+                ]
+            },
+            {
+                "question_bleu": 0.7565391407404769,
+                "options_bleu": [
+                    0.27042049185058636,
+                    0.7427498127683173,
+                    0.24421958958397624,
+                    0.8111714521799694
+                ]
+            },
+            {
+                "question_bleu": 0.7345564662950537,
+                "options_bleu": [
+                    0.42969435238201475,
+                    0.40890516835695984,
+                    0.2171185208108769,
+                    0.42044820762685725
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How tall can a tree grow? - Valentin Hammoudi",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7329445366062319,
+        "options-average-bleu": 0.6509432771927288,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.727427152512826,
+                "options_bleu": [
+                    0.6865890479690392,
+                    0.6229513861258917,
+                    0.5885661912765424,
+                    0.7529586373193689
+                ]
+            },
+            {
+                "question_bleu": 0.727427152512826,
+                "options_bleu": [
+                    0.35849212007984677,
+                    0.2863424630911014,
+                    0.7801157731069053,
+                    0.3197494745713424
+                ]
+            },
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    0.668740304976422,
+                    0.668740304976422,
+                    0.668740304976422,
+                    0.668740304976422
+                ]
+            },
+            {
+                "question_bleu": 0.7282376575609851,
+                "options_bleu": [
+                    0.6865890479690392,
+                    0.6865890479690392,
+                    0.6865890479690392,
+                    0.6865890479690392
+                ]
+            },
+            {
+                "question_bleu": 0.7217950347929304,
+                "options_bleu": [
+                    0.8282477531331041,
+                    0.8144476398584994,
+                    0.7765453555044466,
+                    0.7825422900366437
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you solve the dark matter fuel riddle? - Daniel Finkel",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you read Toni Morrison's \"Beloved\"? - Yen Pham",
+        "category": "Literature",
+        "questions-average-bleu": 0.7021803874522203,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7049141756270427,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7071067811865476,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7565391407404769,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6812455364200614,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6610963032869732,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "Can you outsmart this logical fallacy? - Alex Gendler",
+        "category": "Thinking & Learning",
+        "questions-average-bleu": 0.657208662529835,
+        "options-average-bleu": 0.3435211266777646,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6510726717850545,
+                "options_bleu": [
+                    0.3118046494064359,
+                    0.2515609568463352,
+                    0.2773885753173756,
+                    0.26818986540178746
+                ]
+            },
+            {
+                "question_bleu": 0.6003124062338072,
+                "options_bleu": [
+                    0.21741881887621387,
+                    0.20710929424533747,
+                    0.4762491117420378,
+                    0.44542148697884393
+                ]
+            },
+            {
+                "question_bleu": 0.6551316948823924,
+                "options_bleu": [
+                    0.3839817133079349,
+                    0.3839817133079349,
+                    0.3976353643835253,
+                    0.345720784641941
+                ]
+            },
+            {
+                "question_bleu": 0.6974048014703657,
+                "options_bleu": [
+                    0.27613273106660563,
+                    0.5450994881529483,
+                    0.1498270621102501,
+                    0.22676438091213788
+                ]
+            },
+            {
+                "question_bleu": 0.6821217382775556,
+                "options_bleu": [
+                    0.7699019277569183,
+                    0.3293033519258089,
+                    0.2645475783717865,
+                    0.34238367880313264
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Einstein's twin paradox explained - Amber Stuver",
+        "category": "Mathematics",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why should you wear sunscreen?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7018202965440066,
+        "options-average-bleu": 0.3709248428443524,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7282376575609851,
+                "options_bleu": [
+                    0.005813533070154827,
+                    0.02739849475065023,
+                    0.29141753649768465,
+                    0.061786301956258734
+                ]
+            },
+            {
+                "question_bleu": 0.697613262053043,
+                "options_bleu": [
+                    0.4240639499633314,
+                    0.21921908267996987,
+                    0.05315170260104859,
+                    0.13477360890814796
+                ]
+            },
+            {
+                "question_bleu": 0.7151281786901973,
+                "options_bleu": [
+                    0.7400828044922853,
+                    0.668740304976422,
+                    0.668740304976422,
+                    0.7952707287670506
+                ]
+            },
+            {
+                "question_bleu": 0.7151281786901973,
+                "options_bleu": [
+                    0.173246474293038,
+                    0.1606777496729309,
+                    0.2283168927483656,
+                    0.321372662162415
+                ]
+            },
+            {
+                "question_bleu": 0.6529942057256104,
+                "options_bleu": [
+                    0.6481388934544839,
+                    0.537284965911771,
+                    0.6009638585283708,
+                    0.6580370064762462
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The surprisingly long history of electric cars - Daniel Sperling and Gil Tal",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0.700866989507125,
+        "options-average-bleu": 0.7727242456221957,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6930977286178778,
+                "options_bleu": [
+                    0.4692497536636166,
+                    0.4963786070388903,
+                    0.3418829694267923,
+                    0.43781869404573154
+                ]
+            },
+            {
+                "question_bleu": 0.7501542733805745,
+                "options_bleu": [
+                    0.7679634266158699,
+                    0.5261810412374767,
+                    0.30454520050730344,
+                    0.11046521990823276
+                ]
+            },
+            {
+                "question_bleu": 0.6430000896557959,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7090414279406884,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7090414279406884,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Food waste causes climate change. Here's how we stop it",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How do self-driving cars \"see\"? - Sajan Saini",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0.7113196528930185,
+        "options-average-bleu": 0.28078786420335744,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7419446627365011,
+                "options_bleu": [
+                    0.0026645864651897886,
+                    0.0030275547453758153,
+                    0.24181521090264727,
+                    0.462124696666978
+                ]
+            },
+            {
+                "question_bleu": 0.7115965735877551,
+                "options_bleu": [
+                    0.2979260336350717,
+                    0.24573965690446442,
+                    0.17851728523419144,
+                    0.30454602056590846
+                ]
+            },
+            {
+                "question_bleu": 0.7206183364926947,
+                "options_bleu": [
+                    0.4341770896152209,
+                    0.4341770896152209,
+                    0.3187485666863107,
+                    0.11602764154372135
+                ]
+            },
+            {
+                "question_bleu": 0.6893409630302637,
+                "options_bleu": [
+                    0.43206953804953413,
+                    0.5580703935908408,
+                    0.17978451653874022
+                ]
+            },
+            {
+                "question_bleu": 0.6930977286178778,
+                "options_bleu": [
+                    0.26858518242666124,
+                    0.3347793582428857,
+                    0.24140113423147147
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why is meningitis so dangerous? - Melvin Sanicas",
+        "category": "Health",
+        "questions-average-bleu": 0.7321738162897737,
+        "options-average-bleu": 0.44851000211073155,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7837698111269349,
+                "options_bleu": [
+                    0.25325995282735686,
+                    0.5077101841732481,
+                    0.5611840199522001,
+                    0.8335516383402117
+                ]
+            },
+            {
+                "question_bleu": 0.7359365192114494,
+                "options_bleu": [
+                    0.0853803471160147,
+                    0.332998694488357,
+                    0.2431266648840868
+                ]
+            },
+            {
+                "question_bleu": 0.7510499815709779,
+                "options_bleu": [
+                    0.7796914510717229,
+                    0.8408964152537145,
+                    0.7765453555044466
+                ]
+            },
+            {
+                "question_bleu": 0.6768477282896436,
+                "options_bleu": [
+                    0.46099008584959905,
+                    0.16397906895258596,
+                    0.29643710130945045,
+                    0.40210746908120054
+                ]
+            },
+            {
+                "question_bleu": 0.7132650412498627,
+                "options_bleu": [
+                    0.3771970284958751,
+                    0.23680628245298818,
+                    0.472808276129378
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What is phantom traffic and why is it ruining your life? - Benjamin Seibold",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0.7746236053341109,
+        "options-average-bleu": 0.3556118557548634,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8545740127924681,
+                "options_bleu": [
+                    0.260947977738803,
+                    0.22595988745847342,
+                    0.21440632469607768,
+                    0.20174665268883332
+                ]
+            },
+            {
+                "question_bleu": 0.855526185871245,
+                "options_bleu": [
+                    0.14508640899912412,
+                    0.15349213102568565,
+                    0.3324684441805843,
+                    0.3495274586585512
+                ]
+            },
+            {
+                "question_bleu": 0.7440300527604121,
+                "options_bleu": [
+                    0.5683565265173782,
+                    0.5683565265173782,
+                    0.43773453514477967,
+                    0.42521775911866
+                ]
+            },
+            {
+                "question_bleu": 0.7162326270441588,
+                "options_bleu": [
+                    0.5363562070967675,
+                    0.5363562070967675,
+                    0.5363562070967675,
+                    0.5363562070967675
+                ]
+            },
+            {
+                "question_bleu": 0.7027551482022703,
+                "options_bleu": [
+                    0.2974963198618618,
+                    0.34174761519980906,
+                    0.21209507887346263,
+                    0.2321726400307355
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The race to decode a mysterious language - Susan Lupack",
+        "category": "Linguistics",
+        "questions-average-bleu": 0.6881606089700607,
+        "options-average-bleu": 0.38509765176277233,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6461476598074131,
+                "options_bleu": [
+                    0.6529942057256104,
+                    0.7952707287670506,
+                    0.7071067811865476,
+                    0.7400828044922853
+                ]
+            },
+            {
+                "question_bleu": 0.7521206186172787,
+                "options_bleu": [
+                    0.7536324264832723,
+                    0.6329429740386472,
+                    0.3601647267788626,
+                    0.7447819789879647
+                ]
+            },
+            {
+                "question_bleu": 0.684694991173804,
+                "options_bleu": [
+                    0.2992569674509334,
+                    0.1941849261963266,
+                    0.2753596437280865,
+                    0.16323356968503944
+                ]
+            },
+            {
+                "question_bleu": 0.6890994702753855,
+                "options_bleu": [
+                    0.035972296064518086,
+                    0.10960502407600717,
+                    0.10081042988795336,
+                    0.026292412479021858
+                ]
+            },
+            {
+                "question_bleu": 0.668740304976422,
+                "options_bleu": [
+                    0.31415402948866555,
+                    0.17760634812366816,
+                    0.303249234086981,
+                    0.315251527528005
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What if all the ice melted on Earth?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why are you always tired?",
+        "category": "Health",
+        "questions-average-bleu": 0.7226452954282988,
+        "options-average-bleu": 0.5605005008609213,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7282376575609851,
+                "options_bleu": [
+                    0.668740304976422,
+                    0.7071067811865476,
+                    0.5200970009529277,
+                    0.5993418090318328
+                ]
+            },
+            {
+                "question_bleu": 0.7093339167321887,
+                "options_bleu": [
+                    0.5885661912765424,
+                    0.49616830003403634,
+                    0.5721248424548514,
+                    0.5533409598501607
+                ]
+            },
+            {
+                "question_bleu": 0.7020009831222326,
+                "options_bleu": [
+                    1.0,
+                    0.6865890479690392,
+                    1.0,
+                    0.6042750794713536
+                ]
+            },
+            {
+                "question_bleu": 0.7259795291154771,
+                "options_bleu": [
+                    0.5671276403520978,
+                    0.48217764100758403,
+                    0.5721248424548514,
+                    0.5533409598501607
+                ]
+            },
+            {
+                "question_bleu": 0.7476743906106103,
+                "options_bleu": [
+                    0.1564889005613978,
+                    0.3535533905932738,
+                    0.3832892276888532,
+                    0.14555709750649362
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The life, legacy & assassination of an African revolutionary - Lisa Janae Bacon",
+        "category": "History",
+        "questions-average-bleu": 0.7225408426946389,
+        "options-average-bleu": 0.6430547278229912,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7517939646342201,
+                "options_bleu": [
+                    0.7311104457090247,
+                    0.8091067115702212,
+                    0.28285528465878046,
+                    0.7790872728179328
+                ]
+            },
+            {
+                "question_bleu": 0.7029593484702812,
+                "options_bleu": [
+                    0.5460241725418133,
+                    0.35733817274964674,
+                    0.7598356856515925,
+                    0.7765453555044466
+                ]
+            },
+            {
+                "question_bleu": 0.7324912081306231,
+                "options_bleu": [
+                    0.6389431042462724,
+                    0.8265168183793802,
+                    0.668740304976422,
+                    0.5555238068023582
+                ]
+            },
+            {
+                "question_bleu": 0.7162326270441588,
+                "options_bleu": [
+                    0.8265168183793802,
+                    0.6389431042462724,
+                    0.668740304976422,
+                    0.5555238068023582
+                ]
+            },
+            {
+                "question_bleu": 0.7092270651939114,
+                "options_bleu": [
+                    0.7598356856515925,
+                    0.35733817274964674,
+                    0.5460241725418133,
+                    0.7765453555044466
+                ]
+            }
+        ]
+    },
+    {
+        "title": "I Like Myself - Children's books read aloud",
+        "category": "Literature",
+        "questions-average-bleu": 0.7802325495237408,
+        "options-average-bleu": 0.6346623648206091,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7691605673134586,
+                "options_bleu": [
+                    0.6063062848485936,
+                    0.6147881529512643,
+                    0.668740304976422,
+                    0.6893409630302637
+                ]
+            },
+            {
+                "question_bleu": 0.7976271123027049,
+                "options_bleu": [
+                    0.23730535009428427,
+                    0.6185030540247987,
+                    0.5695988432761473,
+                    0.26563064684234544
+                ]
+            },
+            {
+                "question_bleu": 0.7243961401283154,
+                "options_bleu": [
+                    1.0,
+                    0.7447819789879647,
+                    0.743981321752761,
+                    0.6262844962765469
+                ]
+            },
+            {
+                "question_bleu": 0.786671944177035,
+                "options_bleu": [
+                    0.6999271023161167,
+                    0.6147881529512643,
+                    0.6303647413359293,
+                    0.6262844962765469
+                ]
+            },
+            {
+                "question_bleu": 0.82330698369719,
+                "options_bleu": [
+                    0.6548907866815301,
+                    0.7071067811865476,
+                    0.6147881529512643,
+                    0.7598356856515925
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What is schizophrenia? - Anees Bahji",
+        "category": "Health",
+        "questions-average-bleu": 0.6934000083560005,
+        "options-average-bleu": 0.5490717569696784,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6844861471686758,
+                "options_bleu": [
+                    0.6893409630302637,
+                    0.6803749333171202,
+                    0.6744322250214191,
+                    0.7707713836060629
+                ]
+            },
+            {
+                "question_bleu": 0.7022798316312892,
+                "options_bleu": [
+                    0.7226568811456053,
+                    0.6212266031763126,
+                    0.6262844962765469,
+                    0.6123724356957946
+                ]
+            },
+            {
+                "question_bleu": 0.6515185031739381,
+                "options_bleu": [
+                    0.18887560283756186,
+                    0.18887560283756186,
+                    0.18887560283756186,
+                    0.18887560283756186
+                ]
+            },
+            {
+                "question_bleu": 0.7340408068222942,
+                "options_bleu": [
+                    0.28067080166292707,
+                    0.20623758388303365,
+                    0.6389431042462724,
+                    0.6964705665515708
+                ]
+            },
+            {
+                "question_bleu": 0.6946747529838051,
+                "options_bleu": [
+                    0.7765453555044466,
+                    0.7377879464668811,
+                    0.7691605673134586,
+                    0.7226568811456053
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How do pelicans survive their death-defying dives?",
+        "category": "Environmental Science",
+        "questions-average-bleu": 0.7205655720906201,
+        "options-average-bleu": 0.14917856876537372,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6791653730973352,
+                "options_bleu": [
+                    0.10954096691406426,
+                    0.08249139362145819,
+                    0.5515664412454686,
+                    0.20142070913129906
+                ]
+            },
+            {
+                "question_bleu": 0.7737834432708494,
+                "options_bleu": [
+                    0.02974103665708497,
+                    0.21103979722868407,
+                    0.22587245274662734,
+                    0.14152377142253633
+                ]
+            },
+            {
+                "question_bleu": 0.6917017543042558,
+                "options_bleu": [
+                    0.058942544887107935,
+                    0.07578876983409376,
+                    0.20941416469300092,
+                    0.20666727795915638
+                ]
+            },
+            {
+                "question_bleu": 0.7162326270441588,
+                "options_bleu": [
+                    0.21011128768373957,
+                    0.18109367715920419,
+                    0.19363499560764252,
+                    0.14670130255995184
+                ]
+            },
+            {
+                "question_bleu": 0.7419446627365011,
+                "options_bleu": [
+                    0.07819880189412669,
+                    0.018592391314446077,
+                    0.009726932774397635,
+                    0.0415026599733841
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The truth about electroconvulsive therapy (ECT) - Helen M. Farrell",
+        "category": "Health",
+        "questions-average-bleu": 0.7939358003266801,
+        "options-average-bleu": 0.6028143444347923,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8250731153691881,
+                "options_bleu": [
+                    0.34295479618200586,
+                    0.7427498127683173,
+                    0.7510499815709779,
+                    0.8296066547537364
+                ]
+            },
+            {
+                "question_bleu": 0.8116391579052452,
+                "options_bleu": [
+                    0.668740304976422,
+                    0.7165313105737893,
+                    0.6803749333171202,
+                    0.7447819789879647
+                ]
+            },
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    0.6786502681586727,
+                    0.38827267775222324,
+                    0.29050808466714345,
+                    0.1693739522663705
+                ]
+            },
+            {
+                "question_bleu": 0.7814346548616242,
+                "options_bleu": [
+                    0.6930977286178778,
+                    0.5820255517991277,
+                    0.6964705665515708,
+                    0.6930977286178778
+                ]
+            },
+            {
+                "question_bleu": 0.7916963878457504,
+                "options_bleu": [
+                    0.32037925008549073,
+                    0.7203294535577252,
+                    0.7135650476426908,
+                    0.6337268058487422
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What is imposter syndrome and how can you combat it? - Elizabeth Cox",
+        "category": "Psychology",
+        "questions-average-bleu": 0.6830669326823566,
+        "options-average-bleu": 0.5427728385098038,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6924328859069189,
+                "options_bleu": [
+                    0.30947988730608667,
+                    0.36236229503043293,
+                    0.24064658907226577,
+                    0.3563707718096288
+                ]
+            },
+            {
+                "question_bleu": 0.7337451206367,
+                "options_bleu": [
+                    0.851748936078004,
+                    0.7598356856515925,
+                    0.7071067811865476,
+                    0.6389431042462724
+                ]
+            },
+            {
+                "question_bleu": 0.6115380576901023,
+                "options_bleu": [
+                    0.8010548969451144,
+                    0.4417918226831577,
+                    0.7400828044922853,
+                    0.5081327481546147
+                ]
+            },
+            {
+                "question_bleu": 0.7071067811865476,
+                "options_bleu": [
+                    0.691441569283882,
+                    0.30266437266858637,
+                    0.3563707718096288,
+                    0.721023747812814
+                ]
+            },
+            {
+                "question_bleu": 0.6705118179915145,
+                "options_bleu": [
+                    0.5695988432761473,
+                    0.27006017060823184,
+                    0.5081327481546147,
+                    0.7186082239261684
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Fabulous food chains",
+        "category": "Environmental Science",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How An Igloo Keeps You Warm",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Infinity according to Jorge Luis Borges - Ilan Stavans",
+        "category": "Health",
+        "questions-average-bleu": 0.6908784029278705,
+        "options-average-bleu": 0.44835045493824693,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7199451752382372,
+                "options_bleu": [
+                    0.38038486010912886,
+                    0.38882616836279277,
+                    0.4967635840079386,
+                    0.6039702747945797
+                ]
+            },
+            {
+                "question_bleu": 0.661509617839139,
+                "options_bleu": [
+                    0.23953094040783438,
+                    0.4128713178810563,
+                    0.26380128150117166,
+                    0.3866252716278829
+                ]
+            },
+            {
+                "question_bleu": 0.7172835948406505,
+                "options_bleu": [
+                    0.6330526533317548,
+                    0.35779421506838255,
+                    0.10004556682026908,
+                    0.47987470884822436
+                ]
+            },
+            {
+                "question_bleu": 0.6585792706417354,
+                "options_bleu": [
+                    0.577216700581686,
+                    0.472761406968646,
+                    0.1779160377880746,
+                    0.48712369983211123
+                ]
+            },
+            {
+                "question_bleu": 0.69707435607959,
+                "options_bleu": [
+                    0.4704501797616056,
+                    0.7790872728179328,
+                    0.8091067115702212,
+                    0.4498062466836449
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Volcanic eruption explained - Steven Anderson",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7227894851634469,
+        "options-average-bleu": 0.12354015068180382,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7311104457090247,
+                "options_bleu": [
+                    0.2423055644678861,
+                    0.06583462470367299,
+                    0.07838099118609956,
+                    0.03215704219297994
+                ]
+            },
+            {
+                "question_bleu": 0.7506238537503395,
+                "options_bleu": [
+                    0.014149757719495162,
+                    0.3523618765118749,
+                    0.2417219473783982,
+                    0.09685190147021557
+                ]
+            },
+            {
+                "question_bleu": 0.7019007330685348,
+                "options_bleu": [
+                    0.0028441333315040555,
+                    0.09100895143360524,
+                    0.09222020713061525,
+                    0.05595628100610056
+                ]
+            },
+            {
+                "question_bleu": 0.7111824933579799,
+                "options_bleu": [
+                    0.09100895143360524,
+                    0.0028441333315040555,
+                    0.09222020713061525,
+                    0.05595628100610056
+                ]
+            },
+            {
+                "question_bleu": 0.7191298999313552,
+                "options_bleu": [
+                    0.1774030900084879,
+                    0.28133612130906066,
+                    0.3720839086912754,
+                    0.03215704219297994
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The strange history of the world's most stolen painting - Noah Charney",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7224762617087653,
+        "options-average-bleu": 1.0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7162326270441588,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7539221180326289,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7337451206367,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7311104457090247,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6773709971213142,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read \"The God of Small Things\" by Arundhati Roy? - Laura Wright",
+        "category": "Literature",
+        "questions-average-bleu": 0.740198035618479,
+        "options-average-bleu": 0.2635559725100852,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7381479309342973,
+                "options_bleu": [
+                    0.26269098944241576,
+                    0.251349698131284,
+                    0.27869977348046365
+                ]
+            },
+            {
+                "question_bleu": 0.7500292997363582,
+                "options_bleu": [
+                    0.28561430670807897,
+                    0.3210798739740333,
+                    0.2686963245224639,
+                    0.27694132751313416
+                ]
+            },
+            {
+                "question_bleu": 0.7801157731069053,
+                "options_bleu": [
+                    0.3050017228507182,
+                    0.29391638701871664,
+                    0.1317779137214351
+                ]
+            },
+            {
+                "question_bleu": 0.6974048014703657,
+                "options_bleu": [
+                    0.23990038911617095,
+                    0.2516378046943708
+                ]
+            },
+            {
+                "question_bleu": 0.7352923728444684,
+                "options_bleu": [
+                    0.2589211314578227
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Performing brain surgery without a scalpel - Hyunsoo Joshua No",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0.7075324715084397,
+        "options-average-bleu": 0.23263463488040254,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7142622297615925,
+                "options_bleu": [
+                    0.2917847242430573,
+                    0.42718025135819776,
+                    0.557437200922134,
+                    0.24721090820433894
+                ]
+            },
+            {
+                "question_bleu": 0.6544867736464346,
+                "options_bleu": [
+                    0.00012340980408667956,
+                    0.0325291641783708,
+                    0.005930146235786944,
+                    0.12799220852309462
+                ]
+            },
+            {
+                "question_bleu": 0.7094521095075528,
+                "options_bleu": [
+                    0.30493776407270895,
+                    0.3585868794495829,
+                    0.3176303610256551,
+                    0.23891040014729223
+                ]
+            },
+            {
+                "question_bleu": 0.7340408068222942,
+                "options_bleu": [
+                    0.16899749207107476,
+                    0.22235016973008548,
+                    0.1881188505617083,
+                    0.2274970702024019
+                ]
+            },
+            {
+                "question_bleu": 0.7254204378043243,
+                "options_bleu": [
+                    0.1767527205844534,
+                    0.19254085969282164,
+                    0.2551543867377881,
+                    0.3110277298634108
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How this disease changes the shape of your cells - Amber M. Yates",
+        "category": "Health",
+        "questions-average-bleu": 0.7041085634461014,
+        "options-average-bleu": 0.624462300170916,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6515185031739381,
+                "options_bleu": [
+                    1.0,
+                    0.6508911374939451,
+                    0.642314952732316,
+                    0.668740304976422
+                ]
+            },
+            {
+                "question_bleu": 0.7447819789879647,
+                "options_bleu": [
+                    0.6964705665515708,
+                    0.7186082239261684,
+                    0.6606328636027614,
+                    0.7875110621102679
+                ]
+            },
+            {
+                "question_bleu": 0.7374630012453873,
+                "options_bleu": [
+                    0.4347208719449914,
+                    0.3706218611316513,
+                    0.6567580169390806,
+                    0.6508911374939451
+                ]
+            },
+            {
+                "question_bleu": 0.7180390288467947,
+                "options_bleu": [
+                    0.7400828044922853,
+                    0.7598356856515925,
+                    0.7071067811865476,
+                    0.5946035575013605
+                ]
+            },
+            {
+                "question_bleu": 0.668740304976422,
+                "options_bleu": [
+                    0.3655552228545123,
+                    0.19231101230588785,
+                    0.5671276403520978
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The counting by fives song | Counting songs",
+        "category": "Numbers & Operations",
+        "questions-average-bleu": 0.7353331975444608,
+        "options-average-bleu": 0.2354277328240557,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7670387248467655,
+                "options_bleu": [
+                    0.26492685902784496,
+                    0.05751423275890559,
+                    0.28227983861579553,
+                    0.23831949862465404
+                ]
+            },
+            {
+                "question_bleu": 0.726573864061911,
+                "options_bleu": [
+                    0.1353352832366127,
+                    0.1353352832366127,
+                    0.27952792741962756,
+                    0.3324166001293853
+                ]
+            },
+            {
+                "question_bleu": 0.7377879464668811,
+                "options_bleu": [
+                    0.006737946999085467,
+                    0.006737946999085467,
+                    0.11380295453101374,
+                    0.1353352832366127
+                ]
+            },
+            {
+                "question_bleu": 0.7328616209964707,
+                "options_bleu": [
+                    0.668740304976422,
+                    0.6865890479690392,
+                    0.6606328636027614,
+                    0.6773709971213142
+                ]
+            },
+            {
+                "question_bleu": 0.7124038313502759,
+                "options_bleu": [
+                    0.006737946999085467,
+                    0.006737946999085467,
+                    0.006737946999085467,
+                    0.006737946999085467
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why do we have leap years?",
+        "category": "Teaching & Education",
+        "questions-average-bleu": 0.6927914539572911,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6668954865619205,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.691441569283882,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7238348098810832,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6889939501022787,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "Is binge watching bad for you?",
+        "category": "Health",
+        "questions-average-bleu": 0.7027028508174055,
+        "options-average-bleu": 0.5598574753992688,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7138957847176474,
+                "options_bleu": [
+                    0.3696730457422622,
+                    0.418529115742507,
+                    0.26085746436600904,
+                    0.3984049338436474
+                ]
+            },
+            {
+                "question_bleu": 0.676563159074645,
+                "options_bleu": [
+                    0.4322513758218357,
+                    0.3984049338436474,
+                    0.17388520875116095,
+                    0.057748054269978324
+                ]
+            },
+            {
+                "question_bleu": 0.694773914324277,
+                "options_bleu": [
+                    0.9036020036098448,
+                    0.9036020036098448,
+                    0.7598356856515925,
+                    0.9036020036098448
+                ]
+            },
+            {
+                "question_bleu": 0.7192399680297693,
+                "options_bleu": [
+                    0.4275416878965003,
+                    0.288715663092199,
+                    0.24640714572553016,
+                    0.2540891824089717
+                ]
+            },
+            {
+                "question_bleu": 0.7090414279406884,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Meet the microscopic life in your home--- and on your face - Anne Madden",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why do we wrinkle when wet?",
+        "category": "Health",
+        "questions-average-bleu": 0.7238862485757332,
+        "options-average-bleu": 0.41858801793706035,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7113795241272227,
+                "options_bleu": [
+                    0.38975749519739833,
+                    0.39582190097646386,
+                    0.36846824376114984,
+                    0.7825422900366437
+                ]
+            },
+            {
+                "question_bleu": 0.8139957963337889,
+                "options_bleu": [
+                    0.3449025048585783,
+                    0.34816419308462104,
+                    0.3613284405728026
+                ]
+            },
+            {
+                "question_bleu": 0.6978129509992268,
+                "options_bleu": [
+                    0.3225644666799451,
+                    0.34654886430893894,
+                    0.363411111482359,
+                    0.7825422900366437
+                ]
+            },
+            {
+                "question_bleu": 0.7031452428005499,
+                "options_bleu": [
+                    0.4205976472124301,
+                    0.3225644666799451,
+                    0.363411111482359,
+                    0.7825422900366437
+                ]
+            },
+            {
+                "question_bleu": 0.6930977286178778,
+                "options_bleu": [
+                    0.10562507811763747,
+                    0.32370876787494773,
+                    0.410083160467579
+                ]
+            }
+        ]
+    },
+    {
+        "title": "3D shapes song | Shapes for kids",
+        "category": "Geometry",
+        "questions-average-bleu": 0.7661265702601956,
+        "options-average-bleu": 0.8278492177568811,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8109228996775397,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.7071067811865476
+                ]
+            },
+            {
+                "question_bleu": 0.7422756664604733,
+                "options_bleu": [
+                    0.7400828044922853,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7156448279220523,
+                "options_bleu": [
+                    0.35027671796011656,
+                    0.2788751998740331,
+                    0.537284965911771,
+                    0.49616830003403634
+                ]
+            },
+            {
+                "question_bleu": 0.7638455118619067,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.7400828044922853
+                ]
+            },
+            {
+                "question_bleu": 0.7979439453790055,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.7071067811865476
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The most common STI in the world - Emma Bryce",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.7052066510944603,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7370308516304532,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7092270651939114,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7765453555044466,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6756000774035172,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6276299057399732,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "Who was the world's first author? - Soraya Field Fiorio",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.7266467680946661,
+        "options-average-bleu": 0.38269243742981296,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7463819494944633,
+                "options_bleu": [
+                    0.8132882808488929,
+                    0.14351442318493668,
+                    0.48301556221513736,
+                    0.2935469621804167
+                ]
+            },
+            {
+                "question_bleu": 0.7506238537503395,
+                "options_bleu": [
+                    0.12068076399341783,
+                    0.7476743906106103,
+                    0.7476743906106103,
+                    0.7691605673134586
+                ]
+            },
+            {
+                "question_bleu": 0.6874207745670249,
+                "options_bleu": [
+                    0.25301325481837433,
+                    0.4307055748614594,
+                    0.27608962703128864,
+                    0.2250265947708922
+                ]
+            },
+            {
+                "question_bleu": 0.7417004814749555,
+                "options_bleu": [
+                    0.4409774564143266,
+                    0.41655156521797204,
+                    0.2735422093228181,
+                    0.40203449793781326
+                ]
+            },
+            {
+                "question_bleu": 0.7071067811865476,
+                "options_bleu": [
+                    0.19692215902857166,
+                    0.2652496231798079,
+                    0.2345000810620359,
+                    0.12068076399341783
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Harvey Milk's radical vision of equality - Lillian Faderman",
+        "category": "Social Studies",
+        "questions-average-bleu": 0.749704983306459,
+        "options-average-bleu": 0.9853553390593273,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7633947323726819,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7622907602404587,
+                "options_bleu": [
+                    1.0,
+                    0.7071067811865476,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7364279629037999,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7298723202748774,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7565391407404769,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Is human evolution speeding up or slowing down? - Laurence Hurst",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7545757918870635,
+        "options-average-bleu": 0.9610991469741563,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7422756664604733,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7565391407404769,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7796914510717229,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7410598136218668,
+                "options_bleu": [
+                    1.0,
+                    0.3386854985606571,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7533128875407774,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The surprising similarities between Twister and intelligence",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.6832098435139516,
+        "options-average-bleu": 0.43154771381830004,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7142622297615925,
+                "options_bleu": [
+                    0.2878812203517012,
+                    0.15882481735499007,
+                    0.049787068367863944,
+                    0.43645382979233377
+                ]
+            },
+            {
+                "question_bleu": 0.7047997136316118,
+                "options_bleu": [
+                    0.7311104457090247,
+                    0.42610827239170174,
+                    0.7162326270441588,
+                    0.7203294535577252
+                ]
+            },
+            {
+                "question_bleu": 0.6389431042462724,
+                "options_bleu": [
+                    0.43645382979233377,
+                    0.41602390756021224,
+                    0.049787068367863944,
+                    0.07409853791557794
+                ]
+            },
+            {
+                "question_bleu": 0.6816598775359253,
+                "options_bleu": [
+                    0.2363347557282754,
+                    0.20825999408237536,
+                    0.29161143995089417,
+                    0.4763100914774508
+                ]
+            },
+            {
+                "question_bleu": 0.6763842923943563,
+                "options_bleu": [
+                    0.7311104457090247,
+                    0.7476743906106103,
+                    0.7203294535577252,
+                    0.7162326270441588
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why beavers are the smartest thing in fur pants",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7200031764482165,
+        "options-average-bleu": 0.3177219032595579,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6635625712217014,
+                "options_bleu": [
+                    0.34816419308462104,
+                    0.07905076638668501,
+                    0.263757175457648
+                ]
+            },
+            {
+                "question_bleu": 0.7352923728444684,
+                "options_bleu": [
+                    0.26481821563447566,
+                    0.2427458858536617,
+                    0.31160497550813115,
+                    0.4385898474560353
+                ]
+            },
+            {
+                "question_bleu": 0.6738520677318575,
+                "options_bleu": [
+                    0.6551316948823924,
+                    0.36271021890216215,
+                    0.26569365969147957,
+                    0.39051065328951606
+                ]
+            },
+            {
+                "question_bleu": 0.7674731847914632,
+                "options_bleu": [
+                    0.25848657697858524,
+                    0.29615165360116247,
+                    0.169398499987232
+                ]
+            },
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    0.2680626339398976,
+                    0.17160755180753404,
+                    0.6147881529512643
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why we should draw more (and photograph less)",
+        "category": "Physical Fitness",
+        "questions-average-bleu": 0.6762518155283984,
+        "options-average-bleu": 0.32363210614571897,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7466619652816645,
+                "options_bleu": [
+                    0.2635921827002181,
+                    0.07133302367316396,
+                    0.11380295453101374,
+                    0.10942921379353816
+                ]
+            },
+            {
+                "question_bleu": 0.6376188627157064,
+                "options_bleu": [
+                    0.5850453652111616,
+                    0.25184725104233996,
+                    0.34513620224860536,
+                    0.3675434822593249
+                ]
+            },
+            {
+                "question_bleu": 0.7049141756270427,
+                "options_bleu": [
+                    0.3178377311777584,
+                    0.25916266987614406,
+                    0.5019724248795793,
+                    0.15458610695485267
+                ]
+            },
+            {
+                "question_bleu": 0.6640471006217092,
+                "options_bleu": [
+                    0.5850453652111616,
+                    0.7053418620664446,
+                    0.2124652134888104,
+                    0.3173673439991377
+                ]
+            },
+            {
+                "question_bleu": 0.628016973395869,
+                "options_bleu": [
+                    0.2542058560810242,
+                    0.4269111530854748,
+                    0.3748533897614559,
+                    0.2551633308731704
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The history of manners",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the multiplying rabbits riddle? - Alex Gendler",
+        "category": "Mathematics",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Art with Mati and Dada \u2013 Henri Matisse",
+        "category": "Visual Arts",
+        "questions-average-bleu": 0.764032048110006,
+        "options-average-bleu": 0.5708669912586058,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7370308516304532,
+                "options_bleu": [
+                    0.5577503997480662,
+                    0.2366668615609722,
+                    0.4653024295510498,
+                    0.5233175696960528
+                ]
+            },
+            {
+                "question_bleu": 0.7825422900366437,
+                "options_bleu": [
+                    1.0,
+                    0.6930977286178778,
+                    0.7400828044922853,
+                    0.7765453555044466
+                ]
+            },
+            {
+                "question_bleu": 0.7796914510717229,
+                "options_bleu": [
+                    0.5336172773868456,
+                    0.476895599763377,
+                    0.4653024295510498,
+                    0.5053483543335474
+                ]
+            },
+            {
+                "question_bleu": 0.7884044396805875,
+                "options_bleu": [
+                    0.6930977286178778,
+                    0.6529942057256104,
+                    0.6930977286178778,
+                    0.6529942057256104
+                ]
+            },
+            {
+                "question_bleu": 0.7324912081306231,
+                "options_bleu": [
+                    0.5623413251903491,
+                    0.5039843787265444,
+                    0.18490344236267722,
+                    0.5
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why don't haircuts hurt?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7809685239990564,
+        "options-average-bleu": 0.05122935306241351,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.748406329216425,
+                "options_bleu": [
+                    0.049229899037435056,
+                    0.018806256305558634,
+                    0.11817440481723082,
+                    0.03008512056927105
+                ]
+            },
+            {
+                "question_bleu": 0.8475973148300433,
+                "options_bleu": [
+                    0.17995160451306924,
+                    0.008517358972254769,
+                    0.00325634691952589,
+                    0.007896625688173124
+                ]
+            },
+            {
+                "question_bleu": 0.8491821094987799,
+                "options_bleu": [
+                    0.07355084655512877,
+                    0.02802350642880986,
+                    0.07133682058288324,
+                    0.0315724880252571
+                ]
+            },
+            {
+                "question_bleu": 0.7556720457448196,
+                "options_bleu": [
+                    0.06302424533753875,
+                    0.14822511901124757,
+                    0.0169898695669931,
+                    0.0001438738634843933
+                ]
+            },
+            {
+                "question_bleu": 0.7039848207052138,
+                "options_bleu": [
+                    0.007902164084062828,
+                    0.15076676753986842,
+                    0.0169898695669931,
+                    0.0001438738634843933
+                ]
+            }
+        ]
+    },
+    {
+        "title": "An Exercise in Self Compassion",
+        "category": "Emotional Health",
+        "questions-average-bleu": 0.7331796702648424,
+        "options-average-bleu": 0.5033328999703077,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7389984311706962,
+                "options_bleu": [
+                    0.6529942057256104,
+                    0.6729864884660303,
+                    0.28977907494497107,
+                    0.4254802555453606
+                ]
+            },
+            {
+                "question_bleu": 0.7410598136218668,
+                "options_bleu": [
+                    0.2416520561621158,
+                    0.5460241725418133,
+                    0.642314952732316,
+                    0.7400828044922853
+                ]
+            },
+            {
+                "question_bleu": 0.7254204378043243,
+                "options_bleu": [
+                    0.6930977286178778,
+                    0.0915702886193843,
+                    0.5139409225754329,
+                    0.38163309113713373
+                ]
+            },
+            {
+                "question_bleu": 0.7533128875407774,
+                "options_bleu": [
+                    0.6262844962765469,
+                    0.5200970009529277,
+                    0.5946035575013605,
+                    0.5216948600244291
+                ]
+            },
+            {
+                "question_bleu": 0.7071067811865476,
+                "options_bleu": [
+                    0.5193071778680676,
+                    0.254956287434956,
+                    0.5839496294503805,
+                    0.5542089483371553
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The secret language of trees - Camille Defrenne and Suzanne Simard",
+        "category": "Health",
+        "questions-average-bleu": 0.7429677197985971,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.727427152512826,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7737834432708494,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7212357201267043,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7482317330703532,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7441605500122526,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "The myth of the Sampo--- an infinite source of fortune and greed - Hanna-Ilona H\u00e4rm\u00e4vaara",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.711412076668779,
+        "options-average-bleu": 0.5428700914949255,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.747060787803606,
+                "options_bleu": [
+                    0.4815687014964525,
+                    0.3420094695778827,
+                    0.6640471006217092,
+                    0.6185030540247987
+                ]
+            },
+            {
+                "question_bleu": 0.7142622297615925,
+                "options_bleu": [
+                    0.39459043571442387,
+                    0.24601580968354606,
+                    0.6091203878345903,
+                    0.7598356856515925
+                ]
+            },
+            {
+                "question_bleu": 0.7025297977970931,
+                "options_bleu": [
+                    0.36720562698935927,
+                    0.4042892997911646,
+                    0.39459043571442387,
+                    0.24601580968354606
+                ]
+            },
+            {
+                "question_bleu": 0.7020009831222326,
+                "options_bleu": [
+                    0.7311104457090247,
+                    0.39396285661625463,
+                    0.6262844962765469
+                ]
+            },
+            {
+                "question_bleu": 0.6912065848593708,
+                "options_bleu": [
+                    0.730633242658635,
+                    0.8210967436686386,
+                    0.7071067811865476,
+                    0.7765453555044466
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why some people don't have an inner monologue",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you survive nuclear fallout? - Brooke Buddemeier and Jessica S. Wieder",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.675769059254061,
+        "options-average-bleu": 1.0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7172835948406505,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7027551482022703,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6918912876154527,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.5909442849243819,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6759709806875497,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The rise and fall of the Lakota Empire - Pekka H\u00e4m\u00e4l\u00e4inen",
+        "category": "History",
+        "questions-average-bleu": 0.7017923063466684,
+        "options-average-bleu": 0.9427618540115228,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7254204378043243,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7047997136316118,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6602195804079635,
+                "options_bleu": [
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.716729493542774,
+                "options_bleu": [
+                    0.31314224813827346,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Climate change will displace millions. Here's how we prepare - Colette Pichon Battle",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "The counting by tens song | Counting songs",
+        "category": "Numbers & Operations",
+        "questions-average-bleu": 0.7389578224475667,
+        "options-average-bleu": 0.447952525402039,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.656334438507262,
+                "options_bleu": [
+                    0.5169731539571706,
+                    0.5410822690539396,
+                    0.5233175696960528,
+                    0.5336172773868456
+                ]
+            },
+            {
+                "question_bleu": 0.7796914510717229,
+                "options_bleu": [
+                    0.5623413251903491,
+                    0.5430321466633391,
+                    0.537284965911771,
+                    0.5266403878479265
+                ]
+            },
+            {
+                "question_bleu": 0.7825422900366437,
+                "options_bleu": [
+                    0.049787068367863944,
+                    0.36787944117144233,
+                    0.36787944117144233,
+                    0.36787944117144233
+                ]
+            },
+            {
+                "question_bleu": 0.7121043131712586,
+                "options_bleu": [
+                    0.4004970149398301,
+                    0.4004970149398301,
+                    0.4004970149398301,
+                    0.20966329728015298
+                ]
+            },
+            {
+                "question_bleu": 0.7641166194509462,
+                "options_bleu": [
+                    0.5193071778680676,
+                    0.537284965911771,
+                    0.49806572776935465,
+                    0.5555238068023582
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Licking bees and pulping trees: The reign of a wasp queen - Kenny Coogan",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7414582238702969,
+        "options-average-bleu": 0.47718037874523817,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7326545101601926,
+                "options_bleu": [
+                    0.2618825795328584,
+                    0.20472658408422545,
+                    0.7508313415699323,
+                    0.5373165713053156
+                ]
+            },
+            {
+                "question_bleu": 0.7410598136218668,
+                "options_bleu": [
+                    0.4671379777282001,
+                    0.5399514744329023,
+                    0.584998959161661,
+                    0.5554533284484221
+                ]
+            },
+            {
+                "question_bleu": 0.7447819789879647,
+                "options_bleu": [
+                    0.5019724248795793,
+                    0.2794402994278081,
+                    0.3406724108213041,
+                    0.4942290745565753
+                ]
+            },
+            {
+                "question_bleu": 0.749634235443537,
+                "options_bleu": [
+                    0.7521206186172787,
+                    0.7016879391277372,
+                    0.7598356856515925,
+                    0.6559965570884768
+                ]
+            },
+            {
+                "question_bleu": 0.7391605811379237,
+                "options_bleu": [
+                    0.18887560283756186,
+                    0.36787944117144233,
+                    0.049787068367863944,
+                    0.5488116360940264
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The physics of surfing - Nick Pizzo",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.745715386002016,
+        "options-average-bleu": 0.2668775436591905,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8329997998131278,
+                "options_bleu": [
+                    0.19114167548796013,
+                    0.16738364679348344,
+                    0.130123196950424,
+                    0.33205499938061867
+                ]
+            },
+            {
+                "question_bleu": 0.7364279629037999,
+                "options_bleu": [
+                    0.09492372468267983,
+                    0.44544473675982377,
+                    0.23154423632065185,
+                    0.23353388806851968
+                ]
+            },
+            {
+                "question_bleu": 0.745626883328766,
+                "options_bleu": [
+                    0.8618476389178121,
+                    0.237500791743548,
+                    0.1656973265951005,
+                    0.3757921734452709
+                ]
+            },
+            {
+                "question_bleu": 0.668740304976422,
+                "options_bleu": [
+                    0.1549218126567914,
+                    0.3541243634381174,
+                    0.1821038896383151,
+                    0.22879864880210907
+                ]
+            },
+            {
+                "question_bleu": 0.7447819789879647,
+                "options_bleu": [
+                    0.2712047606781981,
+                    0.15393153989776337,
+                    0.2591641360720012,
+                    0.26631368685462026
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why do these deadly insects look like flowers?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.704928529810367,
+        "options-average-bleu": 0.4717398843159541,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7561559858236034,
+                "options_bleu": [
+                    0.5653035577259873,
+                    0.4251768826212766,
+                    0.4132993360499439,
+                    0.41970107748240365
+                ]
+            },
+            {
+                "question_bleu": 0.6959325433099479,
+                "options_bleu": [
+                    0.4653024295510498,
+                    0.4653024295510498,
+                    0.5026386140359251,
+                    0.4924790605054523
+                ]
+            },
+            {
+                "question_bleu": 0.7254204378043243,
+                "options_bleu": [
+                    0.539976245904579,
+                    0.5444110849844805,
+                    0.2297715228632393,
+                    0.24216162912811268
+                ]
+            },
+            {
+                "question_bleu": 0.69707435607959,
+                "options_bleu": [
+                    0.2666529016128487,
+                    0.3016862766665028,
+                    0.5859208830232948
+                ]
+            },
+            {
+                "question_bleu": 0.6500593260343692,
+                "options_bleu": [
+                    0.668740304976422,
+                    0.6865890479690392,
+                    0.5946035575013605,
+                    0.5533409598501607
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Better know the Mona Lisa",
+        "category": "Visual Arts",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "SH | fun phonics | how to read",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.6992032812476967,
+        "options-average-bleu": 0.5505606828771064,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6727329617725385,
+                "options_bleu": [
+                    0.7146704964214272,
+                    0.724724590060866,
+                    0.4001601601922499,
+                    0.7259795291154771
+                ]
+            },
+            {
+                "question_bleu": 0.7156448279220523,
+                "options_bleu": [
+                    0.34547428125197993,
+                    0.3356891925037239,
+                    0.6238986072117501,
+                    0.7016879391277372
+                ]
+            },
+            {
+                "question_bleu": 0.7293799946522604,
+                "options_bleu": [
+                    0.7730551756939454,
+                    0.378240460395005,
+                    0.668740304976422,
+                    0.355893381894388
+                ]
+            },
+            {
+                "question_bleu": 0.7156448279220523,
+                "options_bleu": [
+                    0.41113361690051975,
+                    0.6803749333171202,
+                    0.6567580169390806,
+                    0.6632807437760121
+                ]
+            },
+            {
+                "question_bleu": 0.6626137939695803,
+                "options_bleu": [
+                    0.3951882613244048,
+                    0.4748618834996642,
+                    0.488923022434901,
+                    0.4924790605054523
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What makes neon signs glow? A 360 degree animation - Michael Lipman",
+        "category": "Design, Engineering & Technology",
+        "questions-average-bleu": 0.7284143643373746,
+        "options-average-bleu": 0.7536701289739647,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7636066981663598,
+                "options_bleu": [
+                    1.0,
+                    0.7447819789879647,
+                    0.6529942057256104,
+                    0.7311104457090247
+                ]
+            },
+            {
+                "question_bleu": 0.7529586373193689,
+                "options_bleu": [
+                    0.5839496294503805,
+                    0.5909442849243819,
+                    0.5039843787265444,
+                    0.7127415436192576
+                ]
+            },
+            {
+                "question_bleu": 0.7454655795046551,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.5946035575013605
+                ]
+            },
+            {
+                "question_bleu": 0.7285224035225515,
+                "options_bleu": [
+                    0.8242367502646054,
+                    0.6803749333171202,
+                    0.6389431042462724,
+                    0.7186082239261684
+                ]
+            },
+            {
+                "question_bleu": 0.6515185031739381,
+                "options_bleu": [
+                    0.6803749333171202,
+                    1.0,
+                    0.7226568811456053,
+                    0.6930977286178778
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Prohibition: Banning alcohol was a bad idea... - Rod Phillips",
+        "category": "Social Studies",
+        "questions-average-bleu": 0.7011149494273845,
+        "options-average-bleu": 0.6092828233476355,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6516519700462822,
+                "options_bleu": [
+                    0.4194435452325488,
+                    0.7598356856515925,
+                    0.785629301801026,
+                    0.7071067811865476
+                ]
+            },
+            {
+                "question_bleu": 0.6865890479690392,
+                "options_bleu": [
+                    0.6657346545088059,
+                    0.3986357128268014,
+                    0.3471239643495614,
+                    0.7598356856515925
+                ]
+            },
+            {
+                "question_bleu": 0.749634235443537,
+                "options_bleu": [
+                    0.3576654627949904,
+                    0.3588969678395917,
+                    0.6756000774035172,
+                    0.5491004867761125
+                ]
+            },
+            {
+                "question_bleu": 0.6865890479690392,
+                "options_bleu": [
+                    0.620870567578328,
+                    1.0,
+                    0.7311104457090247,
+                    0.7788007830714049
+                ]
+            },
+            {
+                "question_bleu": 0.7311104457090247,
+                "options_bleu": [
+                    0.3548542660407631,
+                    0.5266403878479265,
+                    0.6640471006217092,
+                    0.724724590060866
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne",
+        "category": "Health",
+        "questions-average-bleu": 0.7903629992111532,
+        "options-average-bleu": 0.4417877237067117,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8020396005825877,
+                "options_bleu": [
+                    0.2502447384232383,
+                    0.8055344092731546,
+                    0.3277456805297591,
+                    0.724724590060866
+                ]
+            },
+            {
+                "question_bleu": 0.8210967436686386,
+                "options_bleu": [
+                    0.03567399334725241,
+                    0.37991784282579627,
+                    0.19896894256029013,
+                    0.8265168183793802
+                ]
+            },
+            {
+                "question_bleu": 0.8242367502646054,
+                "options_bleu": [
+                    0.49806572776935465,
+                    0.6126118775541336,
+                    0.26887618694630055,
+                    0.6904573083274563
+                ]
+            },
+            {
+                "question_bleu": 0.7627414200649782,
+                "options_bleu": [
+                    0.36314748337164254,
+                    0.33215048609052483,
+                    0.2898011376470632
+                ]
+            },
+            {
+                "question_bleu": 0.7417004814749555,
+                "options_bleu": [
+                    0.6567580169390806,
+                    0.3176490502102074,
+                    0.37333473646530985
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The science of Flint's water crisis",
+        "category": "Public Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How bones make blood - Melody Smith",
+        "category": "Health",
+        "questions-average-bleu": 0.769756602443342,
+        "options-average-bleu": 0.33295980877571674,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7454655795046551,
+                "options_bleu": [
+                    0.4075425863728599,
+                    0.3704875048068278,
+                    0.32367351508184405,
+                    0.45708612263919834
+                ]
+            },
+            {
+                "question_bleu": 0.8034284189446518,
+                "options_bleu": [
+                    0.19751889968315314,
+                    0.14182395635566328,
+                    0.14405591864498601,
+                    0.32400328984991
+                ]
+            },
+            {
+                "question_bleu": 0.7389984311706962,
+                "options_bleu": [
+                    0.42728700639623407,
+                    0.43343660127583233,
+                    0.36375730497090986,
+                    0.4000177797533498
+                ]
+            },
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    0.7037475090852178,
+                    0.32367351508184405,
+                    0.45708612263919834,
+                    0.4075425863728599
+                ]
+            },
+            {
+                "question_bleu": 0.8010548969451144,
+                "options_bleu": [
+                    0.19751889968315314,
+                    0.14182395635566328,
+                    0.11310981061571952,
+                    0.32400328984991
+                ]
+            }
+        ]
+    },
+    {
+        "title": "How soap kills the coronavirus",
+        "category": "Public Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What makes TB the world's most infectious killer? - Melvin Sanicas",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7357229712128571,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7324912081306231,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7410598136218668,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7825422900366437,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7431990115298822,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6793225327452701,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "The world's ugliest animal",
+        "category": "Environmental Science",
+        "questions-average-bleu": 0.790550378655956,
+        "options-average-bleu": 0.23629639005080888,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8480536257973762,
+                "options_bleu": [
+                    0.2604959504271216,
+                    0.2793093898317126,
+                    0.14681105817367796,
+                    0.0036611929524467115
+                ]
+            },
+            {
+                "question_bleu": 0.8566209113168688,
+                "options_bleu": [
+                    0.2381489284406332,
+                    0.5081327481546147,
+                    0.5077101841732481,
+                    0.2998822584734452
+                ]
+            },
+            {
+                "question_bleu": 0.7976271123027049,
+                "options_bleu": [
+                    0.031510839143306914,
+                    0.2786076508382023,
+                    0.06489866753338445,
+                    0.09882141341241264
+                ]
+            },
+            {
+                "question_bleu": 0.7501542733805745,
+                "options_bleu": [
+                    0.23477960577452867,
+                    0.27310423310746756,
+                    0.13699671326803708,
+                    0.23203784962366752
+                ]
+            },
+            {
+                "question_bleu": 0.7002959704822554,
+                "options_bleu": [
+                    0.1316166982848322,
+                    0.27427536947970077,
+                    0.27057319437721145,
+                    0.45455385554652533
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why is this painting so shocking? - Iseult Gillespie",
+        "category": "The Arts",
+        "questions-average-bleu": 0.7054770571131532,
+        "options-average-bleu": 0.5243936257185839,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6875965181003809,
+                "options_bleu": [
+                    0.6632807437760121,
+                    0.41113361690051975,
+                    1.0,
+                    0.18189587992135595
+                ]
+            },
+            {
+                "question_bleu": 0.7172835948406505,
+                "options_bleu": [
+                    0.07593956188659201,
+                    0.12297520224208983,
+                    0.4854917717073234
+                ]
+            },
+            {
+                "question_bleu": 0.7179054277564751,
+                "options_bleu": [
+                    0.5623413251903491,
+                    0.5039843787265444,
+                    0.5,
+                    0.48776580006745374
+                ]
+            },
+            {
+                "question_bleu": 0.7046726425521433,
+                "options_bleu": [
+                    0.21834177214239062,
+                    1.0,
+                    1.0,
+                    0.30576902884505114
+                ]
+            },
+            {
+                "question_bleu": 0.6999271023161167,
+                "options_bleu": [
+                    0.6223329772884784,
+                    0.5577503997480662,
+                    0.7400828044922853
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The imaginary king who changed the real world - Matteo Salvadore",
+        "category": "Social Studies",
+        "questions-average-bleu": 0.6753457475787144,
+        "options-average-bleu": 0.4076838103113925,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.633514038719262,
+                "options_bleu": [
+                    0.27432027938590386,
+                    0.3822663936398076,
+                    0.1469825256187258,
+                    0.40383414697541437
+                ]
+            },
+            {
+                "question_bleu": 0.769642045212638,
+                "options_bleu": [
+                    0.5421278435315595
+                ]
+            },
+            {
+                "question_bleu": 0.6644487017128065,
+                "options_bleu": [
+                    0.3452649882855977,
+                    0.4529190854726784,
+                    0.2589155370942596
+                ]
+            },
+            {
+                "question_bleu": 0.6714423410343707,
+                "options_bleu": [
+                    0.5547410746805879,
+                    0.49170615207060037,
+                    0.2691410483226775
+                ]
+            },
+            {
+                "question_bleu": 0.6376816112144944,
+                "options_bleu": [
+                    0.5300714512917181,
+                    0.5651887140592688,
+                    0.49009410393069486
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What happens when you lose a balloon?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7280334562532633,
+        "options-average-bleu": 0.5188766269045644,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7234804230870479,
+                "options_bleu": [
+                    0.6147881529512643,
+                    0.5169731539571706,
+                    0.6324555320336759,
+                    0.5773502691896257
+                ]
+            },
+            {
+                "question_bleu": 0.7179054277564751,
+                "options_bleu": [
+                    0.46996069213253683,
+                    0.5146906560381768,
+                    0.5491004867761125,
+                    0.6324555320336759
+                ]
+            },
+            {
+                "question_bleu": 0.7463819494944633,
+                "options_bleu": [
+                    0.5721248424548514,
+                    0.5491004867761125,
+                    0.20520135490129188,
+                    0.6324555320336759
+                ]
+            },
+            {
+                "question_bleu": 0.7226568811456053,
+                "options_bleu": [
+                    0.5200970009529277,
+                    0.45338351640554764,
+                    0.45499414040480374,
+                    0.5300714512917181
+                ]
+            },
+            {
+                "question_bleu": 0.7297425997827247,
+                "options_bleu": [
+                    0.3905106532895161,
+                    0.4690103117544751,
+                    0.5555238068023582,
+                    0.537284965911771
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The quest for the perfect apple",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7156867533365083,
+        "options-average-bleu": 0.4832652063115641,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7482317330703532,
+                "options_bleu": [
+                    0.44856539004517887,
+                    0.5321847348604716,
+                    0.21988848924619128,
+                    0.2801339918961118
+                ]
+            },
+            {
+                "question_bleu": 0.6585792706417354,
+                "options_bleu": [
+                    0.25098621243978964,
+                    0.24707644478326132,
+                    0.22717899280914527,
+                    0.7730551756939454
+                ]
+            },
+            {
+                "question_bleu": 0.7324912081306231,
+                "options_bleu": [
+                    0.8408964152537145,
+                    0.7875110621102679,
+                    0.730633242658635,
+                    0.7598356856515925
+                ]
+            },
+            {
+                "question_bleu": 0.6959325433099479,
+                "options_bleu": [
+                    0.4690103117544751,
+                    0.46818655442085944,
+                    0.44833867003844585,
+                    0.4457783181872115
+                ]
+            },
+            {
+                "question_bleu": 0.7431990115298822,
+                "options_bleu": [
+                    0.3029379110906061,
+                    0.7652058832556895,
+                    0.32217985539374805,
+                    0.345720784641941
+                ]
+            }
+        ]
+    },
+    {
+        "title": "3 bizarre (and delightful) ancient theories about bird migration - Lucy Cooke",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.7235502988216165,
+        "options-average-bleu": 0.2245688516508293,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.775707204951917,
+                "options_bleu": [
+                    0.21451324416030432,
+                    0.09582661131036438,
+                    0.1258262810070308,
+                    0.04147836420147706
+                ]
+            },
+            {
+                "question_bleu": 0.6780583353947738,
+                "options_bleu": [
+                    0.22261308776677893,
+                    0.6130959041664772,
+                    0.13152706224975605,
+                    0.20297639028329256
+                ]
+            },
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    0.006737946999085467,
+                    0.1353352832366127,
+                    0.3578815189232792,
+                    0.2395289114246337
+                ]
+            },
+            {
+                "question_bleu": 0.716729493542774,
+                "options_bleu": [
+                    0.46199933699457096,
+                    0.23549928338544668,
+                    0.45479996809557227,
+                    0.9428731438548749
+                ]
+            },
+            {
+                "question_bleu": 0.6874207745670249,
+                "options_bleu": [
+                    0.0011451818621937074,
+                    0.005429149370447241,
+                    0.0011451818621937074,
+                    0.0011451818621937074
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why perfect grades don't matter",
+        "category": "Teaching & Education",
+        "questions-average-bleu": 0.6624776330252721,
+        "options-average-bleu": 0.987146933814646,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6930977286178778,
+                "options_bleu": [
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6671574765894948,
+                "options_bleu": [
+                    0.9036020036098448,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7311104457090247,
+                "options_bleu": [
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.5703507905808299,
+                "options_bleu": [
+                    0.9036020036098448,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.6506717236291332,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you trust your ears? (audio illusions)",
+        "category": "Health",
+        "questions-average-bleu": 0.7132082597193842,
+        "options-average-bleu": 0.526040359545248,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7529586373193689,
+                "options_bleu": [
+                    0.5623413251903491,
+                    0.4500531895417844,
+                    0.6086700968648568,
+                    0.6324555320336759
+                ]
+            },
+            {
+                "question_bleu": 0.6404307583297338,
+                "options_bleu": [
+                    0.5399394563175217,
+                    0.6252228754916216,
+                    0.5169731539571706,
+                    0.8034284189446518
+                ]
+            },
+            {
+                "question_bleu": 0.7992975447228272,
+                "options_bleu": [
+                    0.6930977286178778,
+                    0.4257303794093632,
+                    0.6042750794713536,
+                    0.6104735835807844
+                ]
+            },
+            {
+                "question_bleu": 0.6389431042462724,
+                "options_bleu": [
+                    0.6252228754916216,
+                    0.5399394563175217,
+                    0.5169731539571706,
+                    0.8034284189446518
+                ]
+            },
+            {
+                "question_bleu": 0.7344112539787184,
+                "options_bleu": [
+                    0.14470269249890264,
+                    0.3446073377034663,
+                    0.40704222620743274,
+                    0.06623021036318023
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why is my leg asleep?",
+        "category": "Health",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why don't we throw trash in volcanoes?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Is life meaningless? And other absurd questions - Nina Medvinskaya",
+        "category": "Philosophy",
+        "questions-average-bleu": 0.7219380026173543,
+        "options-average-bleu": 0.4375973271040637,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7952707287670506,
+                "options_bleu": [
+                    0.29641109463276827,
+                    0.329340597116918,
+                    0.33875981244303577
+                ]
+            },
+            {
+                "question_bleu": 0.6758936251926989,
+                "options_bleu": [
+                    0.8507331335123524,
+                    0.8385766789076257,
+                    0.7860753021519787
+                ]
+            },
+            {
+                "question_bleu": 0.7952707287670506,
+                "options_bleu": [
+                    0.08673245635389941,
+                    0.08829329567049694,
+                    0.06337012549241525,
+                    0.10145249973866254
+                ]
+            },
+            {
+                "question_bleu": 0.6964705665515708,
+                "options_bleu": [
+                    0.7860753021519787,
+                    0.668740304976422,
+                    0.8507331335123524
+                ]
+            },
+            {
+                "question_bleu": 0.6467843638084008,
+                "options_bleu": [
+                    0.15927119787203226,
+                    0.12662755779615117,
+                    0.6303647413359293
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read \"Moby Dick\"? - Sascha Morrell",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.7576954161343696,
+        "options-average-bleu": 0.4661746289020777,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7440300527604121,
+                "options_bleu": [
+                    0.4974292207467277,
+                    0.2317511932071925,
+                    0.6345814629568174,
+                    0.5814307369682193
+                ]
+            },
+            {
+                "question_bleu": 0.81903625881272,
+                "options_bleu": [
+                    0.7997513045108656,
+                    0.5828233954152654,
+                    0.8120224586769673,
+                    0.6959652617829837
+                ]
+            },
+            {
+                "question_bleu": 0.727427152512826,
+                "options_bleu": [
+                    0.5410822690539396,
+                    0.3720661823908181,
+                    0.7226568811456053,
+                    0.7510499815709779
+                ]
+            },
+            {
+                "question_bleu": 0.7598356856515925,
+                "options_bleu": [
+                    0.29383895359933265,
+                    0.22903457759139503,
+                    0.17900673522268168,
+                    0.2797821230630072
+                ]
+            },
+            {
+                "question_bleu": 0.7381479309342973,
+                "options_bleu": [
+                    0.3308487533103039,
+                    0.24035981896530723,
+                    0.2601300475114445,
+                    0.2878812203517012
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why do American schools have such long hours?",
+        "category": "Teaching & Education",
+        "questions-average-bleu": 0.6826559120318046,
+        "options-average-bleu": 0.7603024579336671,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6738520677318575,
+                "options_bleu": [
+                    0.7165313105737893,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7521206186172787,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.566553914134373,
+                "options_bleu": [
+                    0.6773709971213142,
+                    0.6147881529512643,
+                    0.5946035575013605,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7447819789879647,
+                "options_bleu": [
+                    0.5081327481546147,
+                    0.5292031904718658,
+                    0.5081327481546147,
+                    0.5885661912765424
+                ]
+            },
+            {
+                "question_bleu": 0.6759709806875497,
+                "options_bleu": [
+                    0.6389431042462724,
+                    0.5466325569645467,
+                    0.5900468726392808,
+                    0.6930977286178778
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Here Comes Teacher Cat - Read aloud picture book",
+        "category": "Literature",
+        "questions-average-bleu": 0.7479322816640781,
+        "options-average-bleu": 0.1625659465341522,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7561559858236034,
+                "options_bleu": [
+                    1.2690548271504056e-05,
+                    0.0885435087378028,
+                    0.08180414546944562,
+                    0.044881672378088405
+                ]
+            },
+            {
+                "question_bleu": 0.785629301801026,
+                "options_bleu": [
+                    0.2896089818851667,
+                    0.1139064440660758,
+                    0.3746222886729518,
+                    0.03931996400745555
+                ]
+            },
+            {
+                "question_bleu": 0.7344112539787184,
+                "options_bleu": [
+                    0.31270450744084466,
+                    0.35037648821983003,
+                    0.23350398107551132,
+                    0.4053036091574809
+                ]
+            },
+            {
+                "question_bleu": 0.7563580855304949,
+                "options_bleu": [
+                    0.2566375769978604,
+                    0.11891852800222681,
+                    0.14050274664999413,
+                    0.18542978024042983
+                ]
+            },
+            {
+                "question_bleu": 0.7071067811865476,
+                "options_bleu": [
+                    1.2690548271504056e-05,
+                    0.0885435087378028,
+                    0.08180414546944562,
+                    0.044881672378088405
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What happens when nature goes viral?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.708123769457824,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6875002497720716,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6995159848980531,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7431990115298822,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7022798316312892,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "The myth of Loki and the master builder - Alex Gendler",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How Thor got his hammer - Scott A. Mellor",
+        "category": "Social Studies",
+        "questions-average-bleu": 0.7563479955983858,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7071067811865476,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.8034284189446518,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.8034284189446518,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7121043131712586,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7556720457448196,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "Helping others makes us happier--- but it matters how we do it - Elizabeth Dunn",
+        "category": "Psychology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "What is Juneteenth, and why is it important? - Karlos K. Hill and Soraya Field Fiorio",
+        "category": "Social Studies",
+        "questions-average-bleu": 0.7108454050375892,
+        "options-average-bleu": 0.5842860657829274,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7135650476426908,
+                "options_bleu": [
+                    0.6147881529512643,
+                    0.34823528327578546,
+                    0.7226568811456053,
+                    0.6865890479690392
+                ]
+            },
+            {
+                "question_bleu": 0.7009305846091448,
+                "options_bleu": [
+                    0.5623413251903491,
+                    0.5946035575013605,
+                    0.6529942057256104,
+                    0.7226568811456053
+                ]
+            },
+            {
+                "question_bleu": 0.7380411773078261,
+                "options_bleu": [
+                    0.5773502691896257,
+                    0.5491004867761125,
+                    0.5773502691896257,
+                    0.5773502691896257
+                ]
+            },
+            {
+                "question_bleu": 0.7104188473589647,
+                "options_bleu": [
+                    0.32406944672724197,
+                    0.3146660996956415,
+                    0.5773502691896257,
+                    0.668740304976422
+                ]
+            },
+            {
+                "question_bleu": 0.6912713682693196,
+                "options_bleu": [
+                    0.5885661912765424,
+                    0.6773709971213142,
+                    0.7226568811456053,
+                    0.6262844962765469
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why should you read Sylvia Plath? - Iseult Gillespie",
+        "category": "Literature & Language",
+        "questions-average-bleu": 0.7342164742320538,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8468395158473866,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7674731847914632,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.8003203203844999,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6337268058487422,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6227225442881771,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "There may be extraterrestrial life in our solar system - Augusto Carballido",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0.7537710840003145,
+        "options-average-bleu": 0.4497880739953571,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8050304775850328,
+                "options_bleu": [
+                    0.2626562534430526,
+                    0.537284965911771,
+                    0.24593868725947404
+                ]
+            },
+            {
+                "question_bleu": 0.7364279629037999,
+                "options_bleu": [
+                    0.24008132324365322,
+                    0.2476165058078653,
+                    0.5,
+                    0.7476743906106103
+                ]
+            },
+            {
+                "question_bleu": 0.7636066981663598,
+                "options_bleu": [
+                    0.22997519112894438,
+                    0.6238986072117501,
+                    0.537284965911771,
+                    0.5623413251903491
+                ]
+            },
+            {
+                "question_bleu": 0.716729493542774,
+                "options_bleu": [
+                    0.5292031904718658,
+                    0.5983790078367693,
+                    0.5800545598952107
+                ]
+            },
+            {
+                "question_bleu": 0.747060787803606,
+                "options_bleu": [
+                    0.5246341022861458,
+                    0.19784593967396555,
+                    0.48152824203787276
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The Princess and the Pea - Read aloud picture book",
+        "category": "Literature",
+        "questions-average-bleu": 0.7591155607659472,
+        "options-average-bleu": 0.3877997582060337,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7691605673134586,
+                "options_bleu": [
+                    0.29846857550869266,
+                    0.5332537294394034,
+                    0.5394044743801475,
+                    0.2603680276814603
+                ]
+            },
+            {
+                "question_bleu": 0.7419446627365011,
+                "options_bleu": [
+                    0.37566643463381283,
+                    0.3142663489434693,
+                    0.2852776220621775,
+                    0.4364632750877051
+                ]
+            },
+            {
+                "question_bleu": 0.7714395865600262,
+                "options_bleu": [
+                    0.2644894679721535,
+                    0.2562534348889733,
+                    0.20234579857560134,
+                    0.40924223852894037
+                ]
+            },
+            {
+                "question_bleu": 0.7463819494944633,
+                "options_bleu": [
+                    0.5814307369682193,
+                    0.25999636669535636,
+                    0.4435625668777584,
+                    0.4842734640584506
+                ]
+            },
+            {
+                "question_bleu": 0.7666510377252865,
+                "options_bleu": [
+                    0.5496444205650795,
+                    0.544534324626779,
+                    0.23895157120229973,
+                    0.4781022854241943
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Can you solve the secret sauce riddle? - Alex Gendler",
+        "category": "Problem Solving",
+        "questions-average-bleu": 0.6873086720338298,
+        "options-average-bleu": 0.3505191151780684,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.685683852793419,
+                "options_bleu": [
+                    0.3042729202167934,
+                    0.48743766950836465,
+                    0.4887393893424451,
+                    0.2598383301315989
+                ]
+            },
+            {
+                "question_bleu": 0.681091495587961,
+                "options_bleu": [
+                    0.0005530843701478336,
+                    0.009403562551495206,
+                    0.3866444157836524,
+                    0.8633400213704505
+                ]
+            },
+            {
+                "question_bleu": 0.6625187887633293,
+                "options_bleu": [
+                    0.39151607230258306,
+                    0.4023443513453917,
+                    0.09737792991087657,
+                    0.14809362972567602
+                ]
+            },
+            {
+                "question_bleu": 0.7563580855304949,
+                "options_bleu": [
+                    0.5653405852845984,
+                    0.46845875138198695,
+                    0.5379454280877225,
+                    0.47987820666906633
+                ]
+            },
+            {
+                "question_bleu": 0.6508911374939451,
+                "options_bleu": [
+                    0.3454469461818406,
+                    0.3602459394699821,
+                    0.34095107969299543,
+                    0.07255399023369992
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The secret society of the Great Dismal Swamp - Dan Sayers",
+        "category": "Social Studies",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Why parrots can talk like humans",
+        "category": "Life Sciences",
+        "questions-average-bleu": 0.7129885140757608,
+        "options-average-bleu": 0,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7142622297615925,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7755106492019573,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6529942057256104,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.6924328859069189,
+                "options_bleu": []
+            },
+            {
+                "question_bleu": 0.7297425997827247,
+                "options_bleu": []
+            }
+        ]
+    },
+    {
+        "title": "Your brain hallucinates your conscious reality - Anil Seth",
+        "category": "Consciousness, Sensation and Perception",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "Can you solve the Ragnarok riddle? - Dan Finkel",
+        "category": "Thinking & Learning",
+        "questions-average-bleu": 0.6977867814495258,
+        "options-average-bleu": 0.4191173211035185,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.6930977286178778,
+                "options_bleu": [
+                    0.5044937117450633,
+                    0.3304901454726752,
+                    0.25488727774195646,
+                    0.38670303993014044
+                ]
+            },
+            {
+                "question_bleu": 0.7278825061958952,
+                "options_bleu": [
+                    0.378185182284593,
+                    0.3719150894937204,
+                    0.3918189150070214,
+                    0.4854917717073234
+                ]
+            },
+            {
+                "question_bleu": 0.6904573083274563,
+                "options_bleu": [
+                    0.3918189150070214,
+                    0.1598568990999224,
+                    0.42379865741502165,
+                    0.4765798792330085
+                ]
+            },
+            {
+                "question_bleu": 0.7236262419845225,
+                "options_bleu": [
+                    0.3711230412637964,
+                    0.3815175322772146,
+                    0.25488727774195646,
+                    0.5044937117450633
+                ]
+            },
+            {
+                "question_bleu": 0.653870122121877,
+                "options_bleu": [
+                    0.4743001532077802,
+                    0.39271080035584033,
+                    0.7487402156832422,
+                    0.6985342056580097
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What is depression? - Helen M. Farrell",
+        "category": "Psychology",
+        "questions-average-bleu": 0.7488064992123897,
+        "options-average-bleu": 0.6922710692189677,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.8125424861344327,
+                "options_bleu": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            {
+                "question_bleu": 0.7933884179874885,
+                "options_bleu": [
+                    0.45180100180492244,
+                    1.0,
+                    1.0,
+                    0.5444460596606694
+                ]
+            },
+            {
+                "question_bleu": 0.7311104457090247,
+                "options_bleu": [
+                    0.2801260476496127,
+                    0.2753358028987337,
+                    0.2623170511430729,
+                    0.5577503997480662
+                ]
+            },
+            {
+                "question_bleu": 0.7157845613716322,
+                "options_bleu": [
+                    0.7447819789879647,
+                    0.7186082239261684,
+                    0.7311104457090247,
+                    0.6964705665515708
+                ]
+            },
+            {
+                "question_bleu": 0.6912065848593708,
+                "options_bleu": [
+                    0.4766389972493081,
+                    0.5983790078367693,
+                    0.7765453555044466,
+                    0.7311104457090247
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does smoke follow you around a fire?",
+        "category": "Science & Technology",
+        "questions-average-bleu": 0,
+        "options-average-bleu": 0,
+        "multiple-choice": []
+    },
+    {
+        "title": "How to deal with rejection",
+        "category": "Psychology",
+        "questions-average-bleu": 0.7520175871056765,
+        "options-average-bleu": 0.3190186338100909,
+        "multiple-choice": [
+            {
+                "question_bleu": 0.7860753021519787,
+                "options_bleu": [
+                    0.5513932317797618,
+                    0.45346337259823555,
+                    0.186458721649873,
+                    0.4321710794458684
+                ]
+            },
+            {
+                "question_bleu": 0.7884044396805875,
+                "options_bleu": [
+                    0.460701947948372,
+                    0.26373324647799984,
+                    0.23033299950346892,
+                    0.37160442647213937
+                ]
+            },
+            {
+                "question_bleu": 0.8074157792118413,
+                "options_bleu": [
+                    0.2573117464897868,
+                    0.27653791591430793,
+                    0.26373324647799984,
+                    0.37160442647213937
+                ]
+            },
+            {
+                "question_bleu": 0.7094521095075528,
+                "options_bleu": [
+                    0.3348946563001698,
+                    0.22667104913955108,
+                    0.3093001956032523,
+                    0.4972315387134782
+                ]
+            },
+            {
+                "question_bleu": 0.668740304976422,
+                "options_bleu": [
+                    0.24627624240741638,
+                    0.2230705128801604,
+                    0.26138485062114936,
+                    0.16249726930668723
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "multiple-choice": [
+            {
+                "question": "One study found that ____ percent of news coverage about Islam and Muslims is negative.",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "20"
+                    },
+                    {
+                        "label": "B",
+                        "text": "50"
+                    },
+                    {
+                        "label": "C",
+                        "text": "80"
+                    },
+                    {
+                        "label": "D",
+                        "text": "100"
+                    }
+                ]
+            },
+            {
+                "question": "What is one thing going to mosques more frequently linked to?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "More tolerant views of people of other faiths"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Greater civic engagement"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Both A and B"
+                    },
+                    {
+                        "label": "D",
+                        "text": "None of the above"
+                    }
+                ]
+            },
+            {
+                "question": "ISIS has as much to do with Islam as the Ku Klux Klan has to do with ______.",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The white race"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Christianity"
+                    },
+                    {
+                        "label": "C",
+                        "text": "White supremacy"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Violence"
+                    }
+                ]
+            },
+            {
+                "question": "According to some psychologists, our first experiences with self-talk are often ___.",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Vocal"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Silent"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Negative"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Confusing"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following is NOT described as a function of self-talk?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Planning"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Motivation"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Emotional regulation"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Perception of time"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "multiple-choice": []
+    }
+]

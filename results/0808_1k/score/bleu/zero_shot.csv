@@ -1,0 +1,999 @@
+Title,Category,Questions Average BLEU,Options Average BLEU
+"Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",Anthropology,0.7464551356970219,0.05941541027059035
+Why does everyone hate pigeons?,Science & Technology,0.7445329795599793,0.19669937437631352
+What it's like to be a Muslim in America - Dalia Mogahed,Religion,0,0
+Is it normal to talk to yourself?,Psychology,0.7367665856403749,0.335831723459297
+How tall can a tree grow? - Valentin Hammoudi,Science & Technology,0.7258619205935007,0.6650492666248331
+Can you solve the dark matter fuel riddle? - Daniel Finkel,Literature & Language,0.7112970298740886,0.4158170222910612
+"Why should you read Toni Morrison's ""Beloved""? - Yen Pham",Literature,0.7015247782231492,0.24831423165042255
+Can you outsmart this logical fallacy? - Alex Gendler,Thinking & Learning,0.653359949075712,0.36831473689397864
+Einstein's twin paradox explained - Amber Stuver,Mathematics,0.7208110906788383,0.6651606137270445
+Why should you wear sunscreen?,Science & Technology,0.7350732202537321,0.39092252353065116
+The surprisingly long history of electric cars - Daniel Sperling and Gil Tal,"Design, Engineering & Technology",0.7259044342489422,0.5501477173790724
+Food waste causes climate change. Here's how we stop it,Science & Technology,0.6877246840472622,0.37591497572469035
+"How do self-driving cars ""see""? - Sajan Saini","Design, Engineering & Technology",0.7800895743830111,0.2628381824830626
+Why is meningitis so dangerous? - Melvin Sanicas,Health,0.7154289710213461,0.5188251837829918
+What is phantom traffic and why is it ruining your life? - Benjamin Seibold,"Design, Engineering & Technology",0.7667142997461506,0.4036140902437155
+The race to decode a mysterious language - Susan Lupack,Linguistics,0.6572031908124704,0.6228086147663667
+What if all the ice melted on Earth?,Science & Technology,0.6903813326668902,0.7727960227484979
+Why are you always tired?,Health,0.7069285658368708,0.5256415718552492
+"The life, legacy & assassination of an African revolutionary - Lisa Janae Bacon",History,0.7153658087751461,0.6317630431168941
+I Like Myself - Children's books read aloud,Literature,0.730751079037703,0.6324065561518961
+What is schizophrenia? - Anees Bahji,Health,0.6752734456851428,0.5264668932811731
+How do pelicans survive their death-defying dives?,Environmental Science,0.7143831814491097,0.11675395834860336
+The truth about electroconvulsive therapy (ECT) - Helen M. Farrell,Health,0.783219123390358,0.5764657370943611
+What is imposter syndrome and how can you combat it? - Elizabeth Cox,Psychology,0.7029340855478383,0.5211725842584103
+Fabulous food chains,Environmental Science,0.8029617970033815,0.2772521230688435
+How An Igloo Keeps You Warm,"Design, Engineering & Technology",0.7047444556522612,0.3451416385504179
+Infinity according to Jorge Luis Borges - Ilan Stavans,Health,0.6347844761751359,0.4382250611039991
+Volcanic eruption explained - Steven Anderson,Science & Technology,0.7542966096933984,0.2859181337505063
+The strange history of the world's most stolen painting - Noah Charney,Science & Technology,0.7600080149919183,0.9333835922731429
+"Why should you read ""The God of Small Things"" by Arundhati Roy? - Laura Wright",Literature,0.7613991989556552,0.45362883584905667
+Performing brain surgery without a scalpel - Hyunsoo Joshua No,"Design, Engineering & Technology",0.6495149203583286,0.29734752082767113
+How this disease changes the shape of your cells - Amber M. Yates,Health,0.7241078428321758,0.5067385544712236
+The counting by fives song | Counting songs,Numbers & Operations,0.7200005553586386,0.15182198255547186
+Why do we have leap years?,Teaching & Education,0.6558484690883948,0.4314782238378418
+Is binge watching bad for you?,Health,0.7440513123090399,0.5271100164452645
+Meet the microscopic life in your home--- and on your face - Anne Madden,"Design, Engineering & Technology",0.7332712387950823,0.8294350882273689
+Why do we wrinkle when wet?,Health,0.7014577501403301,0.3758293792223305
+3D shapes song | Shapes for kids,Geometry,0.7189561103857127,0.9267766952966369
+The most common STI in the world - Emma Bryce,Literature & Language,0.7068594778947678,0.5656863772224348
+Who was the world's first author? - Soraya Field Fiorio,Literature & Language,0.7527074279353786,0.38799906000921086
+Harvey Milk's radical vision of equality - Lillian Faderman,Social Studies,0.7260520067188994,1.0
+Is human evolution speeding up or slowing down? - Laurence Hurst,Science & Technology,0.7237109120651658,0.9668790237024864
+The surprising similarities between Twister and intelligence,Health,0.6859715514404732,0.5549752919151091
+Where will you be able to live in 20 years? - Carol Farbotko and Ingrid Boas,Science & Technology,0.7291304686294319,0.4364067615510897
+Why beavers are the smartest thing in fur pants,Science & Technology,0.7505970909051701,0.38464565641536697
+Why we should draw more (and photograph less),Physical Fitness,0.7086337771251175,0.3625255386452947
+The history of manners,Psychology,0,0
+Can you solve the multiplying rabbits riddle? - Alex Gendler,Mathematics,0.6915279168983154,1.0
+Art with Mati and Dada – Henri Matisse,Visual Arts,0.6738827092723513,0.6079050615488694
+Why don't haircuts hurt?,Science & Technology,0.7191508947141632,0.004900895998279935
+An Exercise in Self Compassion,Emotional Health,0.6977743102330765,0.5673394817303373
+The secret language of trees - Camille Defrenne and Suzanne Simard,Health,0.7414516461305681,0.44842950868045495
+The myth of the Sampo--- an infinite source of fortune and greed - Hanna-Ilona Härmävaara,Literature & Language,0.6949152155693842,0.39585028367517977
+Why some people don't have an inner monologue,Psychology,0,0
+Can you survive nuclear fallout? - Brooke Buddemeier and Jessica S. Wieder,Science & Technology,0.6937539944930331,1.0
+The rise and fall of the Lakota Empire - Pekka Hämäläinen,History,0.7171508963568316,0.7265174270319311
+Climate change will displace millions. Here's how we prepare - Colette Pichon Battle,Science & Technology,0,0
+The counting by tens song | Counting songs,Numbers & Operations,0.7261327632345542,0.4626159783210615
+Licking bees and pulping trees: The reign of a wasp queen - Kenny Coogan,Science & Technology,0.7357214815052517,0.3875506314434783
+The physics of surfing - Nick Pizzo,Science & Technology,0.7495838322437156,0.30517775551880366
+Why do these deadly insects look like flowers?,Science & Technology,0.6772071490142129,0.5003251949433111
+Better know the Mona Lisa,Visual Arts,0.6993806910735133,0.5748713155090902
+SH | fun phonics | how to read,Literature & Language,0.6948777712577877,0.5984891267188617
+What makes neon signs glow? A 360 degree animation - Michael Lipman,"Design, Engineering & Technology",0.6980672479576178,0.790894243254624
+Prohibition: Banning alcohol was a bad idea... - Rod Phillips,Social Studies,0.6736426550408756,0.6863008481929886
+How the COVID-19 vaccines were created so quickly - Kaitlyn Sadtler and Elizabeth Wayne,Health,0.7173220909339013,0.39248831257414113
+The science of Flint's water crisis,Public Health,0,0
+How bones make blood - Melody Smith,Health,0.7145587332765404,0.46162953028598935
+How soap kills the coronavirus,Public Health,0.7174252030368193,0.6103921948501118
+What makes TB the world's most infectious killer? - Melvin Sanicas,Science & Technology,0.7254768747010393,0.6647647092611196
+The world's ugliest animal,Environmental Science,0.7649368481702112,0.2348060513073824
+Why is this painting so shocking? - Iseult Gillespie,The Arts,0.6842027796758036,0.456403600759648
+The imaginary king who changed the real world - Matteo Salvadore,Social Studies,0.7081318865070173,0.3393835439399864
+What happens when you lose a balloon?,Science & Technology,0.6927283745056603,0.5187964147820747
+The quest for the perfect apple,Science & Technology,0.7324621893082905,0.4692109975646367
+3 bizarre (and delightful) ancient theories about bird migration - Lucy Cooke,Literature & Language,0.6820427573535376,0.30382640279093065
+Why perfect grades don't matter,Teaching & Education,0.6297660601507947,0.9855403005414767
+Can you trust your ears? (audio illusions),Health,0.6235788935003846,0.3171138981876419
+Why is my leg asleep?,Health,0.7417454323765182,0.3719207267784459
+Why don't we throw trash in volcanoes?,Science & Technology,0.6818785634563391,0.48271942449791155
+Is life meaningless? And other absurd questions - Nina Medvinskaya,Philosophy,0.7142254905808592,0.4895127372934932
+"Why should you read ""Moby Dick""? - Sascha Morrell",Literature & Language,0.7343532011773227,0.41975642491668175
+Why do American schools have such long hours?,Teaching & Education,0.7077098407396882,0.6762266078712829
+Here Comes Teacher Cat - Read aloud picture book,Literature,0.7154565664192303,0.12374565279283282
+What happens when nature goes viral?,Science & Technology,0.7196058304390682,0.5553215589423711
+The myth of Loki and the master builder - Alex Gendler,Literature & Language,0.7098743071272924,0.4943097041817408
+How Thor got his hammer - Scott A. Mellor,Social Studies,0.7173066445185817,0.5320469259358039
+Helping others makes us happier--- but it matters how we do it - Elizabeth Dunn,Psychology,0,0
+"What is Juneteenth, and why is it important? - Karlos K. Hill and Soraya Field Fiorio",Social Studies,0.7132329571929542,0.5938604705980843
+Why should you read Sylvia Plath? - Iseult Gillespie,Literature & Language,0.6959753010347763,0.7384275952574738
+There may be extraterrestrial life in our solar system - Augusto Carballido,Science & Technology,0.6902266357431305,0.4706687254399574
+The Princess and the Pea - Read aloud picture book,Literature,0.7013884150698357,0.41419365767182026
+Can you solve the secret sauce riddle? - Alex Gendler,Problem Solving,0.7393641067146568,0.4320832604983701
+The secret society of the Great Dismal Swamp - Dan Sayers,Social Studies,0.7452854197649849,0.5759199100955682
+Why parrots can talk like humans,Life Sciences,0.7175187318802082,0.5408014218363084
+Your brain hallucinates your conscious reality - Anil Seth,"Consciousness, Sensation and Perception",0,0
+Can you solve the Ragnarok riddle? - Dan Finkel,Thinking & Learning,0.6788492479261793,0.4229124133676977
+What is depression? - Helen M. Farrell,Psychology,0.7188493703861794,0.6073041903863318
+Why does smoke follow you around a fire?,Science & Technology,0.7121468676722144,0.47877438584314735
+How to deal with rejection,Psychology,0.6893759753116526,0.38141747602696435
+Plurals -s -es | Learn to Spell,Literature & Language,0.7185215125122627,0.5664118990137861
+How to find area and perimeter,Mathematics,0.7499593553702437,0.5305905474335868
+What you should know about vaping and e-cigarettes - Suchitra Krishnan-Sarin,Health,0,0
+Make your own cartoon!,Visual Arts,0.7540632582552022,0.5091788323884804
+How do crystals work? - Graham Baird,Science & Technology,0.7522079696489136,0.5093008856991614
+Why is cotton in everything? - Michael R. Stiff,Science & Technology,0.7362361013728027,0.7878230585318646
+How much sleep do you actually need?,Health,0.6420715131645288,0.5859769588852288
+This thought experiment will help you understand quantum mechanics - Matteo Fadel,Psychology,0.6606953063017448,0.19327312658411053
+The history of the world according to cats - Eva-Maria Geigl,Social Studies,0.6933698938962813,0.4764340268072056
+"""Other"": A brief history of American xenophobia",Social Studies,0.684509198644683,0.6543856763083589
+The New Baby by Mercer Mayer - Read aloud book,Literature,0.7921616937649798,0.6137307748802525
+How one scientist took on the chemical industry - Mark Lytle,Public Health,0.6560975378705841,0.3728769646742242
+Does aloe vera really treat a sunburn?,Earth and Space Science,0.6712496245928353,0.5503246214818961
+Why do humans have a third eyelid? - Dorsa Amin,Life Sciences,0.7355046352170735,0.6232462489115274
+Art with Mati & Dada | Kandinsky,Visual Arts,0.7074018548613369,0.3787364529668091
+Can you solve the secret werewolf riddle? - Daniel Finkel,Mathematics,0.7155414380292126,0.6622619455610147
+"If your hands could smell, you'd be an octopus",Science & Technology,0.7460994883816471,0.4060415798987707
+Polygon song,Geometry,0.8239257474893786,1.0
+The coronavirus explained and how you can combat it,Public Health,0.7537451259306424,0.4003923154351483
+Five oceans song,Geography,0.7120973716517658,0.7468225844926931
+Why some people find exercise harder than others - Emily Balcetis,"Design, Engineering & Technology",0,0
+Closed and open syllables | Learn to read,Literature & Language,0.7293176552773374,0.6136156716516469
+Zumbi: The last king of Palmares - Marc Adam Hertzman & Flavio dos Santos Gomes,Social Studies,0.6971762526094242,0.4419488979451267
+What would happen if you stopped brushing your teeth?,Physical Science,0.6410764156038097,0.5421248775924733
+A brief history of chess - Alex Gendler,Thinking & Learning,0.6791176622153199,0.6883001875246314
+Your body vs. Implants - Kaitlyn Sadtler,Science & Technology,0.7449663919137206,0.5914508755177774
+What is monkeypox?,Health,0.8037390172251797,0.9304538420806846
+How does the Rorschach inkblot test work? - Damion Searls,Psychology,0.7369011937098705,0.28177798568594137
+Can you solve the troll's paradox riddle? - Dan Finkel,Mathematics,0.7250633562483122,0.38512245619978674
+How do you know what's true? - Sheila Marie Orfano,Psychology,0.6724835783887206,0.4768661417971667
+Shapes song for kids,Geometry,0.692693152937921,0.6938668009805993
+How a case gets to the US Supreme Court,Social Studies,0.6681985089059619,0.8310357615821857
+Why is it so hard to break a bad habit?,Psychology,0.7843422203860411,0.3584261383591346
+The L-iminator! | The double L spelling rule,Literature & Language,0.7034648722829457,0.3510170835485071
+Why 350 degreeF is the magic number for baking,Social Studies,0.7191025567032818,0.869570727920219
+Can you solve the cuddly duddly fuddly wuddly riddle? - Dan Finkel,Mathematics,0.732044318642249,0.7317362983211272
+What was so special about Viking ships? - Jan Bill,"Design, Engineering & Technology",0.684061543174068,1.0
+The physics of a pool vortex,Science & Technology,0.6942678564450591,0.6693379576831222
+A day in the life of an ancient Greek architect - Mark Robinson,"Design, Engineering & Technology",0.6847781823932546,0.5475055504360221
+The importance of setting in a story,Literature & Language,0.6987417973726323,0.5430990290636797
+Why haven't we cured arthritis? - Kaitlyn Sadtler and Heather J. Faust,Health,0.7025438268709362,0.50465507503978
+"Homophone song: There, Their, They're",Literature & Language,0.7055437349308449,0.37638464599985505
+How can we solve the antibiotic resistance crisis? - Gerry Wright,Health,0.7425561253385597,0.5212382353039506
+This sea creature breathes through its butt - Cella Wright,Science & Technology,0.6887316317938073,0.4025696776337022
+How far would you have to go to escape gravity? - Rene Laufer,Science & Technology,0.6425050703693328,0.5947895902270092
+Can animals be deceptive? - Eldridge Adams,Science & Technology,0.7520792088055871,0.29966683057701027
+Old MacDonald had some vowels | AEIOU,Literature & Language,0.740701860847571,0.6107966520954173
+Do we own the land?,Social Studies,0.7347210594334186,0.6537284186692507
+"Why should you read ""Midnight's Children""? - Iseult Gillespie",Literature & Language,0.6864075745921483,0.4627485528244069
+The fascinating physics of boat wakes,Science & Technology,0.6878058043224373,0.4582523177097874
+The advanced colors song | Art songs,Visual Arts,0.7300420529164146,0.5631993689008855
+Building the world's largest (and most controversial) power plant - Alex Gendler,Thinking & Learning,0.6972088366788853,0.4132619095131087
+Underwater farms vs. Climate change - Ayana Elizabeth Johnson and Megan Davis,Thinking & Learning,0.754679979365145,0.7964096200494543
+"Human, capital & natural resources for kids | Types of resources",Social Studies,0.8621407843292819,0.4890658542135239
+Can you solve the jail break riddle? - Dan Finkel,Mathematics,0.7203700794084286,0.3685647067994934
+Can you be awake and asleep at the same time? - Masako Tamaki,Health,0.6692273749863028,0.6651971695215773
+A day in the life of a teenage samurai - Constantine N. Vaporis,Social Studies,0.6744735226952054,0.7803807193379743
+"Why we say ""OK""",Literature & Language,0.7736041078213387,0.4046406261426944
+The Japanese folktale of the selfish scholar - Iseult Gillespie,Social Studies,0.6233323575192751,0.2661951642022447
+Why do India and China have so many people?,Social Studies,0.6946111076538536,0.6884788680916588
+Can you trust your eyes?,Science & Technology,0.6740873359023498,0.3396265659991998
+"Mating frenzies, sperm hoards, and brood raids: The life of a fire ant queen - Walter R. Tschinkel",Earth and Space Science,0.6772640366843141,0.2778037968137746
+The psychology of post-traumatic stress disorder - Joelle Maletis,Health,0.6315162038640467,0.6148112228827951
+What's the smartest age? - Shannon Odell,Thinking & Learning,0.6559610124772645,0.4180159801617778
+Black Friday: An accident of history,Nutrition,0.6680881187548962,0.39216841520004686
+How ingenious animals have engineered air conditioning,"Design, Engineering & Technology",0.7565167053671856,0.4962354675276789
+The golf ball that made golfers too good,"Design, Engineering & Technology",0.719524856370833,0.21717116339641324
+The lines song | Art songs,Visual Arts,0.6634202466009855,0.6726267353955835
+Can you solve the monster duel riddle? - Alex Gendler,Science & Technology,0.6704191062519058,0.7853503225942668
+Which animal murders the most?,Science & Technology,0.6854231765606883,0.7904463488690996
+Game theory challenge: Can you predict human behavior? - Lucas Husted,Critical Thinking,0.6569623375227578,0.6643863326490332
+The Snowy Day - Read aloud picture book,Literature,0.7372812275937003,0.5659857443187348
+Why do venomous animals live in warm climates?,Science & Technology,0,0
+What's in the air you breathe? - Amy Hrdina and Jesse Kroll,Health,0.7216193466306093,0.5683293955122612
+Grief and love in the animal kingdom - Barbara J. King,Life Sciences,0,0
+The tale of the doctor who defied Death - Iseult Gillespie,Literature & Language,0.6732942219379855,0.4655893233196773
+The surprising truth about what motivates us,Motivation and Emotion,0,0
+Fun cartoon on Dr. Martin Luther King Jr. for Kids!,History,0.7398360840716544,0.04631297596042141
+The dangerous race for the South Pole - Elizabeth Leane,Social Studies,0.7211159188509887,0.33990208650296994
+How close are we to eradicating HIV? - Philip A. Chan,Literature & Language,0.7384649245277973,0.6488505648398311
+The bug that poops candy - George Zaidan,Life Sciences,0.7611419747791005,0.5751745578526873
+How stress affects your brain - Madhumita Murgia,Health,0.672829753993194,0.5217345015173632
+Three ways the universe could end - Venus Keus,Science & Technology,0.7149009846294849,0.3538726001921989
+What causes heartburn? - Rusha Modi,Health,0.763702733358264,0.5295524834849631
+The ballet that incited a riot - Iseult Gillespie,Performing Arts,0.7387673206150436,0.46644167446375784
+The world's largest organism - Alex Rosenthal,Earth and Space Science,0.7637275173949145,0.5262357491497818
+Corals reefs aren't as doomed as you think,Science & Technology,0,0
+The Bear Ate Your Sandwich - Read aloud picture book,Literature,0.7108404652548396,0.3441690817336665
+Why does smoked brisket taste so delicious?,Science & Technology,0.7437061650925471,0.5929443118942358
+How Does It Grow? Cranberries,Nutrition,0.7406153670423701,0.7270614298566972
+A brief history of plastic,Environmental Science,0.6637996975338629,0.4477805612610569
+The dust bunnies that built our planet - Lorin Swint Matthews,Earth and Space Science,0.7022290203475735,0.36063136903240894
+How does alcohol cause hangovers? - Judy Grisel,Health,0.6870686788378555,0.5212926329031586
+A day in the life of a Peruvian shaman - Gabriel Prieto,Social Studies,0.7564947739481701,0.6167470922748138
+How to be more empathetic,Psychology,0.6657163249190572,0.4790135085833846
+Frederick Douglass for kids (cartoon biography),History,0.7363048905936466,0.2810121825686927
+Phonics - Learn to read the letter 'R',Literature & Language,0.6885398852650362,0.751270021559621
+Why good ideas get trapped in the valley of death--- and how to rescue them,Business & Economics,0.6899789921838966,0.38398155020191066
+"What's a squillo, and why do opera singers need it? Ming Luke",Performing Arts,0.6913769142781558,0.5315792984545179
+What yoga does to your body and brain - Krishna Sudhir,Health,0.7214781197910731,0.5687813955638604
+Are the illuminati real? - Chip Berlet,History,0.7014784617654779,0.5888758416066965
+Is sitting too close to the TV really bad for you?,Health,0.7001986460816865,0.3419524719185038
+Are we all related?,Psychology,0,0
+My Friend Maggie - Today I learned - Read aloud picture book,Literature,0.7473351973305272,0.7425419088436852
+Using TCH or CH | Sounds of TCH and CH | Learn to read,Literature & Language,0.7498872895810853,0.802972141674335
+Why you don't hear about the ozone layer anymore,Science & Technology,0.704727768722458,0.6509079544465177
+Why do we eat spoiled food?,History,0.7308969324600335,0.6006770249306299
+What is consciousness? - Michael S. A. Graziano,Health,0.6434101026604908,0.2541266995093018
+How do ventilators work? - Alex Gendler,Public Health,0.6873567702094673,0.6899029493488387
+Can you solve the time travel riddle? - Dan Finkel,Mathematics,0.669158373065242,0.1925545402965701
+Watch this educational video for children with a Rosa Parks biography,History,0.8038856270140234,0.49189282892623637
+What is a butt tuba and why is it in medieval art? - Michelle Brown,Social Studies,0.684759827227222,0.5224411850044557
+The rise and fall of the Mongol Empire - Anne F. Broadbridge,History,0.7342347741146782,0.5973199080499405
+Where did Earth's water come from?,Earth and Space Science,0.7028366193721617,0.5070475506234129
+I Just Forgot by Mercer Mayer,Literature,0.7304603968544732,0.6121975073246544
+Why do we celebrate Groundhog Day?,Social Studies,0.6785508891529288,0.9026981560079994
+Can you solve the dragon jousting riddle? - Alex Gendler,Social Studies,0.7603933631142976,0.613201654867277
+4 signs of emotional abuse - Viann Nguyen-Feng,Emotional Health,0.7389770973398309,0.24734000534812411
+A brief history of the devil - Brian A. Pavlac,Philosophy & Religion,0.6758360913400654,0.6318111125319003
+Claws vs. Nails - Matthew Borths,Science & Technology,0.6802537316853482,0.45703847425982824
+Can you solve the death race riddle? - Alex Gendler,Thinking & Learning,0.6970404640422239,0.27480609720009597
+Systemic racism explained,Science & Technology,0.6921081631320125,0.4169112818699504
+Is there a secret to creativity?,"Design, Engineering & Technology",0.7150996899715314,0.614793155046421
+Why can't dogs eat chocolate?,Science & Technology,0.7057765464441219,0.07856159380226463
+The most colorful gemstones on Earth - Jeff Dekofsky,Health,0.7412540897989617,0.7734707760208825
+3 myths about racism that keep the US from progress - Candis Watts Smith,Social Studies,0.6474169686091991,0.41835215431045564
+"What causes opioid addiction, and why is it so tough to combat? - Mike Davis",Health,0.7182094475083618,0.3247489583006782
+Learn to read | Phonics for kids | Long vowels - OU and OY,Literature & Language,0.7096665372716535,0.5694885968059593
+The fascinating history of cemeteries - Keith Eggener,Social Studies,0.6799378525296456,0.5578362659176869
+How to be confident,Motivation and Emotion,0.6871883692992011,0.3952663183758942
+"Why should you read ""The Master and Margarita""? - Alex Gendler",Literature & Language,0.7138573457642943,0.5762923993597999
+Can you solve the sorting hat riddle? - Dan Katz and Alex Rosenthal,Thinking & Learning,0.708080408133507,0.5119040317642745
+Turbulence: one of the great unsolved mysteries of physics - Tomás Chor,Science & Technology,0.6484469443231042,0.45472597966359823
+Can steroids save your life? - Anees Bahji,Health,0.6580711716817774,0.6641570727478077
+"Why should you read ""A Midsummer Night's Dream?"" - Iseult Gillespie",Literature & Language,0.6833121349077926,0.7276598960665974
+The myth of Jason and the Argonauts - Iseult Gillespie,Social Studies,0.6793065118322591,0.45897810243664194
+Why women's clothing sizes don't make sense,Area Studies,0.7042775481471925,1.0
+"This-song to teach the sight word ""this""",Literature & Language,0.7214826953687352,0.5521497830905915
+Elbow Grease - Read aloud picture book,Literature,0.7635671081591225,0.6018112912463588
+Where do your online returns go? - Aparna Mehta,Environmental Science,0.701858642107759,0.31546220878249503
+Why every world map is wrong - Kayla Wolf,Social Studies,0.703710306957309,0.5137415849960457
+World's most asked questions: how can I get rid of the hiccups?,Health,0.7219839657013291,0.06831683996970568
+The taxonomy of candy,Anthropology,0.6594341523004996,0.3214738851900046
+Will there ever be a mile-high skyscraper? - Stefan Al,"Design, Engineering & Technology",0.7105694219651213,0.37614828211180906
+I am Abraham Lincoln,Social Studies,0,0
+The terrifying truth about bananas,Science & Technology,0.7236985467086379,0.46902843940425604
+6 ways to start a sentence | Sentence structure | Learn to write,Writing/Composition,0.7339098732210156,0.3078928498600185
+Axolotls are masters of regeneration,Life Sciences,0.700075950937747,0.37095354184886736
+The fish that walk on land - Noah R. Bressman,Science & Technology,0.6757634422656335,0.4519592272447226
+The wild world of carnivorous plants - Kenny Coogan,Science & Technology,0.6888223612239847,0.9879917842825796
+How rollercoasters affect your body - Brian D. Avery,"Design, Engineering & Technology",0.7111673755820719,0.7261420689291709
+A day in the life of a Cossack warrior - Alex Gendler,History,0.7123665600751987,0.553325645012456
+Facts about pumpkins you never knew,Social Studies,0.7181668966049408,0.6883023361292772
+Digraphs | Phonics song for children | Phonemic awareness,Literature & Language,0.7935538677853651,0.7442699870183155
+A Vanishing Island Off the Louisiana Coast,Health,0.687001158711652,0.7510974841303131
+The lovable (and lethal) sea lion - Claire Simeone,Health,0.7279072940474515,0.3595350045524539
+Why should you read Kurt Vonnegut? - Mia Nacamulli,Literature & Language,0.7273122455141707,0.33619563123924917
+Architecture adventure: Crash Course Kids,"Design, Engineering & Technology",0.6692856187872291,0.1118890679493546
+How close are we to uploading our minds? - Michael S. A. Graziano,Science & Technology,0.6926986041959413,0.3295602275445179
+The dark history of zombies - Christopher M. Moreman,Philosophy & Religion,0.7302427194672311,0.6963623602522622
+How much electricity does it take to power the world?,Science & Technology,0.7349302838564783,0.5167097732142527
+Embrace the Shake - Phil Hansen,Visual Arts,0.6815250034051364,0
+"Why should you read Shakespeare's ""The Tempest""? - Iseult Gillespie",Literature & Language,0.7498676579955184,0.4443230758045355
+The benefits of a good night's sleep - Shai Marcu,Health,0.6301200840945621,0.17980270827559153
+Why don't country flags use the color purple?,Social Studies,0.760157799331747,0.5115840128951009
+Why is pneumonia so dangerous? - Eve Gaus and Vanessa Ruiz,Psychology,0.732383511899426,0.4006671613651719
+When is a pandemic over?,Public Health,0.6368109750700652,0.43139958328412276
+What is echolocation?,Science & Technology,0.7362049660840462,0.49264047912398806
+Contractions! | English grammar practice,Literature & Language,0.7561178373535864,0.6773221031634542
+Could a breathalyzer detect cancer? - Julian Burschka,Philosophy & Religion,0.6739613946265464,0.2205237535478337
+5 ways social media is changing your brain,Psychology,0.6982447175834939,0.9263019633952126
+Malcolm X biography,History,0.802582315602862,0.37453440502783814
+How to outsmart the Prisoner's Dilemma - Lucas Husted,Thinking & Learning,0.6413283982686004,0.05987332674137476
+How to spot a liar - Pamela Meyer,Psychology,0,0
+How does herd immunity work?,Business & Economics,0,0
+Why can't we talk about periods? - Jen Gunter,Health,0,0
+Learn to read | Phonics for kids | Long I Vowels,Literature & Language,0.7091677920435975,0.5864232194203207
+"Why should you read ""Kafka on the Shore""? - Iseult Gillespie",Literature & Language,0.6615167282984746,0.6626108921925014
+Can you solve the stolen rubies riddle? - Dennis Shasha,Mathematics,0.7154267718875291,0.0040427681994512805
+Can you solve the giant iron riddle? - Alex Gendler,Mathematics,0.7035286705979593,0.44793252471421674
+"The Greek myth of Talos, the first robot - Adrienne Mayor",Social Studies,0.7197585739126763,0.5249390852563486
+Art with Mati and Dada – Berthe Morisot,Visual Arts,0.6899404971044818,0.5628553816364702
+The Chinese myth of the white snake and the meddling monk - Shunan Teng,Science & Technology,0.719448609313883,0.3422845908336981
+How to stay calm under pressure - Noa Kageyama and Pen-Pen Chen,Health,0.6794812331369037,0.5149401461767058
+How does alcohol make you drunk? - Judy Grisel,Health,0.7352330036737994,0.4387292651034473
+Why do people fear the wrong things? - Gerd Gigerenzer,History,0.721445361555524,0.18363126887629572
+Punctuation explained (by Punctuation!),Literature & Language,0.69943792404575,1.0
+How do ocean currents work? - Jennifer Verduin,Science & Technology,0.6966436236134733,0.4857270937592677
+The most horrifying parasites on the planet,Social Studies,0.7701507792716241,0.5975605096798515
+The dark history of the overthrow of Hawaii - Sydney Iaukea,Social Studies,0.6569971318121843,0.5246396917354097
+Can you solve the world's most evil wizard riddle? - Dan Finkel,Thinking & Learning,0.6830858071913394,0.7560732560921414
+What if all the sea water became fresh water?,Earth and Space Science,0.7038154833611892,1.0
+How to spot a pyramid scheme - Stacie Bosley,Business & Economics,0.682378215804573,0.4798923821097244
+Why do you get a fever when you're sick? - Christian Moro,Business & Economics,0.7365968809971817,0.6523051441614731
+How fast can a vaccine be made? - Dan Kwartler,Public Health,0.6960832697655253,0.6446089322974345
+How your split ends can help clean oil spills,Earth and Space Science,0.6700617963485473,0.4501556146014928
+Evolution's great mystery: Language - Michael Corballis,Literature & Language,0.6964275343537825,0.5860298669884738
+How short selling works,Linguistics,0,0
+The dark history of IQ tests - Stefan C. Dombrowski,History,0.6802068561591132,0.2962693783446631
+Does time exist? - Andrew Zimmerman Jones,Science & Technology,0.7183299794145807,0.41446480236817357
+The material that could change the world... for a third time,Science & Technology,0.6994290365136747,0.4471466889904752
+The secret to rising sea levels,Health,0.6994969113451859,0.4538284455861222
+Hawking's black hole paradox explained - Fabio Pacucci,Earth and Space Science,0.6642983466181377,0.39468568415850036
+Can you spot the problem with these headlines? (Level 1) - Jeff Leek and Lucy McGowan,Literature & Language,0.6010986428287546,0.37981418003468137
+Learn to use suffixes -le -al -el with the Singing Nun | Educational song,Literature & Language,0.6731270000175937,0.7839597251612138
+What happens in your body when you swallow gum?,Health,0.7200204984589618,0.5570879647072818
+How to change your behavior for the better - Dan Ariely,Psychology,0,0
+The secret messages of Viking runestones - Jesse Byock,Health,0.7032859087352815,0.6050897002113693
+Why should you read Flannery O'Connor? - Iseult Gillespie,Literature & Language,0.6768290566752662,0.6919609320141072
+How the Monkey King escaped the underworld - Shunan Teng,Social Studies,0.6796299243714309,0.49518306469557016
+How do antidepressants work? - Neil R. Jeyasingam,Psychology,0.6679084705131667,0.30120918393178775
+Mom vs. dad: What did you inherit?,Health,0.6591342626068212,0.467547816184214
+Fruits and veggies for kids/Eat your rainbow,Nutrition,0.677308487922838,0.6287952504439279
+Why the ancient Greeks couldn't see blue,Science & Technology,0.701894807783951,1.0
+The high-stakes race to make quantum computers work - Chiara Decaroli,Mathematics,0.7107379761171517,0.44222267411839117
+"Did we domesticate dogs, or did dogs domesticate us?",Science & Technology,0.6785925177074768,0.4317604947360053
+What stretching actually does to your body,Social Studies,0,0
+How do investors choose stocks? - Richard Coffin,Health,0.8016598596246002,0.2946969103629695
+The philosophy of cynicism - William D. Desmond,Literature & Language,0.7259237145683184,0.41934732802293206
+Gang of 3 | Sound of 3 consonants,Literature & Language,0.7466746975967382,0.6537654105861973
+The history of colonial America,History,0.7152049883494451,0.29743792179538475
+Art with Mati and Dada – Hokusai,Visual Arts,0.7444897883122973,0.4890066289684139
+When is Thanksgiving?,Social Studies,0,0
+The Maya myth of the morning star,Social Studies,0.7143788515696545,0.5346907555977886
+What's a conure?,Science & Technology,0.8188619190313593,0.6302439124979828
+The last living members of an extinct species - Jan Stejskal,Science & Technology,0.6970657899483974,0.26275786557643277
+Can you solve the vampire hunter riddle? - Dan Finkel,Mathematics,0.7204512664752072,0.4766003957361754
+The life cycle song,Life Sciences,0.7702637607763682,0.3372462568400354
+The princess who rewrote history - Leonora Neville,Social Studies,0.6671013343847761,0.5504013075979763
+The distracted mind,Thinking & Learning,0.7392334168403476,0.6707195722018527
+Can you outsmart the fallacy that divided a nation? - Elizabeth Cox,Thinking & Learning,0.7116458575419685,0.2959264710209165
+"What is Juneteenth, and why is it so important?",Science & Technology,0.7307570538317129,0.5095652605678567
+How do blood transfusions work? - Bill Schutt,Science & Technology,0.7219545892156484,0.20011103950667777
+Letter vowels - WH and PH | Phonics for kids,Literature & Language,0.7366780788176677,0.49135944891522837
+How powerful is the world's biggest battery?,Science & Technology,0.7198725969425271,0.4415902797178707
+How do steroids affect your muscles--- and the rest of your body? - Anees Bahji,Health,0.7251300039266754,0.47782797722796877
+The value song | Art Songs,Visual Arts,0.7580533337552382,0.4400452383151635
+How do you know if you have a virus? - Cella Wright,Health,0.7446647342966293,0.37488726115733967
+Living with Less Water,Health,0.7254298230124435,0.5332970986063811
+What is society? | US society for children,Civics,0.7989826580252795,0.506772917963535
+"Why should you read ""Dune"" by Frank Herbert? - Dan Kwartler",Literature & Language,0.6642083631351127,0.4562341129350922
+The life cycle of a neutron star - David Lunney,Science & Technology,0.6722707497727467,0.5886016486626408
+How do viruses jump from animals to humans? - Ben Longdon,Health,0.7283812674047055,0.4634691941505481
+Why you feel anxious socializing (and what to do about it) - Fallon Goodman,Psychology,0,0
+Why humans are so bad at thinking about climate change,"Design, Engineering & Technology",0,0
+Can you solve the cheating royal riddle? - Dan Katz,Mathematics,0.6984502021263033,0.9668246622116508
+What causes an economic recession? - Richard Coffin,Business & Economics,0.6787340628552101,0.5764941574060115
+Who was Nelson Mandela?,Science & Technology,0.7539622772321284,0.6884899443455352
+A brief history of dogs - David Ian Howe,Literature & Language,0.7039260098830751,0.5736861100262571
+The texture song | Art Songs,Visual Arts,0.7542879712735189,0.6379900643723
+The surprising habits of original thinkers - Adam Grant,Thinking & Learning,0,0
+The 5 types of text structure,Writing/Composition,0.6633774226404703,0.3947912603582172
+Why do we get goose bumps?,Environmental Science,0.6869117932771592,0.5256441887516808
+"The ""myth"" of the boiling frog",Science & Technology,0.6785234092138881,0.8676497348883331
+Do larger animals take longer to pee? - David L. Hu,Thinking & Learning,0.7024953562817399,0.43371512322397665
+Why do bats carry so many diseases? (like coronavirus),Life Sciences,0.67915783916544,0.3498000427979783
+What's a smartphone made of? - Kim Preshoff,Science & Technology,0.6992194983518909,0.7949332804411333
+How war weakens national immune systems,Health,0.6867327853239684,0.39453645028132395
+What causes the phases of the moon?,Health,0.7403879865065892,0.3367795423247827
+How turtle shells evolved... twice - Judy Cebra Thomas,Emotional Health,0.7347325465764432,0.41845522457655154
+The environmental cost of free two-day shipping,Earth and Space Science,0.743219915210255,0.3591954402316958
+"Why should you read Dante's ""Divine Comedy""? - Sheila Marie Orfano",Literature,0.6564734518979668,0.6389502493406576
+The myth of Ireland's two greatest warriors - Iseult Gillespie,Anthropology,0.7442773903479688,0.4358942749191349
+"Why should you read ""The Joy Luck Club"" by Amy Tan? - Sheila Marie Orfano",Critical Thinking,0.7696800815707686,0.46782820085901716
+What would happen if the world went vegetarian?,Emotional Health,0.723342064656219,0.3690616429291925
+A day in the life of a Mongolian queen - Anne F. Broadbridge,Social Studies,0.6800933522079032,0.8288459981933707
+Epic Engineering: Building the Brooklyn Bridge - Alex Gendler,"Design, Engineering & Technology",0.6425602357354416,0.5308211711390839
+Can ketchup clean a penny?,Science & Technology,0.722599860090834,0.7027756502491659
+"What ""Machiavellian"" really means - Pazit Cahlon and Alex Gendler",Organization and Time Management,0.7072057555681922,0.2536671983500812
+The wildly complex anatomy of a sneaker - Angel Chang,"Design, Engineering & Technology",0.7130170280806525,0.4828220823234714
+Is Google killing your memory?,Thinking & Learning,0.6739452833491828,0.38349538427513513
+Why cockroaches are so hard to kill,Science & Technology,0.7220431260058672,0.7030124714374087
+The art forger who tricked the Nazis - Noah Charney,History,0.7205079904310867,0.34999609142156696
+Adding '-ed' | Past tense verbs,Literature & Language,0.7244841191215036,0.7377787833445446
+Meat-eating plants,Environmental Science,0.7801787949462037,0.564044368306145
+Why bats don't get sick - Arinjay Banerjee,Science & Technology,0.7286417571262807,0.4271266713666136
+Myths you learned in health class,Public Health,0.6877110905464915,0.5260294217733803
+The amazing effects of gratitude,Thinking & Learning,0.6777468367039059,0.6053249286679756
+"Why should you read ""Waiting for Godot""? - Iseult Gillespie",Literature & Language,0.7160709675839778,0.6252918912746128
+The archer's paradox in slow motion,Mathematics,0,0
+Can you outsmart a troll (by thinking like one)? - Claire Wardle,Science & Technology,0.6977346221476495,0.4336859680550812
+The five W's song,Literature & Language,0.758135817088046,0.4583758296878077
+"The big-beaked, rock-munching fish that protect coral reefs - Mike Gil",Science & Technology,0.7148516544418068,0.8339489394787561
+Are we living in a simulation? - Zohreh Davoudi,Earth and Space Science,0.685461685303206,0.32986863341461187
+The accident that changed the world - Allison Ramsey and Mary Staicu,Critical Thinking,0.7206349825343844,1.0
+Which is better: Soap or hand sanitizer? - Alex Rosenthal and Pall Thordarson,Public Health,0.6944211271790641,0.2895037914416064
+Why is that baby staring at me?,Developmental Psychology,0.7108453521133533,0.4758506321508369
+How well do masks work?,Thinking & Learning,0.6658775220040418,0.4211396509208922
+The myth of Hercules: 12 labors in 8-bits - Alex Gendler,Literature & Language,0.6998907242461512,0.3347895114286085
+Frogsicles: Frozen but still alive,Science & Technology,0.7312841290170675,0.49401674932717476
+How feng shui shaped Hong Kong's skyline,"Design, Engineering & Technology",0.7067001916264315,0.3063861565419597
+Why is blue so rare in nature?,Science & Technology,0.729590224787612,0.5397861864314274
+A brief history of cannibalism - Bill Schutt,Literature & Language,0.6738087259538063,0.708993208008416
+Can stereotypes ever be good? - Sheila Marie Orfano and Densho,Psychology,0.6790450320928307,0.29000244266050595
+How does chemotherapy work? - Hyunsoo Joshua No,Health,0.6685242742413874,0.6676717590850817
+What is a coronavirus? - Elizabeth Cox,Public Health,0.7194244140458211,0.33903224110679897
+History through the eyes of a chicken - Chris A. Kniesly,Science & Technology,0.7100044547308458,0.4768190825062348
+What is hyperbole?,Literature & Language,0.7053145698269722,0.21547766456076828
+Using radioactive drugs to see inside your body - Pedro Brugarolas,Science & Technology,0.7201254513582549,0.34998042627196696
+Could we steal the power of a black hole? - Fabio Pacucci,Emotional Health,0.6736219707329393,0.3812350500513511
+Newton's three-body problem explained - Fabio Pacucci,Science & Technology,0.6612174825505107,0.22793785615266585
+The science of hearing - Douglas L. Oliver,Health,0.7167132998572988,0.5260201540369628
+How laser tattoo removal works,Science & Technology,0,0
+The first and last king of Haiti - Marlene Daut,History,0.7152250233027942,0.49539283044056237
+How friendship affects your brain - Shannon Odell,Psychology,0.7147880185055724,0.46847181797331583
+Nature's mood rings: How chameleons really change color,Social Studies,0.7099628063708417,0.5741143998215043
+How to tame your wandering mind,Health,0,0
+Months of the year song,Mathematics,0.706495034234434,0.577059242616364
+Can you solve the alien probe riddle? - Dan Finkel,Mathematics,0.7545329951445107,1.0
+Who decides how long a second is? - John Kitching,Science & Technology,0.7075749950899588,0.41587868312856335
+Stay in - or leave - a relationship?,Psychology,0.6654958083478569,0.4398798281221931
+Make your own secret ink!,Science & Technology,0.7901686879962623,0.2097967930028371
+The Very Hungry Caterpillar - Read aloud picture book,Literature,0.7500810556199258,0.7954718101088851
+How to make a hexaflexagon,Mathematics,0.6855805443262397,0.6195305796621388
+"Why should you read ""Don Quixote""? - Ilan Stavans",Literature & Language,0.6943671853384823,0.3735970442781884
+Romance and revolution: The poetry of Pablo Neruda - Ilan Stavans,Health,0.7083748161708889,0.5456524486869564
+3 ways to cope with anxiety - Olivia Remes,Thinking & Learning,0,0
+Nature's fortress: How cacti keep water in and predators out - Lucas C. Majure,Science & Technology,0.7245706864779329,0.4916752222316442
+Can you solve the rogue AI riddle? - Dan Finkel,Mathematics,0.7225134473516143,0.3796579018220346
+Can you solve the honeybee riddle? - Dan Finkel,Mathematics,0.6694700409931094,0.667585678526736
+Super E (silent E hip hop song for kids),Literature & Language,0.7043365529092611,0.5004723524936834
+Did the Amazons really exist? - Adrienne Mayor,Social Studies,0.7013779466262392,0.5130287867167128
+"The difference between the United Kingdom, Great Britain and England explained",Social Studies,0.6628802949203985,0.6344888728098051
+How QWERTY conquered keyboards,"Design, Engineering & Technology",0.6826507219012167,0.4137967982962718
+"What causes panic attacks, and how can you prevent them? - Cindy J. Aaronson",Psychology,0.7791011963409126,0.5724433212306804
+There Was an Old Lady Who Swallowed a Fly | Read aloud flip-along book,Literature,0.7513230120194484,0.5891934863716537
+Reforestation: Impact on Climate,Science & Technology,0.707242602302433,0.5973210509811481
+Learn to read long vowels - AU and AW,Literature & Language,0.7243374472029211,0.4328932046605856
+The surprising reason birds sing - Partha P. Mitra,Science & Technology,0.7341735102844325,0.8504295645575486
+What Does Lead Poisoning Do To Your Brain?,Public Health,0.7208710611816475,0.5478803469779174
+What a conductor actually does on stage,The Arts,0.7237734628158992,0.5001396446248925
+The surprising cause of stomach ulcers - Rusha Modi,Life Sciences,0.6818615429053897,0.5212674794653549
+Can you solve the riddle and escape Hades? - Dan Finkel,Civics,0.7349082218057732,0.8992244423074892
+Ethical dilemma: The burger murders - George Siedel and Christine Ladwig,Thinking & Learning,0.7225666807510053,0.3140642380413577
+How did the deepest part of the ocean get so polluted?,Health,0.6828961009600114,0.7002634846447829
+What causes insomnia? - Dan Kwartler,Health,0.7311100736116283,0.6487391104050179
+Does being cold make you sick?,Social Studies,0.7087740995439061,0.32071812662693233
+A simple way to tell insects apart - Anika Hazra,Life Sciences,0.6976051082296449,0.609115222104366
+Why some people are more altruistic than others - Abigail Marsh,Psychology,0,0
+Are you a giver or a taker? - Adam Grant,Psychology,0,0
+A day in the life of an ancient Babylonian business mogul - Soraya Field Fiorio,Social Studies,0.7398320044426451,0.42415591050084905
+How squids outsmart their predators - Carly Anne York,Science & Technology,0.7431013265181576,0.4387650668350833
+How long will human impacts last? - David Biello,Environmental Science,0.6978065245799043,0.4103329257036588
+How did Dracula become the world's most famous vampire? - Stanley Stepanic,History,0,0
+Can you solve the killer robo-ants riddle? - Dan Finkel,Mathematics,0.6841049364058736,0.24215616732505324
+Can you solve the sea monster riddle? - Dan Finkel,Thinking & Learning,0.7261570826047502,0.157785871691917
+Which voting system is the best? - Alex Gendler,Civics,0.7131821774197016,0.28085628452982253
+The first humans on Mars,Science & Technology,0,0
+French and English gardens,Social Studies,0.676783150359306,0.745546285261449
+How do US Supreme Court justices get appointed? - Peter Paccone,Civics,0.7296753633830159,0.3617141313806862
+Could the Earth be swallowed by a black hole? - Fabio Pacucci,Science & Technology,0.764639967411759,0.32753346762869734
+"Everything you need to know to read ""Frankenstein"" - Iseult Gillespie",Literature,0.6844274008061719,0.4161164975781165
+Why do we harvest horseshoe crab blood? - Elizabeth Cox,Life Sciences,0.7248124756059783,0.9688030154654319
+Who built Great Zimbabwe? And why? - Breeanna Elliott,History,0.7124783817211539,0.5319582498019573
+"Who owns the ""wilderness""? - Elyse Cox",Literature & Language,0.6514342847298895,0.33989604362812187
+No one can figure out how eels have sex - Lucy Cooke,Science & Technology,0.6622542675556531,0.6373416941860537
+Four billion years of evolution in six minutes - Prosanta Chakrabarty,Earth and Space Science,0.7167220282384406,0.5559954022573639
+The Cheerios effect,Science & Technology,0.7126031183628762,0.5703987605358971
+The coin flip conundrum - Po-Shen Loh,Mathematics,0.6729320106347702,0.8145694000803463
+One day in the coldest village on Earth,Physical Science,0.673556694412499,0.5720751224546025
+Secrets of the X chromosome - Robin Ball,Growth & Development,0.6852960763485181,0.22669780773562564
+What does this symbol actually mean? - Adrian Treharne,Public Health,0.7300707301606929,0.5480405278377757
+Why salt & pepper?,Social Studies,0.6914719419211293,0.6527110326214941
+How hormones work,Health,0,0
+History vs. Sigmund Freud - Todd Dufresne,Psychology,0.6809039816745772,0.4626066855580536
+Candy Corn In Space,Science & Technology,0.6595628688938422,0.5618082319438112
+Can you solve the three gods riddle? - Alex Gendler,Critical Thinking,0.6881384674496445,0.2557843300595758
+How a single-celled organism almost wiped out life on Earth - Anusuya Willis,Earth and Space Science,0.6650163366708518,0.7335442422550518
+How far can we go?,Science & Technology,0.7089761836336768,0.7715247618580314
+Is it possible to create a perfect vacuum? - Rolf Landua and Anais Rassat,"Design, Engineering & Technology",0.7109344392639318,0.5340984843349866
+How does anesthesia work? - Steven Zheng,Health,0.7303535307636791,0.9797301778750681
+The myth of the stolen eyeballs - Nathan D. Horowitz,Health,0.7206456012074244,0.6440835432091163
+Why are human bodies asymmetrical? - Leo Q. Wan,Health,0.7119312468360646,0.6523214187264172
+When will the next ice age happen? - Lorraine Lisiecki,Science & Technology,0.6866385564054266,0.17934932420257002
+A day in the life of a Roman soldier - Robert Garland,History,0.6823949048758521,0.6111092571032365
+How computer memory works - Kanawat Senanan,Technology,0.6352431816951432,0.4229252879109661
+How do our brains process speech? - Gareth Gaskell,Literature & Language,0.6535340424561361,0.3678026155918808
+The poet who painted with his words - Geneviève Emy,Visual Arts,0.7088409613016847,0.48906907932853205
+Why Do Dogs Smell Each Other's Butts?,Science & Technology,0.6669167465110555,0.5659959603823566
+How to make magnetic slime,Science & Technology,0.6789081013515644,0.6619126000442309
+What is the tragedy of the commons? - Nicholas Amendolare,Environmental Science,0.6856033682498586,0.24810148979614363
+Can you solve the counterfeit coin riddle? - Jennifer Lu,Data Analysis & Probability,0.6181748261360716,0.4909621915001594
+The philosophy of Stoicism - Massimo Pigliucci,History,0.7591512788697776,0.4934087988258109
+Is height all in your genes?,Science & Technology,0.682748785918854,0.543765386090848
+How the world's longest underwater tunnel was built - Alex Gendler,"Design, Engineering & Technology",0.6915599778541728,0.39212148385930373
+The exceptional life of Benjamin Banneker - Rose-Margaret Ekeng-Itua,History,0.7103503445477239,0.6272283488543917
+The history of the Cuban Missile Crisis - Matthew A. Jordan,History,0.6872659397490484,0.29985761711197484
+How many ways are there to prove the Pythagorean theorem? - Betty Fei,Geometry,0.6419812148748241,0.43453702351327095
+How Does it Grow? Hydroponic Spinach,Life Sciences,0.6766358024704049,0.6158880746231451
+"When will the next mass extinction occur? - Borths, D'Emic, and Pritchard",Science & Technology,0.6507525085892789,0.6276195354729276
+The Case For Andy Warhol,Value of the Arts,0.748702522527205,0.7410656487405984
+"The science behind the myth: Homer's ""Odyssey"" - Matt Kaplan",Social Studies,0.7119339399530437,0.09210138990879627
+How do we separate the seemingly inseparable? - Iddo Magen,Physical Science,0.7062247560479421,0.5816173886215997
+The three different ways mammals give birth - Kate Slabosky,Life Sciences,0.7415112241266878,0.5112115902957882
+The tallest lifeforms of all time,Earth and Space Science,0.7089772217457909,0.628591166227946
+How often should you get a flu shot? - Melvin Sanicas,Public Health,0.7779271643242109,0.2324800737208304
+What is metallic glass? - Ashwini Bharathula,Science & Technology,0.6924657367372744,0.4466500490658021
+A Warrior's Cry Against Child Marriage,Social Studies,0.6934057050409377,0.8553821525960851
+What can you learn from ancient skeletons? - Farnaz Khatibi,Anthropology,0.700490390186124,0.5753496960928552
+7 things we don't know about the ocean,Science & Technology,0,0
+What Teachers Make,Teaching & Education,0.7015678530152434,0.37438633116038733
+Real life sunken cities - Peter Campbell,Geography,0.716769268841737,0.93299546188444
+"What makes something ""Kafkaesque""? - Noah Tavlin",Literature & Language,0.7035283213146448,0.2299629609213511
+The Bystander Effect: The science of empathy,Psychology,0.654632194535532,0.5410625489149117
+ЩΉӨ BЦIᄂƬ ƬΉΣ PYЯΛMIDƧ,History,0.7023933829174537,0.2214714632520743
+Why do we kiss under mistletoe? - Carlos Reif,History,0.6954361083252554,0.6641319416198143
+How do cigarettes affect the body? - Krishna Sudhir,Health,0.7220549169344964,0.38971991256869
+Is radiation dangerous? - Matt Anticole,Health,0.7285771916384366,0.5503553365935246
+How I teach kids to love science - Cesar Harada,Environmental Science,0.6525145115572135,1.0
+Why do people join cults? - Janja Lalich,Social Psychology,0.7207470748042105,0.5273269135976728
+Can you solve the river crossing riddle? - Lisa Winer,Mathematics,0.6971165019705167,0.26390506527383967
+Your words may predict your future mental health,Linguistics,0,0
+The threat of invasive species - Jennifer Klos,Environmental Science,0.6449356281244404,0.10325118718561355
+Plants Use An Internet Made of Fungus,Earth and Space Science,0.7457790227988121,0.9281676887573675
+The Future of Air Travel,"Design, Engineering & Technology",0,0
+The science of smog - Kim Preshoff,Environmental Science,0.6822133303376698,0.6444235927188139
+How to fly around the world without fuel,"Design, Engineering & Technology",0.7227191385160167,0.3390814506465311
+Where are the baby dinosaurs?,Science & Technology,0,0
+Is there any truth to the King Arthur legends? - Alan Lupack,Social Studies,0.6955498599973865,0.22099165084105907
+How high can you count on your fingers? (Spoiler: much higher than 10) - James Tanton,Mathematics,0.6832312530185173,0.9073156937259595
+It's not you. Claw machines are rigged.,"Design, Engineering & Technology",0.6635359293251123,0.44425758435159474
+Why do we kiss?,Science & Technology,0.666778478988611,0.5418221058848169
+Why can't some people stop fidgeting?,Health,0.6919275601239098,0.47220158192679895
+The History of Saint Patrick,Social Studies,0.7565863053430595,0.7161176931911133
+The amazing ways plants defend themselves - Valentin Hammoudi,Life Sciences,0.7227243149309104,0.35815624685270564
+Why do we itch? - Emma Bryce,Biological Bases of Behavior,0.6953856088376902,0.689977397621909
+Riemann's paradox: pi = infinity minus infinity,Mathematics,0,0
+Why danger symbols can't last forever,"Design, Engineering & Technology",0.7242402847373144,0.4718058484947577
+What is bipolar disorder? - Helen M. Farrell,Medical Conditions,0.7449320488368242,0.4923279639082964
+What if everyone jumped at once?,Earth and Space Science,0.6604752295928671,0.7356773180259761
+Can plants talk to each other? - Richard Karban,Environmental Science,0.7430695299391197,0.4222516251622328
+"How you could get away with murder in Yellowstone's ""Zone of Death""",Social Studies,0.6389368042351706,0.5919374161982209
+The amazing life of sand,Earth and Space Science,0.702464916953813,0.21988731755477658
+Why is this painting so captivating? - James Earle and Christina Bozsik,The Arts,0.6862414424257162,0.3876389893408688
+Does chocolate really lower your blood pressure?,Health,0.6847849810796502,0.5694190429457191
+Why all world maps are wrong,Design,0.6401781689043067,0.41292017705231254
+How does impeachment work? - Alex Gendler,Civics,0.6985055282940593,0.4006655587354843
+How do you get rid of acne?,Health,0,0
+Why wasn't the Bill of Rights originally in the US Constitution? - James Coll,History,0.6596644013222974,0.4127924098697779
+10 dangerous fashion trends,The Arts,0,0
+A shark-deterrent wetsuit (and it's not what you think),The Arts,0,0
+How to spot a counterfeit bill - Tien Nguyen,"Design, Engineering & Technology",0.7024015998253301,0.36256440274855406
+Which sunscreen should you choose? - Mary Poffenroth,Environmental Science,0.7027227304045797,0.8859400406791567
+How mucus keeps us healthy - Katharina Ribbeck,Health,0.7434683275558793,0.4891698579933269
+Why are there so many types of apples? - Theresa Doud,Science & Technology,0.6641838448020454,0.7316958227817091
+Can you solve the false positive riddle? - Alex Gendler,Mathematics,0.7039444630495943,0.8345682136739626
+Cell membranes are way more complicated than you think - Nazzy Pakpour,Life Sciences,0.7381453158374776,0.5193536709480553
+Why does your voice change as you get older? - Shaylin A. Schundler,Health,0.8047329354689376,0.3767501409025772
+Plato's best (and worst) ideas - Wisecrack,Philosophy,0.7064314788090146,0.5888840961868067
+Why doesn't anything stick to Teflon? - Ashwini Bharathula,Science & Technology,0.7901148508721948,0.4480944558290493
+The origins of ballet - Jennifer Tortorello and Adrienne Westwood,Nature of Science,0.7434660656992478,0.41997167254175116
+Why do our bodies age? - Monica Menesini,Health,0.6407485268449047,0.3607514291366952
+How to detect a supernova - Samantha Kuula,"Design, Engineering & Technology",0.727320021227223,0.8571391344013835
+NASA at Saturn: Cassini's Grand Finale,Science & Technology,0.7116604431195614,0.8068625036359119
+What's the difference between accuracy and precision? - Matt Anticole,"Design, Engineering & Technology",0.7329881159872705,0.2471407557686507
+Why Don't Ants Get Stuck In Traffic?,Science & Technology,0.7105105285213547,0.23614160319835492
+History vs. Cleopatra - Alex Gendler,History,0.8039251394579157,0.357065446611594
+The insanely painful sting of the bullet ant,Science & Technology,0.6544365410790702,0.3851431205375158
+What is abstract expressionism? - Sarah Rosenthal,The Arts,0.6706467767795715,0.5464381442284066
+The Leap Year Explained,Mathematics,0.7639407787488869,1.0
+"Why should you listen to Vivaldi's ""Four Seasons""? - Betsy Schwarm",Performing Arts,0.6656558674556298,0.39708460696373366
+Why incompetent people think they're amazing - David Dunning,Social Psychology,0.6785156316128838,0.30258658146434
+Why isn't the world covered in poop? - Eleanor Slade and Paul Manning,Life Sciences,0.7233840905503931,0.4113735120645936
+How people rationalize fraud - Kelly Richmond Pope,Business & Economics,0.6710678086090087,0.4912209223026084
+How interpreters juggle two languages at once - Ewandro Magalhaes,The Arts,0.712925083895578,0.4117825378022283
+How Americans got stuck with endless drug commercials,Public Health,0.7060249979641633,0.2584487917543151
+The rise and fall of the Berlin Wall - Konrad H. Jarausch,History,0.6779456959420787,0.3007335689650978
+Why are manhole covers round? - Marc Chamberland,Mathematics,0.7214741706725767,0.3029356119325312
+Can you solve the rebel supplies riddle? - Alex Gendler,Mathematics,0.7007082938851186,0.3041440505283862
+What should you listen to when you want to focus?,Psychology,0.6947331323379814,0.3988681312888095
+The psychology of accents,Cognition and Learning,0.6500875232386385,0.5711736462399395
+The benefits of good posture - Murat Dalkilinç,Health,0.7388878306639945,0.5954383409800841
+Why do we hiccup? - John Cameron,Science & Technology,0.7567765857750266,0.46966788146657795
+Harry Potter and the translator's nightmare,Literature & Language,0.6192444041274774,0.6876385160798175
+What causes constipation? - Heba Shaheed,Health,0.7226955400591535,0.38349254452276316
+How do hard drives work? - Kanawat Senanan,"Design, Engineering & Technology",0.714090557063239,0.3057368192622358
+The neuroscience of imagination - Andrey Vyshedskiy,Psychology,0.7309169705243609,0.3162523363554994
+Can you solve the frog riddle? - Derek Abbott,Psychology,0.5836437570332442,0.9224490049316394
+The World's Roundest Object (and Why it Exists),"Design, Engineering & Technology",0,0
+How a TV works in slow motion,Science & Technology,0,0
+How transistors work - Gokul J. Krishnan,"Design, Engineering & Technology",0.7231316009225421,0.3237269441766517
+The science of static electricity - Anuradha Bhagwat,Science & Technology,0.7321384789535487,0.2989635586134211
+Why a total solar eclipse is such a big deal,Science & Technology,0.7522793950158785,0.5639381627897382
+What is the universe expanding into? - Sajan Saini,Science & Technology,0.6873402451972318,0.2081165974494144
+The science of milk - Jonathan J. O'Sullivan,Nutrition,0.7154822376166879,1.0
+The math behind Michael Jordan's legendary hang time - Andy Peterson and Zack Patterson,Mathematics,0.7165454939498638,0.2457684139821311
+Can you solve the giant cat army riddle? - Dan Finkel,Mathematics,0.7337550566445269,0.8546801513217517
+How much of human history is on the bottom of the ocean? - Peter Campbell,Geography,0.741418332579111,0.30949054052209224
+The impostor syndrome,Psychology,0.701537227743809,0.5310237039928385
+Why do animals have such different lifespans? - Joao Pedro de Magalhaes,Life Sciences,0.7333503380598172,0.350595762733062
+4 Logical Paradoxes,Philosophy,0.6746549804608415,0.4905825773959105
+How computers translate human language - Ioannis Papachimonas,"Design, Engineering & Technology",0.6476215122585087,0.2652557956370276
+How does your body know what time it is? - Marco A. Sotomayor,Life Sciences,0.6479622029923876,0.5033722715285166
+What really matters at the end of life | BJ Miller,Health,0,0
+Why the metric system matters - Matt Anticole,Measurement,0.6960756409438021,0.42962379475176665
+Why do cats act so weird? - Tony Buffington,Nature of Science,0.7313818515841597,0.5067885207220644
+Aphasia: The disorder that makes you lose your words - Susan Wortman-Jutt,Medical Conditions,0.6735316870075824,0.5591519009370558
+How menstruation works - Emma Bryce,Health,0.6777090673790841,0.5144598274263028
+Did ancient Troy really exist? - Einav Zamir Dembin,Social Psychology,0.6946466245059668,0.642239546556496
+The Psychology of Listicles,Psychology,0.7135890899776671,0.9783519846435642
+What causes bad breath? - Mel Rosenberg,Health,0.7423987641477204,0.7163184875420117
+Will the ocean ever run out of fish? - Ayana Elizabeth Johnson and Jennifer Jacquet,Environmental Science,0.7350638165950235,0.9716400763813542
+Can you solve the egg drop riddle? - Yossi Elran,Mathematics,0.701037226058514,0.9653697038237816
+Are Deodorants Bad For You?,Health,0.6946177682075539,0.2758764187980242
+Are Boys Smarter Than Girls?,Thinking & Learning,0.6147811847120723,0.29115353941719035
+"Why is Vermeer's ""Girl with the Pearl Earring"" considered a masterpiece? - James Earle",Visual Arts,0.7239386047421871,0.23866763278351746
+The oldest living things in the world,Literature & Language,0.7058128826200489,0.49445216554052107
+The pleasure of poetic pattern - David Silverstein,Literature & Language,0.7421589356852166,0.3570410904115645
+Friendship & vulnerability,Psychology,0.686503435338307,0.6235738877462335
+Can you solve the buried treasure riddle? - Daniel Griller,Mathematics,0.6751214482998821,1.0
+The incredible collaboration behind the International Space Station - Tien Nguyen,"Design, Engineering & Technology",0.7227326573305954,0.6888491905330606
+What's the big deal with gluten? - William D. Chey,Health,0.8214416496015338,0.5012500196218261
+How many verb tenses are there in English? - Anna Ananichuk,Writing/Composition,0.7279597647336822,0.48424519219706674
+How do geckos defy gravity? - Eleanor Nelsen,Science & Technology,0.7042810123866554,0.45433499279333367
+Why is being scared so fun? - Margee Kerr,Psychology,0.6982820638547985,0.6555463878500041
+How to make your writing suspenseful - Victoria Smith,Writing/Composition,0.719254733056912,0.45703751948910776
+The mathematics of sidewalk illusions - Fumiko Futamura,Visual Arts,0.7141949718604551,0.43701091554139754
+What's the ultimate campfire fuel?,Physical Science,0.7328859420888739,0.5617231675669233
+Can you solve the virus riddle? - Lisa Winer,Problem Solving,0.7398547958436653,0.8742797392875012
+Is there a reproducibility crisis in science? - Matt Anticole,Science & Technology,0.7348911676418721,0.2489312741598156
+Time: the history & future of everything,Science & Technology,0.6981018745863823,0.30736412352986303
+Why the ocean is getting louder,Science & Technology,0.6214899139714584,0.16820088227152066
+The surprising link between stress and memory - Elizabeth Cox,Literature & Language,0.7288432097504065,0.41299653844067014
+When is water safe to drink? - Mia Nacamulli,Health,0.6750678617944559,0.5124673628357945
+Want to survive a hurricane? Think like a tree...,"Design, Engineering & Technology",0.707048921990688,0.401425716915651
+The Most Radioactive Places on Earth,Health,0.7161067394573376,0.7031207959714065
+The psychology of narcissism - W. Keith Campbell,Health,0.7324105119407782,0.5073216828228243
+Can you solve the control room riddle? - Dennis Shasha,Mathematics,0.7026207386482797,0.4434947253838587
+What can you learn from ancient poop?,Science & Technology,0.6908900068128474,0.5762392859491243
+The surprising (and invisible) signatures of sea creatures - Kakani Katija,Earth and Space Science,0.6930649908250374,0.4830516729024004
+Cannibalism in the animal kingdom - Bill Schutt,Life Sciences,0.6684198556874541,0.2560180425129367
+Stroke of insight - Jill Bolte Taylor,Medical Conditions,0,0
+A curable condition that causes blindness - Andrew Bastawrous,Health,0.6485293117646755,0.8010625210817116
+Where does the smell of rain come from?,Science & Technology,0.6281418715195045,0.26625685843943697
+The real history of Cinco de Mayo,Social Studies,0.707670750753016,0.39386511074259345
+"Solid, liquid, gas and … plasma? - Michael Murillo",Science & Technology,0.7426476212119038,0.5242600915000177
+Does my dog know what I'm thinking?,"Consciousness, Sensation and Perception",0.7120626334067179,0.4898034477351845
+How your muscular system works - Emma Bryce,Life Sciences,0.7586198120074157,0.46332199101984883
+How Different Diseases Make You Smell,Health,0.6949949471995506,0.7153245027157373
+The ferocious predatory dinosaurs of Cretaceous Sahara - Nizar Ibrahim,Life Sciences,0.6602202411919111,0.4946275408445449
+Are You A Classical Or Romantic Voter?,Civics,0.7534123519272011,0.28778340057470564
+Mammoths vs. Mastodons: what's the criteria for de-extinction?,Science & Technology,0.6845610532348688,0.8595169406877746
+Dr. Sally Ride on Dumb Questions,Social Studies,0.7554364706823911,0.5317427616977412
+The backwards brain bicycle: un-doing understanding,Thinking & Learning,0.7281612328774069,0.3345945438937026
+Can you solve the airplane riddle? - Judd A. Schorr,Mathematics,0.7177394870661986,0.42067434131224435
+"Why should you read ""One Hundred Years of Solitude""? - Francisco Diez-Buzo",Mathematics,0.694061411961316,0.9853553390593273
+How Magellan circumnavigated the globe - Ewandro Magalhaes,History,0.6849048823469299,0.28403740841382796
+The controversial origins of the Encyclopedia - Addison Anderson,Writing/Composition,0.7318970404902247,0.14377556032546887
+Why is the very hungry caterpillar so dang hungry?,Science & Technology,0.7640824839133156,0.3783031726911906
+How to build a dark matter detector - Jenna Saffin,Science & Technology,0.7104813750060225,0.6150622951472775
+What happens during a stroke? - Vaibhav Goswami,Health,0.6529728551879751,0.2615050227227784
+Who's Creating Your Digital Dossier?,"Design, Engineering & Technology",0.7458148677731494,0.42546575041139184
+The missing plague that could have changed history,History,0,0
+"Teach girls bravery, not perfection",Teaching & Education,0,0
+"Why should you read James Joyce's ""Ulysses""? - Sam Slote",Literature,0.7284749317411038,0.37697054466773344
+A day in the life of an ancient Athenian - Robert Garland,History,0.6968224872944289,0.61241497332754
+Why do people have seasonal allergies? - Eleanor Nelsen,Health,0.7495966798518473,0.4500715049685712
+Why is it so hard to cure ALS? - Fernando Vieira,Health,0.7317426817665642,0.4598973399439571
+The surprising reason you feel awful when you're sick - Marco A. Sotomayor,Growth & Development,0.7383765160568957,0.39470297463102205
+Can you solve the Leonardo da Vinci riddle? - Tanya Khovanova,Social Studies,0,0
+History vs. Augustus - Alex Gendler and Peta Greenfield,Social Studies,0.734421285330637,0.5736525560779556
+Why don't perpetual motion machines ever work? - Netta Schramm,Engineering,0.7167375310139361,0.539848886397503
+The science of skin color - Angela Koine Flynn,Health,0.6924113906288575,0.26086205512625027
+The chemistry of skunk spray,Science & Technology,0.7223887106508968,0.6178554793243347
+How a few scientists transformed the way we think about disease - Tien Nguyen,Science & Technology,0.6835079791558571,0.5791500730462154
+Ralph Waldo Emerson and the Beauty of the Everyday,Philosophy,0,0
+How memories form and how we lose them - Catharine Young,Thinking & Learning,0.7384466811519961,0.4310238009989463
+The Sun's surprising movement across the sky - Gordon Williamson,Science & Technology,0.688629959228435,0.29382731054352845
+Will we ever be able to teleport? - Sajan Saini,Physical Science,0,0
+Will future spacecraft fit in our pockets? - Dhonam Pemba,Earth and Space Science,0.7215775934388156,0.5421958729530679
+Where babies in movies come from,The Arts,0.6383535220296652,0.45083747541453845
+Private school vs public school - how do the students compare?,Teaching & Education,0.6587260392581404,0.968028389327845
+Which is stronger: Glue or tape? - Elizabeth Cox,Science & Technology,0.7045146162069046,0.6257754499237118
+3 Planets That Shouldn't Exist,Earth and Space Science,0.6847423064831506,0.1718133233482721
+What are you?,Science & Technology,0.7339168288761746,0.6028088947307584
+Should you trust unanimous decisions? - Derek Abbott,Data Analysis & Probability,0.6878153923844728,0.8153438041979456
+What in the world is topological quantum matter? - Fan Zhang,Physical Science,0.7363756499816703,0.4919644313202733
+How Progressivism Happened,Social Studies,0.6288401680866714,0.7567970004692585
+Why is NASA sending a spacecraft to a metal world? - Linda T. Elkins-Tanton,Science & Technology,0.6974307773109859,0.3873571634150041
+When to use apostrophes - Laura McClure,Literature & Language,0.7390111964306693,0.40563387695543335
+"Why is Aristophanes called ""The Father of Comedy""? - Mark Robinson",Psychology,0.6920934845341482,0.5326832623900903
+How to speak so that people want to listen,Science & Technology,0,0
+What happens to our bodies after we die? - Farnaz Khatibi Jafari,Sociology,0.6982988550093501,0.9495395888833895
+5 life hacks based on science,Thinking & Learning,0.7669380695974063,0.525453868433636
+Honey: bacteria's worst enemy,Health,0.7192424702377005,0.42414972731673517
+How do touchscreens work?,"Design, Engineering & Technology",0.7006163748184112,0.5844121028896085
+How bird vomit helps us understand history,Technology,0,0
+The otherworldly creatures in the ocean's deepest depths - Lidia Lins,Physical Science,0.6990948096697973,0.5260436087218986
+Can you find the next number in this sequence? - Alex Gendler,Mathematics,0.7610541184465722,0.2265511687267941
+Why do women have periods?,Health,0.725885023280488,0.5202277288579992
+Why do dogs have floppy ears?,Literature & Language,0.6329418613324955,0.9344007572682091
+The strongest predictor of how long you'll live,Psychology,0,0
+The real story behind Archimedes' Eureka! - Armand D'Angour,Macroeconomics,0.6849105607719327,0.7352889146664628
+NASA vs. SpaceX - what's the difference?,"Design, Engineering & Technology",0,0
+How architecture can create dignity for all,"Design, Engineering & Technology",0,0
+"Why should you read Virgil's ""Aeneid""? - Mark Robinson",Literature,0.7129495043660888,0.7998744912299599
+"Who were the Vestal Virgins, and what was their job? - Peta Greenfield",History,0.702393142152257,0.20767582793916395
+Growth Mindset vs Fixed Mindset: An Introduction,Thinking & Learning,0.7511306646203587,0.4038032182546029
+How batteries work - Adam Jacobson,Science & Technology,0.6249628761097827,0.19260196670570803
+Can we survive the sun's death?,Science & Technology,0.7383528977721665,0.527575955248459
+Can machines read your emotions? - Kostas Karpouzis,Mathematics,0.6732794871969985,0.30887468118331346
+Are naked mole rats the strangest mammals? - Thomas Park,Science & Technology,0.7298548265390045,0.5007592643993075
+What is a vector? - David Huynh,Measurement,0.7729978684278371,0.49242319950044483
+What's so great about the Great Lakes? - Cheri Dobbs and Jennifer Gabrys,Environmental Science,0.7052822098672014,0.774083014722777
+How does fracking work? - Mia Nacamulli,"Design, Engineering & Technology",0.6963493440029948,0.4118203674436728
+"Meet the tardigrade, the toughest animal on Earth - Thomas Boothby",Life Sciences,0.7219526516066129,0.3136693343006616
+"Why should you read ""The Handmaid's Tale""? - Naomi R. Mercer",Health,0.7157032966335752,0.22116422767382
+Ugly History: The 1937 Haitian Massacre - Edward Paulino,Social Studies,0.7018090798815402,0.5860539953214122
+Learning from smallpox: How to eradicate a disease - Julie Garon and Walter A. Orenstein,Science & Technology,0.7052074979982017,0.5824997436941146
+Is it bad to hold your pee? - Heba Shaheed,Health,0.7160794366992242,0.2610339998609432
+How Does it Grow? Potatoes,Environmental Science,0.762402646755839,0.362479013066417
+Zen kōans: unsolvable enigmas designed to break your brain - Puqun Li,Teaching & Education,0.6730859634362105,0.2713231995789426
+Three Ways to Destroy the Universe,Earth and Space Science,0.7083818960658945,0.6183133694641902
+How did Polynesian wayfinders navigate the Pacific Ocean? - Alan Tamayose and Shantell De Silva,History,0.714834211517843,0.6126350411793224
+Why can't you divide by zero?,Mathematics,0.7399382798261636,0.8444808565140555
+What is Minimalist Art And Why Does it Matter?,The Arts,0.6789722353676801,0.5173433538181874
+The world's most mysterious book - Stephen Bax,Literature & Language,0.6813907565835108,0.6117355670092435
+Winning at Rock Paper Scissors,Information Literacy,0.7116158819780832,0.4723078568930473
+Vatican City Explained,Philosophy & Religion,0.7550898767382215,0.4630064970023132
+Are there dead wasps in figs?,Earth and Space Science,0.7524958058719976,0.34696373876170783
+Teach every child about food - Jamie Oliver,Business & Economics,0,0
+Why don't poisonous animals poison themselves? - Rebecca D. Tarvin,Science & Technology,0.6554451944646938,0.3930845688727958
+Overpopulation – the human explosion explained,Social Studies,0.6752368764477602,0.8115984401294428
+5 Weird Involuntary Reflexes Explained!,Biological Bases of Behavior,0.7257852720331691,0.36590803624505813
+How quickly do you judge a face?,Psychology,0.6871731648644301,0.6481141088546244
+Inside the minds of animals - Bryan B Rasmussen,Psychology,0.6785184419542579,0.264946089314547
+Why does your cat's tongue feel like sandpaper?,Science & Technology,0.8141678307853997,0.3345286781061286
+Can you solve the dark coin riddle? - Lisa Winer,Mathematics,0.6538588854919197,1.0
+Can you solve the passcode riddle? - Ganesh Pai,Numbers & Operations,0.686302397400679,1.0
+How brain parasites change their host's behavior - Jaap de Roode,Health,0.7457726727910191,0.17618276419719636
+What is dust made of? - Michael Marder,Science & Technology,0.7193259420717324,0.41239728411550025
+How to make your writing funnier - Cheri Steinkellner,Literature & Language,0.7473180712961419,0.5713977586029151
+How does the Nobel Peace Prize work? - Adeline Cuvelier and Toril Rokseth,Civics,0.7254121304498793,0.46179459282091645
+Debunking the myths of OCD - Natascha M. Santos,Health,0.7949050766333302,0.47874330619021743
+The first asteroid ever discovered - Carrie Nugent,Earth and Space Science,0.6856669992041026,0.4480923857274452
+Proof of Evolution That You Can Find on Your Body,Science & Technology,0,0
+The death of bees explained,Science & Technology,0.6904224177519867,1.0
+Your body's real age,Life Sciences,0.7054429553019685,0.7665306466070334
+The treadmill's dark and twisted past - Conor Heffernan,Health,0.7005419921783967,0.519862976250602
+What makes things cool?,Design,0.7121777656292226,0.41211090185999816
+What's the fastest way to alphabetize your bookshelf? - Chand John,Performing Arts,0.6959079533110005,0.7612725498982055
+How fast can we go?,Health,0,0
+What really happened to the Library of Alexandria? - Elizabeth Cox,Health,0.7201635293311346,0.650986698753529
+Rhythm in a box: The story of the cajon drum - Paul Jennings,The Arts,0.7850670353815989,0.6557430905593462
+How to master your sense of smell - Alexandra Horowitz,Life Sciences,0.6841576248229476,0.27739832612019644
+The myth of Oisin and the land of eternal youth - Iseult Gillespie,Literature & Language,0.7067071868786392,0.6717754492799637
+Where did Russia come from? - Alex Gendler,Social Studies,0.6731953486940807,0.618057638347689
+The myth of Icarus and Daedalus - Amy Adkins,Area Studies,0.6910785091808529,0.3606094959476741
+How North America got its shape - Peter J. Haproff,Geography,0.6710687253707782,0.6455755373816587
+How fan films shaped The Lego Movie,"Design, Engineering & Technology",0.6887437508256715,0.9517361244974154
+Could we survive prolonged space travel? - Lisa Nip,Earth and Space Science,0.690374862259094,0.4678554322579035
+A brief history of goths - Dan Adams,History,0.6898936634467999,0.6950401888850651
+Can you solve the Mondrian squares riddle? - Gord Hamilton,Mathematics,0.7258117293468399,1.0
+The complex geometry of Islamic design - Eric Broug,Design,0.699687840128238,0.30702232956925596
+The weird and wonderful metamorphosis of the butterfly - Franziska Bauer,Science & Technology,0.6948201669136443,0.39841858356673787
+Why the octopus brain is so extraordinary - Cláudio L. Guerra,Science & Technology,0.716567396435901,0.39656642059393116
+What happens when your DNA is damaged? - Monica Menesini,Science & Technology,0.6999612832299162,0.6888618745798152
+What causes nosebleeds?,Health,0.7202164178184141,0.5485824258459877
+Explore cave paintings in this 360 degree animated cave - Iseult Gillespie,Anthropology,0.6843320962767331,0.5870813769238674
+You won't believe your eyes,Science & Technology,0,0
+The Philosophy of The Buddha,Philosophy & Religion,0.7160188659636656,0.6403131542972661
+What are Meteors?,Earth and Space Science,0,0
+A baffling balloon behavior,Mathematics,0.6943950721495507,0.634089707689671
+How we think complex cells evolved - Adam Jacobson,Science & Technology,0.7101512888732971,0.22781073994826334
+How do drugs affect the brain? - Sara Garofalo,Life Sciences,0.7269710285070857,0.3971384283342968
+Why do some people hate cilantro?,Science & Technology,0.7246506405125337,0.2958958053718717
+Where do superstitions come from? - Stuart Vyse,Social Psychology,0.7305201660478932,0.3702963076604752
+Can you solve the prisoner boxes riddle? - Yossi Elran,Mathematics,0.720792858685533,0.7528237969752741
+How smart are orangutans? - Lu Gao,Environmental Science,0.7325565469403671,0.32929193279767444
+Sunlight is way older than you think - Sten Odenwald,Science & Technology,0.7119192437450934,0.6761743963346885
+How exposing anonymous companies could cut down on crime - Global Witness,Business & Economics,0.7104119819512993,0.33373297259623824
+How cars went from boxy to curvy,"Design, Engineering & Technology",0.7175958365003957,0.2498899911728425
+What are mini brains? - Madeline Lancaster,Science & Technology,0.7713231709047685,0.4521848026761194
+The race to sequence the human genome - Tien Nguyen,Science & Technology,0.6632161184970555,0.22878634296178402
+What triggers a chemical reaction? - Kareem Jarrah,Science & Technology,0.7616382311043683,0.3718595214439539
+What is obesity? - Mia Nacamulli,Health,0.8108604952888998,0.23538281621688406
+How do glasses help us see? - Andrew Bastawrous and Clare Gilbert,Health,0.6777437972847971,0.8655903205687352
+History vs. Richard Nixon - Alex Gendler,Social Studies,0.6881698634909295,0
+Why can't we just print money to pay off debt?,Global Economics,0,0
+"The secrets of Mozart's ""Magic Flute"" - Joshua Borths",Critical Thinking,0.7466123449727458,0.5384156246776451
+Can you solve the seven planets riddle? - Edwin F. Meyer,Thinking & Learning,0.7308796517928217,0.9392954021067874
+Freedom to Change,Social Studies,0.6815719167683463,0.6721807276628237
+Can you solve the wizard standoff riddle? - Daniel Finkel,Mathematics,0.7127699981975846,0.0811252169459632
+What do food expiration dates actually mean?,Life Sciences,0.6979798548763192,0.288748063168149
+How does your body process medicine? - Céline Valéry,Consumer Health,0.690552512727367,0.4805572840207848
+The origin of countless conspiracy theories - PatrickJMT,Mathematics,0.6900861612512252,0.19987183240067322
+"Can you solve ""Einstein's Riddle""? - Dan Van der Vieren",Thinking & Learning,0.7411111820620925,0.08113586236055198
+Are Good Looking People Jerks?,Philosophy & Religion,0.6912400601560247,0.30735547737945484
+Why are fish fish-shaped? - Lauren Sallan,Science & Technology,0.6994891598721837,0.5544538874736697
+The wars that inspired Game of Thrones - Alex Gendler,Social Studies,0.664168061232384,0.1654358696949609
+Could we cure aging during your lifetime?,Health,0.6819539014999941,0.38680867741762065
+Can you solve the fish riddle? - Steve Wyborney,Problem Solving,0.7106787283523694,0.3920871394715973
+Why is it so hard to cure cancer? - Kyuson Yun,Medical Conditions,0.6968762621515663,0.4629609299027099
+Where does gold come from? - David Lunney,Science & Technology,0.7027088263249391,0.5858921722347077
+Why do I have to use a number 2 pencil?,"Design, Engineering & Technology",0.6364769385724134,0.8872591483760359
+Why I'm stepping aside and passing the mic to students | Ashley Kolaya | TEDxYouth@Bath,Social Studies,0,0
+Meet The Frog That Barfs Up Its Babies,Environmental Science,0.7079191718142124,0.21913747940202571
+Could a blind eye regenerate? - David Davila,"Design, Engineering & Technology",0.7071418266608378,0.5107824232674185
+The science of the Game of Thrones,Environmental Science,0.6787040979636212,0
+The mathematical secrets of Pascal's triangle - Wajdi Mohamed Ratemi,Mathematics,0.7173494754026394,1.0
+The history of museums - J. V. Maranto,Social Studies,0.7465977979635743,0.3840896542071025
+Could human civilization spread across the whole galaxy? - Roey Tzezana,Earth and Space Science,0.6766502824588452,0.49341994529354727
+Who was Voltaire?,Health,0,0
+Jean-Paul Sartre and Existentialism,Philosophy & Religion,0.7404530913057371,0.7747296709172634
+Why are we ticklish?,Health,0.6647772809489318,0.5310813782168589
+The surprising reasons animals play dead - Tierney Thys,Science & Technology,0.642286713125711,0.2941243757939594
+Music and emotion through time - Michael Tilson Thomas,Performing Arts,0,0
+Is DNA the future of data storage? - Leo Bear-McGuinness,Life Sciences,0.7247071660592063,0.5756489071730607
+Jimmy Carter: Why I believe the mistreatment of women is the number one human rights abuse,"Design, Engineering & Technology",0,0
+"Does ""The Wonderful Wizard of Oz"" have a hidden message? - David B. Parker",History,0.7060759056070126,0.6292669770612791
+How Does it Grow? Apples,Environmental Science,0.7211469698166401,0.1836424362041619
+Is our climate headed for a mathematical tipping point? - Victor J. Donnay,Mathematics,0.6685608651387596,0.7399672201131595
+How spontaneous brain activity keeps you alive - Nathan S. Jacobs,Health,0.7072212536967399,0.6295503853803014
+How much of what you see is a hallucination? - Elizabeth Cox,Health,0.6596365277230574,0.44647557262809234
+The psychology behind irrational decisions - Sara Garofalo,Psychology,0.6602429888996146,0.5870167022867371
+How old are your ears? (hearing test),Health,0.7169203655655286,0.5816890660607765
+What is entropy? - Jeff Phillips,Physical Science,0.7213702204494095,0.3229482553584539
+FOG: Clearing up the confusion,Science & Technology,0.7081693121256329,0.3766214864702558
+How do schools of fish swim in harmony? - Nathan S. Jacobs,Science & Technology,0.7062458807512353,0.583260124461068
+Why are some people left-handed? - Daniel M. Abrams,Growth & Development,0.6632547258466628,0.48587197500592316
+How in vitro fertilization (IVF) works - Nassim Assefi and Brian A. Levine,"Design, Engineering & Technology",0.7020297676906223,0.28356256163381716
+The history of African-American social dance - Camille A. Brown,Performing Arts,0.7465782350627921,0.5978274303282481
+Building a dinosaur from a chicken - Jack Horner,Life Sciences,0,0
+What causes headaches? - Dan Kwartler,Health,0.670504547608008,0.5489615957189735
+What if you never forgot anything?,Health,0,0
+Are ghost ships real? - Peter B. Campbell,History,0.692976019210787,0.4043310620497289
+How do germs spread (and why do they make us sick)? - Yannay Khaikin and Nicole Mideo,Health,0.6404417665584863,0.6510034189587014
+How do vaccines work? - Kelwalin Dhanasarnsombut,Health,0.6977770698123396,0.8369243455552191
+Who's at risk for colon cancer? - Amit H. Sachdev and Frank G. Gress,Health,0.7384014675977373,0.8585821412441479
+What is epigenetics? - Carlos Guerrero-Bosagna,Life Sciences,0.7097969420916239,0.24044197218277064
+Check your intuition: The birthday problem - David Knuffke,Data Analysis & Probability,0.6776553724158164,0.9425924682770523
+Can you solve the locker riddle? - Lisa Winer,Data Analysis & Probability,0.6975476847960275,0.9788675134594813
+How can countries measure the well-being of their citizens?,Social Studies,0.6361701988447376,0.49597193526727396
+Yttrium - Periodic Table Videos,Physical Science,0.7630557763559537,0.685703655795373
+What can we learn from insect cribs?,Environmental Science,0.6793736176318302,0.5807338895084179
+Rutherfordium - Periodic Table of Videos,Physical Science,0.7146451373987557,0.3103307219252979
+What does income inequality mean to Americans?,Business & Economics,0.69925679499322,0.7098927818415322
+Einstein's Theory of General Relativity,Physical Science,0.6677956286622584,0.25758388921965925
+Carl Sagan on the Existence of Extraterrestrials,Earth and Space Science,0.7181299458135512,0.2631326620482573
+Why should you read Virginia Woolf? - Iseult Gillespie,Literature,0.5672127561810955,0.3172068597255112
+How misused modifiers can hurt your writing,Literature & Language,0.6805825302477299,0.3701600283899829
+What is leukemia? - Danilo Allegra and Dania Puggioni,Health,0.6346254124720015,0.2672343518401834
+It's a church. It's a mosque. It's Hagia Sophia. - Kelly Wall,Social Studies,0.7037035646063498,0.09846929016465167
+The evolution of the human eye - Joshua Harvey,Life Sciences,0.6946004695001113,0.3673014190254767
+How to manage your time more effectively (according to machines) - Brian Christian,Thinking & Learning,0.6867939900891668,0.31996956600996346
+Silicon - Periodic Table of Videos,Physical Science,0.7686174324964676,0.5556901428108383
+The invisible motion of still objects - Ran Tivony,Science & Technology,0.7394701795918872,0.7106170066506564
+3 tips to boost your confidence - TED-Ed,Psychology,0.8024066815705198,0.2542544784198734
+Lawrencium - Periodic Table of Videos,Physical Science,0.7275007844595529,0.4598936685826442
+What is the biggest single-celled organism? - Murry Gans,Life Sciences,0.7227481878790847,0.9758486576978586
+"How do dogs ""see"" with their noses? - Alexandra Horowitz",Biological Bases of Behavior,0.7303709505981294,0.36808399086495014
+Cadmium - Periodic Table of Videos,Physical Science,0.7731499182558749,0.5914926353722497
+Einstein's brilliant mistake: Entangled states - Chad Orzel,Science & Technology,0.6900835538416242,0.37663047453677223
+How did clouds get their names? - Richard Hamblyn,Thinking & Learning,0.6660792929983537,0.5501958802035916
+How to track a tornado - Karen Kosiba,Earth and Space Science,0.6667831930564905,0.5942539716273966
+Underwater Explosions (Science with Alan Sailer!),Science & Technology,0.6866809427015431,0.4642091388150327
+Dubnium - Periodic Table of Videos,Physical Science,0.7309138355640894,0.47840956839673743
+Dead stuff: The secret ingredient in our food chain - John C. Moore,Life Sciences,0.718754916077919,0.9636796744667906
+How aspirin was discovered - Krishna Sudhir,Life Sciences,0.6664343003656861,0.5319785217953183
+Why do we pass gas? - Purna Kashyap,Health,0.7675216164005654,0.5067564126473919
+This Video Will Make You Angry,Information Literacy,0.737576520984938,0.7403716075219767
+Rhenium - Periodic Table of Videos,Physical Science,0.8100110031131187,0.3984723795454184
+Inside the ant colony - Deborah M. Gordon,Life Sciences,0.7610474357205959,0.4167828621141868
+Why do animals form swarms? - Maria R. D'Orsogna,Science & Technology,0.7638749473809858,0.5217661081851703
+Why neutrinos matter - Silvia Bravo Gallart,Science & Technology,0.8351502763306522,0.6059612099017204
+Chromium - Periodic Table of Videos,Physical Science,0.7491737580943318,0.35352984107616015
+Iridium - Periodic Table of Videos,Physical Science,0.7537518924091983,0.49287312316952026
+Can you solve the pirate riddle? - Alex Gendler,Critical Thinking,0.7130536397257046,0.4102120651263169
+Making a car for blind drivers - Dennis Hong,"Design, Engineering & Technology",0.6340324585702889,0.41187740252305927
+What is Alzheimer's disease? - Ivan Seah Yu Jun,Life Sciences,0.7134488468326162,0.6594653676552642
+Kant's Axe,Philosophy & Religion,0.6839101787734846,0.5011719112410712
+Schrödinger's cat: A thought experiment in quantum mechanics - Chad Orzel,Science & Technology,0.6776347322958494,0.14262722042685103
+Silver - Periodic Table of Videos,Physical Science,0.7075297843508889,0.2437103679727918
+How does your smartphone know your location? - Wilton L. Virgo,"Design, Engineering & Technology",0.7068771781713247,0.4032786263075471
+5 Things You May Not Have Known About Houdini,Social Studies,0.7249865547714774,0.4897262668424127
+Where the Sidewalk Ends (LEGO Sculpture),Literature & Language,0.7484467932866419,0.6452511885956604
+Tungsten - Periodic Table of Videos,Physical Science,0.7566313088511156,0.5612951339709458
+Takaharu Tezuka: The best kindergarten you've ever seen,Teaching & Education,0.7194663963240859,0.41849314351477407
+The history of marriage - Alex Gendler,Social Studies,0.7057706073003379,0.4315814906384513
+Fractals and the art of roughness - Benoit Mandelbrot,Science & Technology,0,0
+Berkelium - Periodic Table of Videos,Physical Science,0.8013853757385372,0.6302494182519858
+The case of the vanishing honeybees - Emma Bryce,Life Sciences,0.6720820415003369,0.9433062621147579
+Could a Saturn moon harbor life? - Carolyn Porco,Earth and Space Science,0.7250265206201332,0.4815528964028104
+Einstein's miracle year - Larry Lagerstrom,Technology,0.6922172414728976,0.29838649353826185
+Nitrogen - Periodic Table of Videos,Physical Science,0.7407813849900213,0.3209125444356299
+"Corruption, wealth and beauty: The history of the Venetian gondola - Laura Morelli",Social Studies,0.7006622390055529,0.5355101223928385
+How a 15-year-old solved a Rubik's Cube in 5.25 seconds,Mathematics,0.6686724867961893,0.9214465931283534
+"Why should you read Tolstoy's ""War and Peace""? - Brendan Pelsue",Literature,0.7341243139657474,0.3491714203484769
+The family structure of elephants - Caitlin O'Connell-Rodwell,Life Sciences,0.735391308279225,0.6409493789508196
+Palladium (new) - Periodic Table of Videos,Physical Science,0.7131373755532583,0.2510987128240696
+How heavy is air? - Dan Quinn,Science & Technology,0.7295386752661385,0.6034039487975577
+"Why is Herodotus called ""The Father of History""? - Mark Robinson",Social Studies,0.6947282568784559,1.0
+"Silk, the ancient material of the future - Fiorenzo Omenetto","Design, Engineering & Technology",0.6907431273259791,0.5495091284948352
+Ununtrium - Periodic Table of Videos,Physical Science,0.6931465953682536,0.35717892565491327
+How do pregnancy tests work? - Tien Nguyen,"Design, Engineering & Technology",0.7498589561362813,0.23919710075602993
+Seaborgium - Periodic Table of Videos,Physical Science,0.7329616739470542,0.9275779552449187
+Tantalum - Periodic Table of Videos,Physical Science,0.7874733656635099,0.4523576644993505
+"The physics of the ""hardest move"" in ballet - Arleen Sugano",Performing Arts,0.6660391098134054,0.4314915970052858
+History vs. Christopher Columbus - Alex Gendler,Social Studies,0.7093100786770185,0.4049093482755432
+Why is yawning contagious? - Claudia Aguirre,Life Sciences,0.6711446842578483,0.6322886288761442
+Could your brain repair itself? - Ralitsa Petrova,Science & Technology,0.7339245043084885,0.8124838243581204
+How much food can you buy for $5 around the world?,Global Economics,0,0
+Argon - Periodic Table of Videos,Physical Science,0.721536430622572,0.42788168201116816
+What is a gift economy? - Alex Gendler,Global Economics,0.7786943676036783,0.35284246021152016
+What percentage of your brain do you use? - Richard E. Cytowic,Life Sciences,0.6730216954095046,0.1488749449421109
+Thulium - Periodic Table of Videos,Physical Science,0.7254982696841581,0.8817969818023055
+"Beware online ""filter bubbles"" - Eli Pariser",Media and Journalism,0.5940492673982288,0.20380601370357057
+Americium - Periodic Table of Videos,Physical Science,0.741320998870284,0.33611711115774634
+What's the difference between a scientific law and theory? - Matt Anticole,Thinking & Learning,0.7376213331013399,0.28323789330598365
+The evolution of animal genitalia - Menno Schilthuizen,Life Sciences,0.7271809223028377,0.34900281595707633
+Why the Arctic is climate change's canary in the coal mine - William Chapman,Science & Technology,0.6966982397490524,0.35730632395955925
+Ununpentium - Periodic Table of Videos,Physical Science,0.7048085538157088,0.5486922425825426
+Niobium - Periodic Table of Videos,Physical Science,0.7542911300839517,0.5838266135670038
+How to speak monkey: The language of cotton-top tamarins - Anne Savage,Life Sciences,0.7164753692714232,0.3501929138194346
+How to visualize one part per million - Kim Preshoff + The TED-Ed Community,Numbers & Operations,0.7154542317189394,0.8972023952049801
+The networked beauty of forests - Suzanne Simard,Life Sciences,0.7114175386415755,0.47866720193658063
+The Story of Cholera,Public Health,0.7298096370503846,0.3807398969475403
+Why do rivers curve?,Environmental Science,0.7032573289561654,0.41552608810743674
+Was Leonardo da Vinci dyslexic?,Psychology,0.6573143240366394,0.25146600928055135
+"Light seconds, light years, light centuries: How to measure extreme distances - Yuan-Sen Ting",Science & Technology,0.7516245479470418,0.6168592583050959
+Erbium - Periodic Table of Videos,Physical Science,0.7717696996440879,0.506019605464764
+What if the Earth stopped spinning?,Earth and Space Science,0.6538641549143366,0.3008855611306287
+The deadly irony of gunpowder - Eric Rosado,Physical Science,0.722579819178957,0.45370853600289757
+Thorium - Periodic Table of Videos,Physical Science,0.7573179712751943,0.4271417691571259
+Potassium - Periodic Table of Videos,Physical Science,0.7145793244781181,0.5218701682877509
+The Eisenhower matrix: understanding task management,Thinking & Learning,0.6725595508460407,0.6014787851247068
+What are trees made of?,Science & Technology,0.6975645669853716,0.5900565225613491
+Why are bad words bad?,Linguistics,0.6396111032561503,1.0
+How Does it Grow? Cauliflower,Science & Technology,0.7860449654749301,0.5025526484361307
+Nobelium - Periodic Table of Videos,Physical Science,0.7071718472596425,0.42519992024734776
+Want to be an activist? Start with your toys - McKenna Pope,Design,0.7035728202449895,0.91105263059493
+Fluorine - Periodic Table of Videos,Physical Science,0.7781127522047052,0.535834724567396
+Bohrium - Periodic Table of Videos,Physical Science,0.7066991554028612,1.0
+Mysteries of vernacular: Sarcophagus - Jessica Oreck and Rachael Teel,Linguistics,0.6535726532278714,0.6147561613151381
+Would you opt for a life with no pain? - Hayley Levitt and Bethany Rickwald,Philosophy,0.6923216635472267,0.5096446127194826
+Ruthenium - Periodic Table of Videos,Physical Science,0.7727831165140225,0.6367698913302949
+"What we can learn from galaxies far, far away - Henry Lin",Earth and Space Science,0.6640956473457178,0.36375399052029495
+What gives a dollar bill its value? - Doug Levinson,Civics,0.7110114679742463,0.5279248664448704
+How architecture helped music evolve - David Byrne,Performing Arts,0,0
+The business logic of sustainability - Ray Anderson,Business & Economics,0,0
+"Are Elvish, Klingon, Dothraki and Na'vi real languages?",Linguistics,0.7270668924292989,0.6072240663812495
+Sulfur - Periodic Table of Videos,Physical Science,0.7291885957442886,0.6251915163694794
+Mysteries of vernacular: Bewilder - Jessica Oreck and Rachael Teel,Linguistics,0.6924515095237938,0.3583985500889211
+If superpowers were real: Super strength - Joy Lin,Life Sciences,0.6714187947782987,0.3671999474638318
+Mendelevium - Periodic Table of Videos,Physical Science,0.7415814822799487,0.3001674458343306
+How do vitamins work? - Ginnie Trinh Nguyen,Health,0.7683439145116667,0.5542668385823367
+The quest to understand consciousness - Antonio Damasio,Life Sciences,0,0
+Animation basics: The art of timing and spacing - TED-Ed,The Arts,0.7301736987729638,0.3814779478482793
+Darmstadtium - Periodic Table of Videos,Physical Science,0.7082116936416923,0.5291226179717061
+Mysteries of vernacular: Robot - Jessica Oreck and Rachael Teel,Literature & Language,0.7347327253114948,0.6146020601839213
+The physics of playing guitar - Oscar Fernando Perez,The Arts,0.7485887168148897,0.4282921781149246
+Lithium - Periodic Table of Videos,Physical Science,0.7640013304736809,0.4506059113697405
+I'm Batman - Amy Wray,Life Sciences,0.735409264750654,0.4284182047665969
+The Road Less Traveled By,Literature & Language,0.7024647012641194,0.36323006829190707
+Magnesium - Periodic Table of Videos,Physical Science,0.7726142130381046,0.3551637562689162
+Rhodium - Periodic Table of Videos,Physical Science,0.7191776544187493,0.38887213100561846
+Your genes are not your fate - Dean Ornish,Life Sciences,0.7267250772053218,0.5500864713420949
+How to grow a bone - Nina Tandon,Science & Technology,0.7387824936567141,0.4291209305455187
+Why do we cry? The three types of tears - Alex Gendler,Life Sciences,0.762291746629958,0.38789857538317785
+Fermium - Periodic Table of Videos,Physical Science,0.7787006998837059,0.5229984565908854
+How to unboil an egg - Eleanor Nelsen,Science & Technology,0.6962876517754709,0.2693255241442141
+Einsteinium - Periodic Table of Videos,Physical Science,0.7563351903665501,0.2751003640787225
+How to fossilize...yourself - Phoebe A. Cohen,Science & Technology,0.6365253262244993,0.5381047917254878
+The terrors of sleep paralysis - Ami Angelowicz,Medical Conditions,0.7639783148324828,0.3359861788459899
+What happens when you remove the hippocampus? - Sam Kean,"Consciousness, Sensation and Perception",0.7426760567683264,0.48001549955500755
+"Less stuff, more happiness - Graham Hill","Design, Engineering & Technology",0.6772690000428233,0.6550579717871857
+Atoms from A to easy!,Physical Science,0.7387118813247957,0.2933297549685546
+"Looks aren't everything. Believe me, I'm a model - Cameron Russell","Consciousness, Sensation and Perception",0.7180591423480189,0.15067653775747458
+"The walk from ""no"" to ""yes"" - William Ury",Business & Economics,0,0
+If superpowers were real: Body mass - Joy Lin,Life Sciences,0.6473507630784616,0.6351460934375276
+Neon - Periodic Table of Videos,Physical Science,0.7433888976043019,0.4826420912608517
+A brief history of melancholy - Courtney Stephens,Medical Conditions,0.7280912601342213,0.5475674077059672
+How fast are you moving right now? - Tucker Hiatt,Earth and Space Science,0.7635910431938211,0.5657397494335485
+Sodium - Periodic Table of Videos,Physical Science,0.7625347130382096,0.484557926604453
+Roentgenium - Periodic Table of Videos,Physical Science,0.694250372909841,0.9062474834349503
+"The ""bottom billion"" - Paul Collier",Civics,0,0
+Technetium - Periodic Table of Videos,Physical Science,0.7482637200885957,0.5092298402021975
+"Vampires: Folklore, fantasy and fact - Michael Molina",Anthropology,0.6996363619550083,0.7367793693279675
+Fellows in the field: Skylar Tibbits,"Design, Engineering & Technology",0.7600637923891302,0.47693415566366315
+At what moment are you dead? - Randall Hayes,Health,0.659536679065958,0.11282305058367445
+Dark matter: The matter we can't see - James Gillies,Earth and Space Science,0.7041433087290228,0.6644593934893391
+How X-rays see through your skin - Ge Wang,"Design, Engineering & Technology",0.7276575433497114,0.5752251896362391
+The fundamentals of space-time: Part 2 - Andrew Pontzen and Tom Whyntie,Earth and Space Science,0.6620668628694608,0.11788326863655334
+Soccer: the world's favorite game,Social Studies,0,0
+What is the universe made of? - Dennis Wildfogel,Earth and Space Science,0.6875445502787011,0.5084861164114245
+What's below the tip of the iceberg? - Camille Seaman,Environmental Science,0.720310713611892,0.3826217365956867
+Lutetium - Periodic Table of Videos,Physical Science,0.7731928513349766,0.5486686965254863
+Feedback loops: How nature gets its rhythms - Anje-Margriet Neutel,Environmental Science,0.6939506851335462,0.36489077351672683
+Copernicium - Periodic Table of Videos,Physical Science,0.7808249182963996,0.7418510903330466
+A future beyond traffic gridlock - Bill Ford,Engineering,0,0
+"Actually, the world isn't flat - Pankaj Ghemawat",Global Economics,0,0
+Hydrogen - Periodic Table of Videos,Physical Science,0.7318139525917958,0.2005190326450382
+Protecting the brain against concussion - Kim Gorgens,Health,0.7045071178546236,0.37803694757477757
+Zirconium - Periodic Table of Videos,Physical Science,0.7496924676989996,0.4476765463639743
+Is telekinesis real? - Emma Bryce,Psychology,0.6808972738149782,0.6351017820682414
+Birth of a nickname - John McWhorter,Linguistics,0.7633262234191553,0.5491396934722694
+Why do we see illusions? - Mark Changizi,Life Sciences,0.7625360539684954,0.4114983444946717
+Aluminium - Periodic Table of Videos,Physical Science,0.745094684380611,0.43764893344851163

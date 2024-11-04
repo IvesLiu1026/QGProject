@@ -1,0 +1,446 @@
+[
+    {
+        "title": "Native Americans for kids: Cherokee, Apache, Navajo, Iroquois and Sioux",
+        "category": "Anthropology",
+        "multiple-choice": [
+            {
+                "question": "What is the term used to describe the original people who lived in the United States?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "European settlers"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Native Americans"
+                    },
+                    {
+                        "label": "C",
+                        "text": "African immigrants"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Asian refugees"
+                    }
+                ]
+            },
+            {
+                "question": "How many Native American tribes and nations are there in the United States?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "100"
+                    },
+                    {
+                        "label": "B",
+                        "text": "500"
+                    },
+                    {
+                        "label": "C",
+                        "text": "1,000"
+                    },
+                    {
+                        "label": "D",
+                        "text": "2,000"
+                    }
+                ]
+            },
+            {
+                "question": "What is another word for farming?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Hunting"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Agriculture"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Fishing"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Gathering"
+                    }
+                ]
+            },
+            {
+                "question": "What type of shelter was built by the Apache tribe?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Teepee"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Wigwam"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Hut"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Cabin"
+                    }
+                ]
+            },
+            {
+                "question": "Which Native American tribe is known for their warrior and hunting skills?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Cherokee"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Sioux"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Navajo"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Iroquois"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Why does everyone hate pigeons?",
+        "category": "Science & Technology",
+        "multiple-choice": [
+            {
+                "question": "What was Charles Darwin's use of pigeons in his theory of evolution?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "He used them as an example of extinction"
+                    },
+                    {
+                        "label": "B",
+                        "text": "He used them as an example of adaptation to environment"
+                    },
+                    {
+                        "label": "C",
+                        "text": "He used them as an example of species classification"
+                    },
+                    {
+                        "label": "D",
+                        "text": "He used them as an example of migration patterns"
+                    }
+                ]
+            },
+            {
+                "question": "What is a unique ability of pigeons that allows them to navigate?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They can fly at high speeds"
+                    },
+                    {
+                        "label": "B",
+                        "text": "They have keen eyesight and use various senses to navigate"
+                    },
+                    {
+                        "label": "C",
+                        "text": "They are able to change their feather color"
+                    },
+                    {
+                        "label": "D",
+                        "text": "They can swim long distances"
+                    }
+                ]
+            },
+            {
+                "question": "What was the purpose of B.F. Skinner's experiments with pigeons?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "To study their migration patterns"
+                    },
+                    {
+                        "label": "B",
+                        "text": "To train them for military purposes"
+                    },
+                    {
+                        "label": "C",
+                        "text": "To observe their social behavior"
+                    },
+                    {
+                        "label": "D",
+                        "text": "To understand their feeding habits"
+                    }
+                ]
+            },
+            {
+                "question": "What is a characteristic of baby pigeons that is mentioned in the summary?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They are very large and strong"
+                    },
+                    {
+                        "label": "B",
+                        "text": "They are surprisingly ugly"
+                    },
+                    {
+                        "label": "C",
+                        "text": "They have bright colors"
+                    },
+                    {
+                        "label": "D",
+                        "text": "They can fly at birth"
+                    }
+                ]
+            },
+            {
+                "question": "What is a key takeaway from the documentary about pigeons?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Pigeons are only found in rural areas"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Wildlife is not present in urban environments"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Pigeons are highly intelligent and adaptable birds that have thrived in urban environments"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Baby pigeons are always born with bright colors"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "What it's like to be a Muslim in America - Dalia Mogahed",
+        "category": "Religion",
+        "multiple-choice": [
+            {
+                "question": "Who is the speaker in this discussion about Islamophobia?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Barack Obama"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Dalia Mogahed"
+                    },
+                    {
+                        "label": "C",
+                        "text": "George W. Bush"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Malala Yousafzai"
+                    }
+                ]
+            },
+            {
+                "question": "What event led to a spike in anti-Muslim sentiment, according to the speaker?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The Arab Spring protests"
+                    },
+                    {
+                        "label": "B",
+                        "text": "The run-up to the Iraq War and two election cycles"
+                    },
+                    {
+                        "label": "C",
+                        "text": "The 1967 Six-Day War"
+                    },
+                    {
+                        "label": "D",
+                        "text": "The Iranian Revolution"
+                    }
+                ]
+            },
+            {
+                "question": "What did Mogahed do with her son after 9/11?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "They attended a protest against Islamophobia"
+                    },
+                    {
+                        "label": "B",
+                        "text": "They visited a mosque to show solidarity"
+                    },
+                    {
+                        "label": "C",
+                        "text": "They went on a trip to the Middle East"
+                    },
+                    {
+                        "label": "D",
+                        "text": "They stayed home and watched TV"
+                    }
+                ]
+            },
+            {
+                "question": "What does Mogahed emphasize as a choice over prejudice?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Anger and frustration"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Panic and conformity"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Courage and compassion"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Fear and intolerance"
+                    }
+                ]
+            },
+            {
+                "question": "How does the speaker respond to critics who might say she's an exception due to her TED Talk and think tank affiliation?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "She agrees that she is an exception"
+                    },
+                    {
+                        "label": "B",
+                        "text": "She says she represents a common experience among Muslims"
+                    },
+                    {
+                        "label": "C",
+                        "text": "She dismisses their concerns as irrelevant"
+                    },
+                    {
+                        "label": "D",
+                        "text": "She apologizes for any offense caused"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Is it normal to talk to yourself?",
+        "category": "Psychology",
+        "multiple-choice": [
+            {
+                "question": "What is self-talk also known as?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Inner speech"
+                    },
+                    {
+                        "label": "B",
+                        "text": "External dialogue"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Verbalized thoughts directed towards oneself or aspects of one's life"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Non-verbal communication"
+                    }
+                ]
+            },
+            {
+                "question": "What can engaging in instructional or motivational self-talk do for a person?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Decrease focus and boost anxiety"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Increase focus, boost self-esteem, and help tackle everyday tasks"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Have no impact on attitude and performance"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Be toxic and predictive of depression"
+                    }
+                ]
+            },
+            {
+                "question": "According to Lev Vygotsky's hypothesis, what is key to the development of self-talk in children?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Internalizing private inner dialogue"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Engaging in negative self-talk"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Speaking to themselves out loud as they play"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Suppressing verbalized thoughts"
+                    }
+                ]
+            },
+            {
+                "question": "What can be the result of engaging in negative self-talk?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Increased focus and improved mental health"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Boosted self-esteem and better performance"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Anxiety, depression, and toxic behavior"
+                    },
+                    {
+                        "label": "D",
+                        "text": "No impact on attitude or performance"
+                    }
+                ]
+            },
+            {
+                "question": "What is a field of psychological treatment that focuses on regulating the tone of self-talk?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Cognitive behavioral therapy (CBT)"
+                    },
+                    {
+                        "label": "B",
+                        "text": "Psychodynamic therapy"
+                    },
+                    {
+                        "label": "C",
+                        "text": "Humanistic therapy"
+                    },
+                    {
+                        "label": "D",
+                        "text": "Family therapy"
+                    }
+                ]
+            }
+        ]
+    }
+]
