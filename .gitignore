@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+
+pyvenv.cfg
+include/
+Lib/
+Library/
+Scripts/
+python_scripts/
+share/
+!metric/metrics.py
+samba_nova/.env
