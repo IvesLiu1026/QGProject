@@ -10,3 +10,4 @@ share/
 !metric/metrics.py
 samba_nova/.env
 dataset/test/
+.vscode/
