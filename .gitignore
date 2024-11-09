@@ -9,3 +9,4 @@ python_scripts/
 share/
 !metric/metrics.py
 samba_nova/.env
+dataset/test/
