@@ -1,0 +1,1486 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: Which of the following events contributed to Count von Bothmer’s discovery?
+Options: A. Count von Bothmer shot down a stork while hunting., B. The unlucky stork had also been impaled by a 3 feet wooden spear, C. The spear was African in origin, some nearly 2500 kms (1500 miles) away, D. All of the above
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: Who shot down a stork over his castle grounds in North Germany in May 1822? Options: A. Count Christian Ludwig von Bothmer, B. Johannes Thienemann, C. Aristotle, D. A local professor Correct Option: A
+Question 2: What unusual feature was discovered on the stork shot down by Count von Bothmer? Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device Correct Option: C
+Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D
+Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds? Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates Correct Option: A
+Question 5: Which of the following birds is known to truly hibernate? Options: A. Common poorwill, B. Barn swallow, C. Garden warbler, D. Stork Correct Option: A
+Question 6: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks? Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks Correct Option: D
+Question 7: How did Thienemann's team plan to retrieve data from the tagged storks? Options: A. By tracking the storks using radio transmitters, B. By conducting regular surveys of the stork population, C. By analyzing the rings returned by the storks themselves, D. By advertising the initiative and asking people to mail back the tags with more information Correct Option: D
+Question 8: What was the result of Thienemann's experiment, and what did it establish? Options: A. The experiment failed to retrieve any data, and the migration route of storks remained a mystery, B. The experiment retrieved 178 rings, but the migration route remained unclear, C. The experiment retrieved 48 rings from Africa, and established that storks migrate to Africa for the winter, D. The experiment retrieved no rings, but established that storks fly to the moon during the winter Correct Option: C
+Question 9: What was the outcome of Thienemann's experiment, and what conclusion was drawn from it? Options: A. 178 rings were retrieved, but the migration route was not determined, B. 48 rings were retrieved from Africa, confirming that storks migrate to Africa, C. No rings were retrieved, and the experiment was deemed a failure, D. The experiment proved that storks hibernate during winter Correct Option: B
+Question 10: What are some challenges in tracking the migration of birds? Options: A. Storms and human development can alter their paths, B. Birds often take the most direct route possible, C. Birds navigate using the stars, wind currents, and Earth's magnetic field, D. Both A and B Correct Option: D
+Question 11: According to the transcript, what are some challenges in tracking bird migration? Options: A. Birds' ability to navigate using the stars and Earth's magnetic field, B. Storms and human development altering birds' migration paths, C. Birds' tendency to take the most direct route possible, D. The lack of technology to track bird migration Correct Option: B
+Question 12: How do birds that migrate across oceans navigate during their journey? Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field Correct Option: D
+Question 13: What is the estimated percentage of bird species that migrate each year? Options: A. 10%, B. 20%, C. 30%, D. 40% Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is not a direct match, but Question 2 is the closest in terms of question intent and content.
+
+However, since the ground truth MCQ asks about the events that contributed to Count von Bothmer's discovery, I looked for a generated MCQ that combines the information from Questions 1 and 2. Unfortunately, there isn't a direct match.
+
+If I had to choose the most similar generated MCQ, I would say that Question 2 is the closest, but it only covers part of the ground truth MCQ. A more suitable match would be a generated MCQ that combines the information from Questions 1 and 2.
+
+That being said, the index of the most similar generated MCQ is: 2.
+
+Please note that this is not a perfect match, and a more suitable generated MCQ would be one that combines the information from Questions 1 and 2, and asks about the events that contributed to Count von Bothmer's discovery.
+
+Match Phase - Ground Truth Set 1, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: Which of the following cannot be one of Aristotle’s 3 theories relating to migration?
+Options: A. Birds transformed into different bodies that suited the season, B. Birds hibernated., C. Birds were gathered up by a secret society of ornithologists, D. Birds went somewhere else
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: Who shot down a stork over his castle grounds in North Germany in May 1822? Options: A. Count Christian Ludwig von Bothmer, B. Johannes Thienemann, C. Aristotle, D. A local professor Correct Option: A
+Question 2: What unusual feature was discovered on the stork shot down by Count von Bothmer? Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device Correct Option: C
+Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D
+Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds? Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates Correct Option: A
+Question 5: Which of the following birds is known to truly hibernate? Options: A. Common poorwill, B. Barn swallow, C. Garden warbler, D. Stork Correct Option: A
+Question 6: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks? Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks Correct Option: D
+Question 7: How did Thienemann's team plan to retrieve data from the tagged storks? Options: A. By tracking the storks using radio transmitters, B. By conducting regular surveys of the stork population, C. By analyzing the rings returned by the storks themselves, D. By advertising the initiative and asking people to mail back the tags with more information Correct Option: D
+Question 8: What was the result of Thienemann's experiment, and what did it establish? Options: A. The experiment failed to retrieve any data, and the migration route of storks remained a mystery, B. The experiment retrieved 178 rings, but the migration route remained unclear, C. The experiment retrieved 48 rings from Africa, and established that storks migrate to Africa for the winter, D. The experiment retrieved no rings, but established that storks fly to the moon during the winter Correct Option: C
+Question 9: What was the outcome of Thienemann's experiment, and what conclusion was drawn from it? Options: A. 178 rings were retrieved, but the migration route was not determined, B. 48 rings were retrieved from Africa, confirming that storks migrate to Africa, C. No rings were retrieved, and the experiment was deemed a failure, D. The experiment proved that storks hibernate during winter Correct Option: B
+Question 10: What are some challenges in tracking the migration of birds? Options: A. Storms and human development can alter their paths, B. Birds often take the most direct route possible, C. Birds navigate using the stars, wind currents, and Earth's magnetic field, D. Both A and B Correct Option: D
+Question 11: According to the transcript, what are some challenges in tracking bird migration? Options: A. Birds' ability to navigate using the stars and Earth's magnetic field, B. Storms and human development altering birds' migration paths, C. Birds' tendency to take the most direct route possible, D. The lack of technology to track bird migration Correct Option: B
+Question 12: How do birds that migrate across oceans navigate during their journey? Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field Correct Option: D
+Question 13: What is the estimated percentage of bird species that migrate each year? Options: A. 10%, B. 20%, C. 30%, D. 40% Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is:
+
+**Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds?**
+
+This question is similar to the ground truth MCQ in terms of question intent, options, and content. Both questions focus on Aristotle's theories related to migration, and the options in Question 4 match the content of the ground truth MCQ.
+
+However, it's worth noting that Question 4 does not exactly match the ground truth MCQ, as it asks about the three theories proposed by Aristotle, whereas the ground truth MCQ asks which of the following cannot be one of Aristotle's 3 theories. 
+
+A more similar question would be one that asks which of the following is NOT one of Aristotle's theories, with options that include the correct theories and an incorrect one.
+
+Since there isn't a generated MCQ that exactly matches the ground truth MCQ, I would recommend Question 4 as the most similar, but with the caveat that it's not an exact match.
+
+Index of the most similar generated MCQ: **4**
+
+Match Phase - Ground Truth Set 1, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: True or False: The theory of transmutation as it relates to bird migration believed that birds could morph into humans.
+Options: A. True, B. False
+Correct Option: A
+
+**Generated MCQs**:
+Question 1: Who shot down a stork over his castle grounds in North Germany in May 1822? Options: A. Count Christian Ludwig von Bothmer, B. Johannes Thienemann, C. Aristotle, D. A local professor Correct Option: A
+Question 2: What unusual feature was discovered on the stork shot down by Count von Bothmer? Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device Correct Option: C
+Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D
+Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds? Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates Correct Option: A
+Question 5: Which of the following birds is known to truly hibernate? Options: A. Common poorwill, B. Barn swallow, C. Garden warbler, D. Stork Correct Option: A
+Question 6: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks? Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks Correct Option: D
+Question 7: How did Thienemann's team plan to retrieve data from the tagged storks? Options: A. By tracking the storks using radio transmitters, B. By conducting regular surveys of the stork population, C. By analyzing the rings returned by the storks themselves, D. By advertising the initiative and asking people to mail back the tags with more information Correct Option: D
+Question 8: What was the result of Thienemann's experiment, and what did it establish? Options: A. The experiment failed to retrieve any data, and the migration route of storks remained a mystery, B. The experiment retrieved 178 rings, but the migration route remained unclear, C. The experiment retrieved 48 rings from Africa, and established that storks migrate to Africa for the winter, D. The experiment retrieved no rings, but established that storks fly to the moon during the winter Correct Option: C
+Question 9: What was the outcome of Thienemann's experiment, and what conclusion was drawn from it? Options: A. 178 rings were retrieved, but the migration route was not determined, B. 48 rings were retrieved from Africa, confirming that storks migrate to Africa, C. No rings were retrieved, and the experiment was deemed a failure, D. The experiment proved that storks hibernate during winter Correct Option: B
+Question 10: What are some challenges in tracking the migration of birds? Options: A. Storms and human development can alter their paths, B. Birds often take the most direct route possible, C. Birds navigate using the stars, wind currents, and Earth's magnetic field, D. Both A and B Correct Option: D
+Question 11: According to the transcript, what are some challenges in tracking bird migration? Options: A. Birds' ability to navigate using the stars and Earth's magnetic field, B. Storms and human development altering birds' migration paths, C. Birds' tendency to take the most direct route possible, D. The lack of technology to track bird migration Correct Option: B
+Question 12: How do birds that migrate across oceans navigate during their journey? Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field Correct Option: D
+Question 13: What is the estimated percentage of bird species that migrate each year? Options: A. 10%, B. 20%, C. 30%, D. 40% Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is:
+
+**Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D**
+
+However, this question does not directly address the specific aspect of transmutation mentioned in the ground truth MCQ (i.e., morphing into humans). A more direct match is not available among the generated MCQs.
+
+A closer match in terms of content would be **Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds? Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates Correct Option: A**
+
+However, this question still does not directly address the specific aspect of transmutation mentioned in the ground truth MCQ.
+
+Given the available options, I would recommend **Question 4** as the most similar generated MCQ, as it mentions "transformation" as one of Aristotle's theories, which is related to the concept of transmutation mentioned in the ground truth MCQ.
+
+Index of the most similar generated MCQ: **4**
+
+Match Phase - Ground Truth Set 1, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: True or False: The theory of transmutation has been scientifically proven.
+Options: A. True, B. False
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: Who shot down a stork over his castle grounds in North Germany in May 1822? Options: A. Count Christian Ludwig von Bothmer, B. Johannes Thienemann, C. Aristotle, D. A local professor Correct Option: A
+Question 2: What unusual feature was discovered on the stork shot down by Count von Bothmer? Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device Correct Option: C
+Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D
+Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds? Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates Correct Option: A
+Question 5: Which of the following birds is known to truly hibernate? Options: A. Common poorwill, B. Barn swallow, C. Garden warbler, D. Stork Correct Option: A
+Question 6: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks? Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks Correct Option: D
+Question 7: How did Thienemann's team plan to retrieve data from the tagged storks? Options: A. By tracking the storks using radio transmitters, B. By conducting regular surveys of the stork population, C. By analyzing the rings returned by the storks themselves, D. By advertising the initiative and asking people to mail back the tags with more information Correct Option: D
+Question 8: What was the result of Thienemann's experiment, and what did it establish? Options: A. The experiment failed to retrieve any data, and the migration route of storks remained a mystery, B. The experiment retrieved 178 rings, but the migration route remained unclear, C. The experiment retrieved 48 rings from Africa, and established that storks migrate to Africa for the winter, D. The experiment retrieved no rings, but established that storks fly to the moon during the winter Correct Option: C
+Question 9: What was the outcome of Thienemann's experiment, and what conclusion was drawn from it? Options: A. 178 rings were retrieved, but the migration route was not determined, B. 48 rings were retrieved from Africa, confirming that storks migrate to Africa, C. No rings were retrieved, and the experiment was deemed a failure, D. The experiment proved that storks hibernate during winter Correct Option: B
+Question 10: What are some challenges in tracking the migration of birds? Options: A. Storms and human development can alter their paths, B. Birds often take the most direct route possible, C. Birds navigate using the stars, wind currents, and Earth's magnetic field, D. Both A and B Correct Option: D
+Question 11: According to the transcript, what are some challenges in tracking bird migration? Options: A. Birds' ability to navigate using the stars and Earth's magnetic field, B. Storms and human development altering birds' migration paths, C. Birds' tendency to take the most direct route possible, D. The lack of technology to track bird migration Correct Option: B
+Question 12: How do birds that migrate across oceans navigate during their journey? Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field Correct Option: D
+Question 13: What is the estimated percentage of bird species that migrate each year? Options: A. 10%, B. 20%, C. 30%, D. 40% Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is not a direct match, but Question 3 has some relevance to the topic of theories proposed by Aristotle. However, none of the generated MCQs directly address the theory of transmutation being scientifically proven.
+
+If I had to choose the most similar generated MCQ based on the topic of Aristotle's theories, I would select:
+
+Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D
+
+However, please note that this is not a direct match, and the generated MCQs do not explicitly address the theory of transmutation being scientifically proven.
+
+If you'd like, I can try to suggest a new MCQ that directly addresses the ground truth MCQ's topic.
+
+Match Phase - Ground Truth Set 1, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: Which of the following was not an outlandish scientific theory associated with the migration of birds?
+Options: A. Birds flew to the moon each winter, B. Birds changed into a different species of birds, C. Birds removed their feathers and hid in holes, D. Birds slept through the winter at the bottom of lakes and rivers, E. None of the above.
+Correct Option: E
+
+**Generated MCQs**:
+Question 1: Who shot down a stork over his castle grounds in North Germany in May 1822? Options: A. Count Christian Ludwig von Bothmer, B. Johannes Thienemann, C. Aristotle, D. A local professor Correct Option: A
+Question 2: What unusual feature was discovered on the stork shot down by Count von Bothmer? Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device Correct Option: C
+Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D
+Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds? Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates Correct Option: A
+Question 5: Which of the following birds is known to truly hibernate? Options: A. Common poorwill, B. Barn swallow, C. Garden warbler, D. Stork Correct Option: A
+Question 6: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks? Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks Correct Option: D
+Question 7: How did Thienemann's team plan to retrieve data from the tagged storks? Options: A. By tracking the storks using radio transmitters, B. By conducting regular surveys of the stork population, C. By analyzing the rings returned by the storks themselves, D. By advertising the initiative and asking people to mail back the tags with more information Correct Option: D
+Question 8: What was the result of Thienemann's experiment, and what did it establish? Options: A. The experiment failed to retrieve any data, and the migration route of storks remained a mystery, B. The experiment retrieved 178 rings, but the migration route remained unclear, C. The experiment retrieved 48 rings from Africa, and established that storks migrate to Africa for the winter, D. The experiment retrieved no rings, but established that storks fly to the moon during the winter Correct Option: C
+Question 9: What was the outcome of Thienemann's experiment, and what conclusion was drawn from it? Options: A. 178 rings were retrieved, but the migration route was not determined, B. 48 rings were retrieved from Africa, confirming that storks migrate to Africa, C. No rings were retrieved, and the experiment was deemed a failure, D. The experiment proved that storks hibernate during winter Correct Option: B
+Question 10: What are some challenges in tracking the migration of birds? Options: A. Storms and human development can alter their paths, B. Birds often take the most direct route possible, C. Birds navigate using the stars, wind currents, and Earth's magnetic field, D. Both A and B Correct Option: D
+Question 11: According to the transcript, what are some challenges in tracking bird migration? Options: A. Birds' ability to navigate using the stars and Earth's magnetic field, B. Storms and human development altering birds' migration paths, C. Birds' tendency to take the most direct route possible, D. The lack of technology to track bird migration Correct Option: B
+Question 12: How do birds that migrate across oceans navigate during their journey? Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field Correct Option: D
+Question 13: What is the estimated percentage of bird species that migrate each year? Options: A. 10%, B. 20%, C. 30%, D. 40% Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 4. 
+
+This question has a similar intent to the ground truth MCQ, as it asks about Aristotle's theories on bird migration. The options in Question 4 also match the content of the ground truth MCQ, with the correct option (A) listing "transformation, hibernation, and migration to the moon" as Aristotle's theories. 
+
+Although the ground truth MCQ asks which of the options was NOT an outlandish scientific theory, and Question 4 asks about Aristotle's theories, the content and options of Question 4 make it the most similar to the ground truth MCQ. 
+
+Index of the most similar generated MCQ: 4.
+
+Match Phase - Ground Truth Set 1, Question 6
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: Birds that migrate across oceans…
+Options: A. may soar without stopping for 100 hours, B. sleep and eat while flying, C. navigate by the stars, wind, and earth’s magnetic field, D. take flights that might last up to 4 months, E. cover distances between 700 to 17000 kms (approx. 450 to 11000 miles), F. All of the above
+Correct Option: F
+
+**Generated MCQs**:
+Question 1: Who shot down a stork over his castle grounds in North Germany in May 1822? Options: A. Count Christian Ludwig von Bothmer, B. Johannes Thienemann, C. Aristotle, D. A local professor Correct Option: A
+Question 2: What unusual feature was discovered on the stork shot down by Count von Bothmer? Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device Correct Option: C
+Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D
+Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds? Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates Correct Option: A
+Question 5: Which of the following birds is known to truly hibernate? Options: A. Common poorwill, B. Barn swallow, C. Garden warbler, D. Stork Correct Option: A
+Question 6: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks? Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks Correct Option: D
+Question 7: How did Thienemann's team plan to retrieve data from the tagged storks? Options: A. By tracking the storks using radio transmitters, B. By conducting regular surveys of the stork population, C. By analyzing the rings returned by the storks themselves, D. By advertising the initiative and asking people to mail back the tags with more information Correct Option: D
+Question 8: What was the result of Thienemann's experiment, and what did it establish? Options: A. The experiment failed to retrieve any data, and the migration route of storks remained a mystery, B. The experiment retrieved 178 rings, but the migration route remained unclear, C. The experiment retrieved 48 rings from Africa, and established that storks migrate to Africa for the winter, D. The experiment retrieved no rings, but established that storks fly to the moon during the winter Correct Option: C
+Question 9: What was the outcome of Thienemann's experiment, and what conclusion was drawn from it? Options: A. 178 rings were retrieved, but the migration route was not determined, B. 48 rings were retrieved from Africa, confirming that storks migrate to Africa, C. No rings were retrieved, and the experiment was deemed a failure, D. The experiment proved that storks hibernate during winter Correct Option: B
+Question 10: What are some challenges in tracking the migration of birds? Options: A. Storms and human development can alter their paths, B. Birds often take the most direct route possible, C. Birds navigate using the stars, wind currents, and Earth's magnetic field, D. Both A and B Correct Option: D
+Question 11: According to the transcript, what are some challenges in tracking bird migration? Options: A. Birds' ability to navigate using the stars and Earth's magnetic field, B. Storms and human development altering birds' migration paths, C. Birds' tendency to take the most direct route possible, D. The lack of technology to track bird migration Correct Option: B
+Question 12: How do birds that migrate across oceans navigate during their journey? Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field Correct Option: D
+Question 13: What is the estimated percentage of bird species that migrate each year? Options: A. 10%, B. 20%, C. 30%, D. 40% Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that none of the generated MCQs exactly match the ground truth MCQ. However, I identified a generated MCQ that partially matches the ground truth MCQ in terms of content and intent.
+
+The generated MCQ that most closely matches the ground truth MCQ is not present in the given options. However, Question 12 partially matches the ground truth MCQ, as it discusses the navigation methods used by birds that migrate across oceans.
+
+If I had to choose from the given options, I would say that Question 12 is the most similar generated MCQ, although it does not fully match the ground truth MCQ.
+
+Index of the most similar generated MCQ: 12
+
+Match Phase - Ground Truth Set 1, Question 7
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: What was the one thing von Bothmer didn’t do once he found proof that birds were migrating instead of mysteriously vanishing every winter?
+Options: A. Kept it quiet by not telling anyone about his work., B. Collaborate with other ornithologists and volunteers to map bird flight trajectories, C. Place aluminum individually numbered ring tags on the legs of 2000 storks, D. Use the data collected to plot the first migration route ever discovered and documented
+Correct Option: A
+
+**Generated MCQs**:
+Question 1: Who shot down a stork over his castle grounds in North Germany in May 1822? Options: A. Count Christian Ludwig von Bothmer, B. Johannes Thienemann, C. Aristotle, D. A local professor Correct Option: A
+Question 2: What unusual feature was discovered on the stork shot down by Count von Bothmer? Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device Correct Option: C
+Question 3: What were some of Aristotle's theories to explain the seasonal disappearance of birds? Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above Correct Option: D
+Question 4: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds? Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates Correct Option: A
+Question 5: Which of the following birds is known to truly hibernate? Options: A. Common poorwill, B. Barn swallow, C. Garden warbler, D. Stork Correct Option: A
+Question 6: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks? Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks Correct Option: D
+Question 7: How did Thienemann's team plan to retrieve data from the tagged storks? Options: A. By tracking the storks using radio transmitters, B. By conducting regular surveys of the stork population, C. By analyzing the rings returned by the storks themselves, D. By advertising the initiative and asking people to mail back the tags with more information Correct Option: D
+Question 8: What was the result of Thienemann's experiment, and what did it establish? Options: A. The experiment failed to retrieve any data, and the migration route of storks remained a mystery, B. The experiment retrieved 178 rings, but the migration route remained unclear, C. The experiment retrieved 48 rings from Africa, and established that storks migrate to Africa for the winter, D. The experiment retrieved no rings, but established that storks fly to the moon during the winter Correct Option: C
+Question 9: What was the outcome of Thienemann's experiment, and what conclusion was drawn from it? Options: A. 178 rings were retrieved, but the migration route was not determined, B. 48 rings were retrieved from Africa, confirming that storks migrate to Africa, C. No rings were retrieved, and the experiment was deemed a failure, D. The experiment proved that storks hibernate during winter Correct Option: B
+Question 10: What are some challenges in tracking the migration of birds? Options: A. Storms and human development can alter their paths, B. Birds often take the most direct route possible, C. Birds navigate using the stars, wind currents, and Earth's magnetic field, D. Both A and B Correct Option: D
+Question 11: According to the transcript, what are some challenges in tracking bird migration? Options: A. Birds' ability to navigate using the stars and Earth's magnetic field, B. Storms and human development altering birds' migration paths, C. Birds' tendency to take the most direct route possible, D. The lack of technology to track bird migration Correct Option: B
+Question 12: How do birds that migrate across oceans navigate during their journey? Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field Correct Option: D
+Question 13: What is the estimated percentage of bird species that migrate each year? Options: A. 10%, B. 20%, C. 30%, D. 40% Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is not a direct match, but Question 6 is the closest in terms of question intent and content.
+
+The ground truth MCQ asks about what von Bothmer didn't do after finding proof of bird migration, and the correct answer is that he didn't keep it quiet. However, none of the generated MCQs directly ask about von Bothmer's actions after his discovery.
+
+Question 6 asks about the primary purpose of Johannes Thienemann's experiment, which is related to the topic of bird migration and the work of ornithologists like Thienemann and von Bothmer. While it doesn't directly match the ground truth MCQ, it is the closest in terms of content and intent.
+
+Index of the most similar generated MCQ: 6
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 1, Matched Generated Question 2
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: Which of the following events contributed to Count von Bothmer’s discovery?
+Options: A. Count von Bothmer shot down a stork while hunting., B. The unlucky stork had also been impaled by a 3 feet wooden spear, C. The spear was African in origin, some nearly 2500 kms (1500 miles) away, D. All of the above
+Correct Option: D
+
+**Generated MCQ**:
+Question: What unusual feature was discovered on the stork shot down by Count von Bothmer?
+Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Which of the following events contributed to Count von Bothmer’s discovery?
+Options: A. Count von Bothmer shot down a stork while hunting., B. The unlucky stork had also been impaled by a 3 feet wooden spear, C. The spear was African in origin, some nearly 2500 kms (1500 miles) away, D. All of the above
+Correct Option: D
+
+**Generated MCQ**:
+Question: What unusual feature was discovered on the stork shot down by Count von Bothmer?
+Options: A. A unique ring on its leg, B. A rare species identification tag, C. A yard-long wooden spear of African origin, D. A tracking device
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the ground truth question, but it focuses on a specific aspect of the event, whereas the ground truth question is more comprehensive.)
+- Correct Answer Matching Score: 0.7500 (The correct answer in the generated question is related to option B in the ground truth question, but it's not an exact match.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are somewhat plausible, but they are not as closely related to the context as the distractors in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.7625
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 2, Matched Generated Question 4
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: Which of the following cannot be one of Aristotle’s 3 theories relating to migration?
+Options: A. Birds transformed into different bodies that suited the season, B. Birds hibernated., C. Birds were gathered up by a secret society of ornithologists, D. Birds went somewhere else
+Correct Option: C
+
+**Generated MCQ**:
+Question: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds?
+Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates
+Correct Option: A
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Which of the following cannot be one of Aristotle’s 3 theories relating to migration?
+Options: A. Birds transformed into different bodies that suited the season, B. Birds hibernated., C. Birds were gathered up by a secret society of ornithologists, D. Birds went somewhere else
+Correct Option: C
+
+**Generated MCQ**:
+Question: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds?
+Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates
+Correct Option: A
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to Aristotle's theories, but it doesn't directly ask which one is not a theory. Instead, it asks for the three theories proposed by Aristotle.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer. The generated question is asking for the three theories, while the ground truth question is asking which one is not a theory.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are plausible but not as effective as they could be. Options B, C, and D are not mentioned in the transcript as Aristotle's theories, but they are not entirely implausible either.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 3, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: True or False: The theory of transmutation as it relates to bird migration believed that birds could morph into humans.
+Options: A. True, B. False
+Correct Option: A
+
+**Generated MCQ**:
+Question: What were some of Aristotle's theories to explain the seasonal disappearance of birds?
+Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above
+Correct Option: D
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: True or False: The theory of transmutation as it relates to bird migration believed that birds could morph into humans.
+Options: A. True, B. False
+Correct Option: A
+
+**Generated MCQ**:
+Question: What were some of Aristotle's theories to explain the seasonal disappearance of birds?
+Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above
+Correct Option: D
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of bird migration theories, but it does not directly address the specific theory of transmutation mentioned in the ground truth question.)
+- Correct Answer Matching Score: 0.5000 (The correct answer option in the generated question does not directly match the ground truth answer, but it does include the concept of transformation, which is related to transmutation.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and relevant to the topic of bird migration theories.)
+- Clarity and Readability Score: 0.9000 (The question and options in the generated question are clear and easy to understand.)
+- Total Score: 0.7000
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 4, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: True or False: The theory of transmutation has been scientifically proven.
+Options: A. True, B. False
+Correct Option: B
+
+**Generated MCQ**:
+Question: What were some of Aristotle's theories to explain the seasonal disappearance of birds?
+Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above
+Correct Option: D
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: True or False: The theory of transmutation has been scientifically proven.
+Options: A. True, B. False
+Correct Option: B
+
+**Generated MCQ**:
+Question: What were some of Aristotle's theories to explain the seasonal disappearance of birds?
+Options: A. Birds migrate to warmer climates, B. Birds transform into different bodies that suit the season, C. Birds hibernate in holes or at the bottom of lakes and rivers, D. All of the above
+Correct Option: D
+
+**Scores**:
+- Relevance Score: 0.5000 (The generated question is related to the topic of bird migration and Aristotle's theories, but it does not directly address the theory of transmutation being scientifically proven.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible and related to the topic, but they do not directly address the theory of transmutation.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and understandable.)
+- Total Score: 0.5375
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 5, Matched Generated Question 4
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: Which of the following was not an outlandish scientific theory associated with the migration of birds?
+Options: A. Birds flew to the moon each winter, B. Birds changed into a different species of birds, C. Birds removed their feathers and hid in holes, D. Birds slept through the winter at the bottom of lakes and rivers, E. None of the above.
+Correct Option: E
+
+**Generated MCQ**:
+Question: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds?
+Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates
+Correct Option: A
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Which of the following was not an outlandish scientific theory associated with the migration of birds?
+Options: A. Birds flew to the moon each winter, B. Birds changed into a different species of birds, C. Birds removed their feathers and hid in holes, D. Birds slept through the winter at the bottom of lakes and rivers, E. None of the above.
+Correct Option: E
+
+**Generated MCQ**:
+Question: According to the transcript, what were three theories proposed by Aristotle to explain the seasonal disappearance of birds?
+Options: A. Transformation, hibernation, and migration to the moon, B. Transformation, hibernation, and short-distance migration, C. Hibernation, migration to the moon, and camouflage, D. Transformation, hibernation, and migration to warmer climates
+Correct Option: A
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of bird migration theories, but it does not directly address the ground truth question's focus on outlandish theories.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and require understanding of the transcript to eliminate.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and easy to understand.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 6, Matched Generated Question 12
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: Birds that migrate across oceans…
+Options: A. may soar without stopping for 100 hours, B. sleep and eat while flying, C. navigate by the stars, wind, and earth’s magnetic field, D. take flights that might last up to 4 months, E. cover distances between 700 to 17000 kms (approx. 450 to 11000 miles), F. All of the above
+Correct Option: F
+
+**Generated MCQ**:
+Question: How do birds that migrate across oceans navigate during their journey?
+Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field
+Correct Option: D
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Birds that migrate across oceans…
+Options: A. may soar without stopping for 100 hours, B. sleep and eat while flying, C. navigate by the stars, wind, and earth’s magnetic field, D. take flights that might last up to 4 months, E. cover distances between 700 to 17000 kms (approx. 450 to 11000 miles), F. All of the above
+Correct Option: F
+
+**Generated MCQ**:
+Question: How do birds that migrate across oceans navigate during their journey?
+Options: A. By using visual cues such as landmarks and topography, B. By following established migration routes, C. By relying on their sense of smell, D. By using the stars, wind currents, and Earth's magnetic field
+Correct Option: D
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is relevant to the ground truth question, but it focuses on a specific aspect of the migration process, whereas the ground truth question covers multiple aspects.)
+- Correct Answer Matching Score: 0.6667 (The correct answer option in the generated question matches one of the correct statements in the ground truth question, but it does not cover the full scope of the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible, but they could be more challenging and realistic.)
+- Clarity and Readability Score: 0.9000 (The question and options in the generated MCQ are clear and easy to understand.)
+- Total Score: 0.7792
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 7, Matched Generated Question 6
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In May of 1822, 
+Count Christian Ludwig von Bothmer shot down a stork over his castle
+grounds in North Germany. However, he wasn’t the first person
+to hunt that specific bird. Upon recovering the stork, von Bothmer found it impaled 
+by a yard long wooden spear. A local professor determined 
+the weapon was African in origin, suggesting that somehow, 
+this stork was speared in Africa and then flew over 2,500 kilometers 
+to the count’s castle. This astonishing flight wasn’t just
+evidence of the stork’s resilience. It was an essential clue in a mystery
+that plagued scientists for centuries: the seasonal disappearance of birds. Ancient naturalists had various theories
+to explain the annual vanishing act we now know as migration. Aristotle himself proposed 
+three particularly popular ideas. One theory was that birds transformed into
+different bodies that suited the season. For example, summer time garden warblers were believed to transform 
+into black caps every winter. In reality these are two distinct species—
+similar in shape and size, but never appearing at the same time. Over the following centuries, birds 
+were said to morph into humans, plants, and even the timbers of ships. This last transmutation was especially
+popular with many Christian clergy. If barnacle geese were truly made of wood, they could be deemed vegetarian 
+and enjoyed during meatless fasts. Aristotle’s second and even more enduring
+hypothesis was that birds hibernate. This isn’t so far-fetched. Some species do enter short, deep sleeps which lower their heart rates
+and metabolisms. And there’s at least one truly 
+hibernating bird: the common poorwill sleeps out winters
+in the deserts of North America. But researchers were proposing much more
+outlandish forms of hibernation well into the 19th century. Barn swallows were said to remove 
+their feathers and hibernate in holes, or sleep through the winter at the bottom
+of lakes and rivers. Aristotle’s final theory 
+was much more reasonable, and resembled something
+like realistic migration. However, this idea was also taken 
+to extremes. In 1666, the leading migration advocate
+was convinced that each winter, birds flew to the moon. It might seem strange that prominent 
+researchers considered such bizarre ideas. But to be fair, the true story 
+of migration may be even harder
+to believe than their wildest theories. Roughly 20% of all bird species 
+migrate each year, following warm weather and fresh food
+around the planet. For birds who spend their summers
+in the northern hemisphere, this journey can span 
+from 700 to over 17,000 kilometers, with some flights lasting as long
+as four months. Birds who migrate across oceans may soar
+without stopping for over 100 hours. Sleeping and eating on the fly, 
+they navigate the endless ocean by the stars, wind currents, 
+and Earth’s magnetic field. Tracking the specifics of these epic
+expeditions is notoriously difficult. And while birds often take 
+the most direct route possible, storms and human development
+can alter their paths, further complicating our attempts
+to chart migration. Fortunately, Count von Bothmer’s stork
+offered physical proof not only that European storks were
+migrating south for the winter, but also where they were migrating to. Ornithologists across the continent were eager to map the trajectory
+of this flight, including Johannes Thienemann. Owner of the world’s first permanent
+bird observatory, Thienemann was a major public advocate
+for the study of birds. And to solve the field’s biggest mystery, he wrangled an army of volunteers
+from across Germany. His team used aluminum rings to tag
+the legs of two thousand storks with unique numbers and the address
+of his offices. Then he advertised the initiative 
+as widely as possible. His hope was that word of the experiment
+would find its way to Africa, so people finding the tags would know
+to mail them back with more information. Sure enough, from 1908 to 1913, Thienemann received 178 rings, 
+48 of which had been found in Africa. Using this data, he plotted the first
+migration route ever discovered, and definitively established that storks
+were not, in fact, flying to the moon.
+
+**Ground Truth MCQ**:
+Question: What was the one thing von Bothmer didn’t do once he found proof that birds were migrating instead of mysteriously vanishing every winter?
+Options: A. Kept it quiet by not telling anyone about his work., B. Collaborate with other ornithologists and volunteers to map bird flight trajectories, C. Place aluminum individually numbered ring tags on the legs of 2000 storks, D. Use the data collected to plot the first migration route ever discovered and documented
+Correct Option: A
+
+**Generated MCQ**:
+Question: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks?
+Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks
+Correct Option: D
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What was the one thing von Bothmer didn’t do once he found proof that birds were migrating instead of mysteriously vanishing every winter?
+Options: A. Kept it quiet by not telling anyone about his work., B. Collaborate with other ornithologists and volunteers to map bird flight trajectories, C. Place aluminum individually numbered ring tags on the legs of 2000 storks, D. Use the data collected to plot the first migration route ever discovered and documented
+Correct Option: A
+
+**Generated MCQ**:
+Question: What was the primary purpose of Johannes Thienemann's experiment using aluminum rings to tag storks?
+Options: A. To study the behavior of storks in their natural habitat, B. To determine the population size of storks in Europe, C. To test the theory of hibernation in birds, D. To track the migration route of storks
+Correct Option: D
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of bird migration, but it focuses on Thienemann's experiment, whereas the ground truth question is about von Bothmer's actions after finding proof of migration.)
+- Correct Answer Matching Score: 0.0000 (The correct answer options do not match between the two questions.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and require some knowledge of the topic to eliminate.)
+- Clarity and Readability Score: 0.9000 (Both questions are clear and easy to understand.)
+- Total Score: 0.5750
+
