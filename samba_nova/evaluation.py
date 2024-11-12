@@ -9,7 +9,6 @@ from concurrent.futures import ProcessPoolExecutor
 
 load_dotenv()
 
-# Define API keys for each process
 API_KEYS = [
     os.getenv("ALEX1_SAMBANOVA_API_KEY"),
     os.getenv("ALEX2_SAMBANOVA_API_KEY"),
@@ -185,9 +184,9 @@ def save_jsonl(file_path, data):
 
 def evaluate_pages(api_key, start_page, end_page):
     client = openai.OpenAI(api_key=api_key, base_url="https://api.sambanova.ai/v1")
-    # print(f"Processing pages {start_page} to {end_page} with API key {API_KEYS.index(api_key) + 1}")
+    print(f"Processing pages {start_page} to {end_page} with API key {API_KEYS.index(api_key) + 1}")
     for page_number in range(start_page, end_page + 1):
-        # print(f"Processing page {page_number} with API key {API_KEYS.index(api_key) + 1}")
+        print(f"Processing page {page_number} with API key {API_KEYS.index(api_key) + 1}")
         GENERATED_PATH = f"../results/1106/zero_shot/"
         if not os.path.exists(f"{GENERATED_PATH}evaluation"):
             os.makedirs(f"{GENERATED_PATH}evaluation/json", exist_ok=True)
@@ -251,42 +250,48 @@ def evaluate_pages(api_key, start_page, end_page):
                     else:
                         print(f"Warning: No response text received for matching Ground Truth Set {idx + 1}, Question {q_idx + 1} on page {page_number}")
                         log_file.write(f"Warning: No response text received for matching Ground Truth Set {idx + 1}, Question {q_idx + 1}\n")
+                        
+            if matches_data:
+                for match in matches_data:
+                    gt_idx = match["ground_truth_index"]
+                    gen_idx = match["generated_index"]
+                    page = match["page"]
+                    video = match["video_number"]
 
-            for match in matches_data:
-                gt_idx = match["ground_truth_index"]
-                gen_idx = match["generated_index"]
-                page = match["page"]
-                video = match["video_number"]
+                    ground_truth = ground_truth_questions[video - 1]
+                    generated = generated_questions[video - 1]
+                    
+                    transcript = ground_truth.get("transcript", {}).get("en", "")
+                    gt_q = ground_truth.get("multiple-choice", [])[gt_idx]
+                    gen_q = generated.get("multiple-choice", [])[gen_idx]
 
-                ground_truth = ground_truth_questions[video - 1]
-                generated = generated_questions[video - 1]
-                
-                transcript = ground_truth.get("transcript", {}).get("en", "")
-                gt_q = ground_truth.get("multiple-choice", [])[gt_idx]
-                gen_q = generated.get("multiple-choice", [])[gen_idx]
+                    print(f"Scoring Ground Truth Set {video}, Ground Truth Question {gt_idx + 1} with Generated Question {gen_idx + 1}")
+                    evaluation_prompt = create_evaluation_prompt(transcript, gt_q, gen_q)
+                    eval_response_text = send_request_with_retries(client, evaluation_prompt)
 
-                print(f"Scoring Ground Truth Set {video}, Ground Truth Question {gt_idx + 1} with Generated Question {gen_idx + 1}")
-                evaluation_prompt = create_evaluation_prompt(transcript, gt_q, gen_q)
-                eval_response_text = send_request_with_retries(evaluation_prompt)
+                    if eval_response_text:
+                        log_file.write(f"Scoring Phase - Ground Truth Set {video}, Ground Truth Question {gt_idx + 1}, Matched Generated Question {gen_idx + 1}\n")
+                        log_file.write(f"Evaluation Prompt:\n{evaluation_prompt}\n")
+                        log_file.write(f"Evaluation Response:\n{eval_response_text}\n\n")
 
-                if eval_response_text:
-                    log_file.write(f"Scoring Phase - Ground Truth Set {video}, Ground Truth Question {gt_idx + 1}, Matched Generated Question {gen_idx + 1}\n")
-                    log_file.write(f"Evaluation Prompt:\n{evaluation_prompt}\n")
-                    log_file.write(f"Evaluation Response:\n{eval_response_text}\n\n")
+                        parsed_scores = parse_scores(eval_response_text)
 
-                    parsed_scores = parse_scores(eval_response_text)
+                        scores_data.append({
+                            "page": page,
+                            "video_number": video,
+                            "ground_truth_index": gt_idx + 1,
+                            "generated_index": gen_idx + 1,
+                            "relevance_score": parsed_scores.get("Relevance Score", 0.0),
+                            "correct_answer_matching_score": parsed_scores.get("Correct Answer Matching Score", 0.0),
+                            "distractor_plausibility_score": parsed_scores.get("Distractor Plausibility Score", 0.0),
+                            "clarity_and_readability_score": parsed_scores.get("Clarity and Readability Score", 0.0),
+                            "total_score": parsed_scores.get("Total Score", 0.0)
+                        })
+                    else:
+                        print(f"Warning: No response text received for scoring Ground Truth Set {video}, Ground Truth Question {gt_idx + 1}, Matched Generated Question {gen_idx + 1}")
+            else:
+                print(f"No matches to process on page {page_number}")
 
-                    scores_data.append({
-                        "page": page,
-                        "video_number": video,
-                        "ground_truth_index": gt_idx + 1,
-                        "generated_index": gen_idx + 1,
-                        "relevance_score": parsed_scores.get("Relevance Score", 0.0),
-                        "correct_answer_matching_score": parsed_scores.get("Correct Answer Matching Score", 0.0),
-                        "distractor_plausibility_score": parsed_scores.get("Distractor Plausibility Score", 0.0),
-                        "clarity_and_readability_score": parsed_scores.get("Clarity and Readability Score", 0.0),
-                        "total_score": parsed_scores.get("Total Score", 0.0)
-                    })
         
         # Save the results
         save_jsonl(OUTPUT_JSON_FILE, scores_data)
@@ -307,11 +312,9 @@ def evaluate_pages(api_key, start_page, end_page):
 
         print(f"Completed page {page_number} with API key {api_key}")
 
-# test page ranges access
 def test(api_key, start_page, end_page):
     for page_number in range(start_page, end_page + 1):
         print(f"Processing page {page_number} with API key {API_KEYS.index(api_key) + 1}")
-
 
 if __name__ == "__main__":
     with ProcessPoolExecutor(max_workers=len(API_KEYS)) as executor:
