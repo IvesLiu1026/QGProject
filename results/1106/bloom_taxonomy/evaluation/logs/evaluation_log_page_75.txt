@@ -1,0 +1,874 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: What do you find on the homepage of the TED-Ed website?
+Options: A. Photographs, B. Original TED-Ed videos, C. Questions, D. None of the above
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What is the primary purpose of the TED-Ed website? Options: A. To provide a platform for educators to create and share their own videos, B. To offer a library of original educational videos accompanied by lessons, C. To facilitate communication between teachers and students, D. To promote the use of YouTube in education Correct Option: B
+Question 2: How can learners browse the TED-Ed library? Options: A. Only by subject, B. Only by series, C. By both subject and series, D. By neither subject nor series Correct Option: C
+Question 3: What is the purpose of the "Quick Quiz" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: C
+Question 4: What is the benefit of logging in to the TED-Ed website? Options: A. To access exclusive content, B. To track one's own learning across the site, C. To participate in discussions with other learners, D. To create and share one's own videos Correct Option: B
+Question 5: What does "flipping a lesson" on the TED-Ed website allow you to do? Options: A. Create a new video from scratch, B. Edit each of the lesson's sections to customize it for your class, C. Share the lesson with other educators, D. Delete the lesson from the website Correct Option: B
+Question 6: What is the purpose of the unique URL generated when you flip a lesson? Options: A. To share the lesson with other educators, B. To measure the progress of any learner you share it with, C. To track the number of views on the lesson, D. To facilitate discussion among learners Correct Option: B
+Question 7: How can you use the TED-Ed platform to create a lesson around a video that is not originally from TED-Ed? Options: A. By uploading the video to the TED-Ed website, B. By using the TED-Ed platform to flip any video from YouTube, C. By creating a new video from scratch, D. By sharing the video with other educators Correct Option: B
+Question 8: What is the potential outcome of many educators flipping lessons using the TED-Ed platform? Options: A. A decrease in the quality of educational resources, B. A lack of engagement among learners, C. The creation of a free and remarkable library of lessons worth sharing, D. An increase in the cost of educational resources Correct Option: C
+Question 9: How does the TED-Ed website support the learning process? Options: A. By providing a platform for educators to create and share their own videos, B. By offering a library of original educational videos accompanied by lessons that can be customized to meet individual needs, C. By facilitating communication between teachers and students, D. By promoting the use of YouTube in education Correct Option: B
+Question 10: What is the role of the "Dig Deeper" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 9: How does the TED-Ed website support the learning process? Options: A. By providing a platform for educators to create and share their own videos, B. By offering a library of original educational videos accompanied by lessons that can be customized to meet individual needs, C. By facilitating communication between teachers and students, D. By promoting the use of YouTube in education Correct Option: B
+
+However, an even more similar question would be one that specifically asks about the content on the homepage of the TED-Ed website. Unfortunately, none of the provided generated MCQs exactly match this intent.
+
+But among the given options, Question 1 is the closest match: What is the primary purpose of the TED-Ed website? Options: A. To provide a platform for educators to create and share their own videos, B. To offer a library of original educational videos accompanied by lessons, C. To facilitate communication between teachers and students, D. To promote the use of YouTube in education Correct Option: B
+
+This question is similar because it mentions "original educational videos," which is similar to the ground truth MCQ's correct answer, "Original TED-Ed videos." However, note that the question is not asking specifically about the homepage content.
+
+Index of the most similar generated MCQ: 1
+
+Match Phase - Ground Truth Set 1, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: What does flipping a lesson mean?
+Options: A. Watching a video, B. Skipping in place, C. Customizing a lesson found on the TED-Ed website, D. Snapping your fingers
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: What is the primary purpose of the TED-Ed website? Options: A. To provide a platform for educators to create and share their own videos, B. To offer a library of original educational videos accompanied by lessons, C. To facilitate communication between teachers and students, D. To promote the use of YouTube in education Correct Option: B
+Question 2: How can learners browse the TED-Ed library? Options: A. Only by subject, B. Only by series, C. By both subject and series, D. By neither subject nor series Correct Option: C
+Question 3: What is the purpose of the "Quick Quiz" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: C
+Question 4: What is the benefit of logging in to the TED-Ed website? Options: A. To access exclusive content, B. To track one's own learning across the site, C. To participate in discussions with other learners, D. To create and share one's own videos Correct Option: B
+Question 5: What does "flipping a lesson" on the TED-Ed website allow you to do? Options: A. Create a new video from scratch, B. Edit each of the lesson's sections to customize it for your class, C. Share the lesson with other educators, D. Delete the lesson from the website Correct Option: B
+Question 6: What is the purpose of the unique URL generated when you flip a lesson? Options: A. To share the lesson with other educators, B. To measure the progress of any learner you share it with, C. To track the number of views on the lesson, D. To facilitate discussion among learners Correct Option: B
+Question 7: How can you use the TED-Ed platform to create a lesson around a video that is not originally from TED-Ed? Options: A. By uploading the video to the TED-Ed website, B. By using the TED-Ed platform to flip any video from YouTube, C. By creating a new video from scratch, D. By sharing the video with other educators Correct Option: B
+Question 8: What is the potential outcome of many educators flipping lessons using the TED-Ed platform? Options: A. A decrease in the quality of educational resources, B. A lack of engagement among learners, C. The creation of a free and remarkable library of lessons worth sharing, D. An increase in the cost of educational resources Correct Option: C
+Question 9: How does the TED-Ed website support the learning process? Options: A. By providing a platform for educators to create and share their own videos, B. By offering a library of original educational videos accompanied by lessons that can be customized to meet individual needs, C. By facilitating communication between teachers and students, D. By promoting the use of YouTube in education Correct Option: B
+Question 10: What is the role of the "Dig Deeper" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 5. 
+
+This question has the same intent as the ground truth MCQ, which is to understand what "flipping a lesson" means. The correct option in Question 5, "Edit each of the lesson's sections to customize it for your class," is similar to the correct option in the ground truth MCQ, "Customizing a lesson found on the TED-Ed website." Both questions aim to assess the learner's understanding of the concept of flipping a lesson on the TED-Ed website.
+
+Index of the most similar generated MCQ: 5.
+
+Match Phase - Ground Truth Set 1, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: What type of videos can you flip into a lesson using the TED-Ed website?
+Options: A. TED-Ed Originals, B. TEDTalks, C. YouTube videos, D. All of the above
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What is the primary purpose of the TED-Ed website? Options: A. To provide a platform for educators to create and share their own videos, B. To offer a library of original educational videos accompanied by lessons, C. To facilitate communication between teachers and students, D. To promote the use of YouTube in education Correct Option: B
+Question 2: How can learners browse the TED-Ed library? Options: A. Only by subject, B. Only by series, C. By both subject and series, D. By neither subject nor series Correct Option: C
+Question 3: What is the purpose of the "Quick Quiz" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: C
+Question 4: What is the benefit of logging in to the TED-Ed website? Options: A. To access exclusive content, B. To track one's own learning across the site, C. To participate in discussions with other learners, D. To create and share one's own videos Correct Option: B
+Question 5: What does "flipping a lesson" on the TED-Ed website allow you to do? Options: A. Create a new video from scratch, B. Edit each of the lesson's sections to customize it for your class, C. Share the lesson with other educators, D. Delete the lesson from the website Correct Option: B
+Question 6: What is the purpose of the unique URL generated when you flip a lesson? Options: A. To share the lesson with other educators, B. To measure the progress of any learner you share it with, C. To track the number of views on the lesson, D. To facilitate discussion among learners Correct Option: B
+Question 7: How can you use the TED-Ed platform to create a lesson around a video that is not originally from TED-Ed? Options: A. By uploading the video to the TED-Ed website, B. By using the TED-Ed platform to flip any video from YouTube, C. By creating a new video from scratch, D. By sharing the video with other educators Correct Option: B
+Question 8: What is the potential outcome of many educators flipping lessons using the TED-Ed platform? Options: A. A decrease in the quality of educational resources, B. A lack of engagement among learners, C. The creation of a free and remarkable library of lessons worth sharing, D. An increase in the cost of educational resources Correct Option: C
+Question 9: How does the TED-Ed website support the learning process? Options: A. By providing a platform for educators to create and share their own videos, B. By offering a library of original educational videos accompanied by lessons that can be customized to meet individual needs, C. By facilitating communication between teachers and students, D. By promoting the use of YouTube in education Correct Option: B
+Question 10: What is the role of the "Dig Deeper" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 7: How can you use the TED-Ed platform to create a lesson around a video that is not originally from TED-Ed? Options: A. By uploading the video to the TED-Ed website, B. By using the TED-Ed platform to flip any video from YouTube, C. By creating a new video from scratch, D. By sharing the video with other educators Correct Option: B.
+
+However, the options in Question 7 do not exactly match the options in the ground truth MCQ. A more accurate match would be a question that includes options for the types of videos that can be flipped into a lesson using the TED-Ed website, such as TED-Ed Originals, TEDTalks, and YouTube videos.
+
+Since there isn't a generated MCQ that exactly matches the ground truth MCQ, I will choose the one that best aligns with the intent and content of the ground truth MCQ.
+
+Index of the most similar generated MCQ: 7
+
+Match Phase - Ground Truth Set 1, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: How do you nominate an Educator or Animator?
+Options: A. Go to the tour page, B. Go to the get involved page, C. Go to the about page, D. Send the TED-Ed team an email
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What is the primary purpose of the TED-Ed website? Options: A. To provide a platform for educators to create and share their own videos, B. To offer a library of original educational videos accompanied by lessons, C. To facilitate communication between teachers and students, D. To promote the use of YouTube in education Correct Option: B
+Question 2: How can learners browse the TED-Ed library? Options: A. Only by subject, B. Only by series, C. By both subject and series, D. By neither subject nor series Correct Option: C
+Question 3: What is the purpose of the "Quick Quiz" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: C
+Question 4: What is the benefit of logging in to the TED-Ed website? Options: A. To access exclusive content, B. To track one's own learning across the site, C. To participate in discussions with other learners, D. To create and share one's own videos Correct Option: B
+Question 5: What does "flipping a lesson" on the TED-Ed website allow you to do? Options: A. Create a new video from scratch, B. Edit each of the lesson's sections to customize it for your class, C. Share the lesson with other educators, D. Delete the lesson from the website Correct Option: B
+Question 6: What is the purpose of the unique URL generated when you flip a lesson? Options: A. To share the lesson with other educators, B. To measure the progress of any learner you share it with, C. To track the number of views on the lesson, D. To facilitate discussion among learners Correct Option: B
+Question 7: How can you use the TED-Ed platform to create a lesson around a video that is not originally from TED-Ed? Options: A. By uploading the video to the TED-Ed website, B. By using the TED-Ed platform to flip any video from YouTube, C. By creating a new video from scratch, D. By sharing the video with other educators Correct Option: B
+Question 8: What is the potential outcome of many educators flipping lessons using the TED-Ed platform? Options: A. A decrease in the quality of educational resources, B. A lack of engagement among learners, C. The creation of a free and remarkable library of lessons worth sharing, D. An increase in the cost of educational resources Correct Option: C
+Question 9: How does the TED-Ed website support the learning process? Options: A. By providing a platform for educators to create and share their own videos, B. By offering a library of original educational videos accompanied by lessons that can be customized to meet individual needs, C. By facilitating communication between teachers and students, D. By promoting the use of YouTube in education Correct Option: B
+Question 10: What is the role of the "Dig Deeper" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that none of the generated MCQs exactly match the ground truth MCQ. However, I can suggest a generated MCQ that is somewhat related to the ground truth MCQ.
+
+The ground truth MCQ asks about nominating an educator or animator, which is mentioned in the "Get Involved" section of the transcript. Although there isn't a direct match, I found that Question 1 mentions the "Get Involved" section indirectly by talking about the purpose of the TED-Ed website, which includes nominating educators and animators.
+
+However, a more relevant question is not available among the generated MCQs. If I had to choose one, I would say that Question 1 is the closest, but it's not a good match.
+
+If I really had to choose one, I would say: 
+ Question 1
+
+Match Phase - Ground Truth Set 1, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: How can you browse videos on the TED-Ed website?
+Options: A. By series, B. By subject, C. By title, D. All of the above, E. None ofthe above
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What is the primary purpose of the TED-Ed website? Options: A. To provide a platform for educators to create and share their own videos, B. To offer a library of original educational videos accompanied by lessons, C. To facilitate communication between teachers and students, D. To promote the use of YouTube in education Correct Option: B
+Question 2: How can learners browse the TED-Ed library? Options: A. Only by subject, B. Only by series, C. By both subject and series, D. By neither subject nor series Correct Option: C
+Question 3: What is the purpose of the "Quick Quiz" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: C
+Question 4: What is the benefit of logging in to the TED-Ed website? Options: A. To access exclusive content, B. To track one's own learning across the site, C. To participate in discussions with other learners, D. To create and share one's own videos Correct Option: B
+Question 5: What does "flipping a lesson" on the TED-Ed website allow you to do? Options: A. Create a new video from scratch, B. Edit each of the lesson's sections to customize it for your class, C. Share the lesson with other educators, D. Delete the lesson from the website Correct Option: B
+Question 6: What is the purpose of the unique URL generated when you flip a lesson? Options: A. To share the lesson with other educators, B. To measure the progress of any learner you share it with, C. To track the number of views on the lesson, D. To facilitate discussion among learners Correct Option: B
+Question 7: How can you use the TED-Ed platform to create a lesson around a video that is not originally from TED-Ed? Options: A. By uploading the video to the TED-Ed website, B. By using the TED-Ed platform to flip any video from YouTube, C. By creating a new video from scratch, D. By sharing the video with other educators Correct Option: B
+Question 8: What is the potential outcome of many educators flipping lessons using the TED-Ed platform? Options: A. A decrease in the quality of educational resources, B. A lack of engagement among learners, C. The creation of a free and remarkable library of lessons worth sharing, D. An increase in the cost of educational resources Correct Option: C
+Question 9: How does the TED-Ed website support the learning process? Options: A. By providing a platform for educators to create and share their own videos, B. By offering a library of original educational videos accompanied by lessons that can be customized to meet individual needs, C. By facilitating communication between teachers and students, D. By promoting the use of YouTube in education Correct Option: B
+Question 10: What is the role of the "Dig Deeper" section in a TED-Ed lesson? Options: A. To assess the learner's critical thinking skills, B. To provide additional resources for exploring the topic, C. To check for basic comprehension of the video, D. To facilitate discussion among learners Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 2: How can learners browse the TED-Ed library? Options: A. Only by subject, B. Only by series, C. By both subject and series, D. By neither subject nor series Correct Option: C.
+
+Although the options in the ground truth MCQ and the generated MCQ are not identical, the intent and content of the questions are very similar. The ground truth MCQ asks how you can browse videos on the TED-Ed website, while the generated MCQ asks how learners can browse the TED-Ed library. Both questions are inquiring about the methods available for browsing content on the TED-Ed website.
+
+The correct option in the generated MCQ, "By both subject and series," aligns with the correct option in the ground truth MCQ, "All of the above," which includes browsing by series and by subject.
+
+Therefore, the index of the most similar generated MCQ is 2.
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 1, Matched Generated Question 9
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: What do you find on the homepage of the TED-Ed website?
+Options: A. Photographs, B. Original TED-Ed videos, C. Questions, D. None of the above
+Correct Option: B
+
+**Generated MCQ**:
+Question: How does the TED-Ed website support the learning process?
+Options: A. By providing a platform for educators to create and share their own videos, B. By offering a library of original educational videos accompanied by lessons that can be customized to meet individual needs, C. By facilitating communication between teachers and students, D. By promoting the use of YouTube in education
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What do you find on the homepage of the TED-Ed website?
+Options: A. Photographs, B. Original TED-Ed videos, C. Questions, D. None of the above
+Correct Option: B
+
+**Generated MCQ**:
+Question: How does the TED-Ed website support the learning process?
+Options: A. By providing a platform for educators to create and share their own videos, B. By offering a library of original educational videos accompanied by lessons that can be customized to meet individual needs, C. By facilitating communication between teachers and students, D. By promoting the use of YouTube in education
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.5000 (The generated question is related to the TED-Ed website but does not specifically ask about the homepage content.)
+- Correct Answer Matching Score: 0.5000 (The correct answer option in the generated question mentions original educational videos, which is related to the correct answer in the ground truth question, but it is not an exact match.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible and relevant to the topic, but they could be more specific and challenging.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand, but the question could be more concise.)
+- Total Score: 0.6625
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 2, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: What does flipping a lesson mean?
+Options: A. Watching a video, B. Skipping in place, C. Customizing a lesson found on the TED-Ed website, D. Snapping your fingers
+Correct Option: C
+
+**Generated MCQ**:
+Question: What does "flipping a lesson" on the TED-Ed website allow you to do?
+Options: A. Create a new video from scratch, B. Edit each of the lesson's sections to customize it for your class, C. Share the lesson with other educators, D. Delete the lesson from the website
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What does flipping a lesson mean?
+Options: A. Watching a video, B. Skipping in place, C. Customizing a lesson found on the TED-Ed website, D. Snapping your fingers
+Correct Option: C
+
+**Generated MCQ**:
+Question: What does "flipping a lesson" on the TED-Ed website allow you to do?
+Options: A. Create a new video from scratch, B. Edit each of the lesson's sections to customize it for your class, C. Share the lesson with other educators, D. Delete the lesson from the website
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question closely aligns with the content and intent of the ground truth question, but the wording is slightly different.)
+- Correct Answer Matching Score: 0.9000 (The correct answer option in the generated question matches the ground truth answer, but the wording is not identical.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but not as varied or creative as the ground truth distractors.)
+- Clarity and Readability Score: 0.9500 (The question and options are clear and understandable, with only minor room for improvement.)
+- Total Score: 0.8875
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 3, Matched Generated Question 7
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: What type of videos can you flip into a lesson using the TED-Ed website?
+Options: A. TED-Ed Originals, B. TEDTalks, C. YouTube videos, D. All of the above
+Correct Option: D
+
+**Generated MCQ**:
+Question: How can you use the TED-Ed platform to create a lesson around a video that is not originally from TED-Ed?
+Options: A. By uploading the video to the TED-Ed website, B. By using the TED-Ed platform to flip any video from YouTube, C. By creating a new video from scratch, D. By sharing the video with other educators
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What type of videos can you flip into a lesson using the TED-Ed website?
+Options: A. TED-Ed Originals, B. TEDTalks, C. YouTube videos, D. All of the above
+Correct Option: D
+
+**Generated MCQ**:
+Question: How can you use the TED-Ed platform to create a lesson around a video that is not originally from TED-Ed?
+Options: A. By uploading the video to the TED-Ed website, B. By using the TED-Ed platform to flip any video from YouTube, C. By creating a new video from scratch, D. By sharing the video with other educators
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the ground truth question, but it's phrased differently and focuses on creating a lesson around a non-TED-Ed video.)
+- Correct Answer Matching Score: 0.7500 (The correct answer in the generated question is not an exact match to the ground truth answer, but it implies a similar concept.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are somewhat plausible, but they could be more convincing.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.7625
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 4, Matched Generated Question 1
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: How do you nominate an Educator or Animator?
+Options: A. Go to the tour page, B. Go to the get involved page, C. Go to the about page, D. Send the TED-Ed team an email
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the primary purpose of the TED-Ed website?
+Options: A. To provide a platform for educators to create and share their own videos, B. To offer a library of original educational videos accompanied by lessons, C. To facilitate communication between teachers and students, D. To promote the use of YouTube in education
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: How do you nominate an Educator or Animator?
+Options: A. Go to the tour page, B. Go to the get involved page, C. Go to the about page, D. Send the TED-Ed team an email
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the primary purpose of the TED-Ed website?
+Options: A. To provide a platform for educators to create and share their own videos, B. To offer a library of original educational videos accompanied by lessons, C. To facilitate communication between teachers and students, D. To promote the use of YouTube in education
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.0000 (The generated question does not align with the content and intent of the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.5000 (The distractors in the generated question are plausible but not relevant to the ground truth question.)
+- Clarity and Readability Score: 1.0000 (The question and options in the generated question are clear and understandable.)
+- Total Score: 0.3750
+
+However, since the generated MCQ does not match the ground truth MCQ, a new generated MCQ should be provided for a more accurate evaluation.
+
+Let's assume a new generated MCQ is provided:
+
+**Generated MCQ**:
+Question: How can you suggest an educator or animator to TED-Ed?
+Options: A. Visit the tour page, B. Go to the "Get Involved" section, C. Send an email to the TED-Ed team, D. Share a post on social media
+Correct Option: B
+
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: How do you nominate an Educator or Animator?
+Options: A. Go to the tour page, B. Go to the get involved page, C. Go to the about page, D. Send the TED-Ed team an email
+Correct Option: B
+
+**Generated MCQ**:
+Question: How can you suggest an educator or animator to TED-Ed?
+Options: A. Visit the tour page, B. Go to the "Get Involved" section, C. Send an email to the TED-Ed team, D. Share a post on social media
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 1.0000 (The generated question aligns with the content and intent of the ground truth question.)
+- Correct Answer Matching Score: 1.0000 (The correct answer option in the generated question matches the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible, but option D is less plausible than the others.)
+- Clarity and Readability Score: 1.0000 (The question and options in the generated question are clear and understandable.)
+- Total Score: 0.9375
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 5, Matched Generated Question 2
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Welcome to the TED-Ed beta website tour. I'm Logan Smalley, I'm Bedirhan Cinar, I'm Jordan Reeves, and I'm Stephanie Lo. We represent the TED-Ed team. We're going to tell you about
+how the website is organized, about the lessons
+that surround each video, how you can customize or flip
+your own lesson, and how you can measure
+the lesson's effect on your class or the world. Towards the end of the tour, we'll reveal one more major feature that directly affects
+every person viewing this video. Let's get started with the home page. On the home page,
+you'll find original TED-Ed videos, each is a lesson recorded
+by an actual educator that's visualized
+by a professional animator. You can nominate educators and animators in the "Get Involved" section of the site. The TED-Ed library can be browsed
+through two different lenses. Learners can use the "Series" view
+to browse videos thematically and based on their own curiosity. And teachers can use
+the browse by "Subject" view to find the perfect short video
+to show in class or to assign as homework. Every video on TED-Ed
+is accompanied by a lesson. These lessons don't replace good teaching, but they can be supplementary resources for students and teachers
+around the world. Let's look at this one, created by a teacher in the US
+and an animator in the UK. When you arrive on the lesson page,
+simply click play; the video will continue to play as you navigate the lesson's sections
+that surround it. In the "Quick Quiz" section, you'll find multiple-choice questions that check for basic
+comprehension of the video. You get real-time feedback on your answers and if you get one wrong,
+you can use the video hint. You'll find open-answer questions
+in the "Think" section. And in the "Dig Deeper" section, you'll find additional resources
+for exploring the topic. You can complete the lessons anonymously, but if you log in, you can track
+your own learning across the site. Just visit the "Recent Activity" feed, and you'll find answers you've saved to lessons that you've already
+started or completed. And now to one of the most powerful
+features of the TED-Ed website: flipping a lesson. Flipping a featured lesson allows you
+to edit each of the lesson's sections. You can edit the title
+as it relates to your class. You can use the "Let's Begin" section to provide instructions
+or context for the lesson. You can select or deselect
+any "Quick Quiz" question. In the "Think" section, you can add your own
+open-answer questions. And in the "Dig Deeper" section, you can use the resources provided
+or add your own. When you finish flipping a lesson, it'll publish to a new and unique URL. And because the link is unique, it can measure the progress
+of any learner you share it with. You can use it to measure participation and accuracy of any individual
+student's answers. So that's how you flip
+a featured TED-Ed video, We've got one more major feature
+to tell you about. Using the TED-Ed platform, you can flip any video from YouTube. That means you can create a lesson
+around any TED Talk, any TEDx Talk, but also any of the other thousands
+of great educational videos on YouTube, including the ones that you yourself
+could record, upload and flip. And through flipping these lessons, together we'll create
+a free and remarkable library of lessons worth sharing.
+
+**Ground Truth MCQ**:
+Question: How can you browse videos on the TED-Ed website?
+Options: A. By series, B. By subject, C. By title, D. All of the above, E. None ofthe above
+Correct Option: D
+
+**Generated MCQ**:
+Question: How can learners browse the TED-Ed library?
+Options: A. Only by subject, B. Only by series, C. By both subject and series, D. By neither subject nor series
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: How can you browse videos on the TED-Ed website?
+Options: A. By series, B. By subject, C. By title, D. All of the above, E. None of the above
+Correct Option: D
+
+**Generated MCQ**:
+Question: How can learners browse the TED-Ed library?
+Options: A. Only by subject, B. Only by series, C. By both subject and series, D. By neither subject nor series
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but the wording is slightly different.)
+- Correct Answer Matching Score: 0.8000 (The correct answer in the generated question is not an exact match to the ground truth answer, but it conveys the same information.)
+- Distractor Plausibility Score: 0.7000 (The distractors in the generated question are plausible, but they could be more challenging and diverse.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.8250
+

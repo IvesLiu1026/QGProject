@@ -1,0 +1,1124 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: What is the name of the Hawaiʻi Island King who the narrative is about?
+Options: A. Keawenuiaumi, B. Kamehameha, C. Lonoikamakahiki, D. Kalākaua
+Correct Option: A
+
+**Generated MCQs**:
+Question 1: Who is the Hawaiian wind goddess that wielded a gourd housing the winds of the Islands? Options: A. La'amaomao, B. Paka'a, C. Kuapaka'a, D. King Keawenuia'umi Correct Option: A
+Question 2: What was the reason behind the two navigators' envy towards Paka'a? Options: A. Paka'a's skills in navigation, B. Paka'a's divine inheritance of skills and responsibility to the king, C. Paka'a's wealth and land ownership, D. Paka'a's marriage to a young chiefess Correct Option: B
+Question 3: If you were in Paka'a's position, how would you handle the situation after being stripped of your land and privileges? Options: A. Seek revenge immediately, B. Flee and plan a future return, C. Try to reason with the king, D. Accept the situation and move on Correct Option: B
+Question 4: What was the turning point in the story that led to the king's realization of his mistake? Options: A. When Paka'a fled to Moloka'i, B. When the two navigators revealed their selfishness, C. When Kuapaka'a unleashed a storm on the king's fleet, D. When Kuapaka'a won the canoe race Correct Option: B
+Question 5: What was the purpose of Paka'a's ancestral spirits arriving in the form of two birds? Options: A. To guide the king to Paka'a's location, B. To test the king's loyalty and dedication, C. To punish the two navigators, D. To provide food for the king's attendants Correct Option: B
+Question 6: Analyze the character of Kuapaka'a. What motivated him to help his father, Paka'a? Options: A. Desire for power and revenge, B. Loyalty and love for his father, C. Personal gain and wealth, D. Fear of the king's wrath Correct Option: B
+Question 7: How did Kuapaka'a use his knowledge of the winds to help the king's fleet? Options: A. By creating a storm to destroy the fleet, B. By calming the storm to ensure safe passage, C. By warning the fleet of an impending storm and providing shelter, D. By ignoring the fleet's plight Correct Option: C
+Question 8: Synthesize the information provided in the story. What can be inferred about the importance of understanding and respecting the natural world? Options: A. It is not important to understand or respect the natural world., B. Understanding and respecting the natural world can provide personal gain and power., C. Understanding and respecting the natural world is crucial for maintaining balance and harmony., D. The natural world is something to be feared and controlled. Correct Option: C
+Question 9: Evaluate the king's decision to welcome Paka'a back and restore his lands and position. Was this decision justified? Options: A. Yes, the king realized his mistake and made amends., B. No, the king should have punished Paka'a for his absence., C. Maybe, the king's decision was influenced by Kuapaka'a's actions., D. The king's decision was irrelevant to the story. Correct Option: A
+Question 10: What was the significance of the sacred wind gourd in the story? Options: A. It was a symbol of the king's power, B. It was a tool for Paka'a and Kuapaka'a to control the winds, C. It was a reminder of La'amaomao's legacy, D. It was a source of conflict between the characters Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that none of the generated MCQs directly match the ground truth MCQ in terms of question content and options. However, I can suggest a generated MCQ that is somewhat related to the ground truth MCQ.
+
+The ground truth MCQ asks about the name of the Hawaiʻi Island King who the narrative is about. While none of the generated MCQs ask this exact question, Question 1 mentions King Keawenuia'umi as one of the options, which is the correct answer to the ground truth MCQ.
+
+However, in terms of question intent and content, Question 1 is not a direct match. It asks about the Hawaiian wind goddess, not the king.
+
+If I had to choose the most similar generated MCQ, I would say that none of the generated MCQs are a good match. However, if I had to pick one, I would say Question 1 is the closest, only because it mentions King Keawenuia'umi as one of the options.
+
+Index of the most similar generated MCQ: 1 (Note: This is a weak match and not a direct match)
+
+Match Phase - Ground Truth Set 1, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: The wind gourd of Laʻamaomao contains what?
+Options: A. All the winds of Hawaiʻi, B. The bones of the wind goddess, C. When called, the power to direct the winds and waves, D. All of the above
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: Who is the Hawaiian wind goddess that wielded a gourd housing the winds of the Islands? Options: A. La'amaomao, B. Paka'a, C. Kuapaka'a, D. King Keawenuia'umi Correct Option: A
+Question 2: What was the reason behind the two navigators' envy towards Paka'a? Options: A. Paka'a's skills in navigation, B. Paka'a's divine inheritance of skills and responsibility to the king, C. Paka'a's wealth and land ownership, D. Paka'a's marriage to a young chiefess Correct Option: B
+Question 3: If you were in Paka'a's position, how would you handle the situation after being stripped of your land and privileges? Options: A. Seek revenge immediately, B. Flee and plan a future return, C. Try to reason with the king, D. Accept the situation and move on Correct Option: B
+Question 4: What was the turning point in the story that led to the king's realization of his mistake? Options: A. When Paka'a fled to Moloka'i, B. When the two navigators revealed their selfishness, C. When Kuapaka'a unleashed a storm on the king's fleet, D. When Kuapaka'a won the canoe race Correct Option: B
+Question 5: What was the purpose of Paka'a's ancestral spirits arriving in the form of two birds? Options: A. To guide the king to Paka'a's location, B. To test the king's loyalty and dedication, C. To punish the two navigators, D. To provide food for the king's attendants Correct Option: B
+Question 6: Analyze the character of Kuapaka'a. What motivated him to help his father, Paka'a? Options: A. Desire for power and revenge, B. Loyalty and love for his father, C. Personal gain and wealth, D. Fear of the king's wrath Correct Option: B
+Question 7: How did Kuapaka'a use his knowledge of the winds to help the king's fleet? Options: A. By creating a storm to destroy the fleet, B. By calming the storm to ensure safe passage, C. By warning the fleet of an impending storm and providing shelter, D. By ignoring the fleet's plight Correct Option: C
+Question 8: Synthesize the information provided in the story. What can be inferred about the importance of understanding and respecting the natural world? Options: A. It is not important to understand or respect the natural world., B. Understanding and respecting the natural world can provide personal gain and power., C. Understanding and respecting the natural world is crucial for maintaining balance and harmony., D. The natural world is something to be feared and controlled. Correct Option: C
+Question 9: Evaluate the king's decision to welcome Paka'a back and restore his lands and position. Was this decision justified? Options: A. Yes, the king realized his mistake and made amends., B. No, the king should have punished Paka'a for his absence., C. Maybe, the king's decision was influenced by Kuapaka'a's actions., D. The king's decision was irrelevant to the story. Correct Option: A
+Question 10: What was the significance of the sacred wind gourd in the story? Options: A. It was a symbol of the king's power, B. It was a tool for Paka'a and Kuapaka'a to control the winds, C. It was a reminder of La'amaomao's legacy, D. It was a source of conflict between the characters Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is not an exact match, but Question 10 is the closest in terms of question intent and content.
+
+The ground truth MCQ asks about the contents of the wind gourd of Laʻamaomao, while Question 10 asks about the significance of the sacred wind gourd in the story. Although not identical, both questions relate to the wind gourd and its importance in the story.
+
+Index of the most similar generated MCQ: 10
+
+Match Phase - Ground Truth Set 1, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: On which island did Pākaʻa flee?
+Options: A. Oʻahu, B. Molokaʻi, C. Kauaʻi, D. Maui
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: Who is the Hawaiian wind goddess that wielded a gourd housing the winds of the Islands? Options: A. La'amaomao, B. Paka'a, C. Kuapaka'a, D. King Keawenuia'umi Correct Option: A
+Question 2: What was the reason behind the two navigators' envy towards Paka'a? Options: A. Paka'a's skills in navigation, B. Paka'a's divine inheritance of skills and responsibility to the king, C. Paka'a's wealth and land ownership, D. Paka'a's marriage to a young chiefess Correct Option: B
+Question 3: If you were in Paka'a's position, how would you handle the situation after being stripped of your land and privileges? Options: A. Seek revenge immediately, B. Flee and plan a future return, C. Try to reason with the king, D. Accept the situation and move on Correct Option: B
+Question 4: What was the turning point in the story that led to the king's realization of his mistake? Options: A. When Paka'a fled to Moloka'i, B. When the two navigators revealed their selfishness, C. When Kuapaka'a unleashed a storm on the king's fleet, D. When Kuapaka'a won the canoe race Correct Option: B
+Question 5: What was the purpose of Paka'a's ancestral spirits arriving in the form of two birds? Options: A. To guide the king to Paka'a's location, B. To test the king's loyalty and dedication, C. To punish the two navigators, D. To provide food for the king's attendants Correct Option: B
+Question 6: Analyze the character of Kuapaka'a. What motivated him to help his father, Paka'a? Options: A. Desire for power and revenge, B. Loyalty and love for his father, C. Personal gain and wealth, D. Fear of the king's wrath Correct Option: B
+Question 7: How did Kuapaka'a use his knowledge of the winds to help the king's fleet? Options: A. By creating a storm to destroy the fleet, B. By calming the storm to ensure safe passage, C. By warning the fleet of an impending storm and providing shelter, D. By ignoring the fleet's plight Correct Option: C
+Question 8: Synthesize the information provided in the story. What can be inferred about the importance of understanding and respecting the natural world? Options: A. It is not important to understand or respect the natural world., B. Understanding and respecting the natural world can provide personal gain and power., C. Understanding and respecting the natural world is crucial for maintaining balance and harmony., D. The natural world is something to be feared and controlled. Correct Option: C
+Question 9: Evaluate the king's decision to welcome Paka'a back and restore his lands and position. Was this decision justified? Options: A. Yes, the king realized his mistake and made amends., B. No, the king should have punished Paka'a for his absence., C. Maybe, the king's decision was influenced by Kuapaka'a's actions., D. The king's decision was irrelevant to the story. Correct Option: A
+Question 10: What was the significance of the sacred wind gourd in the story? Options: A. It was a symbol of the king's power, B. It was a tool for Paka'a and Kuapaka'a to control the winds, C. It was a reminder of La'amaomao's legacy, D. It was a source of conflict between the characters Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that none of the generated MCQs exactly match the ground truth MCQ. However, I can suggest a generated MCQ that is somewhat related to the ground truth MCQ.
+
+The ground truth MCQ asks about the island where Pākaʻa fled, and the correct answer is Molokaʻi. Among the generated MCQs, Question 3 mentions Paka'a's situation after being stripped of his land and privileges, and one of the options (B) mentions fleeing and planning a future return. However, this question does not specifically ask about the island where Paka'a fled.
+
+Since there is no direct match, I will provide the index of the generated MCQ that is closest in terms of content, which is:
+
+ Question 3
+
+However, please note that this is not an exact match, and a new generated MCQ that specifically asks about the island where Paka'a fled would be a better match.
+
+Here's an example of a new generated MCQ that could match the ground truth MCQ:
+
+Question: Which island did Paka'a escape to after being stripped of his land and privileges?
+Options: A. Oʻahu, B. Molokaʻi, C. Kauaʻi, D. Maui
+Correct Option: B
+
+This new generated MCQ would be a direct match for the ground truth MCQ.
+
+Match Phase - Ground Truth Set 1, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: What were the roles of Pākaʻa’s two enemies?
+Options: A. Farmers, B. Fishermen, C. Navigators, D. None of the above
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: Who is the Hawaiian wind goddess that wielded a gourd housing the winds of the Islands? Options: A. La'amaomao, B. Paka'a, C. Kuapaka'a, D. King Keawenuia'umi Correct Option: A
+Question 2: What was the reason behind the two navigators' envy towards Paka'a? Options: A. Paka'a's skills in navigation, B. Paka'a's divine inheritance of skills and responsibility to the king, C. Paka'a's wealth and land ownership, D. Paka'a's marriage to a young chiefess Correct Option: B
+Question 3: If you were in Paka'a's position, how would you handle the situation after being stripped of your land and privileges? Options: A. Seek revenge immediately, B. Flee and plan a future return, C. Try to reason with the king, D. Accept the situation and move on Correct Option: B
+Question 4: What was the turning point in the story that led to the king's realization of his mistake? Options: A. When Paka'a fled to Moloka'i, B. When the two navigators revealed their selfishness, C. When Kuapaka'a unleashed a storm on the king's fleet, D. When Kuapaka'a won the canoe race Correct Option: B
+Question 5: What was the purpose of Paka'a's ancestral spirits arriving in the form of two birds? Options: A. To guide the king to Paka'a's location, B. To test the king's loyalty and dedication, C. To punish the two navigators, D. To provide food for the king's attendants Correct Option: B
+Question 6: Analyze the character of Kuapaka'a. What motivated him to help his father, Paka'a? Options: A. Desire for power and revenge, B. Loyalty and love for his father, C. Personal gain and wealth, D. Fear of the king's wrath Correct Option: B
+Question 7: How did Kuapaka'a use his knowledge of the winds to help the king's fleet? Options: A. By creating a storm to destroy the fleet, B. By calming the storm to ensure safe passage, C. By warning the fleet of an impending storm and providing shelter, D. By ignoring the fleet's plight Correct Option: C
+Question 8: Synthesize the information provided in the story. What can be inferred about the importance of understanding and respecting the natural world? Options: A. It is not important to understand or respect the natural world., B. Understanding and respecting the natural world can provide personal gain and power., C. Understanding and respecting the natural world is crucial for maintaining balance and harmony., D. The natural world is something to be feared and controlled. Correct Option: C
+Question 9: Evaluate the king's decision to welcome Paka'a back and restore his lands and position. Was this decision justified? Options: A. Yes, the king realized his mistake and made amends., B. No, the king should have punished Paka'a for his absence., C. Maybe, the king's decision was influenced by Kuapaka'a's actions., D. The king's decision was irrelevant to the story. Correct Option: A
+Question 10: What was the significance of the sacred wind gourd in the story? Options: A. It was a symbol of the king's power, B. It was a tool for Paka'a and Kuapaka'a to control the winds, C. It was a reminder of La'amaomao's legacy, D. It was a source of conflict between the characters Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is:
+
+**Question 2: What was the reason behind the two navigators' envy towards Paka'a?**
+
+Although this question does not directly ask about the roles of Paka'a's two enemies, it does provide information about the two navigators and their motivations, which is closely related to the ground truth MCQ.
+
+However, a closer examination of the generated MCQs reveals that none of them directly match the ground truth MCQ. But if I had to choose one based on the content and intent, I would choose:
+
+**Question 2**
+
+But since it's not a direct match, I'll provide an explanation. The correct answer would be a generated MCQ that directly asks about the roles or occupations of Paka'a's two enemies. Unfortunately, none of the provided generated MCQs match this criteria.
+
+If I were to create a new generated MCQ that matches the ground truth MCQ, it would be:
+
+**New Question: What were the occupations of the two men who were envious of Paka'a?**
+Options: A. Farmers, B. Fishermen, C. Navigators, D. None of the above
+
+This new question directly matches the ground truth MCQ in terms of content, options, and intent.
+
+Match Phase - Ground Truth Set 1, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: Pākaʻa ancestral spirits falsely revealed where Pākaʻa was hiding to the King in a dream. They came in the form of ___.
+Options: A. A fish, B. Two birds, C. A turtle, D. Two dolphins
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: Who is the Hawaiian wind goddess that wielded a gourd housing the winds of the Islands? Options: A. La'amaomao, B. Paka'a, C. Kuapaka'a, D. King Keawenuia'umi Correct Option: A
+Question 2: What was the reason behind the two navigators' envy towards Paka'a? Options: A. Paka'a's skills in navigation, B. Paka'a's divine inheritance of skills and responsibility to the king, C. Paka'a's wealth and land ownership, D. Paka'a's marriage to a young chiefess Correct Option: B
+Question 3: If you were in Paka'a's position, how would you handle the situation after being stripped of your land and privileges? Options: A. Seek revenge immediately, B. Flee and plan a future return, C. Try to reason with the king, D. Accept the situation and move on Correct Option: B
+Question 4: What was the turning point in the story that led to the king's realization of his mistake? Options: A. When Paka'a fled to Moloka'i, B. When the two navigators revealed their selfishness, C. When Kuapaka'a unleashed a storm on the king's fleet, D. When Kuapaka'a won the canoe race Correct Option: B
+Question 5: What was the purpose of Paka'a's ancestral spirits arriving in the form of two birds? Options: A. To guide the king to Paka'a's location, B. To test the king's loyalty and dedication, C. To punish the two navigators, D. To provide food for the king's attendants Correct Option: B
+Question 6: Analyze the character of Kuapaka'a. What motivated him to help his father, Paka'a? Options: A. Desire for power and revenge, B. Loyalty and love for his father, C. Personal gain and wealth, D. Fear of the king's wrath Correct Option: B
+Question 7: How did Kuapaka'a use his knowledge of the winds to help the king's fleet? Options: A. By creating a storm to destroy the fleet, B. By calming the storm to ensure safe passage, C. By warning the fleet of an impending storm and providing shelter, D. By ignoring the fleet's plight Correct Option: C
+Question 8: Synthesize the information provided in the story. What can be inferred about the importance of understanding and respecting the natural world? Options: A. It is not important to understand or respect the natural world., B. Understanding and respecting the natural world can provide personal gain and power., C. Understanding and respecting the natural world is crucial for maintaining balance and harmony., D. The natural world is something to be feared and controlled. Correct Option: C
+Question 9: Evaluate the king's decision to welcome Paka'a back and restore his lands and position. Was this decision justified? Options: A. Yes, the king realized his mistake and made amends., B. No, the king should have punished Paka'a for his absence., C. Maybe, the king's decision was influenced by Kuapaka'a's actions., D. The king's decision was irrelevant to the story. Correct Option: A
+Question 10: What was the significance of the sacred wind gourd in the story? Options: A. It was a symbol of the king's power, B. It was a tool for Paka'a and Kuapaka'a to control the winds, C. It was a reminder of La'amaomao's legacy, D. It was a source of conflict between the characters Correct Option: B
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is:
+
+**Question 5: What was the purpose of Paka'a's ancestral spirits arriving in the form of two birds? Options: A. To guide the king to Paka'a's location, B. To test the king's loyalty and dedication, C. To punish the two navigators, D. To provide food for the king's attendants Correct Option: B**
+
+However, this question does not exactly match the ground truth MCQ, as it asks about the purpose of the ancestral spirits' arrival, whereas the ground truth MCQ asks about the form in which they revealed Paka'a's location to the king.
+
+A more similar question would be one that asks about the form in which the ancestral spirits appeared, but such a question is not present among the generated MCQs.
+
+Considering the available options, Question 5 is the closest match, but it's not an exact match.
+
+If I had to choose an index, I would say: **5**
+
+Please note that this is an approximation, as there isn't a perfect match among the generated MCQs.
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 1, Matched Generated Question 1
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: What is the name of the Hawaiʻi Island King who the narrative is about?
+Options: A. Keawenuiaumi, B. Kamehameha, C. Lonoikamakahiki, D. Kalākaua
+Correct Option: A
+
+**Generated MCQ**:
+Question: Who is the Hawaiian wind goddess that wielded a gourd housing the winds of the Islands?
+Options: A. La'amaomao, B. Paka'a, C. Kuapaka'a, D. King Keawenuia'umi
+Correct Option: A
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What is the name of the Hawaiʻi Island King who the narrative is about?
+Options: A. Keawenuiaumi, B. Kamehameha, C. Lonoikamakahiki, D. Kalākaua
+Correct Option: A
+
+**Generated MCQ**:
+Question: Who is the Hawaiian wind goddess that wielded a gourd housing the winds of the Islands?
+Options: A. La'amaomao, B. Paka'a, C. Kuapaka'a, D. King Keawenuia'umi
+Correct Option: A
+
+**Scores**:
+- Relevance Score: 0.0000 (The generated question does not align with the content and intent of the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.5000 (The distractors in the generated question are somewhat plausible, but not highly relevant to the question.)
+- Clarity and Readability Score: 1.0000 (The question and options are clear and understandable.)
+- Total Score: 0.3750
+
+Note: Since the generated question does not match the ground truth question in terms of content and intent, the overall score is low. A better match would be a generated question that asks about the king in the narrative, such as "Who is the king that Paka'a serves as an attendant to?" with options that include Keawenuiaumi.
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 2, Matched Generated Question 10
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: The wind gourd of Laʻamaomao contains what?
+Options: A. All the winds of Hawaiʻi, B. The bones of the wind goddess, C. When called, the power to direct the winds and waves, D. All of the above
+Correct Option: D
+
+**Generated MCQ**:
+Question: What was the significance of the sacred wind gourd in the story?
+Options: A. It was a symbol of the king's power, B. It was a tool for Paka'a and Kuapaka'a to control the winds, C. It was a reminder of La'amaomao's legacy, D. It was a source of conflict between the characters
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: The wind gourd of Laʻamaomao contains what?
+Options: A. All the winds of Hawaiʻi, B. The bones of the wind goddess, C. When called, the power to direct the winds and waves, D. All of the above
+Correct Option: D
+
+**Generated MCQ**:
+Question: What was the significance of the sacred wind gourd in the story?
+Options: A. It was a symbol of the king's power, B. It was a tool for Paka'a and Kuapaka'a to control the winds, C. It was a reminder of La'amaomao's legacy, D. It was a source of conflict between the characters
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the wind gourd, but it focuses on its significance rather than its contents.)
+- Correct Answer Matching Score: 0.5000 (The correct answer in the generated question does not directly match the ground truth answer, but it is related to the wind gourd's function.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are plausible but not as strong as the ground truth options.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.7000
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 3, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: On which island did Pākaʻa flee?
+Options: A. Oʻahu, B. Molokaʻi, C. Kauaʻi, D. Maui
+Correct Option: B
+
+**Generated MCQ**:
+Question: If you were in Paka'a's position, how would you handle the situation after being stripped of your land and privileges?
+Options: A. Seek revenge immediately, B. Flee and plan a future return, C. Try to reason with the king, D. Accept the situation and move on
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: On which island did Pākaʻa flee?
+Options: A. Oʻahu, B. Molokaʻi, C. Kauaʻi, D. Maui
+Correct Option: B
+
+**Generated MCQ**:
+Question: If you were in Paka'a's position, how would you handle the situation after being stripped of your land and privileges?
+Options: A. Seek revenge immediately, B. Flee and plan a future return, C. Try to reason with the king, D. Accept the situation and move on
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.5000 (The generated question is related to Paka'a's situation, but it doesn't directly ask about the island he fled to.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question doesn't match the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible, but they don't match the type of options in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question is clear and understandable, but it's a bit more complex than the ground truth question.)
+- Total Score: 0.5375
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 4, Matched Generated Question 2
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: What were the roles of Pākaʻa’s two enemies?
+Options: A. Farmers, B. Fishermen, C. Navigators, D. None of the above
+Correct Option: C
+
+**Generated MCQ**:
+Question: What was the reason behind the two navigators' envy towards Paka'a?
+Options: A. Paka'a's skills in navigation, B. Paka'a's divine inheritance of skills and responsibility to the king, C. Paka'a's wealth and land ownership, D. Paka'a's marriage to a young chiefess
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What were the roles of Pākaʻa’s two enemies?
+Options: A. Farmers, B. Fishermen, C. Navigators, D. None of the above
+Correct Option: C
+
+**Generated MCQ**:
+Question: What was the reason behind the two navigators' envy towards Paka'a?
+Options: A. Paka'a's skills in navigation, B. Paka'a's divine inheritance of skills and responsibility to the king, C. Paka'a's wealth and land ownership, D. Paka'a's marriage to a young chiefess
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the ground truth question, but it focuses on the reason behind the envy rather than the roles of the two enemies.)
+- Correct Answer Matching Score: 0.0000 (The correct answer options do not match, as the ground truth question asks about the roles of the enemies, while the generated question asks about the reason behind their envy.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but they could be more closely related to the topic.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable, but the generated question could be more concise.)
+- Total Score: 0.6250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 5, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Long ago, La’amaomao, 
+the Hawaiian wind goddess, wielded a gourd that housed
+the winds of the Islands. It came to hold her bones, 
+along with the life force they carried, and was eventually passed
+to her grandson, Paka’a. He learned the hundreds of distinct winds that wafted and whipped 
+around his homeland. Chanting their names, he could stir 
+the skies and raise the waves. Like his father before him, he became the most trusted attendant
+to King Keawenuia’umi of Hawaii Island. But his privileged status
+also made him a target. Two of the king's seafaring navigators
+were especially envious. They knew Paka’a’s skills
+and responsibility to the king were divinely inherited,
+but they coveted his position. So they whispered rumors
+and eventually turned the king against his most loyal companion. Paka’a watched bitterly as he was stripped
+of his land and privileges. He fled, escaping the navigators who
+plotted to drown him as he sailed away, and took refuge on Molokaʻi, 
+where he married a young chiefess. They brought a son into the world, but Paka’a never stopped
+imagining his return. He taught his son, Kuapaka’a,
+the way of the winds until Kuapaka’a was poised 
+to avenge his father and restore his rightful place 
+beside the king. Back on Hawaii Island, as the two navigators revealed
+their selfishness, the king realized how easily he’d been
+deceived and longed for Paka’a. Some of his more trustworthy attendants
+divined that Paka’a was still alive and told the king to construct
+canoes for a journey. However, Paka’a could not
+return so easily. First, the king’s loyalty and dedication
+had to be tested. As the king rallied his attendants, Paka’a’s ancestral spirits arrived 
+in the form of two birds and rotted the trees he was using 
+for canoe-building. Though exhausted, the king had 
+his best archers shoot the birds, and he started again. Later, as Paka’a dreamed, 
+the king’s spirit announced his search. However, Paka’a’s own spirit 
+misled the king, saying he was on Ka’ula— not Molokaʻi. The king’s fleet soon set sail. As they passed Molokaʻi, 
+Paka’a’s son, Kuapaka’a, greeted them, warning that a storm was brewing. He chanted the names of the winds,
+but kept his identity a secret, as per Paka’a’s plan. The king’s navigators dismissed 
+the young boy’s claims. But as they sailed off, 
+Kuapaka’a unleashed a vicious storm and all were forced to shelter
+on Molokaʻi. For four months, 
+Kuapaka’a maintained the storm. With Paka’a’s secret supervision,
+he earned the king’s trust, and, after clearing the sky, Kuapaka’a
+agreed to join the king’s search. At sea, the two navigators continuously
+discredited Kuapaka’a. Finally, he readied himself for revenge
+and called the winds. As waves crashed, 
+Kuapaka’a anchored the canoe and passed provisions to everyone—
+except the two navigators. They grew cold and weak, 
+eventually falling overboard. But Kuapaka’a’s work wasn’t done. While everyone slept, 
+he brightened the sky and sailed towards Hawaii Island 
+instead of Ka’ula. Though the king regretted
+not finding Paka’a, everyone was glad to be home 
+and forgot about Kuapaka’a— until the day he proposed a canoe race. He wagered his catch of flying fish
+against that of eight fishermen who had been appointed 
+by the two treacherous navigators. They agreed, figuring it'd be an easy win. But Kuapaka’a called to La’amaomao, and a great wave whisked him
+ahead of his opponents. Enraged and convinced this was a fluke,
+the fishermen asked for a rematch. But this time, they demanded Kuapaka’a
+wager his bones against theirs. At first, the men paddled fiercely, with Kuapaka’a gliding effortlessly
+in their wake. As they tired, Kuapaka’a hurtled 
+himself to victory. Hearing that eight of his fishermen 
+were to die, the king asked Kuapaka’a 
+to have mercy on them. But the time had come for Kuapaka’a
+to reveal his identity and have the King prove 
+his commitment to Paka’a. Overcome, the king agreed to their deaths
+and asked to welcome Paka’a home, promising his lands and position
+would be restored. At last, the king and Paka’a 
+were back at each other’s sides. Wielding the sacred wind gourd, Paka’a and Kuapaka’a ensured the names
+of the winds would never be lost, and those who understood them 
+never undermined or forgotten.
+
+**Ground Truth MCQ**:
+Question: Pākaʻa ancestral spirits falsely revealed where Pākaʻa was hiding to the King in a dream. They came in the form of ___.
+Options: A. A fish, B. Two birds, C. A turtle, D. Two dolphins
+Correct Option: B
+
+**Generated MCQ**:
+Question: What was the purpose of Paka'a's ancestral spirits arriving in the form of two birds?
+Options: A. To guide the king to Paka'a's location, B. To test the king's loyalty and dedication, C. To punish the two navigators, D. To provide food for the king's attendants
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Pākaʻa ancestral spirits falsely revealed where Pākaʻa was hiding to the King in a dream. They came in the form of ___.
+Options: A. A fish, B. Two birds, C. A turtle, D. Two dolphins
+Correct Option: B
+
+**Generated MCQ**:
+Question: What was the purpose of Paka'a's ancestral spirits arriving in the form of two birds?
+Options: A. To guide the king to Paka'a's location, B. To test the king's loyalty and dedication, C. To punish the two navigators, D. To provide food for the king's attendants
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the ground truth question, but it focuses on the purpose of the ancestral spirits' arrival rather than their form.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer, as the generated question asks about the purpose, not the form.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but they could be more closely related to the topic.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.6250
+

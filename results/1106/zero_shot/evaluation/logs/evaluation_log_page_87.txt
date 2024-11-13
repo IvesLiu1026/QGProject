@@ -1,0 +1,2029 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft admired the work of:
+Options: A. Stephen King, B. Jane Austen, C. Jorge Luis Borges, D. Edgar Allan Poe and Robert Chambers
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What type of stories did Howard Phillips Lovecraft grow up admiring? Options: A. Science fiction stories, B. Gothic horror stories, C. Fantasy stories, D. Mystery stories Correct Option: None
+Question 2: What event had cast a long shadow over the arts by the time Lovecraft began writing in 1917? Options: A. World War II, B. World War I, C. The Great Depression, D. The Industrial Revolution Correct Option: None
+Question 3: What is the name of the short story in which a strange meteorite falls near a farmhouse, mutating the farm into a nightmarish hellscape? Options: A. "At the Mountains of Madness", B. "The Colour out of Space", C. "The Call of Cthulhu", D. "The Shadow Over Innsmouth" Correct Option: None
+Question 4: What is the name of the fictional continuity in which many of Lovecraft's stories take place? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The New England Continuity, D. The Great Old Ones' Realm Correct Option: None
+Question 5: What is the name of the blind, idiot god in Lovecraft's stories? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: None
+Question 6: What is the occupation of many of Lovecraft's protagonists? Options: A. Researchers, anthropologists, or antiquarians, B. Scientists, engineers, or mathematicians, C. Writers, artists, or musicians, D. Soldiers, politicians, or businesspeople Correct Option: None
+Question 7: What is the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Weird Fiction Universe, D. The Cosmic Horror Universe Correct Option: None
+Question 8: What was a less savory expression of Lovecraft's fear of the unknown? Options: A. His love of darkness and the supernatural, B. His fascination with science and technology, C. His strong racist views, D. His fear of death and the afterlife Correct Option: None
+Question 9: How did Lovecraft die? Options: A. He died of old age, surrounded by his loved ones, B. He died in a tragic accident, while working on a new story, C. He died unknown and penniless, a victim of the universe's cosmic indifference, D. He died of a sudden illness, while on a trip abroad Correct Option: None
+Question 10: What has Lovecraft's work inspired, despite his literary legacy? Options: A. Only a few short stories and novels, B. Numerous short stories, novels, tabletop games, and cultural icons, C. Only a few films and TV shows, D. Only a few video games and comic books Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 1: What type of stories did Howard Phillips Lovecraft grow up admiring? 
+
+Although the options in Question 1 do not exactly match the ground truth MCQ, the question content and intent are similar. The ground truth MCQ asks about the authors whose work Lovecraft admired, while Question 1 asks about the type of stories Lovecraft admired. However, the correct answer to Question 1 (Gothic horror stories) is related to the authors mentioned in the ground truth MCQ (Edgar Allan Poe and Robert Chambers), who are known for writing Gothic horror stories.
+
+Index of the most similar generated MCQ: 1
+
+Match Phase - Ground Truth Set 1, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft often incorporated ____ into his stories.
+Options: A. Folklore, B. Superstition, C. Scientific elements, D. Metanarratives
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: What type of stories did Howard Phillips Lovecraft grow up admiring? Options: A. Science fiction stories, B. Gothic horror stories, C. Fantasy stories, D. Mystery stories Correct Option: None
+Question 2: What event had cast a long shadow over the arts by the time Lovecraft began writing in 1917? Options: A. World War II, B. World War I, C. The Great Depression, D. The Industrial Revolution Correct Option: None
+Question 3: What is the name of the short story in which a strange meteorite falls near a farmhouse, mutating the farm into a nightmarish hellscape? Options: A. "At the Mountains of Madness", B. "The Colour out of Space", C. "The Call of Cthulhu", D. "The Shadow Over Innsmouth" Correct Option: None
+Question 4: What is the name of the fictional continuity in which many of Lovecraft's stories take place? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The New England Continuity, D. The Great Old Ones' Realm Correct Option: None
+Question 5: What is the name of the blind, idiot god in Lovecraft's stories? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: None
+Question 6: What is the occupation of many of Lovecraft's protagonists? Options: A. Researchers, anthropologists, or antiquarians, B. Scientists, engineers, or mathematicians, C. Writers, artists, or musicians, D. Soldiers, politicians, or businesspeople Correct Option: None
+Question 7: What is the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Weird Fiction Universe, D. The Cosmic Horror Universe Correct Option: None
+Question 8: What was a less savory expression of Lovecraft's fear of the unknown? Options: A. His love of darkness and the supernatural, B. His fascination with science and technology, C. His strong racist views, D. His fear of death and the afterlife Correct Option: None
+Question 9: How did Lovecraft die? Options: A. He died of old age, surrounded by his loved ones, B. He died in a tragic accident, while working on a new story, C. He died unknown and penniless, a victim of the universe's cosmic indifference, D. He died of a sudden illness, while on a trip abroad Correct Option: None
+Question 10: What has Lovecraft's work inspired, despite his literary legacy? Options: A. Only a few short stories and novels, B. Numerous short stories, novels, tabletop games, and cultural icons, C. Only a few films and TV shows, D. Only a few video games and comic books Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that none of the generated MCQs exactly match the ground truth MCQ. However, I can suggest a generated MCQ that has a similar theme and intent.
+
+The ground truth MCQ asks about Lovecraft's incorporation of scientific elements into his stories. While there isn't a direct match, Question 3 mentions a specific story ("The Colour out of Space") that incorporates scientific elements (a meteorite mutating a farm). However, this question focuses on the story's plot rather than the broader theme of Lovecraft's use of scientific elements.
+
+If I had to choose a generated MCQ that is closest in intent and theme, I would suggest Question 3, but with the caveat that it's not a direct match.
+
+Index of the most similar generated MCQ: 3
+
+Please note that the generated MCQs seem to focus more on specific details from the transcript rather than broader themes or concepts, which makes it challenging to find an exact match for the ground truth MCQ.
+
+Match Phase - Ground Truth Set 1, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s stories often leave us with a sense of cosmic indifference, which is:
+Options: A. The feeling that we are insignificant specks in the universe, B. The idea that we are powerful creatures in charge of our destiny, C. A theory of biological processes, D. All of the above
+Correct Option: A
+
+**Generated MCQs**:
+Question 1: What type of stories did Howard Phillips Lovecraft grow up admiring? Options: A. Science fiction stories, B. Gothic horror stories, C. Fantasy stories, D. Mystery stories Correct Option: None
+Question 2: What event had cast a long shadow over the arts by the time Lovecraft began writing in 1917? Options: A. World War II, B. World War I, C. The Great Depression, D. The Industrial Revolution Correct Option: None
+Question 3: What is the name of the short story in which a strange meteorite falls near a farmhouse, mutating the farm into a nightmarish hellscape? Options: A. "At the Mountains of Madness", B. "The Colour out of Space", C. "The Call of Cthulhu", D. "The Shadow Over Innsmouth" Correct Option: None
+Question 4: What is the name of the fictional continuity in which many of Lovecraft's stories take place? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The New England Continuity, D. The Great Old Ones' Realm Correct Option: None
+Question 5: What is the name of the blind, idiot god in Lovecraft's stories? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: None
+Question 6: What is the occupation of many of Lovecraft's protagonists? Options: A. Researchers, anthropologists, or antiquarians, B. Scientists, engineers, or mathematicians, C. Writers, artists, or musicians, D. Soldiers, politicians, or businesspeople Correct Option: None
+Question 7: What is the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Weird Fiction Universe, D. The Cosmic Horror Universe Correct Option: None
+Question 8: What was a less savory expression of Lovecraft's fear of the unknown? Options: A. His love of darkness and the supernatural, B. His fascination with science and technology, C. His strong racist views, D. His fear of death and the afterlife Correct Option: None
+Question 9: How did Lovecraft die? Options: A. He died of old age, surrounded by his loved ones, B. He died in a tragic accident, while working on a new story, C. He died unknown and penniless, a victim of the universe's cosmic indifference, D. He died of a sudden illness, while on a trip abroad Correct Option: None
+Question 10: What has Lovecraft's work inspired, despite his literary legacy? Options: A. Only a few short stories and novels, B. Numerous short stories, novels, tabletop games, and cultural icons, C. Only a few films and TV shows, D. Only a few video games and comic books Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that none of the generated MCQs directly match the ground truth MCQ in terms of question content, options, and overall intent. However, I can suggest a generated MCQ that has some similarity with the ground truth MCQ.
+
+The ground truth MCQ is about the concept of "cosmic indifference" in Lovecraft's stories, which refers to the feeling that humans are insignificant specks in the universe.
+
+Among the generated MCQs, Question 6 is about the occupation of Lovecraft's protagonists, which includes "researchers, anthropologists, or antiquarians." While this question does not directly relate to the concept of cosmic indifference, it touches on the idea that Lovecraft's protagonists often discover the insignificance of humanity through their research and explorations.
+
+However, a closer match can be found in the content of the transcript, which discusses the concept of cosmic indifference in the context of Lovecraft's stories. Unfortunately, none of the generated MCQs directly address this concept.
+
+If I had to choose a generated MCQ that has some similarity with the ground truth MCQ, I would suggest Question 6, but with a note that it is not a direct match.
+
+Index of the most similar generated MCQ: 6 (with a note that it is not a direct match)
+
+A better approach would be to generate new MCQs that directly address the concept of cosmic indifference in Lovecraft's stories, rather than relying on the existing generated MCQs.
+
+Match Phase - Ground Truth Set 1, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: The Cthulhu Mythos is a:
+Options: A. Role-playing game, B. Shared universe, C. Series of movies, D. The title of a short story
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What type of stories did Howard Phillips Lovecraft grow up admiring? Options: A. Science fiction stories, B. Gothic horror stories, C. Fantasy stories, D. Mystery stories Correct Option: None
+Question 2: What event had cast a long shadow over the arts by the time Lovecraft began writing in 1917? Options: A. World War II, B. World War I, C. The Great Depression, D. The Industrial Revolution Correct Option: None
+Question 3: What is the name of the short story in which a strange meteorite falls near a farmhouse, mutating the farm into a nightmarish hellscape? Options: A. "At the Mountains of Madness", B. "The Colour out of Space", C. "The Call of Cthulhu", D. "The Shadow Over Innsmouth" Correct Option: None
+Question 4: What is the name of the fictional continuity in which many of Lovecraft's stories take place? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The New England Continuity, D. The Great Old Ones' Realm Correct Option: None
+Question 5: What is the name of the blind, idiot god in Lovecraft's stories? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: None
+Question 6: What is the occupation of many of Lovecraft's protagonists? Options: A. Researchers, anthropologists, or antiquarians, B. Scientists, engineers, or mathematicians, C. Writers, artists, or musicians, D. Soldiers, politicians, or businesspeople Correct Option: None
+Question 7: What is the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Weird Fiction Universe, D. The Cosmic Horror Universe Correct Option: None
+Question 8: What was a less savory expression of Lovecraft's fear of the unknown? Options: A. His love of darkness and the supernatural, B. His fascination with science and technology, C. His strong racist views, D. His fear of death and the afterlife Correct Option: None
+Question 9: How did Lovecraft die? Options: A. He died of old age, surrounded by his loved ones, B. He died in a tragic accident, while working on a new story, C. He died unknown and penniless, a victim of the universe's cosmic indifference, D. He died of a sudden illness, while on a trip abroad Correct Option: None
+Question 10: What has Lovecraft's work inspired, despite his literary legacy? Options: A. Only a few short stories and novels, B. Numerous short stories, novels, tabletop games, and cultural icons, C. Only a few films and TV shows, D. Only a few video games and comic books Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 7: What is the name of the shared universe created by Lovecraft and his contemporaries? 
+
+Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Weird Fiction Universe, D. The Cosmic Horror Universe 
+
+This question has the same intent and content as the ground truth MCQ, and the correct option (A. The Cthulhu Mythos) matches the correct option in the ground truth MCQ.
+
+Index of the most similar generated MCQ: 7.
+
+Match Phase - Ground Truth Set 1, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s work has inspired numerous:
+Options: A. Video games, B. Short stories and novels, C. Movies, D. Comic books, E. All of the above
+Correct Option: E
+
+**Generated MCQs**:
+Question 1: What type of stories did Howard Phillips Lovecraft grow up admiring? Options: A. Science fiction stories, B. Gothic horror stories, C. Fantasy stories, D. Mystery stories Correct Option: None
+Question 2: What event had cast a long shadow over the arts by the time Lovecraft began writing in 1917? Options: A. World War II, B. World War I, C. The Great Depression, D. The Industrial Revolution Correct Option: None
+Question 3: What is the name of the short story in which a strange meteorite falls near a farmhouse, mutating the farm into a nightmarish hellscape? Options: A. "At the Mountains of Madness", B. "The Colour out of Space", C. "The Call of Cthulhu", D. "The Shadow Over Innsmouth" Correct Option: None
+Question 4: What is the name of the fictional continuity in which many of Lovecraft's stories take place? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The New England Continuity, D. The Great Old Ones' Realm Correct Option: None
+Question 5: What is the name of the blind, idiot god in Lovecraft's stories? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: None
+Question 6: What is the occupation of many of Lovecraft's protagonists? Options: A. Researchers, anthropologists, or antiquarians, B. Scientists, engineers, or mathematicians, C. Writers, artists, or musicians, D. Soldiers, politicians, or businesspeople Correct Option: None
+Question 7: What is the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Weird Fiction Universe, D. The Cosmic Horror Universe Correct Option: None
+Question 8: What was a less savory expression of Lovecraft's fear of the unknown? Options: A. His love of darkness and the supernatural, B. His fascination with science and technology, C. His strong racist views, D. His fear of death and the afterlife Correct Option: None
+Question 9: How did Lovecraft die? Options: A. He died of old age, surrounded by his loved ones, B. He died in a tragic accident, while working on a new story, C. He died unknown and penniless, a victim of the universe's cosmic indifference, D. He died of a sudden illness, while on a trip abroad Correct Option: None
+Question 10: What has Lovecraft's work inspired, despite his literary legacy? Options: A. Only a few short stories and novels, B. Numerous short stories, novels, tabletop games, and cultural icons, C. Only a few films and TV shows, D. Only a few video games and comic books Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 10. 
+
+Although the options in Question 10 do not exactly match the options in the ground truth MCQ, the question intent and content are similar. Both questions ask about the impact or influence of Lovecraft's work, and both mention the types of creative works that have been inspired by his writing.
+
+Index of the most similar generated MCQ: 10
+
+Match Phase - Ground Truth Set 2, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: What are the two ways copper metal wires influence the transmission of information as electrical signals?
+Options: A. data rate and distance, B. distance and time, C. data rate and power, D. time and power
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: In 2012, a team of Japanese and Danish researchers set a world record by transmitting how much data over a fifty-kilometer cable in a second? Options: A. 1 megabit, B. 1 gigabit, C. 1 petabit, D. 1 exabit Correct Option: None
+Question 2: What is the primary material used to make fiber optic strands? Options: A. Copper, B. Glass, C. Plastic, D. Metal Correct Option: None
+Question 3: What phenomenon allows light to travel within glass fiber optic strands? Options: A. Total external reflection, B. Total internal reflection, C. Refraction, D. Diffraction Correct Option: None
+Question 4: Compared to electricity or radio, what is a characteristic of fiber optic signals? Options: A. They degrade quickly over short distances, B. They degrade slowly over great distances, C. They are unaffected by distance, D. They are affected by weather Correct Option: None
+Question 5: What is the approximate length of fiber optic cable that crisscrosses our ocean floors? Options: A. 100,000 kilometers, B. 1 million kilometers, C. 10 million kilometers, D. 100 million kilometers Correct Option: None
+Question 6: What is the term for the increasing reliance on remote computer servers and data centers? Options: A. Cloud computing, B. Fiber optic computing, C. Integrated photonics, D. Mobile computing Correct Option: None
+Question 7: What is a major problem associated with traditional electrical cables in data centers? Options: A. Bandwidth demand, B. Heat waste, C. Data security, D. Power outages Correct Option: None
+Question 8: What technology has come to the rescue to address the limitations of fiber optics? Options: A. Integrated photonics, B. Fiber optic computing, C. Cloud computing, D. Mobile computing Correct Option: None
+Question 9: What is the potential benefit of using terahertz frequencies to carry data? Options: A. Thousands of times slower data transfer, B. Thousands of times faster data transfer, C. Increased data security, D. Reduced power consumption Correct Option: None
+Question 10: What is the role of tiny wireless-to-fiber photonic transmitter chips in cities? Options: A. To replace fiber optic cables, B. To relay terahertz signals over long-range distances, C. To increase data security, D. To reduce power consumption Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that none of the generated MCQs directly match the ground truth MCQ in terms of question content, options, and overall intent.
+
+However, I can suggest a generated MCQ that is somewhat related to the topic of the ground truth MCQ, which is the comparison of copper metal wires and fiber optics.
+
+The most similar generated MCQ is Question 4: "Compared to electricity or radio, what is a characteristic of fiber optic signals?"
+
+Although this question does not directly address the influence of copper metal wires on the transmission of information as electrical signals, it does compare fiber optic signals to electricity, which is related to the topic of the ground truth MCQ.
+
+Therefore, the index of the most similar generated MCQ is 4.
+
+Please note that this is not a perfect match, and a more accurate generated MCQ would be needed to fully match the ground truth MCQ.
+
+Match Phase - Ground Truth Set 2, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: When a ray of light inside glass hits its surface at an angle, what happens to the ray when it exits into air?
+Options: A. the ray continues, with no loss power, B. the ray reflects, C. the ray undergoes total internal reflection, D. the ray bends, or refracts
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: In 2012, a team of Japanese and Danish researchers set a world record by transmitting how much data over a fifty-kilometer cable in a second? Options: A. 1 megabit, B. 1 gigabit, C. 1 petabit, D. 1 exabit Correct Option: None
+Question 2: What is the primary material used to make fiber optic strands? Options: A. Copper, B. Glass, C. Plastic, D. Metal Correct Option: None
+Question 3: What phenomenon allows light to travel within glass fiber optic strands? Options: A. Total external reflection, B. Total internal reflection, C. Refraction, D. Diffraction Correct Option: None
+Question 4: Compared to electricity or radio, what is a characteristic of fiber optic signals? Options: A. They degrade quickly over short distances, B. They degrade slowly over great distances, C. They are unaffected by distance, D. They are affected by weather Correct Option: None
+Question 5: What is the approximate length of fiber optic cable that crisscrosses our ocean floors? Options: A. 100,000 kilometers, B. 1 million kilometers, C. 10 million kilometers, D. 100 million kilometers Correct Option: None
+Question 6: What is the term for the increasing reliance on remote computer servers and data centers? Options: A. Cloud computing, B. Fiber optic computing, C. Integrated photonics, D. Mobile computing Correct Option: None
+Question 7: What is a major problem associated with traditional electrical cables in data centers? Options: A. Bandwidth demand, B. Heat waste, C. Data security, D. Power outages Correct Option: None
+Question 8: What technology has come to the rescue to address the limitations of fiber optics? Options: A. Integrated photonics, B. Fiber optic computing, C. Cloud computing, D. Mobile computing Correct Option: None
+Question 9: What is the potential benefit of using terahertz frequencies to carry data? Options: A. Thousands of times slower data transfer, B. Thousands of times faster data transfer, C. Increased data security, D. Reduced power consumption Correct Option: None
+Question 10: What is the role of tiny wireless-to-fiber photonic transmitter chips in cities? Options: A. To replace fiber optic cables, B. To relay terahertz signals over long-range distances, C. To increase data security, D. To reduce power consumption Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 3: What phenomenon allows light to travel within glass fiber optic strands? Options: A. Total external reflection, B. Total internal reflection, C. Refraction, D. Diffraction.
+
+Although the question is not an exact match, the correct answer (Total internal reflection) and the concept of light traveling within glass are closely related to the ground truth MCQ. The ground truth MCQ asks about what happens to a ray of light when it exits into air, and the correct answer is "the ray bends, or refracts." However, the transcript explains that when a ray of light travels at a shallow angle, it stays trapped, bouncing along inside the glass due to total internal reflection.
+
+Index of the most similar generated MCQ: 3.
+
+Match Phase - Ground Truth Set 2, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: Why can fiber optics enable the internet to evolve into a “planetary computer,” where distance doesn’t limit cloud computing?
+Options: A. because a fiber optic carries many channels of data, B. because the undersea fiber optic network can wind around the Earth nearly thirty times, C. because a fiber optic’s distance weakly limits a channel’s data rate, D. because a fiber optic that isn’t bent, won’t let light leak out
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: In 2012, a team of Japanese and Danish researchers set a world record by transmitting how much data over a fifty-kilometer cable in a second? Options: A. 1 megabit, B. 1 gigabit, C. 1 petabit, D. 1 exabit Correct Option: None
+Question 2: What is the primary material used to make fiber optic strands? Options: A. Copper, B. Glass, C. Plastic, D. Metal Correct Option: None
+Question 3: What phenomenon allows light to travel within glass fiber optic strands? Options: A. Total external reflection, B. Total internal reflection, C. Refraction, D. Diffraction Correct Option: None
+Question 4: Compared to electricity or radio, what is a characteristic of fiber optic signals? Options: A. They degrade quickly over short distances, B. They degrade slowly over great distances, C. They are unaffected by distance, D. They are affected by weather Correct Option: None
+Question 5: What is the approximate length of fiber optic cable that crisscrosses our ocean floors? Options: A. 100,000 kilometers, B. 1 million kilometers, C. 10 million kilometers, D. 100 million kilometers Correct Option: None
+Question 6: What is the term for the increasing reliance on remote computer servers and data centers? Options: A. Cloud computing, B. Fiber optic computing, C. Integrated photonics, D. Mobile computing Correct Option: None
+Question 7: What is a major problem associated with traditional electrical cables in data centers? Options: A. Bandwidth demand, B. Heat waste, C. Data security, D. Power outages Correct Option: None
+Question 8: What technology has come to the rescue to address the limitations of fiber optics? Options: A. Integrated photonics, B. Fiber optic computing, C. Cloud computing, D. Mobile computing Correct Option: None
+Question 9: What is the potential benefit of using terahertz frequencies to carry data? Options: A. Thousands of times slower data transfer, B. Thousands of times faster data transfer, C. Increased data security, D. Reduced power consumption Correct Option: None
+Question 10: What is the role of tiny wireless-to-fiber photonic transmitter chips in cities? Options: A. To replace fiber optic cables, B. To relay terahertz signals over long-range distances, C. To increase data security, D. To reduce power consumption Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 4. 
+
+Although Question 4 does not perfectly match the ground truth MCQ, its content is related to the characteristics of fiber optic signals, which is the key concept in the ground truth MCQ. The correct option in Question 4 (B. They degrade slowly over great distances) is also related to the idea that distance weakly limits a channel's data rate in fiber optics, which is the main idea in the ground truth MCQ.
+
+However, it's worth noting that none of the generated MCQs perfectly match the ground truth MCQ in terms of question intent, options, and content.
+
+Match Phase - Ground Truth Set 2, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: How do integrated photonics help solve the power problems of growing data centers?
+Options: A. integrated photonic chips allow electrical cables between servers to be swapped out for power efficient fiber optics, B. integrated photonic chips allow all the devices in a hundred kilometer fiber optic network to be shrunk down into a tiny chip, C. integrated photonic chips allow electrical cables between servers to be swapped out for power efficient silicon wires, D. integrated photonic chips allow silicon wires to convert electrical signals to light signals, and back
+Correct Option: A
+
+**Generated MCQs**:
+Question 1: In 2012, a team of Japanese and Danish researchers set a world record by transmitting how much data over a fifty-kilometer cable in a second? Options: A. 1 megabit, B. 1 gigabit, C. 1 petabit, D. 1 exabit Correct Option: None
+Question 2: What is the primary material used to make fiber optic strands? Options: A. Copper, B. Glass, C. Plastic, D. Metal Correct Option: None
+Question 3: What phenomenon allows light to travel within glass fiber optic strands? Options: A. Total external reflection, B. Total internal reflection, C. Refraction, D. Diffraction Correct Option: None
+Question 4: Compared to electricity or radio, what is a characteristic of fiber optic signals? Options: A. They degrade quickly over short distances, B. They degrade slowly over great distances, C. They are unaffected by distance, D. They are affected by weather Correct Option: None
+Question 5: What is the approximate length of fiber optic cable that crisscrosses our ocean floors? Options: A. 100,000 kilometers, B. 1 million kilometers, C. 10 million kilometers, D. 100 million kilometers Correct Option: None
+Question 6: What is the term for the increasing reliance on remote computer servers and data centers? Options: A. Cloud computing, B. Fiber optic computing, C. Integrated photonics, D. Mobile computing Correct Option: None
+Question 7: What is a major problem associated with traditional electrical cables in data centers? Options: A. Bandwidth demand, B. Heat waste, C. Data security, D. Power outages Correct Option: None
+Question 8: What technology has come to the rescue to address the limitations of fiber optics? Options: A. Integrated photonics, B. Fiber optic computing, C. Cloud computing, D. Mobile computing Correct Option: None
+Question 9: What is the potential benefit of using terahertz frequencies to carry data? Options: A. Thousands of times slower data transfer, B. Thousands of times faster data transfer, C. Increased data security, D. Reduced power consumption Correct Option: None
+Question 10: What is the role of tiny wireless-to-fiber photonic transmitter chips in cities? Options: A. To replace fiber optic cables, B. To relay terahertz signals over long-range distances, C. To increase data security, D. To reduce power consumption Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is not explicitly present in the provided options. However, based on the content and intent, I can suggest that Question 8 is the closest match, as it mentions the technology that has come to the rescue to address the limitations of fiber optics, which is related to the concept of integrated photonics helping solve the power problems of growing data centers.
+
+However, if I had to choose a question that is more closely related to the ground truth MCQ, I would say that it is not present in the provided options. The ground truth MCQ is very specific about how integrated photonics help solve the power problems of growing data centers, and none of the generated MCQs exactly match this intent.
+
+But if I really had to choose from the given options, I would say:
+ Question 8
+
+Match Phase - Ground Truth Set 2, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: How will integrated photonics help solve the bandwidth problems of growing wireless demand?
+Options: A. integrated photonic chips will allow gigahertz wireless signals to be replaced by terahertz wireless signals, B. integrated photonic chips will help relay short-range hyperfast data rate wireless signals, via fiber optics, over long-range distances, C. integrated photonic chips will be a stable middleman to carry hyperfast wireless signals over long-range distances, D. integrated photonic chips will help relieve the absorption of terahertz wireless signals by moisture in the air
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: In 2012, a team of Japanese and Danish researchers set a world record by transmitting how much data over a fifty-kilometer cable in a second? Options: A. 1 megabit, B. 1 gigabit, C. 1 petabit, D. 1 exabit Correct Option: None
+Question 2: What is the primary material used to make fiber optic strands? Options: A. Copper, B. Glass, C. Plastic, D. Metal Correct Option: None
+Question 3: What phenomenon allows light to travel within glass fiber optic strands? Options: A. Total external reflection, B. Total internal reflection, C. Refraction, D. Diffraction Correct Option: None
+Question 4: Compared to electricity or radio, what is a characteristic of fiber optic signals? Options: A. They degrade quickly over short distances, B. They degrade slowly over great distances, C. They are unaffected by distance, D. They are affected by weather Correct Option: None
+Question 5: What is the approximate length of fiber optic cable that crisscrosses our ocean floors? Options: A. 100,000 kilometers, B. 1 million kilometers, C. 10 million kilometers, D. 100 million kilometers Correct Option: None
+Question 6: What is the term for the increasing reliance on remote computer servers and data centers? Options: A. Cloud computing, B. Fiber optic computing, C. Integrated photonics, D. Mobile computing Correct Option: None
+Question 7: What is a major problem associated with traditional electrical cables in data centers? Options: A. Bandwidth demand, B. Heat waste, C. Data security, D. Power outages Correct Option: None
+Question 8: What technology has come to the rescue to address the limitations of fiber optics? Options: A. Integrated photonics, B. Fiber optic computing, C. Cloud computing, D. Mobile computing Correct Option: None
+Question 9: What is the potential benefit of using terahertz frequencies to carry data? Options: A. Thousands of times slower data transfer, B. Thousands of times faster data transfer, C. Increased data security, D. Reduced power consumption Correct Option: None
+Question 10: What is the role of tiny wireless-to-fiber photonic transmitter chips in cities? Options: A. To replace fiber optic cables, B. To relay terahertz signals over long-range distances, C. To increase data security, D. To reduce power consumption Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 10. 
+
+This question has a similar intent to the ground truth MCQ, as it asks about the role of tiny wireless-to-fiber photonic transmitter chips in cities, which is related to how integrated photonics will help solve the bandwidth problems of growing wireless demand. The correct option for Question 10 (B. To relay terahertz signals over long-range distances) is also similar to the correct option for the ground truth MCQ (B. integrated photonic chips will help relay short-range hyperfast data rate wireless signals, via fiber optics, over long-range distances). 
+
+Therefore, the index of the most similar generated MCQ is 10.
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 1, Matched Generated Question 1
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft admired the work of:
+Options: A. Stephen King, B. Jane Austen, C. Jorge Luis Borges, D. Edgar Allan Poe and Robert Chambers
+Correct Option: D
+
+**Generated MCQ**:
+Question: What type of stories did Howard Phillips Lovecraft grow up admiring?
+Options: A. Science fiction stories, B. Gothic horror stories, C. Fantasy stories, D. Mystery stories
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Lovecraft admired the work of:
+Options: A. Stephen King, B. Jane Austen, C. Jorge Luis Borges, D. Edgar Allan Poe and Robert Chambers
+Correct Option: D
+
+**Generated MCQ**:
+Question: What type of stories did Howard Phillips Lovecraft grow up admiring?
+Options: A. Science fiction stories, B. Gothic horror stories, C. Fantasy stories, D. Mystery stories
+Correct Option: B (Note: Although the generated MCQ does not have a correct option explicitly stated, based on the transcript, the correct answer is indeed B. Gothic horror stories)
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but it focuses on the type of stories Lovecraft admired rather than the specific authors.)
+- Correct Answer Matching Score: 0.8000 (The correct answer in the generated question is not an exact match to the ground truth answer, but it is related. The ground truth answer mentions specific authors, while the generated answer mentions the type of stories those authors wrote.)
+- Distractor Plausibility Score: 0.7000 (The distractors in the generated question are plausible but not as strong as they could be. They are all genres of fiction, but they do not have a direct connection to Lovecraft's influences.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.8250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 2, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft often incorporated ____ into his stories.
+Options: A. Folklore, B. Superstition, C. Scientific elements, D. Metanarratives
+Correct Option: C
+
+**Generated MCQ**:
+Question: What is the name of the short story in which a strange meteorite falls near a farmhouse, mutating the farm into a nightmarish hellscape?
+Options: A. "At the Mountains of Madness", B. "The Colour out of Space", C. "The Call of Cthulhu", D. "The Shadow Over Innsmouth"
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Lovecraft often incorporated ____ into his stories.
+Options: A. Folklore, B. Superstition, C. Scientific elements, D. Metanarratives
+Correct Option: C
+
+**Generated MCQ**:
+Question: What is the name of the short story in which a strange meteorite falls near a farmhouse, mutating the farm into a nightmarish hellscape?
+Options: A. "At the Mountains of Madness", B. "The Colour out of Space", C. "The Call of Cthulhu", D. "The Shadow Over Innsmouth"
+Correct Option: B (Note: Although the generated MCQ does not have a correct option marked, based on the transcript, the correct answer is indeed B)
+
+**Scores**:
+- Relevance Score: 0.5000 (The generated question is related to Lovecraft's work, but it does not directly address the incorporation of scientific elements into his stories.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible, but not extremely challenging to eliminate.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and easy to understand.)
+- Total Score: 0.5375
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 3, Matched Generated Question 6
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s stories often leave us with a sense of cosmic indifference, which is:
+Options: A. The feeling that we are insignificant specks in the universe, B. The idea that we are powerful creatures in charge of our destiny, C. A theory of biological processes, D. All of the above
+Correct Option: A
+
+**Generated MCQ**:
+Question: What is the occupation of many of Lovecraft's protagonists?
+Options: A. Researchers, anthropologists, or antiquarians, B. Scientists, engineers, or mathematicians, C. Writers, artists, or musicians, D. Soldiers, politicians, or businesspeople
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s stories often leave us with a sense of cosmic indifference, which is:
+Options: A. The feeling that we are insignificant specks in the universe, B. The idea that we are powerful creatures in charge of our destiny, C. A theory of biological processes, D. All of the above
+Correct Option: A
+
+**Generated MCQ**:
+Question: What is the occupation of many of Lovecraft's protagonists?
+Options: A. Researchers, anthropologists, or antiquarians, B. Scientists, engineers, or mathematicians, C. Writers, artists, or musicians, D. Soldiers, politicians, or businesspeople
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.0000 (The generated question does not align with the content and intent of the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.5000 (The distractors in the generated question are plausible but not relevant to the ground truth question.)
+- Clarity and Readability Score: 1.0000 (The question and options in the generated question are clear and understandable.)
+- Total Score: 0.3750
+
+However, since the generated question does not match the ground truth question, a new generated question should be provided for a more accurate evaluation.
+
+Here is an example of a new generated question that matches the ground truth question:
+
+**Generated MCQ**:
+Question: What is the sense of cosmic indifference that Lovecraft's stories often convey?
+Options: A. The feeling that we are insignificant specks in the universe, B. The idea that we are powerful creatures in charge of our destiny, C. A theory of biological processes, D. All of the above
+Correct Option: A
+
+**Scores**:
+- Relevance Score: 1.0000
+- Correct Answer Matching Score: 1.0000
+- Distractor Plausibility Score: 0.7500
+- Clarity and Readability Score: 1.0000
+- Total Score: 0.9375
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 4, Matched Generated Question 7
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: The Cthulhu Mythos is a:
+Options: A. Role-playing game, B. Shared universe, C. Series of movies, D. The title of a short story
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the name of the shared universe created by Lovecraft and his contemporaries?
+Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Weird Fiction Universe, D. The Cosmic Horror Universe
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: The Cthulhu Mythos is a:
+Options: A. Role-playing game, B. Shared universe, C. Series of movies, D. The title of a short story
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the name of the shared universe created by Lovecraft and his contemporaries?
+Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Weird Fiction Universe, D. The Cosmic Horror Universe
+Correct Option: None (However, based on the context, A is the correct answer)
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but it asks for the name of the shared universe instead of its definition.)
+- Correct Answer Matching Score: 0.8000 (Although the generated question does not explicitly state the correct answer, option A is the correct answer based on the context.)
+- Distractor Plausibility Score: 0.7000 (The distractors in the generated question are plausible but not as strong as those in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question is clear and easy to understand, but the options might be confusing for those unfamiliar with the topic.)
+- Total Score: 0.8250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 5, Matched Generated Question 10
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s work has inspired numerous:
+Options: A. Video games, B. Short stories and novels, C. Movies, D. Comic books, E. All of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: What has Lovecraft's work inspired, despite his literary legacy?
+Options: A. Only a few short stories and novels, B. Numerous short stories, novels, tabletop games, and cultural icons, C. Only a few films and TV shows, D. Only a few video games and comic books
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s work has inspired numerous:
+Options: A. Video games, B. Short stories and novels, C. Movies, D. Comic books, E. All of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: What has Lovecraft's work inspired, despite his literary legacy?
+Options: A. Only a few short stories and novels, B. Numerous short stories, novels, tabletop games, and cultural icons, C. Only a few films and TV shows, D. Only a few video games and comic books
+Correct Option: None (However, based on the context, the correct answer should be B)
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but the phrasing is slightly different)
+- Correct Answer Matching Score: 0.8000 (Although the correct answer is not explicitly marked in the generated question, option B is the closest match to the ground truth answer)
+- Distractor Plausibility Score: 0.7000 (The distractors in the generated question are somewhat plausible, but they could be more convincing)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand)
+- Total Score: 0.8250
+
+Scoring Phase - Ground Truth Set 2, Ground Truth Question 1, Matched Generated Question 4
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: What are the two ways copper metal wires influence the transmission of information as electrical signals?
+Options: A. data rate and distance, B. distance and time, C. data rate and power, D. time and power
+Correct Option: C
+
+**Generated MCQ**:
+Question: Compared to electricity or radio, what is a characteristic of fiber optic signals?
+Options: A. They degrade quickly over short distances, B. They degrade slowly over great distances, C. They are unaffected by distance, D. They are affected by weather
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What are the two ways copper metal wires influence the transmission of information as electrical signals?
+Options: A. data rate and distance, B. distance and time, C. data rate and power, D. time and power
+Correct Option: C
+
+**Generated MCQ (Modified to match the Ground Truth MCQ)**:
+Since there is no directly matching generated MCQ, I will use the following generated MCQ for evaluation purposes. However, I will modify it to better match the ground truth MCQ.
+Question: What are the limitations of using copper metal wires for transmitting information as electrical signals?
+Options: A. data rate and distance, B. distance and time, C. data rate and power, D. time and power
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the limitations of copper metal wires, but it does not exactly match the ground truth question.)
+- Correct Answer Matching Score: 1.0000 (The correct answer option in the generated question matches the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but they could be more specific to the context of copper metal wires.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable, but the generated question could be more concise.)
+- Total Score: 0.8750
+
+Scoring Phase - Ground Truth Set 2, Ground Truth Question 2, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: When a ray of light inside glass hits its surface at an angle, what happens to the ray when it exits into air?
+Options: A. the ray continues, with no loss power, B. the ray reflects, C. the ray undergoes total internal reflection, D. the ray bends, or refracts
+Correct Option: D
+
+**Generated MCQ**:
+Question: What phenomenon allows light to travel within glass fiber optic strands?
+Options: A. Total external reflection, B. Total internal reflection, C. Refraction, D. Diffraction
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: When a ray of light inside glass hits its surface at an angle, what happens to the ray when it exits into air?
+Options: A. the ray continues, with no loss power, B. the ray reflects, C. the ray undergoes total internal reflection, D. the ray bends, or refracts
+Correct Option: D
+
+**Generated MCQ**:
+Question: What phenomenon allows light to travel within glass fiber optic strands?
+Options: A. Total external reflection, B. Total internal reflection, C. Refraction, D. Diffraction
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of light traveling within glass, but it doesn't directly address the specific scenario described in the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but the correct answer is not among the options.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 2, Ground Truth Question 3, Matched Generated Question 4
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: Why can fiber optics enable the internet to evolve into a “planetary computer,” where distance doesn’t limit cloud computing?
+Options: A. because a fiber optic carries many channels of data, B. because the undersea fiber optic network can wind around the Earth nearly thirty times, C. because a fiber optic’s distance weakly limits a channel’s data rate, D. because a fiber optic that isn’t bent, won’t let light leak out
+Correct Option: C
+
+**Generated MCQ**:
+Question: Compared to electricity or radio, what is a characteristic of fiber optic signals?
+Options: A. They degrade quickly over short distances, B. They degrade slowly over great distances, C. They are unaffected by distance, D. They are affected by weather
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Why can fiber optics enable the internet to evolve into a “planetary computer,” where distance doesn’t limit cloud computing?
+Options: A. because a fiber optic carries many channels of data, B. because the undersea fiber optic network can wind around the Earth nearly thirty times, C. because a fiber optic’s distance weakly limits a channel’s data rate, D. because a fiber optic that isn’t bent, won’t let light leak out
+Correct Option: C
+
+**Generated MCQ**:
+Question: Compared to electricity or radio, what is a characteristic of fiber optic signals?
+Options: A. They degrade quickly over short distances, B. They degrade slowly over great distances, C. They are unaffected by distance, D. They are affected by weather
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to fiber optics, but it doesn't directly address the concept of distance limitations in cloud computing.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but option D is less relevant to the topic.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 2, Ground Truth Question 4, Matched Generated Question 8
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: How do integrated photonics help solve the power problems of growing data centers?
+Options: A. integrated photonic chips allow electrical cables between servers to be swapped out for power efficient fiber optics, B. integrated photonic chips allow all the devices in a hundred kilometer fiber optic network to be shrunk down into a tiny chip, C. integrated photonic chips allow electrical cables between servers to be swapped out for power efficient silicon wires, D. integrated photonic chips allow silicon wires to convert electrical signals to light signals, and back
+Correct Option: A
+
+**Generated MCQ**:
+Question: What technology has come to the rescue to address the limitations of fiber optics?
+Options: A. Integrated photonics, B. Fiber optic computing, C. Cloud computing, D. Mobile computing
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: How do integrated photonics help solve the power problems of growing data centers?
+Options: A. integrated photonic chips allow electrical cables between servers to be swapped out for power efficient fiber optics, B. integrated photonic chips allow all the devices in a hundred kilometer fiber optic network to be shrunk down into a tiny chip, C. integrated photonic chips allow electrical cables between servers to be swapped out for power efficient silicon wires, D. integrated photonic chips allow silicon wires to convert electrical signals to light signals, and back
+Correct Option: A
+
+**Generated MCQ**:
+Question: What technology has come to the rescue to address the limitations of fiber optics?
+Options: A. Integrated photonics, B. Fiber optic computing, C. Cloud computing, D. Mobile computing
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.5000 (The generated question is related to the topic of integrated photonics, but it does not specifically address the power problems of growing data centers.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.2500 (The distractors in the generated question are not very plausible, as they are not directly related to the topic of addressing the limitations of fiber optics.)
+- Clarity and Readability Score: 0.7500 (The question and options are clear and understandable, but the correct answer is not specified.)
+- Total Score: 0.3750
+
+Scoring Phase - Ground Truth Set 2, Ground Truth Question 5, Matched Generated Question 10
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+In 2012, a team of Japanese and Danish researchers
+set a world record, transmitting 1 petabit of data— that’s 10,000 hours of high-def video— over a fifty-kilometer cable, in a second. This wasn’t just any cable. It was a souped-up version 
+of fiber optics— the hidden network that links our planet and makes the internet possible. For decades, long-distance communications 
+between cities and countries were carried by electrical signals, in wires made of copper. This was slow and inefficient, with metal wires limiting data rates 
+and power lost as wasted heat. But in the late 20th century, engineers mastered a far superior method
+of transmission. Instead of metal, glass can be carefully melted and 
+drawn into flexible fiber strands, hundreds of kilometers long 
+and no thicker than human hair. And instead of electricity, these strands carry pulses of light, 
+representing digital data. But how does light travel within glass, 
+rather than just pass through it? The trick lies in a phenomenon known 
+as total internal reflection. Since Isaac Newton’s time, lensmakers and scientists have 
+known that light bends when it passes between air and 
+materials like water or glass. When a ray of light inside glass hits its 
+surface at a steep angle, it refracts, or bends 
+as it exits into air. But if the ray travels at a shallow angle, it’ll bend so far that it stays trapped, bouncing along inside the glass. Under the right condition, something normally transparent to light
+can instead hide it from the world. Compared to electricity or radio, fiber optic signals barely degrade 
+over great distances— a little power does scatter away, and fibers can’t bend too sharply, otherwise the light leaks out. Today, a single optical fiber carries many
+wavelengths of light, each a different channel of data. And a fiber optic cable contains hundreds 
+of these fiber strands. Over a million kilometers of cable 
+crisscross our ocean floors to link the continents— that’s enough to wind around the 
+Equator nearly thirty times. With fiber optics, distance hardly limits data, which has allowed the internet to evolve
+into a planetary computer. Increasingly, our mobile work and play rely on legions 
+of overworked computer servers, warehoused in gigantic data centers 
+flung across the world. This is called cloud computing, and it leads to two big problems: heat waste and bandwidth demand. The vast majority of internet traffic 
+shuttles around inside data centers, where thousands of servers are connected 
+by traditional electrical cables. Half of their running power 
+is wasted as heat. Meanwhile, wireless bandwidth demand 
+steadily marches on, and the gigahertz signals used in our 
+mobile devices are reaching their data delivery limits. It seems fiber optics has been too good
+for its own good, fueling overly-ambitious cloud and mobile
+computing expectations. But a related technology, integrated 
+photonics, has come to the rescue. Light can be guided not 
+only in optical fibers, but also in ultrathin silicon wires. Silicon wires don’t guide light
+as well as fiber. But they do enable engineers to shrink all the devices in a hundred kilometer 
+fiber optic network down to tiny photonic chips that plug
+into servers and convert their electrical signals 
+to optical and back. These electricity-to-light chips allow for
+wasteful electrical cables in data centers to be swapped out for 
+power-efficient fiber. Photonic chips can help break open 
+wireless bandwidth limitations, too. Researchers are working to replace mobile
+gigahertz signals with terahertz frequencies, to carry data thousands of times faster. But these are short-range signals: they get absorbed by moisture in the air, or blocked by tall buildings. With tiny wireless-to-fiber photonic 
+transmitter chips distributed throughout cities, terahertz signals can be relayed over 
+long-range distances. They can do so via a stable middleman, optical fiber, and make hyperfast 
+wireless connectivity a reality. For all of human history, light has gifted us with sight and heat, serving as a steady companion while we
+explored and settled the physical world. Now, we’ve saddled light with information
+and redirected it to run along a fiber optic superhighway— with many different integrated 
+photonic exits— to build an even more expansive, 
+virtual world.
+
+**Ground Truth MCQ**:
+Question: How will integrated photonics help solve the bandwidth problems of growing wireless demand?
+Options: A. integrated photonic chips will allow gigahertz wireless signals to be replaced by terahertz wireless signals, B. integrated photonic chips will help relay short-range hyperfast data rate wireless signals, via fiber optics, over long-range distances, C. integrated photonic chips will be a stable middleman to carry hyperfast wireless signals over long-range distances, D. integrated photonic chips will help relieve the absorption of terahertz wireless signals by moisture in the air
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the role of tiny wireless-to-fiber photonic transmitter chips in cities?
+Options: A. To replace fiber optic cables, B. To relay terahertz signals over long-range distances, C. To increase data security, D. To reduce power consumption
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: How will integrated photonics help solve the bandwidth problems of growing wireless demand?
+Options: A. integrated photonic chips will allow gigahertz wireless signals to be replaced by terahertz wireless signals, B. integrated photonic chips will help relay short-range hyperfast data rate wireless signals, via fiber optics, over long-range distances, C. integrated photonic chips will be a stable middleman to carry hyperfast wireless signals over long-range distances, D. integrated photonic chips will help relieve the absorption of terahertz wireless signals by moisture in the air
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the role of tiny wireless-to-fiber photonic transmitter chips in cities?
+Options: A. To replace fiber optic cables, B. To relay terahertz signals over long-range distances, C. To increase data security, D. To reduce power consumption
+Correct Option: None
+
+**Scores**:
+
+- Relevance Score: 0.8000 (The generated question is related to the ground truth question, but it focuses on a specific aspect of the solution, which is the role of tiny wireless-to-fiber photonic transmitter chips in cities.)
+- Correct Answer Matching Score: 0.5000 (Although the correct answer option is not explicitly stated in the generated question, option B is a close match to the correct answer in the ground truth question.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are somewhat plausible, but they are not as strong as those in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.7000
+
