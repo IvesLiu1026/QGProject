@@ -1,0 +1,83 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+More than 2,500 years ago, one of ancient Greece’s most celebrated 
+popstars and erotic poets enraptured listeners. In one legend, a prominent Athenian heard
+his nephew singing one of their songs and enjoyed it so much that he asked 
+the boy to teach it to him— “So that I may learn it and die,” he said. So, who was this revered figure? Her name was Sappho. She lived on the Greek island 
+of Lesbos around 600 BCE. Like other singer-songwriters of the time, she sang while playing the lyre, a stringed instrument from which
+the term “lyrics” is derived. But Sappho lyrics offered a uniquely
+intimate perspective on love, passion, and longing. She’s the first on record to combine the 
+words “bitter” and “sweet,” for instance, to describe at once the thrills 
+and devastations of romance. Sappho was an aristocrat thought
+to have married a man, though none of her surviving
+work mentions him. It does reference other family
+as well as festivals, colorful clothing, and growing old. But Sappho is best known for her lyrics
+about homoerotic desire for women. In one song, as her female companion
+departs tearfully, Sappho says, “let me remind you /
+... the lovely times we shared.” She describes flower garlands, perfumes,
+“and,” she says, “on soft beds / 
+... you quenched your desire.” In another, she describes 
+a friend in a distant city, “Pacing far away, her gentle heart
+devoured by powerful desire, she remembers slender Atthis.” The word “Lesbian” means 
+someone from Lesbos, but, because of Sappho, 
+it now also describes a woman who’s gay. In ancient Greece, the norm was 
+for everyone to marry and have children. While men were usually permitted to have
+homosexual relationships based on their status, 
+women weren’t. But it appears that, 
+on Lesbos at this time, aristocratic women generally
+had more freedom. Yet the details of Sappho’s
+life remain mysterious, partially because only fragments 
+of her poetry survive. In ancient times, however, 
+so much of it persisted that it seemed it would last forever. Admirers performed Sappho cover songs
+and committed her poetry to papyrus, parchment, and pottery. Three centuries after Sappho’s death, a Greek author declared that her words
+would endure “as long as ships sail from the Nile.” Another century later, the Library of  Alexandria housed 
+nine scrolls of her work, numbering over 10,000 lines. But natural forces eroded the collection. And monks, tasked with preserving 
+ancient writing, likely neglected or destroyed her work. One 2nd century Christian leader 
+called Sappho “a whore who sang about her
+own licentiousness.” Later, a Pope and Archbishop
+ordered her poetry burned. Almost all of it had vanished
+by the Middle Ages. Then, about a century ago, people began rediscovering 
+Sappho’s poetry— in locations like an ancient Egyptian 
+garbage dump. Now, we have around 700 lines, representing less than 10%
+of Sappho’s total known work. We only have one complete poem of hers. About a dozen others are substantial,
+but most are mere fragments. New pieces of Sappho’s songs 
+probably will be found. Some may already be sitting 
+in museum archives, to be revealed when technology 
+allows scholars to read through scrolls 
+too fragile to unroll. What we are currently left 
+with is an incomplete record— and many historical rumors. Ovid insisted that Sappho fell 
+in love with a ferryman and, upon being rejected,
+leapt from a cliff to her death. Another tale asserts that she ran 
+a girls’ school and those mentioned in her poems
+were merely students for whom she felt platonic affection. Current consensus is that these stories, which ridicule Sappho 
+or deny her work’s homoeroticism, are probably all untrue artifacts
+of misogyny and homophobia. Despite the distortions 
+of the intervening millennia, Sappho’s words reach across time
+and resonate today. More than 2,000 years ago, she wrote: “I say someone in another time 
+will remember us” And, thankfully, we do.
+
+**Ground Truth MCQ**:
+Question: Sappho lived in:
+Options: A. Athens, B. Ithaca, C. Lesbos, D. Santorini
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: Who was the ancient Greek poet celebrated for her intimate and personal poetry about love, passion, and longing? Options: A. Sappho, B. Ovid, C. Homer, D. Aristophanes Correct Option: A
+Question 2: What instrument did Sappho typically play while singing her songs, which also gave rise to the term "lyrics" in poetry? Options: A. Lyre, B. Harp, C. Flute, D. Drums Correct Option: A
+Question 3: What is the origin of the term "lyrics" in poetry, and how is it related to Sappho's performances? Options: A. From the Greek word for "song", B. From the name of a famous poet, C. From the instrument "lyre" that Sappho played, D. From the Latin word for "verse" Correct Option: C
+Question 4: How would you describe the tone of Sappho's poetry, particularly when she writes about love and desire? Options: A. Formal and objective, reflecting the societal norms of ancient Greece, B. Intimate and personal, offering a unique perspective on love and desire, C. Sarcastic and humorous, poking fun at the conventions of love, D. Angry and bitter, reflecting a sense of frustration and disillusionment Correct Option: B
+Question 5: What were the social norms regarding marriage and relationships in ancient Greece, and how did they differ for men and women? Options: A. Men and women were free to choose their partners, and same-sex relationships were widely accepted, B. Everyone was expected to marry and have children, but men were allowed to have extramarital relationships, C. Only men were allowed to have homosexual relationships, while women were expected to be chaste, D. Women were allowed to have multiple husbands, while men were expected to be monogamous Correct Option: B
+Question 6: Why do you think Sappho's poetry was neglected or destroyed by monks and Christian leaders? Options: A. Because it was considered too secular and did not conform to Christian values, B. Because it was deemed too erotic and licentious, and was seen as a threat to moral standards, C. Because it was written by a woman, and was therefore considered inferior or unimportant, D. Because it was too old-fashioned and no longer relevant to contemporary society Correct Option: B
+Question 7: What is the current state of Sappho's surviving work, and what are the prospects for recovering more of her poetry in the future? Options: A. We have all of her poems and songs, and there is no need for further recovery efforts, B. We have around 50% of her total known work, and more is likely to be discovered in the future, C. We have less than 10% of her total known work, but new technologies and discoveries may lead to the recovery of more poetry, D. We have none of her original work, and it is unlikely that any will be recovered in the future Correct Option: C
+Question 8: How do you think the historical rumors about Sappho's life, such as her falling in love with a ferryman, reflect the attitudes of the time towards her and her work? Options: A. They show a deep respect for her work and legacy, and a desire to understand her as a person, B. They demonstrate a neutral and objective view of her life, and a commitment to factual accuracy, C. They reveal a misogynistic and homophobic bias, and a desire to marginalize or erase her, D. They indicate a lack of interest in her personal life, and a focus on her poetry alone Correct Option: C
+Question 9: What does the phrase "I say someone in another time will remember us" suggest about Sappho's hopes for her legacy? Options: A. She wanted to be forgotten after her death, and did not care about her legacy, B. She hoped her work would be remembered for a short time, but did not expect it to endure, C. She believed her words would endure across time, and would continue to resonate with readers, D. She was unsure about the impact of her poetry, and did not know if it would be remembered Correct Option: C
+Question 10: Why do you think Sappho's poetry continues to resonate with readers today, despite being written over 2,500 years ago? Options: A. Because it deals with universal themes of love and desire that are still relevant today, B. Because it is a product of its time and reflects ancient Greek culture, which is still studied and admired today, C. Because it is a rare example of ancient Greek literature, and is therefore valuable for historical and scholarly purposes, D. Because it has been extensively studied and analyzed by scholars, who have helped to keep it alive and relevant Correct Option: A
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+

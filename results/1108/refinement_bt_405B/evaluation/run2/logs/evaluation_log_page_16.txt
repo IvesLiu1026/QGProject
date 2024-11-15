@@ -1,0 +1,89 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+The night before the Death Race 
+across the Wastelands is set to begin, your uncle, 
+the great inventor Slate Kanoli, got kidnapped 
+by the ruthless No-Side gang. The only way to get him back 
+is to race his Coil Runner against the gang yourself. Win and they’ll give back your uncle. Lose and you’ll forfeit the Coil Runner 
+and all his other creations. As the grueling race gets underway, you find yourself falling further 
+and further behind. Your only chance is to take a shortcut 
+your uncle told you about–– the Flux Ravine gambit. Fortunately, the Coil Runner comes 
+equipped with emergency turbo thrusters. Unfortunately, your uncle 
+was a notorious tinkerer, and the system still had some kinks 
+to work out. Just minor things 
+like the ignition exploding, the reactor leaking, 
+or the oxygen levels depleting— any of which would end 
+your racing career immediately. Before his kidnapping, Uncle Slate determined 
+that each of these critical failures was the ultimate result 
+of a chain reaction originating in the thrusters. He was also certain that while one factor
+could trigger two different effects, and two factors could each independently
+lead to the same effect, no effect is caused by two factors 
+in conjunction. However, Uncle Slate 
+never got around to pinpointing which thruster was responsible 
+for which error. All you have 
+are the notes from his test runs: 1. When thrusters B and C are on, 
+the Fuel gauge glows. 2.	When thrusters A, B, and D are on, the Fuel gauge glows 
+and the Helium tank rattles. 3.	When thrusters C, D, and E are on, the Fuel gauge glows 
+and the Gravitometer spins. 4.	When thrusters A, D, and E are on, the Gravitometer spins 
+and the Helium tank rattles. 5.	Shortly after the Helium tank rattles 
+and the Gravitometer spins, the Ignition explodes 
+and the Oxygen levels deplete. 6.	Shortly after the Fuel gauge glows 
+and the Gravitometer spins, the Reactor leaks. You need to use 
+as many thrusters as possible to give yourself the best chance 
+at clearing the gap, without triggering any of the three 
+catastrophic failures. Which thrusters should you activate? Answer in 3 Answer in 2 Answer in 1 The most important thing 
+to remember here is that even if we know 
+that one thing causes another, the converse is not necessarily true. For example, this panic switch 
+shuts off the coil runner’s engine. But the engine being off 
+doesn’t necessarily mean the panic switch was engaged— the coil runner could be 
+out of fuel, or damaged— or turned off normally. We can, however, 
+conclude that if the engine is running, the panic switch hasn’t been engaged. With that in mind, one way we can start 
+is to work backwards from the three defects that could 
+knock you out of the race. So let’s look at Slate’s last two notes, since they give direct information 
+about those. The Gravitometer spins in both cases, 
+but the results are different. That means the spinning Gravitometer can’t be the cause 
+of any particular malfunction. If it were, the same thing would happen 
+each time. So we can conclude that a glowing 
+Fuel gauge makes the reactor leak, while a rattling Helium tank 
+makes the Ignition explode and depletes the Oxygen levels. Once we know which two errors 
+we need to avoid, we can make a table 
+and use the logic of cause and effect to see which thrusters trigger them. Since the Helium tank is fine 
+during the first test run when thrusters B and C are active, we can assume neither makes it rattle. And from the third run 
+we know that D and E don’t either. That leaves thruster A, which was indeed used 
+in the second and fourth test runs where the Helium tank rattled. Now what causes the glowing Fuel gauge? From the fourth test run we know 
+it can’t be thrusters A, D, or E. So is the culprit, B, C, 
+or each of them separately? The answer can be found 
+in the second and third test runs: the fuel tank glowed in both, 
+but B was activated in one, and C in the other. That means the B and C thrusters each 
+independently make the Fuel tank glow. It looks like the A, B, and C 
+thrusters are off limits. Fortunately, the other two 
+are just enough to clear the jump. You rocket into first place and the gang 
+begrudgingly hands over your uncle. He thanks you profusely, 
+and decides to celebrate your victory with a cup of tea 
+from his latest contraption...
+
+**Ground Truth MCQ**:
+Question: Why do you have to win the race?
+Options: A. to rescue your uncle, B. to win the prize money, C. to claim the throne of the wastelands
+Correct Option: A
+
+**Generated MCQs**:
+Question 1: What is the main objective of the protagonist in the story? Options: A. To win the Death Race across the Wastelands, B. To build a new Coil Runner, C. To rescue the protagonist's uncle from the No-Side gang, D. To test the emergency turbo thrusters Correct Option: C
+Question 2: What is the consequence of losing the Death Race? Options: A. The protagonist will have to give up their own creations, B. The protagonist will have to forfeit the Coil Runner and all of Uncle Slate's creations, C. The protagonist will be kidnapped by the No-Side gang, D. The protagonist will have to pay a fine Correct Option: B
+Question 3: What is the purpose of the Flux Ravine gambit in the story? Options: A. To take a shortcut in the Death Race, B. To test the emergency turbo thrusters, C. To rescue Uncle Slate from the No-Side gang, D. To build a new Coil Runner Correct Option: A
+Question 4: What is the relationship between the thrusters and the malfunctions in the Coil Runner? Options: A. Each malfunction is caused by a single thruster, B. Each malfunction is caused by a combination of two thrusters, C. Each thruster can cause multiple malfunctions, but no malfunction is caused by two thrusters in conjunction, D. The malfunctions are random and not related to the thrusters Correct Option: C
+Question 5: What can be concluded from the fact that the Gravitometer spins in both cases, but the results are different? Options: A. The spinning Gravitometer is the cause of the malfunctions, B. The spinning Gravitometer is not the cause of any particular malfunction, C. The Gravitometer is faulty and needs to be replaced, D. The Gravitometer is not related to the malfunctions Correct Option: B
+Question 6: What is the most likely cause of the Ignition exploding and the Oxygen levels depleting? Options: A. The glowing Fuel gauge, B. The rattling Helium tank, C. The spinning Gravitometer, D. The malfunctioning thrusters Correct Option: B
+Question 7: How does the protagonist determine which thrusters trigger the malfunctions? Options: A. By using a table and the logic of cause and effect, B. By randomly testing the thrusters, C. By consulting Uncle Slate's notes, D. By using trial and error Correct Option: A
+Question 8: What is the outcome of the protagonist's analysis of the test runs? Options: A. Thrusters A, B, and C are safe to use, B. Thrusters A, B, and C are off limits, C. Thrusters D and E are off limits, D. The analysis is inconclusive Correct Option: B
+Question 9: What is the result of the protagonist's decision to use thrusters D and E? Options: A. The Coil Runner crashes and the protagonist loses the race, B. The Coil Runner clears the jump and the protagonist wins the race, C. The Coil Runner experiences a malfunction and the protagonist is forced to make an emergency landing, D. The Coil Runner runs out of fuel and the protagonist is stranded Correct Option: B
+Question 10: What is the significance of the panic switch in the story? Options: A. It is used to shut off the Coil Runner's engine in case of an emergency, B. It is used to activate the emergency turbo thrusters, C. It is used to reset the Gravitometer, D. It is not relevant to the story Correct Option: A
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+

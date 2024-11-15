@@ -1,0 +1,103 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Since 2000, the annual number of people
+convicted of crimes in the United States has stayed steady, but the average number
+of people in jail each year has shot up. How can that be? The answer lies in the bail system— which isn’t doing 
+what it was intended to do. The term "bail" refers to the release
+of people awaiting trial on condition that they return 
+to court to face charges. Countries around the world 
+use many variations of bail, and some don’t use it at all. The U.S. bail system relies primarily 
+on what’s called cash bail, which was supposed to work like this: When a person was accused of a crime, the judge would set 
+a reasonable price for bail. The accused would pay this fee 
+in order to be released from jail until the court reached 
+a verdict on the case. Once the case ended, 
+whether found guilty or innocent, they’d get the bail money back 
+if they made all their court appearances. The rationale behind this system 
+is that under U.S. law, people are presumed innocent
+until proven guilty— so someone accused of a crime 
+should not be imprisoned unless they’ve been convicted of a crime. But today, the bail system in the U.S. doesn’t honor the presumption
+of innocence. Instead, it subverts peoples’ rights
+and causes serious harm, particularly to people 
+in low-income communities and communities of color. A key reason why is the cost of bail. In order for cash bail 
+to work as intended, the price has to be affordable
+for the accused. The cost of bail wasn’t meant to reflect
+the likelihood of someone’s guilt— when bail is set, the court 
+has not reviewed evidence. Under exceptional circumstances, 
+such as charges of very serious crimes, judges could deny bail 
+and jail the accused before their trial. Judges were supposed to exercise 
+this power very rarely, and could come under scrutiny
+for using it too often. Setting unaffordably high bail 
+became a second path to denying people pretrial release. Judges' personal discretion 
+and prejudices played a huge role in who they chose to detain this way. Bail amounts climbed higher and higher, 
+and more and more defendants couldn’t pay— so they stayed in jail. By the late 19th century, these circumstances led to the rise 
+of commercial bail bond companies. They pay a defendant’s bail, in exchange
+for a hefty fee the company keeps. Today, the median bail is $10,000— a prohibitively high price 
+for almost half of Americans, and as many as nine out of ten defendants. If the defendant can’t pay, they may apply for a loan 
+from a commercial bail bond company. It’s completely up to the company 
+to decide whose bail they’ll pay. They choose defendants they think 
+will pay them back, turning a profit of about
+$2 billion each year. In fact, in the past 20 years, pretrial detention has been the main
+driver of jail growth in America. Every year, hundreds of thousands 
+of people who can’t afford bail or secure a loan
+stay in jail until their case is resolved. This injustice disproportionately affects
+Americans who are Black and Latino, for whom judges often set higher bail than for white people accused
+of the same offenses. Unaffordable bail puts even innocent
+defendants in an impossible position. Some end up pleading guilty to crimes 
+they did not commit. For minor offenses, the prosecution 
+may offer a deal that credits time already spent in jail toward 
+the accused’s sentence if they plead guilty. Often, the time they’ve already spent in
+jail is the total length of the sentence, and they can go home immediately—
+but they leave with a criminal record. Defending their innocence, meanwhile, can mean staying in jail indefinitely
+awaiting trial— and doesn’t guarantee 
+an innocent verdict. Bail may not even be necessary
+in the first place. Washington, D.C. largely abolished
+cash bail in the 1990s. In 2017, the city released 94% 
+of defendants without holding bail money, and 88% of them returned
+to all their court dates. The nonprofit organization, 
+The Bail Project, provides free bail assistance to thousands
+of low-income people every year, removing the financial incentive
+that bail is designed to create. The result? People come back 
+to 90% of their court dates without having any money on the line, and those who miss their court dates 
+tended to because of circumstances like child care,
+work conflicts, or medical crises. Studies have also found that holding
+people in jail before trial, often because they cannot
+afford cash bail, actually increases the likelihood
+of rearrests and reoffending. The damage of incarcerating people 
+before their trials extends to entire communities
+and can harm families for generations. People who are incarcerated 
+can lose their livelihoods, homes, and access to essential services— all before they’ve been convicted 
+of a crime. It’s also incredibly expensive: American taxpayers spend 
+nearly $14 billion every year incarcerating people 
+who are legally presumed innocent. This undermines the promise 
+of equal justice under the law, regardless of race or wealth. The issues surrounding cash bail 
+are symptomatic of societal problems, like structural racism and over-reliance
+on incarceration, that need to be addressed. In the meantime, 
+reformers like The Bail Project are working to help people trapped 
+by cash bail and to create a more just and humane
+pretrial system for the future.
+
+**Ground Truth MCQ**:
+Question: When is cash bail set during the legal process?
+Options: A. As an alternative to serving a sentence, after you’ve been convicted of a crime., B. As a way to get out if you are in prison., C. After you’ve a been accused of a crime, but before you’ve had your day in court., D. After you decide not to plead guilty.
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: What is the primary reason for the increase in the average number of people in jail each year in the United States, despite the annual number of people convicted of crimes staying steady? Options: A. An increase in crime rates, B. The bail system not functioning as intended, C. A decrease in the number of judges, D. An increase in the number of police officers Correct Option: B
+Question 2: What is the term "bail" referring to in the context of the U.S. justice system? Options: A. The release of people from jail after serving their sentence, B. The release of people awaiting trial on condition that they return to court to face charges, C. The fine imposed on people convicted of crimes, D. The compensation given to victims of crimes Correct Option: B
+Question 3: According to the U.S. bail system, what is the primary consideration for setting the cost of bail? Options: A. The likelihood of the accused's guilt, B. The accused's income level, C. The seriousness of the crime, D. A reasonable price set by the judge to ensure the accused's return to court Correct Option: D
+Question 4: What is the consequence of setting unaffordably high bail for defendants? Options: A. They are more likely to be found guilty, B. They are more likely to be released from jail, C. They may be forced to stay in jail until their case is resolved, potentially leading to a guilty plea, D. They may be able to appeal the bail amount Correct Option: C
+Question 5: According to the transcript, what percentage of defendants in Washington, D.C. returned to all their court dates after being released without holding bail money in 2017? Options: A. 50%, B. 75%, C. 88%, D. 95% Correct Option: C
+Question 6: What is a primary criticism of the commercial bail bond industry in the United States? Options: A. It provides a necessary service to defendants, B. It discriminates against low-income defendants and prioritizes profit over justice, C. It is too heavily regulated, D. It is not profitable enough Correct Option: B
+Question 7: How does the practice of holding people in jail before trial due to unaffordable bail affect communities? Options: A. It reduces crime rates, B. It increases the likelihood of rearrests and reoffending, and can harm families for generations, C. It has no impact on communities, D. It improves community relationships with law enforcement Correct Option: B
+Question 8: According to the transcript, what is the estimated annual cost to American taxpayers of incarcerating people who are legally presumed innocent? Options: A. $1 billion, B. $5 billion, C. $10 billion, D. $14 billion Correct Option: D
+Question 9: What is the primary goal of organizations like The Bail Project? Options: A. To increase the use of cash bail in the U.S. justice system, B. To provide free bail assistance to low-income defendants and promote a more just and humane pretrial system, C. To advocate for harsher sentencing laws, D. To reduce the number of police officers on the streets Correct Option: B
+Question 10: What are the underlying societal issues that the problems with cash bail are symptomatic of, according to the transcript? Options: A. Over-reliance on incarceration and structural racism, B. Lack of funding for law enforcement agencies, C. Inadequate training for judges and prosecutors, D. Insufficient community resources for defendants Correct Option: A
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
