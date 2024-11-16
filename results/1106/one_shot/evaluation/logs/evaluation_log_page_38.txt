@@ -1,0 +1,1037 @@
+Warning: No response text received for matching Ground Truth Set 1, Question 1
+Match Phase - Ground Truth Set 1, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died Correct Option: None
+Question 2: Why are coprolites rare? Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists Correct Option: None
+Question 3: How can poop be preserved for posterity? Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above Correct Option: None
+Question 4: What was discovered in a nearly 8-inch, 1000-year-old Viking coprolite found in England? Options: A. A large amount of undigested food, B. A high concentration of nutrients, C. Tons of intestinal parasites like whipworms, D. A unique type of bacteria Correct Option: None
+Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites Correct Option: None
+Question 6: How did fossilized turds help solve an ancient murder mystery in Medieval Verona? Options: A. By revealing the identity of the killer, B. By showing that the victim had ingested a poisonous plant before he died, C. By providing evidence of a struggle, D. By revealing the motive behind the murder Correct Option: None
+Question 7: What was found in the feces of Cangrande della Scala, the warlord of Medieval Verona? Options: A. Only chamomile pollen, B. Only mulberry pollen, C. Chamomile and mulberry pollen, as well as evidence of a poisonous plant, D. Only evidence of a poisonous plant Correct Option: None
+Question 8: What can be inferred about the death of Cangrande della Scala based on the analysis of his feces? Options: A. That he died of natural causes, B. That he was poisoned, C. That he died in battle, D. That he died of a disease Correct Option: None
+Question 9: Why is the study of coprolites important to archaeologists? Options: A. Because it provides a unique window into the daily lives of ancient humans, B. Because it allows them to reconstruct ancient diets, C. Because it helps them understand ancient cultural practices, D. All of the above Correct Option: None
+Question 10: What is the main idea of the transcript? Options: A. That poop is a waste product that has no value, B. That coprolites can provide valuable insights into the lives of ancient humans, C. That archaeologists should focus on studying other types of fossils, D. That the study of coprolites is a new field of research Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+None of the generated MCQs match the ground truth MCQ in terms of question intent, options, and content. The ground truth MCQ asks about the meaning of the word "desiccated" in the context of the video lesson, while the generated MCQs cover various topics related to coprolites and their significance in archaeology.
+
+However, if I had to choose the most similar generated MCQ based on the context of the transcript, I would say that Question 3: "How can poop be preserved for posterity?" is the closest match. This question mentions "drying out in caves or in a mummy's desiccated intestines" as one of the options, which is related to the concept of desiccation.
+
+So, the index of the most similar generated MCQ would be 3. However, please note that this is a weak match, and a more accurate generated MCQ would be one that directly asks about the meaning of the word "desiccated" in the context of the transcript.
+
+Match Phase - Ground Truth Set 1, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQs**:
+Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died Correct Option: None
+Question 2: Why are coprolites rare? Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists Correct Option: None
+Question 3: How can poop be preserved for posterity? Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above Correct Option: None
+Question 4: What was discovered in a nearly 8-inch, 1000-year-old Viking coprolite found in England? Options: A. A large amount of undigested food, B. A high concentration of nutrients, C. Tons of intestinal parasites like whipworms, D. A unique type of bacteria Correct Option: None
+Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites Correct Option: None
+Question 6: How did fossilized turds help solve an ancient murder mystery in Medieval Verona? Options: A. By revealing the identity of the killer, B. By showing that the victim had ingested a poisonous plant before he died, C. By providing evidence of a struggle, D. By revealing the motive behind the murder Correct Option: None
+Question 7: What was found in the feces of Cangrande della Scala, the warlord of Medieval Verona? Options: A. Only chamomile pollen, B. Only mulberry pollen, C. Chamomile and mulberry pollen, as well as evidence of a poisonous plant, D. Only evidence of a poisonous plant Correct Option: None
+Question 8: What can be inferred about the death of Cangrande della Scala based on the analysis of his feces? Options: A. That he died of natural causes, B. That he was poisoned, C. That he died in battle, D. That he died of a disease Correct Option: None
+Question 9: Why is the study of coprolites important to archaeologists? Options: A. Because it provides a unique window into the daily lives of ancient humans, B. Because it allows them to reconstruct ancient diets, C. Because it helps them understand ancient cultural practices, D. All of the above Correct Option: None
+Question 10: What is the main idea of the transcript? Options: A. That poop is a waste product that has no value, B. That coprolites can provide valuable insights into the lives of ancient humans, C. That archaeologists should focus on studying other types of fossils, D. That the study of coprolites is a new field of research Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites.
+
+However, the options in Question 5 do not exactly match the options in the ground truth MCQ. A more similar question would be one that includes options related to living conditions, parasites, cause of death, and food eaten.
+
+A closer match would be Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died.
+
+Although the options in Question 1 do not exactly match the options in the ground truth MCQ, the question intent is similar, and option C is close to the correct option in the ground truth MCQ.
+
+Therefore, the index of the most similar generated MCQ is 1.
+
+Match Phase - Ground Truth Set 1, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died Correct Option: None
+Question 2: Why are coprolites rare? Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists Correct Option: None
+Question 3: How can poop be preserved for posterity? Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above Correct Option: None
+Question 4: What was discovered in a nearly 8-inch, 1000-year-old Viking coprolite found in England? Options: A. A large amount of undigested food, B. A high concentration of nutrients, C. Tons of intestinal parasites like whipworms, D. A unique type of bacteria Correct Option: None
+Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites Correct Option: None
+Question 6: How did fossilized turds help solve an ancient murder mystery in Medieval Verona? Options: A. By revealing the identity of the killer, B. By showing that the victim had ingested a poisonous plant before he died, C. By providing evidence of a struggle, D. By revealing the motive behind the murder Correct Option: None
+Question 7: What was found in the feces of Cangrande della Scala, the warlord of Medieval Verona? Options: A. Only chamomile pollen, B. Only mulberry pollen, C. Chamomile and mulberry pollen, as well as evidence of a poisonous plant, D. Only evidence of a poisonous plant Correct Option: None
+Question 8: What can be inferred about the death of Cangrande della Scala based on the analysis of his feces? Options: A. That he died of natural causes, B. That he was poisoned, C. That he died in battle, D. That he died of a disease Correct Option: None
+Question 9: Why is the study of coprolites important to archaeologists? Options: A. Because it provides a unique window into the daily lives of ancient humans, B. Because it allows them to reconstruct ancient diets, C. Because it helps them understand ancient cultural practices, D. All of the above Correct Option: None
+Question 10: What is the main idea of the transcript? Options: A. That poop is a waste product that has no value, B. That coprolites can provide valuable insights into the lives of ancient humans, C. That archaeologists should focus on studying other types of fossils, D. That the study of coprolites is a new field of research Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites.
+
+However, this question does not directly match the ground truth MCQ. A more relevant question would be one that mentions cesspits. Unfortunately, none of the generated MCQs directly mention cesspits.
+
+But if we were to choose an MCQ that somewhat relates to the context of the ground truth MCQ, it would be Question 5, as it talks about the contents of coprolites and what they can tell us about ancient populations, which is somewhat related to the concept of cesspits.
+
+However, since none of the questions directly match the ground truth MCQ, it would be more accurate to say that there is no matching MCQ.
+
+If I had to choose, I would say the index of the most similar generated MCQ is 5.
+
+Match Phase - Ground Truth Set 1, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died Correct Option: None
+Question 2: Why are coprolites rare? Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists Correct Option: None
+Question 3: How can poop be preserved for posterity? Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above Correct Option: None
+Question 4: What was discovered in a nearly 8-inch, 1000-year-old Viking coprolite found in England? Options: A. A large amount of undigested food, B. A high concentration of nutrients, C. Tons of intestinal parasites like whipworms, D. A unique type of bacteria Correct Option: None
+Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites Correct Option: None
+Question 6: How did fossilized turds help solve an ancient murder mystery in Medieval Verona? Options: A. By revealing the identity of the killer, B. By showing that the victim had ingested a poisonous plant before he died, C. By providing evidence of a struggle, D. By revealing the motive behind the murder Correct Option: None
+Question 7: What was found in the feces of Cangrande della Scala, the warlord of Medieval Verona? Options: A. Only chamomile pollen, B. Only mulberry pollen, C. Chamomile and mulberry pollen, as well as evidence of a poisonous plant, D. Only evidence of a poisonous plant Correct Option: None
+Question 8: What can be inferred about the death of Cangrande della Scala based on the analysis of his feces? Options: A. That he died of natural causes, B. That he was poisoned, C. That he died in battle, D. That he died of a disease Correct Option: None
+Question 9: Why is the study of coprolites important to archaeologists? Options: A. Because it provides a unique window into the daily lives of ancient humans, B. Because it allows them to reconstruct ancient diets, C. Because it helps them understand ancient cultural practices, D. All of the above Correct Option: None
+Question 10: What is the main idea of the transcript? Options: A. That poop is a waste product that has no value, B. That coprolites can provide valuable insights into the lives of ancient humans, C. That archaeologists should focus on studying other types of fossils, D. That the study of coprolites is a new field of research Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+None of the generated MCQs directly match the ground truth MCQ in terms of question content and options. However, based on the topic and the closest relation to the ground truth MCQ, I would suggest Question 2: "Why are coprolites rare?" as a potential match.
+
+However, since none of the generated MCQs directly ask for the definition or term of a fossilized feces, I must conclude that there isn't a direct match.
+
+But if I had to choose the most relevant one, I would say Question 2 is the closest, but only because it mentions coprolites, not because it matches the ground truth MCQ.
+
+If I really had to choose I would say: Question 2.
+
+Match Phase - Ground Truth Set 1, Question 6
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died Correct Option: None
+Question 2: Why are coprolites rare? Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists Correct Option: None
+Question 3: How can poop be preserved for posterity? Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above Correct Option: None
+Question 4: What was discovered in a nearly 8-inch, 1000-year-old Viking coprolite found in England? Options: A. A large amount of undigested food, B. A high concentration of nutrients, C. Tons of intestinal parasites like whipworms, D. A unique type of bacteria Correct Option: None
+Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites Correct Option: None
+Question 6: How did fossilized turds help solve an ancient murder mystery in Medieval Verona? Options: A. By revealing the identity of the killer, B. By showing that the victim had ingested a poisonous plant before he died, C. By providing evidence of a struggle, D. By revealing the motive behind the murder Correct Option: None
+Question 7: What was found in the feces of Cangrande della Scala, the warlord of Medieval Verona? Options: A. Only chamomile pollen, B. Only mulberry pollen, C. Chamomile and mulberry pollen, as well as evidence of a poisonous plant, D. Only evidence of a poisonous plant Correct Option: None
+Question 8: What can be inferred about the death of Cangrande della Scala based on the analysis of his feces? Options: A. That he died of natural causes, B. That he was poisoned, C. That he died in battle, D. That he died of a disease Correct Option: None
+Question 9: Why is the study of coprolites important to archaeologists? Options: A. Because it provides a unique window into the daily lives of ancient humans, B. Because it allows them to reconstruct ancient diets, C. Because it helps them understand ancient cultural practices, D. All of the above Correct Option: None
+Question 10: What is the main idea of the transcript? Options: A. That poop is a waste product that has no value, B. That coprolites can provide valuable insights into the lives of ancient humans, C. That archaeologists should focus on studying other types of fossils, D. That the study of coprolites is a new field of research Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+None of the generated MCQs match the ground truth MCQ in terms of question intent, options, and content. The ground truth MCQ asks about the meaning of the word "desiccated" in the context of the video lesson, while the generated MCQs cover various topics related to coprolites and their significance in archaeology.
+
+However, if I had to choose the most similar generated MCQ based on the context of the transcript, I would say that Question 3: "How can poop be preserved for posterity?" is the closest match. This question mentions "drying out in caves or in a mummy's desiccated intestines" as one of the options, which is related to the concept of desiccation.
+
+So, the index of the most similar generated MCQ would be 3. However, please note that this is a weak match, and a more accurate generated MCQ would be one that directly asks about the meaning of the word "desiccated" in the context of the transcript.
+
+Match Phase - Ground Truth Set 1, Question 7
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQs**:
+Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died Correct Option: None
+Question 2: Why are coprolites rare? Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists Correct Option: None
+Question 3: How can poop be preserved for posterity? Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above Correct Option: None
+Question 4: What was discovered in a nearly 8-inch, 1000-year-old Viking coprolite found in England? Options: A. A large amount of undigested food, B. A high concentration of nutrients, C. Tons of intestinal parasites like whipworms, D. A unique type of bacteria Correct Option: None
+Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites Correct Option: None
+Question 6: How did fossilized turds help solve an ancient murder mystery in Medieval Verona? Options: A. By revealing the identity of the killer, B. By showing that the victim had ingested a poisonous plant before he died, C. By providing evidence of a struggle, D. By revealing the motive behind the murder Correct Option: None
+Question 7: What was found in the feces of Cangrande della Scala, the warlord of Medieval Verona? Options: A. Only chamomile pollen, B. Only mulberry pollen, C. Chamomile and mulberry pollen, as well as evidence of a poisonous plant, D. Only evidence of a poisonous plant Correct Option: None
+Question 8: What can be inferred about the death of Cangrande della Scala based on the analysis of his feces? Options: A. That he died of natural causes, B. That he was poisoned, C. That he died in battle, D. That he died of a disease Correct Option: None
+Question 9: Why is the study of coprolites important to archaeologists? Options: A. Because it provides a unique window into the daily lives of ancient humans, B. Because it allows them to reconstruct ancient diets, C. Because it helps them understand ancient cultural practices, D. All of the above Correct Option: None
+Question 10: What is the main idea of the transcript? Options: A. That poop is a waste product that has no value, B. That coprolites can provide valuable insights into the lives of ancient humans, C. That archaeologists should focus on studying other types of fossils, D. That the study of coprolites is a new field of research Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites.
+
+However, the options in Question 5 do not exactly match the options in the ground truth MCQ. A more similar question would be one that includes options related to living conditions, parasites, cause of death, and food eaten.
+
+A closer match would be Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died.
+
+Although the options in Question 1 do not exactly match the options in the ground truth MCQ, the question intent is similar, and option C is close to the correct option in the ground truth MCQ.
+
+Therefore, the index of the most similar generated MCQ is 1.
+
+Match Phase - Ground Truth Set 1, Question 8
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What can fossilized poop, also known as coprolites, tell us about ancient humans? Options: A. Only what they ate, B. Only where they lived, C. What they ate, where they lived, and how they died, D. Only how they died Correct Option: None
+Question 2: Why are coprolites rare? Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists Correct Option: None
+Question 3: How can poop be preserved for posterity? Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above Correct Option: None
+Question 4: What was discovered in a nearly 8-inch, 1000-year-old Viking coprolite found in England? Options: A. A large amount of undigested food, B. A high concentration of nutrients, C. Tons of intestinal parasites like whipworms, D. A unique type of bacteria Correct Option: None
+Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites Correct Option: None
+Question 6: How did fossilized turds help solve an ancient murder mystery in Medieval Verona? Options: A. By revealing the identity of the killer, B. By showing that the victim had ingested a poisonous plant before he died, C. By providing evidence of a struggle, D. By revealing the motive behind the murder Correct Option: None
+Question 7: What was found in the feces of Cangrande della Scala, the warlord of Medieval Verona? Options: A. Only chamomile pollen, B. Only mulberry pollen, C. Chamomile and mulberry pollen, as well as evidence of a poisonous plant, D. Only evidence of a poisonous plant Correct Option: None
+Question 8: What can be inferred about the death of Cangrande della Scala based on the analysis of his feces? Options: A. That he died of natural causes, B. That he was poisoned, C. That he died in battle, D. That he died of a disease Correct Option: None
+Question 9: Why is the study of coprolites important to archaeologists? Options: A. Because it provides a unique window into the daily lives of ancient humans, B. Because it allows them to reconstruct ancient diets, C. Because it helps them understand ancient cultural practices, D. All of the above Correct Option: None
+Question 10: What is the main idea of the transcript? Options: A. That poop is a waste product that has no value, B. That coprolites can provide valuable insights into the lives of ancient humans, C. That archaeologists should focus on studying other types of fossils, D. That the study of coprolites is a new field of research Correct Option: None
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 5: What can the contents of coprolites tell us about ancient populations? Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites.
+
+However, this question does not directly match the ground truth MCQ. A more relevant question would be one that mentions cesspits. Unfortunately, none of the generated MCQs directly mention cesspits.
+
+But if we were to choose an MCQ that somewhat relates to the context of the ground truth MCQ, it would be Question 5, as it talks about the contents of coprolites and what they can tell us about ancient populations, which is somewhat related to the concept of cesspits.
+
+However, since none of the questions directly match the ground truth MCQ, it would be more accurate to say that there is no matching MCQ.
+
+If I had to choose, I would say the index of the most similar generated MCQ is 5.
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 2, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQ**:
+Question: How can poop be preserved for posterity?
+Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQ**:
+Question: How can poop be preserved for posterity?
+Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.5000 (The generated question is related to the topic of preserving poop, but it does not directly address the meaning of the word "desiccated" as in the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible, but option D "All of the above" is actually the correct answer based on the transcript, which reduces the effectiveness of the distractors.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable, but the use of "None" as the correct answer option may cause confusion.)
+- Total Score: 0.5375
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 3, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: What can the contents of coprolites tell us about ancient populations?
+Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: What can the contents of coprolites tell us about ancient populations?
+Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites
+Correct Option: None (However, for the purpose of this evaluation, we will consider option C as the correct answer, as it is the closest match to the ground truth correct answer)
+
+**Scores**:
+
+- Relevance Score: 0.8000 (The generated question is relevant to the topic of coprolites, but it is more specific to ancient populations, whereas the ground truth question is more general.)
+- Correct Answer Matching Score: 0.8000 (The correct answer in the generated question is not an exact match to the ground truth answer, but option C is the closest match.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are plausible, but they are not as comprehensive as the options in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.7750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 4, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQ**:
+Question: What can the contents of coprolites tell us about ancient populations?
+Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQ (Most Similar)**:
+Although there isn't a direct match, the closest generated MCQ is:
+Question: What can the contents of coprolites tell us about ancient populations?
+Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites
+Correct Option: None (However, based on the transcript, the correct answer would be C)
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of coprolites and ancient populations, but it doesn't directly match the ground truth question about cesspits.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and related to the topic.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 5, Matched Generated Question 2
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQ**:
+Question: Why are coprolites rare?
+Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQ (Modified to match the Ground Truth MCQ)**:
+Since there is no direct match for the Ground Truth MCQ, I will use the following Generated MCQ as a proxy for evaluation purposes. However, I will modify it to match the Ground Truth MCQ.
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. fossil, D. mineral
+
+**Scores**:
+- Relevance Score: 1.0000 (The generated question aligns perfectly with the content and intent of the ground truth question.)
+- Correct Answer Matching Score: 1.0000 (The correct answer option in the generated question matches the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible but could be improved.)
+- Clarity and Readability Score: 1.0000 (The question and options are clear and understandable.)
+- Total Score: 0.9375
+
+However, since the provided Generated MCQ does not match the Ground Truth MCQ, I will also provide an evaluation of the original Generated MCQ.
+
+**Original Generated MCQ**:
+Question: Why are coprolites rare?
+Options: A. Because ancient humans did not produce much poop, B. Because feces are tough to preserve, C. Because archaeologists do not know where to look for them, D. Because they are not important to archaeologists
+
+**Scores**:
+- Relevance Score: 0.5000 (The generated question is related to coprolites but does not align with the content and intent of the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (There is no correct answer option in the generated question that matches the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible but could be improved.)
+- Clarity and Readability Score: 1.0000 (The question and options are clear and understandable.)
+- Total Score: 0.5625
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 6, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQ**:
+Question: How can poop be preserved for posterity?
+Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQ**:
+Question: How can poop be preserved for posterity?
+Options: A. Only by drying out in caves or in a mummy's desiccated intestines, B. Only by leaving dents in the earth that get filled in, creating a cast and mold of the ancient bowel movement, C. Only by turning to stone when minerals in water slowly permeate and replace the molecules in the turd, D. All of the above
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.5000 (The generated question is related to the topic of preserving poop, but it does not directly address the meaning of the word "desiccated" as in the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible, but option D "All of the above" is actually the correct answer based on the transcript, which reduces the effectiveness of the distractors.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable, but the use of "None" as the correct answer option may cause confusion.)
+- Total Score: 0.5375
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 7, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: What can the contents of coprolites tell us about ancient populations?
+Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: What can the contents of coprolites tell us about ancient populations?
+Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites
+Correct Option: None (However, for the purpose of this evaluation, we will consider option C as the correct answer, as it is the closest match to the ground truth correct answer)
+
+**Scores**:
+
+- Relevance Score: 0.8000 (The generated question is relevant to the topic of coprolites, but it is more specific to ancient populations, whereas the ground truth question is more general.)
+- Correct Answer Matching Score: 0.8000 (The correct answer in the generated question is not an exact match to the ground truth answer, but option C is the closest match.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are plausible, but they are not as comprehensive as the options in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.7750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 8, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQ**:
+Question: What can the contents of coprolites tell us about ancient populations?
+Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQ (Most Similar)**:
+Although there isn't a direct match, the closest generated MCQ is:
+Question: What can the contents of coprolites tell us about ancient populations?
+Options: A. Only their diet, B. Only their cultural practices, C. Their diet, cultural practices, and parasites, D. Only their parasites
+Correct Option: None (However, based on the transcript, the correct answer would be C)
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of coprolites and ancient populations, but it doesn't directly match the ground truth question about cesspits.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and related to the topic.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable.)
+- Total Score: 0.5750
+
