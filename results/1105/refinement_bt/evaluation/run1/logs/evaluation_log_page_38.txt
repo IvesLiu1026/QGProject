@@ -1,0 +1,1400 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B
+Question 2: According to the transcript, what can happen to a feces when it dries out? Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized Correct Option: C
+Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C
+Question 4: In what way can fossilized turds help solve murder mysteries? Options: A. By revealing the location of the crime, B. By providing a list of suspects, C. By identifying the cause of death, D. By showing the victim's last meal Correct Option: C
+Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 6: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D
+Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence? Options: A. It confirms the presence of a new species, B. It supports the theory of evolution, C. It shows that native populations on the island at the time were two distinct cultural groups with different diets and parasites, D. It reveals the location of a lost city Correct Option: C
+Question 9: What can be inferred from the fact that the transcript mentions the warlord Cangrande della Scala's feces being preserved in his corpse's rectum? Options: A. The warlord was a vegetarian, B. The warlord had poor hygiene, C. The warlord's death was suspicious and likely due to foul play, D. The warlord was a clean person Correct Option: C
+Question 10: What is the author's tone in the transcript? Options: A. Humorous and lighthearted, B. Serious and academic, C. Formal and professional, D. Sarcastic and ironic Correct Option: A
+Question 11: According to the transcript, what can happen to a feces when minerals in water slowly permeate and replace the molecules in the turd? Options: A. It gets filled in by earth, B. It gets mineralized, C. It turns to stone, D. It gets preserved in a mummy's desiccated intestines Correct Option: C
+Question 12: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 13: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 14: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 15: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C
+Question 17: According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines? Options: A. It gets filled in by earth, B. It gets mineralized, C. It dries out, D. It turns to stone Correct Option: C
+Question 18: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 19: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 20: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is:
+
+**Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B**
+
+This question has the same intent and content as the ground truth MCQ, and the options are similar. The correct option, "Coprolites", is the same in both questions.
+
+The index of the most similar generated MCQ is: **1**
+
+Match Phase - Ground Truth Set 1, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B
+Question 2: According to the transcript, what can happen to a feces when it dries out? Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized Correct Option: C
+Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C
+Question 4: In what way can fossilized turds help solve murder mysteries? Options: A. By revealing the location of the crime, B. By providing a list of suspects, C. By identifying the cause of death, D. By showing the victim's last meal Correct Option: C
+Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 6: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D
+Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence? Options: A. It confirms the presence of a new species, B. It supports the theory of evolution, C. It shows that native populations on the island at the time were two distinct cultural groups with different diets and parasites, D. It reveals the location of a lost city Correct Option: C
+Question 9: What can be inferred from the fact that the transcript mentions the warlord Cangrande della Scala's feces being preserved in his corpse's rectum? Options: A. The warlord was a vegetarian, B. The warlord had poor hygiene, C. The warlord's death was suspicious and likely due to foul play, D. The warlord was a clean person Correct Option: C
+Question 10: What is the author's tone in the transcript? Options: A. Humorous and lighthearted, B. Serious and academic, C. Formal and professional, D. Sarcastic and ironic Correct Option: A
+Question 11: According to the transcript, what can happen to a feces when minerals in water slowly permeate and replace the molecules in the turd? Options: A. It gets filled in by earth, B. It gets mineralized, C. It turns to stone, D. It gets preserved in a mummy's desiccated intestines Correct Option: C
+Question 12: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 13: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 14: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 15: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C
+Question 17: According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines? Options: A. It gets filled in by earth, B. It gets mineralized, C. It dries out, D. It turns to stone Correct Option: C
+Question 18: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 19: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 20: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The ground truth MCQ is asking about the meaning of the word "desiccated" in the context of the video lesson. The correct answer is "dried out".
+
+After reviewing the generated MCQs, I found that Question 2 and Question 17 are related to the concept of "desiccated". However, Question 17 is more closely matched to the ground truth MCQ in terms of question intent and options.
+
+Question 17 asks: "According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines?" The correct answer is "It dries out", which is similar to the correct answer in the ground truth MCQ.
+
+Therefore, the index of the most similar generated MCQ is 17.
+
+Match Phase - Ground Truth Set 1, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQs**:
+Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B
+Question 2: According to the transcript, what can happen to a feces when it dries out? Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized Correct Option: C
+Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C
+Question 4: In what way can fossilized turds help solve murder mysteries? Options: A. By revealing the location of the crime, B. By providing a list of suspects, C. By identifying the cause of death, D. By showing the victim's last meal Correct Option: C
+Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 6: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D
+Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence? Options: A. It confirms the presence of a new species, B. It supports the theory of evolution, C. It shows that native populations on the island at the time were two distinct cultural groups with different diets and parasites, D. It reveals the location of a lost city Correct Option: C
+Question 9: What can be inferred from the fact that the transcript mentions the warlord Cangrande della Scala's feces being preserved in his corpse's rectum? Options: A. The warlord was a vegetarian, B. The warlord had poor hygiene, C. The warlord's death was suspicious and likely due to foul play, D. The warlord was a clean person Correct Option: C
+Question 10: What is the author's tone in the transcript? Options: A. Humorous and lighthearted, B. Serious and academic, C. Formal and professional, D. Sarcastic and ironic Correct Option: A
+Question 11: According to the transcript, what can happen to a feces when minerals in water slowly permeate and replace the molecules in the turd? Options: A. It gets filled in by earth, B. It gets mineralized, C. It turns to stone, D. It gets preserved in a mummy's desiccated intestines Correct Option: C
+Question 12: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 13: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 14: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 15: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C
+Question 17: According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines? Options: A. It gets filled in by earth, B. It gets mineralized, C. It dries out, D. It turns to stone Correct Option: C
+Question 18: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 19: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 20: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I have identified the most similar generated MCQ as:
+
+**Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D**
+
+However, I noticed that the options in Question 7 do not exactly match the options in the ground truth MCQ. A more similar generated MCQ would be one that includes options related to inferring living conditions, parasites, cause of death, and diet.
+
+A closer match is:
+
+**Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C**
+
+However, this question still does not include options related to parasites and cause of death.
+
+Upon further analysis, I found that:
+
+**Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C**
+
+is not a closer match, but **Question 3** is still not the best match.
+
+I decided to look at other questions and I found that:
+
+**No question is a perfect match, but Question 3 and Question 7 are the closest. However, between the two, I would say that Question 7 is a bit more similar in intent, but Question 3 is more similar in content.**
+
+However, I must choose one, so I will choose **Question 7** as the closest match.
+
+However, I must note that I am not entirely satisfied with this answer, and I would like to propose an alternative.
+
+An alternative would be to consider **Question 3** as the closest match.
+
+After reevaluating, I think I can make a better case for **Question 3**.
+
+I choose **Question 3**.
+
+The index of the most similar generated MCQ is: **3**
+
+Match Phase - Ground Truth Set 1, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B
+Question 2: According to the transcript, what can happen to a feces when it dries out? Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized Correct Option: C
+Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C
+Question 4: In what way can fossilized turds help solve murder mysteries? Options: A. By revealing the location of the crime, B. By providing a list of suspects, C. By identifying the cause of death, D. By showing the victim's last meal Correct Option: C
+Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 6: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D
+Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence? Options: A. It confirms the presence of a new species, B. It supports the theory of evolution, C. It shows that native populations on the island at the time were two distinct cultural groups with different diets and parasites, D. It reveals the location of a lost city Correct Option: C
+Question 9: What can be inferred from the fact that the transcript mentions the warlord Cangrande della Scala's feces being preserved in his corpse's rectum? Options: A. The warlord was a vegetarian, B. The warlord had poor hygiene, C. The warlord's death was suspicious and likely due to foul play, D. The warlord was a clean person Correct Option: C
+Question 10: What is the author's tone in the transcript? Options: A. Humorous and lighthearted, B. Serious and academic, C. Formal and professional, D. Sarcastic and ironic Correct Option: A
+Question 11: According to the transcript, what can happen to a feces when minerals in water slowly permeate and replace the molecules in the turd? Options: A. It gets filled in by earth, B. It gets mineralized, C. It turns to stone, D. It gets preserved in a mummy's desiccated intestines Correct Option: C
+Question 12: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 13: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 14: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 15: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C
+Question 17: According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines? Options: A. It gets filled in by earth, B. It gets mineralized, C. It dries out, D. It turns to stone Correct Option: C
+Question 18: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 19: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 20: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is:
+
+**Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites?**
+
+However, this question does not directly match the ground truth MCQ. A closer match is:
+
+**Question 13: According to the transcript, what are some ways that fossilized feces can be preserved?**
+
+But this question also does not directly match the ground truth MCQ.
+
+A more suitable match is not available in the provided generated MCQs, but if I had to choose one, I would say that the closest match is:
+
+**Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it?**
+
+However, please note that this is not a direct match.
+
+Upon re-examining the generated MCQs, I found a question that is more closely related to the ground truth MCQ:
+
+**Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence?**
+
+This question mentions the analysis of coprolites, which is related to the concept of cesspits. However, it still does not directly match the ground truth MCQ.
+
+After another review, I found a question that is more closely related to the ground truth MCQ:
+
+**Question 14 is similar to Question 5, and Question 20 is similar to Question 5 and Question 14.**
+
+However, I noticed that:
+
+**Question 5, Question 14, and Question 20** all have the same correct answer and similar question content.
+
+But I still couldn't find a direct match for the ground truth MCQ.
+
+Then I analyzed the questions again and found that:
+
+**Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans?**
+
+has an option that mentions living conditions, which is related to the concept of cesspits.
+
+However, I must admit that I couldn't find a direct match for the ground truth MCQ among the provided generated MCQs.
+
+If I had to choose one, I would say that the closest match is:
+
+**Not available**
+
+However, I can try to provide a more suitable match based on my analysis:
+
+**A more suitable match would be a question that directly asks about cesspits and their significance.**
+
+Unfortunately, such a question is not available among the provided generated MCQs.
+
+But if I really had to choose one from the provided generated MCQs, I would say that the closest match is:
+
+**Question 7**
+
+Please note that this is not a direct match.
+
+However, I must provide an answer, so I will choose:
+
+**7**
+
+Please keep in mind that this is not a direct match, and a more suitable match would be a question that directly asks about cesspits and their significance.
+
+Match Phase - Ground Truth Set 1, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B
+Question 2: According to the transcript, what can happen to a feces when it dries out? Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized Correct Option: C
+Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C
+Question 4: In what way can fossilized turds help solve murder mysteries? Options: A. By revealing the location of the crime, B. By providing a list of suspects, C. By identifying the cause of death, D. By showing the victim's last meal Correct Option: C
+Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 6: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D
+Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence? Options: A. It confirms the presence of a new species, B. It supports the theory of evolution, C. It shows that native populations on the island at the time were two distinct cultural groups with different diets and parasites, D. It reveals the location of a lost city Correct Option: C
+Question 9: What can be inferred from the fact that the transcript mentions the warlord Cangrande della Scala's feces being preserved in his corpse's rectum? Options: A. The warlord was a vegetarian, B. The warlord had poor hygiene, C. The warlord's death was suspicious and likely due to foul play, D. The warlord was a clean person Correct Option: C
+Question 10: What is the author's tone in the transcript? Options: A. Humorous and lighthearted, B. Serious and academic, C. Formal and professional, D. Sarcastic and ironic Correct Option: A
+Question 11: According to the transcript, what can happen to a feces when minerals in water slowly permeate and replace the molecules in the turd? Options: A. It gets filled in by earth, B. It gets mineralized, C. It turns to stone, D. It gets preserved in a mummy's desiccated intestines Correct Option: C
+Question 12: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 13: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 14: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 15: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C
+Question 17: According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines? Options: A. It gets filled in by earth, B. It gets mineralized, C. It dries out, D. It turns to stone Correct Option: C
+Question 18: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 19: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 20: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is:
+
+**Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B**
+
+This question has the same intent and content as the ground truth MCQ, and the options are similar. The correct option, "Coprolites", is the same in both questions.
+
+The index of the most similar generated MCQ is: **1**
+
+Match Phase - Ground Truth Set 1, Question 6
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B
+Question 2: According to the transcript, what can happen to a feces when it dries out? Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized Correct Option: C
+Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C
+Question 4: In what way can fossilized turds help solve murder mysteries? Options: A. By revealing the location of the crime, B. By providing a list of suspects, C. By identifying the cause of death, D. By showing the victim's last meal Correct Option: C
+Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 6: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D
+Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence? Options: A. It confirms the presence of a new species, B. It supports the theory of evolution, C. It shows that native populations on the island at the time were two distinct cultural groups with different diets and parasites, D. It reveals the location of a lost city Correct Option: C
+Question 9: What can be inferred from the fact that the transcript mentions the warlord Cangrande della Scala's feces being preserved in his corpse's rectum? Options: A. The warlord was a vegetarian, B. The warlord had poor hygiene, C. The warlord's death was suspicious and likely due to foul play, D. The warlord was a clean person Correct Option: C
+Question 10: What is the author's tone in the transcript? Options: A. Humorous and lighthearted, B. Serious and academic, C. Formal and professional, D. Sarcastic and ironic Correct Option: A
+Question 11: According to the transcript, what can happen to a feces when minerals in water slowly permeate and replace the molecules in the turd? Options: A. It gets filled in by earth, B. It gets mineralized, C. It turns to stone, D. It gets preserved in a mummy's desiccated intestines Correct Option: C
+Question 12: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 13: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 14: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 15: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C
+Question 17: According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines? Options: A. It gets filled in by earth, B. It gets mineralized, C. It dries out, D. It turns to stone Correct Option: C
+Question 18: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 19: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 20: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The ground truth MCQ is asking about the meaning of the word "desiccated" in the context of the video lesson. The correct answer is "dried out".
+
+After reviewing the generated MCQs, I found that Question 2 and Question 17 are related to the concept of "desiccated". However, Question 17 is more closely matched to the ground truth MCQ in terms of question intent and options.
+
+Question 17 asks: "According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines?" The correct answer is "It dries out", which is similar to the correct answer in the ground truth MCQ.
+
+Therefore, the index of the most similar generated MCQ is 17.
+
+Match Phase - Ground Truth Set 1, Question 7
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQs**:
+Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B
+Question 2: According to the transcript, what can happen to a feces when it dries out? Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized Correct Option: C
+Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C
+Question 4: In what way can fossilized turds help solve murder mysteries? Options: A. By revealing the location of the crime, B. By providing a list of suspects, C. By identifying the cause of death, D. By showing the victim's last meal Correct Option: C
+Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 6: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D
+Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence? Options: A. It confirms the presence of a new species, B. It supports the theory of evolution, C. It shows that native populations on the island at the time were two distinct cultural groups with different diets and parasites, D. It reveals the location of a lost city Correct Option: C
+Question 9: What can be inferred from the fact that the transcript mentions the warlord Cangrande della Scala's feces being preserved in his corpse's rectum? Options: A. The warlord was a vegetarian, B. The warlord had poor hygiene, C. The warlord's death was suspicious and likely due to foul play, D. The warlord was a clean person Correct Option: C
+Question 10: What is the author's tone in the transcript? Options: A. Humorous and lighthearted, B. Serious and academic, C. Formal and professional, D. Sarcastic and ironic Correct Option: A
+Question 11: According to the transcript, what can happen to a feces when minerals in water slowly permeate and replace the molecules in the turd? Options: A. It gets filled in by earth, B. It gets mineralized, C. It turns to stone, D. It gets preserved in a mummy's desiccated intestines Correct Option: C
+Question 12: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 13: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 14: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 15: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C
+Question 17: According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines? Options: A. It gets filled in by earth, B. It gets mineralized, C. It dries out, D. It turns to stone Correct Option: C
+Question 18: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 19: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 20: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I have identified the most similar generated MCQ as:
+
+**Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D**
+
+However, I noticed that the options in Question 7 do not exactly match the options in the ground truth MCQ. A more similar generated MCQ would be one that includes options related to inferring living conditions, parasites, cause of death, and diet.
+
+A closer match is:
+
+**Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C**
+
+However, this question still does not include options related to parasites and cause of death.
+
+Upon further analysis, I found that:
+
+**Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C**
+
+is not a closer match, but **Question 3** is still not the best match.
+
+I decided to look at other questions and I found that:
+
+**No question is a perfect match, but Question 3 and Question 7 are the closest. However, between the two, I would say that Question 7 is a bit more similar in intent, but Question 3 is more similar in content.**
+
+However, I must choose one, so I will choose **Question 7** as the closest match.
+
+However, I must note that I am not entirely satisfied with this answer, and I would like to propose an alternative.
+
+An alternative would be to consider **Question 3** as the closest match.
+
+After reevaluating, I think I can make a better case for **Question 3**.
+
+I choose **Question 3**.
+
+The index of the most similar generated MCQ is: **3**
+
+Match Phase - Ground Truth Set 1, Question 8
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What are the fossilized remains of ancient human feces called? Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils Correct Option: B
+Question 2: According to the transcript, what can happen to a feces when it dries out? Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized Correct Option: C
+Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it? Options: A. The person's favorite hobby, B. The person's occupation, C. The person's diet, living conditions, and possibly their health, D. The person's favorite food Correct Option: C
+Question 4: In what way can fossilized turds help solve murder mysteries? Options: A. By revealing the location of the crime, B. By providing a list of suspects, C. By identifying the cause of death, D. By showing the victim's last meal Correct Option: C
+Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 6: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans? Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above Correct Option: D
+Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence? Options: A. It confirms the presence of a new species, B. It supports the theory of evolution, C. It shows that native populations on the island at the time were two distinct cultural groups with different diets and parasites, D. It reveals the location of a lost city Correct Option: C
+Question 9: What can be inferred from the fact that the transcript mentions the warlord Cangrande della Scala's feces being preserved in his corpse's rectum? Options: A. The warlord was a vegetarian, B. The warlord had poor hygiene, C. The warlord's death was suspicious and likely due to foul play, D. The warlord was a clean person Correct Option: C
+Question 10: What is the author's tone in the transcript? Options: A. Humorous and lighthearted, B. Serious and academic, C. Formal and professional, D. Sarcastic and ironic Correct Option: A
+Question 11: According to the transcript, what can happen to a feces when minerals in water slowly permeate and replace the molecules in the turd? Options: A. It gets filled in by earth, B. It gets mineralized, C. It turns to stone, D. It gets preserved in a mummy's desiccated intestines Correct Option: C
+Question 12: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 13: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 14: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+Question 15: According to the transcript, what can be concluded from the analysis of the warlord Cangrande della Scala's feces? Options: A. He was poisoned by his servant, B. He died of natural causes, C. He ingested a poisonous plant before he died, D. He was murdered by his enemy Correct Option: C
+Question 16: What is the significance of the fact that the transcript mentions the fossilized feces of ancient humans? Options: A. It shows that ancient humans were clean and hygienic, B. It reveals the location of a lost city, C. It provides information about the diet, living conditions, and health of ancient humans, D. It confirms the presence of a new species Correct Option: C
+Question 17: According to the transcript, what can happen to a feces when it is preserved in a mummy's desiccated intestines? Options: A. It gets filled in by earth, B. It gets mineralized, C. It dries out, D. It turns to stone Correct Option: C
+Question 18: What can be inferred from the fact that the Viking's feces was a nearly 8-inch, 1000-year-old fossil? Options: A. The Viking was a healthy person of significance, B. The Viking's feces was a rare find, C. The Viking was a healthy person, D. The Viking was a vegetarian Correct Option: B
+Question 19: According to the transcript, what are some ways that fossilized feces can be preserved? Options: A. Drying out, being filled in by earth, and getting mineralized, B. Getting preserved in a mummy's desiccated intestines, turning to stone, and being mineralized, C. Drying out, turning to stone, and being filled in by earth, D. Being filled in by earth, getting mineralized, and turning to stone Correct Option: B
+Question 20: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites? Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is:
+
+**Question 5: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites?**
+
+However, this question does not directly match the ground truth MCQ. A closer match is:
+
+**Question 13: According to the transcript, what are some ways that fossilized feces can be preserved?**
+
+But this question also does not directly match the ground truth MCQ.
+
+A more suitable match is not available in the provided generated MCQs, but if I had to choose one, I would say that the closest match is:
+
+**Question 3: If archaeologists find a fossilized feces of an ancient human, what can they infer from it?**
+
+However, please note that this is not a direct match.
+
+Upon re-examining the generated MCQs, I found a question that is more closely related to the ground truth MCQ:
+
+**Question 8: What is the significance of the fact that the contents of 1-2 millennia-old coprolites in Puerto Rico backed up the archaeological evidence?**
+
+This question mentions the analysis of coprolites, which is related to the concept of cesspits. However, it still does not directly match the ground truth MCQ.
+
+After another review, I found a question that is more closely related to the ground truth MCQ:
+
+**Question 14 is similar to Question 5, and Question 20 is similar to Question 5 and Question 14.**
+
+However, I noticed that:
+
+**Question 5, Question 14, and Question 20** all have the same correct answer and similar question content.
+
+But I still couldn't find a direct match for the ground truth MCQ.
+
+Then I analyzed the questions again and found that:
+
+**Question 7: How can fossilized feces help archaeologists understand the lives of ancient humans?**
+
+has an option that mentions living conditions, which is related to the concept of cesspits.
+
+However, I must admit that I couldn't find a direct match for the ground truth MCQ among the provided generated MCQs.
+
+If I had to choose one, I would say that the closest match is:
+
+**Not available**
+
+However, I can try to provide a more suitable match based on my analysis:
+
+**A more suitable match would be a question that directly asks about cesspits and their significance.**
+
+Unfortunately, such a question is not available among the provided generated MCQs.
+
+But if I really had to choose one from the provided generated MCQs, I would say that the closest match is:
+
+**Question 7**
+
+Please note that this is not a direct match.
+
+However, I must provide an answer, so I will choose:
+
+**7**
+
+Please keep in mind that this is not a direct match, and a more suitable match would be a question that directly asks about cesspits and their significance.
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 1, Matched Generated Question 1
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQ**:
+Question: What are the fossilized remains of ancient human feces called?
+Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQ**:
+Question: What are the fossilized remains of ancient human feces called?
+Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question closely aligns with the content and intent of the ground truth question, but is slightly rephrased.)
+- Correct Answer Matching Score: 1.0000 (The correct answer option in the generated question matches the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible but could be more convincing. "Poopstones" and "Turd fossils" are somewhat believable, but "Feces fossils" is a bit too similar to the correct answer.)
+- Clarity and Readability Score: 1.0000 (The question and options are clear and understandable.)
+- Total Score: 0.9250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 2, Matched Generated Question 2
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQ**:
+Question: According to the transcript, what can happen to a feces when it dries out?
+Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQ**:
+Question: According to the transcript, what can happen to a feces when it dries out?
+Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the concept of drying out, but it doesn't directly ask for the meaning of the word "desiccated".)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer. The generated question's correct answer is "C. It gets preserved in a mummy's desiccated intestines", while the ground truth answer is "D. dried out".)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are somewhat plausible, but not all of them are directly related to the concept of drying out.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and understandable, but the use of the word "desiccated" in the correct answer option might cause some confusion.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 3, Matched Generated Question 7
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: How can fossilized feces help archaeologists understand the lives of ancient humans?
+Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above
+Correct Option: D
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: How can fossilized feces help archaeologists understand the lives of ancient humans?
+Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above
+Correct Option: D
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but the wording and focus are slightly different.)
+- Correct Answer Matching Score: 0.8000 (The correct answer option in the generated question is similar to the ground truth answer, but not an exact match. The generated question's correct answer, "All of the above", is a subset of the ground truth answer, which includes more specific details.)
+- Distractor Plausibility Score: 0.7000 (The distractors in the generated question are plausible but not as specific or detailed as the ground truth options. Option A, "By revealing their occupation", is not directly related to the content of the transcript.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand, but the wording could be improved to match the ground truth question's clarity.)
+- Total Score: 0.8250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 4, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQ**:
+Question: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites?
+Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQ**:
+Question: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites?
+Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of parasites in feces, but it doesn't directly ask about cesspits. However, the context is similar, and the question is relevant to the topic.)
+- Correct Answer Matching Score: 0.5000 (The correct answer in the generated question doesn't exactly match the ground truth answer. However, the generated question's correct answer implies that the Viking's environment was unsanitary, which is related to the fact that cesspits were often filled with parasites.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and require some thought to eliminate. They are not obviously incorrect and are relevant to the topic.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand. The language is simple, and the question is well-structured.)
+- Total Score: 0.7000
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 5, Matched Generated Question 1
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQ**:
+Question: What are the fossilized remains of ancient human feces called?
+Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: A fossilized feces is called a
+Options: A. excrement, B. coprolite, C. gross, D. microbiome
+Correct Option: B
+
+**Generated MCQ**:
+Question: What are the fossilized remains of ancient human feces called?
+Options: A. Poopstones, B. Coprolites, C. Feces fossils, D. Turd fossils
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question closely aligns with the content and intent of the ground truth question, but is slightly rephrased.)
+- Correct Answer Matching Score: 1.0000 (The correct answer option in the generated question matches the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible but could be more convincing. "Poopstones" and "Turd fossils" are somewhat believable, but "Feces fossils" is a bit too similar to the correct answer.)
+- Clarity and Readability Score: 1.0000 (The question and options are clear and understandable.)
+- Total Score: 0.9250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 6, Matched Generated Question 2
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQ**:
+Question: According to the transcript, what can happen to a feces when it dries out?
+Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: From the context of the video lesson, infer what the word desiccated means
+Options: A. stringy, B. fossilized, C. altered, D. dried out
+Correct Option: D
+
+**Generated MCQ**:
+Question: According to the transcript, what can happen to a feces when it dries out?
+Options: A. It gets filled in by earth, B. It turns to stone, C. It gets preserved in a mummy's desiccated intestines, D. It gets mineralized
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the concept of drying out, but it doesn't directly ask for the meaning of the word "desiccated".)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer. The generated question's correct answer is "C. It gets preserved in a mummy's desiccated intestines", while the ground truth answer is "D. dried out".)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are somewhat plausible, but not all of them are directly related to the concept of drying out.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and understandable, but the use of the word "desiccated" in the correct answer option might cause some confusion.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 7, Matched Generated Question 7
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: How can fossilized feces help archaeologists understand the lives of ancient humans?
+Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above
+Correct Option: D
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Coprolites can help a scientist
+Options: A. infer what the living conditions were like in the past, B. what parasites existed, C. how a person died, D. the type of food eaten, E. all of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: How can fossilized feces help archaeologists understand the lives of ancient humans?
+Options: A. By revealing their occupation, B. By showing their living conditions, C. By providing information about their diet, D. All of the above
+Correct Option: D
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but the wording and focus are slightly different.)
+- Correct Answer Matching Score: 0.8000 (The correct answer option in the generated question is similar to the ground truth answer, but not identical. The generated question's correct answer is "D. All of the above", which is a subset of the ground truth answer "E. all of the above".)
+- Distractor Plausibility Score: 0.7000 (The distractors in the generated question are plausible but not as comprehensive as the ground truth question. The generated question's distractors only cover occupation, living conditions, and diet, whereas the ground truth question's distractors cover a broader range of topics.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand, but the wording could be improved to match the ground truth question's clarity.)
+- Total Score: 0.8250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 8, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+What if, thousands of years from now, all
+that was left of you…was your poop? I’m Anna Rothschild, and this is Gross Science. Every poop is a nugget of information. Poop records what we eat, where we live, even
+how we died. So when archaeologists find the fossilized
+poop of ancient humans, they get kind of excited. These poop fossils are called coprolites,
+and they’re pretty rare. Although we make a lot of them, feces are
+tough to preserve. But there are a few ways poop manages to stick
+around for posterity. It can dry out—in caves or in a mummy’s
+desiccated intestines. Particularly impressive poops can leave dents
+in the earth that get filled in—creating a cast and mold of the ancient bowel movement. And a turd can also turn to stone, when minerals
+in water slowly permeate and replace the molecules in the turd. Whatever else was in the poop gets mineralized
+as well. Take this nearly 8-inch, 1000-year-old Viking
+monstrosity discovered in England. The poor Viking who created this treasure
+was infested with tons of intestinal parasites like whipworms, which were preserved along
+with the giant poo, illustrating just how squalid everyday life was back then. And this guy wasn’t an anomaly—archaeologists
+have also found cesspits (essentially Viking sewers) that were filled with parasite eggs. Poop can also tell us who was living where. In Puerto Rico, the contents of 1-2 millennia-old
+coprolites backed up the archaeological evidence that native populations on the island at the
+time were two distinct cultural groups, with different diets, and different parasites. Fossilized turds can even shed light on ancient
+murder mysteries. In Medieval Verona, the warlord Cangrande
+della Scala—patron of the poet Dante Alighieri—died at the age of 38 after a severe bout of vomiting
+and diarrhea. Rumors of foul-play spread, though at the
+time no one could prove it. But nearly 700 years later, researchers dug
+up the body and analyzed the feces that were preserved in the corpse’s rectum. They found out that he had ingested a poisonous
+plant before he died. And from the chamomile and mulberry pollen
+preserved in the poop as well, the researchers surmised that he drank a poisoned tea that
+killed him. So the next time you grab your newspaper and
+head to the bathroom, think about it not so much as going number 2, but as contributing
+to the archaeological record. Ew.
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQ**:
+Question: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites?
+Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Cesspits were
+Options: A. often filled with parasites, B. places where sewage was dumped, C. used for water storage, D. both a and b
+Correct Option: D
+
+**Generated MCQ**:
+Question: What can be inferred from the fact that the Viking's feces contained a lot of intestinal parasites?
+Options: A. The Viking had a healthy diet, B. The Viking was a vegetarian, C. The Viking had poor hygiene and lived in unsanitary conditions, D. The Viking was very clean
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of parasites in feces, but it doesn't directly ask about cesspits. However, the context is similar, and the question is relevant to the topic.)
+- Correct Answer Matching Score: 0.5000 (The correct answer in the generated question doesn't exactly match the ground truth answer. However, the generated question's correct answer implies that the Viking's environment was unsanitary, which is related to the fact that cesspits were often filled with parasites.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and require some thought to eliminate. They are not obviously incorrect and are relevant to the topic.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand. The language is simple, and the question is well-structured.)
+- Total Score: 0.7000
+
