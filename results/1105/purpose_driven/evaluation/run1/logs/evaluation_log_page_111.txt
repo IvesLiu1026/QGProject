@@ -13353,3 +13353,664 @@ Correct Option: None
 - Total Score: 0.5750
 
 Scoring Phase - Ground Truth Set 12, Ground Truth Question 3, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+The Trojan War has been raging 
+for 10 years, with neither Greeks nor Trojans 
+prevailing. Gods and humans alike
+are desperate for a break, so when a divine omen races
+across the sky, the two sides agree to a 10 day truce. From high up on Olympus you’ve been 
+waiting for an opportunity to bring this bloody war 
+to its conclusion. When you go to consult the Fates,
+they advise: should the peace last for a full 10 days,
+all will end soon. However, if the truce is broken, the ensuing battle will lead to 10 more
+devastating years of war. The Fates’ loom has shown them 
+the exact conditions that will keep the truce intact. The great Trojan plain can be viewed 
+as a grid of Greek and Trojan encampments. If they’re organized in such a way that 
+any Greek can reach any other Greek camp without having to pass through a Trojan 
+camp, and likewise for Trojans, plus neither side completely surrounds 
+the other, peace will prevail. Anyone can move to a horizontally
+or vertically adjacent camp, but never diagonally. The problem is,
+they’re currently arranged like this. Tonight, you can use your powers to swap
+up to six pairs of camps that are horizontally, vertically,
+or diagonally adjacent. No camp can be moved more than once. Which swaps do you make
+to keep the peace? Pause here to figure it out yourself.
+Answer in 3 Answer in 2 Answer in 1 The first insight here is to divide
+this into two sub-problems. There’s the matter of connecting 
+4 clumps of Greeks without putting holes in the Trojan line. And then there’s dealing 
+with the thorny center space. Let’s consider the Greeks first. To connect any Greek clumps, you’ll have to mess 
+with the nice, straight Trojan lines. If you try to do that anywhere
+in the center of these arms, you'll create new isolated
+clusters of Trojans. So the only option is to go 
+to the perimeter of the field and move some Trojans diagonally,
+say here, here, and here. Now for the center. there’s no way to connect the Trojan arms 
+without swapping a Trojan in. But continuing to shift that arm 
+of Trojans inward would require moving 
+the same Greek camp multiple times. However, you could shift the whole
+Trojan arm up and to the right, closing this gap. There are several
+solutions with slight variants, but as long as you perform this maneuver
+on the short arm of Trojans, you can achieve peace in exactly 6 moves. You make the swaps and all is well 
+until the fifth night. One of your rival gods wants
+to see the bloodshed continue, and has taken advantage 
+of a forgotten prophecy. He’s convinced one Trojan camp 
+to make a swap with their horizontal, vertical, 
+or diagonal Greek neighbors that will break up the Greek connectivity. Once again, you consult the Fates,
+who prophesize the following: the meddling Trojan camp is somewhere
+within four grid spaces of the perimeter of the battlefield. They won’t go through with a swap 
+if it only breaks up Trojan connectivity. And finally, you can make 
+at most two swaps with the same rules as before 
+to thwart them. Which swaps do you make 
+to block the troublesome Trojan camp? Answer in 3 Answer in 2 Answer in 1 You won't be able to identify
+the scheming camp precisely, but there’s a lot you can do 
+to at least narrow down the options. They have to be somewhere in this area. And they have to be able to block Greek
+camps from each other in a single swap. That doesn’t leave many options; the only possible blockages 
+are at the end of these two arms, where a Trojan camp could plug a hole
+without opening a new one. So they must be in one of these 
+four camps. Let’s look at the right arm first. There’s a threat here because this column 
+has two Trojan camps. If one moves to the right, 
+the other will still be in place, blocking Greeks from crossing. so we can thwart them by moving either one
+a column left into this square. and the same principle applies 
+to the bottom arm. Your effort maintains the peace 
+for the final 5 days. But it seems that a certain Greek general
+noticed what was happening and left the Trojans a parting gift...
+
+**Ground Truth MCQ**:
+Question: Given the same setup, how many neutralizations would be required?
+Options: A. 2, B. 3, C. 4, D. 5, E. 6
+Correct Option: C
+
+**Generated MCQ**:
+Question: How many swaps can be made to thwart the troublesome Trojan camp?
+Options: A. 1, B. 2, C. 3, D. 4
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Given the same setup, how many neutralizations would be required?
+Options: A. 2, B. 3, C. 4, D. 5, E. 6
+Correct Option: C
+
+**Generated MCQ**:
+Question: How many swaps can be made to thwart the troublesome Trojan camp?
+Options: A. 1, B. 2, C. 3, D. 4
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of swaps, but it doesn't directly address the concept of neutralizations.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but the correct answer is not among the options.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 12, Ground Truth Question 4, Matched Generated Question 8
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+The Trojan War has been raging 
+for 10 years, with neither Greeks nor Trojans 
+prevailing. Gods and humans alike
+are desperate for a break, so when a divine omen races
+across the sky, the two sides agree to a 10 day truce. From high up on Olympus you’ve been 
+waiting for an opportunity to bring this bloody war 
+to its conclusion. When you go to consult the Fates,
+they advise: should the peace last for a full 10 days,
+all will end soon. However, if the truce is broken, the ensuing battle will lead to 10 more
+devastating years of war. The Fates’ loom has shown them 
+the exact conditions that will keep the truce intact. The great Trojan plain can be viewed 
+as a grid of Greek and Trojan encampments. If they’re organized in such a way that 
+any Greek can reach any other Greek camp without having to pass through a Trojan 
+camp, and likewise for Trojans, plus neither side completely surrounds 
+the other, peace will prevail. Anyone can move to a horizontally
+or vertically adjacent camp, but never diagonally. The problem is,
+they’re currently arranged like this. Tonight, you can use your powers to swap
+up to six pairs of camps that are horizontally, vertically,
+or diagonally adjacent. No camp can be moved more than once. Which swaps do you make
+to keep the peace? Pause here to figure it out yourself.
+Answer in 3 Answer in 2 Answer in 1 The first insight here is to divide
+this into two sub-problems. There’s the matter of connecting 
+4 clumps of Greeks without putting holes in the Trojan line. And then there’s dealing 
+with the thorny center space. Let’s consider the Greeks first. To connect any Greek clumps, you’ll have to mess 
+with the nice, straight Trojan lines. If you try to do that anywhere
+in the center of these arms, you'll create new isolated
+clusters of Trojans. So the only option is to go 
+to the perimeter of the field and move some Trojans diagonally,
+say here, here, and here. Now for the center. there’s no way to connect the Trojan arms 
+without swapping a Trojan in. But continuing to shift that arm 
+of Trojans inward would require moving 
+the same Greek camp multiple times. However, you could shift the whole
+Trojan arm up and to the right, closing this gap. There are several
+solutions with slight variants, but as long as you perform this maneuver
+on the short arm of Trojans, you can achieve peace in exactly 6 moves. You make the swaps and all is well 
+until the fifth night. One of your rival gods wants
+to see the bloodshed continue, and has taken advantage 
+of a forgotten prophecy. He’s convinced one Trojan camp 
+to make a swap with their horizontal, vertical, 
+or diagonal Greek neighbors that will break up the Greek connectivity. Once again, you consult the Fates,
+who prophesize the following: the meddling Trojan camp is somewhere
+within four grid spaces of the perimeter of the battlefield. They won’t go through with a swap 
+if it only breaks up Trojan connectivity. And finally, you can make 
+at most two swaps with the same rules as before 
+to thwart them. Which swaps do you make 
+to block the troublesome Trojan camp? Answer in 3 Answer in 2 Answer in 1 You won't be able to identify
+the scheming camp precisely, but there’s a lot you can do 
+to at least narrow down the options. They have to be somewhere in this area. And they have to be able to block Greek
+camps from each other in a single swap. That doesn’t leave many options; the only possible blockages 
+are at the end of these two arms, where a Trojan camp could plug a hole
+without opening a new one. So they must be in one of these 
+four camps. Let’s look at the right arm first. There’s a threat here because this column 
+has two Trojan camps. If one moves to the right, 
+the other will still be in place, blocking Greeks from crossing. so we can thwart them by moving either one
+a column left into this square. and the same principle applies 
+to the bottom arm. Your effort maintains the peace 
+for the final 5 days. But it seems that a certain Greek general
+noticed what was happening and left the Trojans a parting gift...
+
+**Ground Truth MCQ**:
+Question: In the solution with swaps, if any A could force a swap with any neighboring B (vertically, horizontally or diagonally), could that A make any camp of Bs unable to travel to some other B passing only through camps?
+Options: A. Yes, B. No
+Correct Option: A
+
+**Generated MCQ**:
+Question: What is the effect of moving a Trojan camp diagonally on the Greek connectivity?
+Options: A. It breaks up the Greek connectivity., B. It maintains the Greek connectivity., C. It creates new isolated clusters of Trojans., D. It surrounds the Greeks.
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: In the solution with swaps, if any A could force a swap with any neighboring B (vertically, horizontally or diagonally), could that A make any camp of Bs unable to travel to some other B passing only through camps?
+Options: A. Yes, B. No
+Correct Option: A
+
+**Generated MCQ**:
+Question: What is the effect of moving a Trojan camp diagonally on the Greek connectivity?
+Options: A. It breaks up the Greek connectivity., B. It maintains the Greek connectivity., C. It creates new isolated clusters of Trojans., D. It surrounds the Greeks.
+Correct Option: None
+
+**Scores**:
+
+- Relevance Score: 0.6000 (The generated question is related to the topic of camp swaps and their effects on connectivity, but it does not directly address the specific scenario described in the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer, as the generated question's correct answer is not specified.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and relevant to the topic, but they do not directly correspond to the options in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and understandable, but the correct answer is not specified, which may cause confusion.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 12, Ground Truth Question 5, Matched Generated Question 8
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+The Trojan War has been raging 
+for 10 years, with neither Greeks nor Trojans 
+prevailing. Gods and humans alike
+are desperate for a break, so when a divine omen races
+across the sky, the two sides agree to a 10 day truce. From high up on Olympus you’ve been 
+waiting for an opportunity to bring this bloody war 
+to its conclusion. When you go to consult the Fates,
+they advise: should the peace last for a full 10 days,
+all will end soon. However, if the truce is broken, the ensuing battle will lead to 10 more
+devastating years of war. The Fates’ loom has shown them 
+the exact conditions that will keep the truce intact. The great Trojan plain can be viewed 
+as a grid of Greek and Trojan encampments. If they’re organized in such a way that 
+any Greek can reach any other Greek camp without having to pass through a Trojan 
+camp, and likewise for Trojans, plus neither side completely surrounds 
+the other, peace will prevail. Anyone can move to a horizontally
+or vertically adjacent camp, but never diagonally. The problem is,
+they’re currently arranged like this. Tonight, you can use your powers to swap
+up to six pairs of camps that are horizontally, vertically,
+or diagonally adjacent. No camp can be moved more than once. Which swaps do you make
+to keep the peace? Pause here to figure it out yourself.
+Answer in 3 Answer in 2 Answer in 1 The first insight here is to divide
+this into two sub-problems. There’s the matter of connecting 
+4 clumps of Greeks without putting holes in the Trojan line. And then there’s dealing 
+with the thorny center space. Let’s consider the Greeks first. To connect any Greek clumps, you’ll have to mess 
+with the nice, straight Trojan lines. If you try to do that anywhere
+in the center of these arms, you'll create new isolated
+clusters of Trojans. So the only option is to go 
+to the perimeter of the field and move some Trojans diagonally,
+say here, here, and here. Now for the center. there’s no way to connect the Trojan arms 
+without swapping a Trojan in. But continuing to shift that arm 
+of Trojans inward would require moving 
+the same Greek camp multiple times. However, you could shift the whole
+Trojan arm up and to the right, closing this gap. There are several
+solutions with slight variants, but as long as you perform this maneuver
+on the short arm of Trojans, you can achieve peace in exactly 6 moves. You make the swaps and all is well 
+until the fifth night. One of your rival gods wants
+to see the bloodshed continue, and has taken advantage 
+of a forgotten prophecy. He’s convinced one Trojan camp 
+to make a swap with their horizontal, vertical, 
+or diagonal Greek neighbors that will break up the Greek connectivity. Once again, you consult the Fates,
+who prophesize the following: the meddling Trojan camp is somewhere
+within four grid spaces of the perimeter of the battlefield. They won’t go through with a swap 
+if it only breaks up Trojan connectivity. And finally, you can make 
+at most two swaps with the same rules as before 
+to thwart them. Which swaps do you make 
+to block the troublesome Trojan camp? Answer in 3 Answer in 2 Answer in 1 You won't be able to identify
+the scheming camp precisely, but there’s a lot you can do 
+to at least narrow down the options. They have to be somewhere in this area. And they have to be able to block Greek
+camps from each other in a single swap. That doesn’t leave many options; the only possible blockages 
+are at the end of these two arms, where a Trojan camp could plug a hole
+without opening a new one. So they must be in one of these 
+four camps. Let’s look at the right arm first. There’s a threat here because this column 
+has two Trojan camps. If one moves to the right, 
+the other will still be in place, blocking Greeks from crossing. so we can thwart them by moving either one
+a column left into this square. and the same principle applies 
+to the bottom arm. Your effort maintains the peace 
+for the final 5 days. But it seems that a certain Greek general
+noticed what was happening and left the Trojans a parting gift...
+
+**Ground Truth MCQ**:
+Question: In the solution with neutralization, if any A could force a swap with any neighboring B (vertically, horizontally or diagonally), could that A make any camp of Bs unable to travel to some other B passing only through B or neutral camps?
+Options: A. yes, B. no
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the effect of moving a Trojan camp diagonally on the Greek connectivity?
+Options: A. It breaks up the Greek connectivity., B. It maintains the Greek connectivity., C. It creates new isolated clusters of Trojans., D. It surrounds the Greeks.
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: In the solution with neutralization, if any A could force a swap with any neighboring B (vertically, horizontally or diagonally), could that A make any camp of Bs unable to travel to some other B passing only through B or neutral camps?
+Options: A. yes, B. no
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the effect of moving a Trojan camp diagonally on the Greek connectivity?
+Options: A. It breaks up the Greek connectivity., B. It maintains the Greek connectivity., C. It creates new isolated clusters of Trojans., D. It surrounds the Greeks.
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the topic of camp movements and their effects, but it doesn't directly address the specific scenario described in the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer, and the generated question does not have a clear correct answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and related to the topic, but they do not directly correspond to the options in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and understandable, but the lack of a clear correct answer may cause confusion.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 13, Ground Truth Question 1, Matched Generated Question 1
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+You're traveling deep beneath
+the ocean's surface, where faint lights flicker
+and toothy grins flash. You are now entering... the Twilight Zone. Your mission is to survive these depths and journey to the surface 
+after sundown to feed. You may now pick your player. Just kidding— you don’t have a choice. You’re a hatchetfish. And almost everything else 
+is trying to eat you. The tools at your disposal 
+are a uniquely shaped body, shiny scales, and glowing spots
+on your belly. You’re going to need a lot of skill 
+and a little luck. Your first challenge is to begin 
+your upwards trek. Your swim bladder allows you 
+to precisely control your buoyancy. Come nightfall, you slowly fill it up, becoming less dense and rising
+towards the surface. You can’t swim fast, but your narrow build
+makes you maneuverable. This is especially important since
+predators could spring out of the darkness at any moment. In fact, a fangtooth 
+is gliding beneath you. It has the ocean’s biggest
+tooth-to-body size ratio. Food is hard to come 
+by in the Twilight Zone, so predators have fearsome adaptations
+to make every attack count. The fangtooth’s skin is ultra-black: it reflects less than 0.5% of the light 
+that hits it, making this fish particularly
+hard to spot. Fortunately, the bioluminescent organs
+lining your belly are regulated to match the intensity and pattern of the 
+faint light from the ocean’s surface. This counter-illumination disguises
+your silhouette. So when the fangtooth gazes upwards,
+you’re almost invisible. A bright spot appears in the distance. You go to check it out, 
+but something’s looming in the darkness. The light is a bioluminescent lure
+belonging to an anglerfish. You dart away before it quickly
+opens its jaws, sucking in a hapless fish 
+that got too close. Another narrow escape, 
+but you’re nearly there. Although more than 90% 
+of deep-sea creatures are bioluminescent, only one group produces the color red: 
+dragonfishes. One of them is near. Because red light is quickly absorbed 
+by seawater, most deep-sea inhabitants can’t see it. The dragonfish emits red light
+from organs by its eyes, using an invisible headlight to locate
+unsuspecting prey that its scoops 
+into its cavernous jaw. You can’t see your enemy, but your silvery, mirror-like scales
+scatter and soften direct light, keeping you hidden. After three close calls, 
+you reach... the Photic Zone. You’ve just participated 
+in the world’s largest migration. It takes place every night as trillions
+of organisms rise from the ocean’s depths to enjoy the surface’s rich resources 
+under the cover of darkness. The payoff is huge. Here, your light-sensitive eyes take
+in a buffet of small crustaceans and gelatinous zooplankton. During the day, phytoplankton use sunlight
+to turn dissolved carbon dioxide into energy and build their own cells. They become food for small grazers,
+forming the base of the food web, which extends back down 
+to the Twilight Zone— and beyond. Organic matter generated up here—
+like bits of skin, poop, and dead animals— eventually sinks or is transported 
+in the stomachs of animals returning from their nightly migrations. These materials then feed the creatures
+below that don't migrate. This ensures that some of the carbon 
+from the atmosphere is locked away in the ocean 
+for hundreds of years to come. That's why this process is known
+as the biological carbon pump. Without it, there’d be much
+more carbon dioxide in the atmosphere, where it contributes to climate change. Your avatar, the hatchetfish, 
+is part of this crucial process. Your first quest is complete, but you must repeat this journey 
+every night for the rest of your life. As the sun rises, 
+the surface becomes dangerous, and you descend back into the shadows 
+of the Twilight Zone.
+
+**Ground Truth MCQ**:
+Question: The part of the ocean at the limit of the reach of sunlight is also known as the ____ zone.
+Options: A. deep, B. twilight, C. dark
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the environment where the hatchetfish is located at the beginning of the journey?
+Options: A. The Photic Zone, B. The Twilight Zone, C. The Surface, D. The Deep Sea
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: The part of the ocean at the limit of the reach of sunlight is also known as the ____ zone.
+Options: A. deep, B. twilight, C. dark
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the environment where the hatchetfish is located at the beginning of the journey?
+Options: A. The Photic Zone, B. The Twilight Zone, C. The Surface, D. The Deep Sea
+Correct Option: None (However, based on the transcript, the correct answer should be B. The Twilight Zone)
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the environment of the hatchetfish, which is connected to the concept of the twilight zone, but it doesn't directly ask about the zone at the limit of sunlight's reach.)
+- Correct Answer Matching Score: 0.6667 (Although the generated question doesn't explicitly mark B as the correct answer, B. The Twilight Zone is indeed the environment where the hatchetfish is located at the beginning of the journey.)
+- Distractor Plausibility Score: 0.7500 (The distractors in the generated question are plausible, but the inclusion of "The Photic Zone" might be confusing since it's the destination of the hatchetfish's journey, not the starting point.)
+- Clarity and Readability Score: 0.9000 (The generated question is clear and easy to understand, but the lack of a marked correct answer might cause confusion.)
+- Total Score: 0.7792
+
+Scoring Phase - Ground Truth Set 13, Ground Truth Question 2, Matched Generated Question 7
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+You're traveling deep beneath
+the ocean's surface, where faint lights flicker
+and toothy grins flash. You are now entering... the Twilight Zone. Your mission is to survive these depths and journey to the surface 
+after sundown to feed. You may now pick your player. Just kidding— you don’t have a choice. You’re a hatchetfish. And almost everything else 
+is trying to eat you. The tools at your disposal 
+are a uniquely shaped body, shiny scales, and glowing spots
+on your belly. You’re going to need a lot of skill 
+and a little luck. Your first challenge is to begin 
+your upwards trek. Your swim bladder allows you 
+to precisely control your buoyancy. Come nightfall, you slowly fill it up, becoming less dense and rising
+towards the surface. You can’t swim fast, but your narrow build
+makes you maneuverable. This is especially important since
+predators could spring out of the darkness at any moment. In fact, a fangtooth 
+is gliding beneath you. It has the ocean’s biggest
+tooth-to-body size ratio. Food is hard to come 
+by in the Twilight Zone, so predators have fearsome adaptations
+to make every attack count. The fangtooth’s skin is ultra-black: it reflects less than 0.5% of the light 
+that hits it, making this fish particularly
+hard to spot. Fortunately, the bioluminescent organs
+lining your belly are regulated to match the intensity and pattern of the 
+faint light from the ocean’s surface. This counter-illumination disguises
+your silhouette. So when the fangtooth gazes upwards,
+you’re almost invisible. A bright spot appears in the distance. You go to check it out, 
+but something’s looming in the darkness. The light is a bioluminescent lure
+belonging to an anglerfish. You dart away before it quickly
+opens its jaws, sucking in a hapless fish 
+that got too close. Another narrow escape, 
+but you’re nearly there. Although more than 90% 
+of deep-sea creatures are bioluminescent, only one group produces the color red: 
+dragonfishes. One of them is near. Because red light is quickly absorbed 
+by seawater, most deep-sea inhabitants can’t see it. The dragonfish emits red light
+from organs by its eyes, using an invisible headlight to locate
+unsuspecting prey that its scoops 
+into its cavernous jaw. You can’t see your enemy, but your silvery, mirror-like scales
+scatter and soften direct light, keeping you hidden. After three close calls, 
+you reach... the Photic Zone. You’ve just participated 
+in the world’s largest migration. It takes place every night as trillions
+of organisms rise from the ocean’s depths to enjoy the surface’s rich resources 
+under the cover of darkness. The payoff is huge. Here, your light-sensitive eyes take
+in a buffet of small crustaceans and gelatinous zooplankton. During the day, phytoplankton use sunlight
+to turn dissolved carbon dioxide into energy and build their own cells. They become food for small grazers,
+forming the base of the food web, which extends back down 
+to the Twilight Zone— and beyond. Organic matter generated up here—
+like bits of skin, poop, and dead animals— eventually sinks or is transported 
+in the stomachs of animals returning from their nightly migrations. These materials then feed the creatures
+below that don't migrate. This ensures that some of the carbon 
+from the atmosphere is locked away in the ocean 
+for hundreds of years to come. That's why this process is known
+as the biological carbon pump. Without it, there’d be much
+more carbon dioxide in the atmosphere, where it contributes to climate change. Your avatar, the hatchetfish, 
+is part of this crucial process. Your first quest is complete, but you must repeat this journey 
+every night for the rest of your life. As the sun rises, 
+the surface becomes dangerous, and you descend back into the shadows 
+of the Twilight Zone.
+
+**Ground Truth MCQ**:
+Question: Many animals that live in the twilight zone migrate up to the surface every ____ to feed.
+Options: A. night, B. month, C. year
+Correct Option: A
+
+**Generated MCQ**:
+Question: What is the term for the movement of organisms from the ocean's depths to the surface at night to feed?
+Options: A. Migration, B. Dispersal, C. Settlement, D. Sinking
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Many animals that live in the twilight zone migrate up to the surface every ____ to feed.
+Options: A. night, B. month, C. year
+Correct Option: A
+
+**Generated MCQ**:
+Question: What is the term for the movement of organisms from the ocean's depths to the surface at night to feed?
+Options: A. Migration, B. Dispersal, C. Settlement, D. Sinking
+Correct Option: None
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the topic of migration, but it asks for the term instead of the frequency.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are plausible but not directly related to the frequency of migration.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable.)
+- Total Score: 0.5750
+
+Scoring Phase - Ground Truth Set 13, Ground Truth Question 3, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+You're traveling deep beneath
+the ocean's surface, where faint lights flicker
+and toothy grins flash. You are now entering... the Twilight Zone. Your mission is to survive these depths and journey to the surface 
+after sundown to feed. You may now pick your player. Just kidding— you don’t have a choice. You’re a hatchetfish. And almost everything else 
+is trying to eat you. The tools at your disposal 
+are a uniquely shaped body, shiny scales, and glowing spots
+on your belly. You’re going to need a lot of skill 
+and a little luck. Your first challenge is to begin 
+your upwards trek. Your swim bladder allows you 
+to precisely control your buoyancy. Come nightfall, you slowly fill it up, becoming less dense and rising
+towards the surface. You can’t swim fast, but your narrow build
+makes you maneuverable. This is especially important since
+predators could spring out of the darkness at any moment. In fact, a fangtooth 
+is gliding beneath you. It has the ocean’s biggest
+tooth-to-body size ratio. Food is hard to come 
+by in the Twilight Zone, so predators have fearsome adaptations
+to make every attack count. The fangtooth’s skin is ultra-black: it reflects less than 0.5% of the light 
+that hits it, making this fish particularly
+hard to spot. Fortunately, the bioluminescent organs
+lining your belly are regulated to match the intensity and pattern of the 
+faint light from the ocean’s surface. This counter-illumination disguises
+your silhouette. So when the fangtooth gazes upwards,
+you’re almost invisible. A bright spot appears in the distance. You go to check it out, 
+but something’s looming in the darkness. The light is a bioluminescent lure
+belonging to an anglerfish. You dart away before it quickly
+opens its jaws, sucking in a hapless fish 
+that got too close. Another narrow escape, 
+but you’re nearly there. Although more than 90% 
+of deep-sea creatures are bioluminescent, only one group produces the color red: 
+dragonfishes. One of them is near. Because red light is quickly absorbed 
+by seawater, most deep-sea inhabitants can’t see it. The dragonfish emits red light
+from organs by its eyes, using an invisible headlight to locate
+unsuspecting prey that its scoops 
+into its cavernous jaw. You can’t see your enemy, but your silvery, mirror-like scales
+scatter and soften direct light, keeping you hidden. After three close calls, 
+you reach... the Photic Zone. You’ve just participated 
+in the world’s largest migration. It takes place every night as trillions
+of organisms rise from the ocean’s depths to enjoy the surface’s rich resources 
+under the cover of darkness. The payoff is huge. Here, your light-sensitive eyes take
+in a buffet of small crustaceans and gelatinous zooplankton. During the day, phytoplankton use sunlight
+to turn dissolved carbon dioxide into energy and build their own cells. They become food for small grazers,
+forming the base of the food web, which extends back down 
+to the Twilight Zone— and beyond. Organic matter generated up here—
+like bits of skin, poop, and dead animals— eventually sinks or is transported 
+in the stomachs of animals returning from their nightly migrations. These materials then feed the creatures
+below that don't migrate. This ensures that some of the carbon 
+from the atmosphere is locked away in the ocean 
+for hundreds of years to come. That's why this process is known
+as the biological carbon pump. Without it, there’d be much
+more carbon dioxide in the atmosphere, where it contributes to climate change. Your avatar, the hatchetfish, 
+is part of this crucial process. Your first quest is complete, but you must repeat this journey 
+every night for the rest of your life. As the sun rises, 
+the surface becomes dangerous, and you descend back into the shadows 
+of the Twilight Zone.
+
+**Ground Truth MCQ**:
+Question: More than 90 percent of deep-sea creatures are ____, meaning they produce their own light.
+Options: A. radioactive, B. bioluminescent, C. electric
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the name of the group of deep-sea creatures that produces the color red?
+Options: A. Dragonfishes, B. Anglerfish, C. Fangtooth, D. Hatchetfish
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: More than 90 percent of deep-sea creatures are ____, meaning they produce their own light.
+Options: A. radioactive, B. bioluminescent, C. electric
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the name of the group of deep-sea creatures that produces the color red?
+Options: A. Dragonfishes, B. Anglerfish, C. Fangtooth, D. Hatchetfish
+Correct Option: A (Note: Although the generated MCQ does not have a correct answer marked, based on the transcript, the correct answer is indeed A. Dragonfishes)
+
+**Scores**:
+- Relevance Score: 0.2000 (The generated question is related to deep-sea creatures and their light-producing abilities, but it focuses on a specific aspect (producing the color red) that is not directly addressed in the ground truth question.)
+- Correct Answer Matching Score: 0.0000 (The correct answer in the generated question does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible and related to the topic, but they do not directly relate to the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.4750
+
+Scoring Phase - Ground Truth Set 13, Ground Truth Question 4, Matched Generated Question 3

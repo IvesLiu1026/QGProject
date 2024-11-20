@@ -1,0 +1,1085 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft admired the work of:
+Options: A. Stephen King, B. Jane Austen, C. Jorge Luis Borges, D. Edgar Allan Poe and Robert Chambers
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What was the primary source of horror in Lovecraft's fiction? Options: A. Graphic violence and recognizable monsters, B. Supernatural folklore and graphic violence, C. Invisible and indescribable forces, D. Supernatural folklore and recognizable monsters Correct Option: C
+Question 2: In which year did Lovecraft begin writing? Options: A. 1890, B. 1917, C. 1920, D. 1930 Correct Option: B
+Question 3: What was the name of the author who inspired Lovecraft's love for Gothic horror stories? Options: A. Robert Chambers, B. Edgar Allan Poe, C. H.P. Lovecraft, D. Bram Stoker Correct Option: None
+Question 4: What was the format of the story "At the Mountains of Madness"? Options: A. A novel, B. A poem, C. A report of an Antarctic expedition, D. A short story Correct Option: C
+Question 5: What was the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Horror Mythos, D. The Dark Universe Correct Option: A
+Question 6: What was the name of the being that "froths as primal slime in nuclear chaos beyond the nethermost outposts of space and time"? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: A
+Question 7: What was the name of the tabletop game that was inspired by Lovecraft's work? Options: A. Dungeons & Dragons, B. Call of Cthulhu, C. The Elder Scrolls, D. World of Warcraft Correct Option: B
+Question 8: What was the main theme of Lovecraft's work, according to the author? Options: A. The power of love, B. The importance of friendship, C. The fear of the unknown, D. The triumph of good over evil Correct Option: C
+Question 9: How did Lovecraft's contemporaries view his work? Options: A. They were appalled by his racist views, B. They were inspired by his dark and mysterious themes, C. They were indifferent to his work, D. They were disappointed by his lack of commercial success Correct Option: B
+Question 10: What was the lasting impact of Lovecraft's work on popular culture? Options: A. It had no lasting impact, B. It inspired a new wave of horror writers, C. It created a new genre of fiction, D. It influenced numerous authors, tabletop games, and cultural icons Correct Option: D
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 3: What was the name of the author who inspired Lovecraft's love for Gothic horror stories? 
+
+However, the options provided for Question 3 do not exactly match the ground truth MCQ. A more accurate match would be a question with options that include both Edgar Allan Poe and Robert Chambers. 
+
+Since there isn't an exact match, I will choose the closest one. 
+
+The index of the most similar generated MCQ is: 3
+
+Match Phase - Ground Truth Set 1, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft often incorporated ____ into his stories.
+Options: A. Folklore, B. Superstition, C. Scientific elements, D. Metanarratives
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: What was the primary source of horror in Lovecraft's fiction? Options: A. Graphic violence and recognizable monsters, B. Supernatural folklore and graphic violence, C. Invisible and indescribable forces, D. Supernatural folklore and recognizable monsters Correct Option: C
+Question 2: In which year did Lovecraft begin writing? Options: A. 1890, B. 1917, C. 1920, D. 1930 Correct Option: B
+Question 3: What was the name of the author who inspired Lovecraft's love for Gothic horror stories? Options: A. Robert Chambers, B. Edgar Allan Poe, C. H.P. Lovecraft, D. Bram Stoker Correct Option: None
+Question 4: What was the format of the story "At the Mountains of Madness"? Options: A. A novel, B. A poem, C. A report of an Antarctic expedition, D. A short story Correct Option: C
+Question 5: What was the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Horror Mythos, D. The Dark Universe Correct Option: A
+Question 6: What was the name of the being that "froths as primal slime in nuclear chaos beyond the nethermost outposts of space and time"? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: A
+Question 7: What was the name of the tabletop game that was inspired by Lovecraft's work? Options: A. Dungeons & Dragons, B. Call of Cthulhu, C. The Elder Scrolls, D. World of Warcraft Correct Option: B
+Question 8: What was the main theme of Lovecraft's work, according to the author? Options: A. The power of love, B. The importance of friendship, C. The fear of the unknown, D. The triumph of good over evil Correct Option: C
+Question 9: How did Lovecraft's contemporaries view his work? Options: A. They were appalled by his racist views, B. They were inspired by his dark and mysterious themes, C. They were indifferent to his work, D. They were disappointed by his lack of commercial success Correct Option: B
+Question 10: What was the lasting impact of Lovecraft's work on popular culture? Options: A. It had no lasting impact, B. It inspired a new wave of horror writers, C. It created a new genre of fiction, D. It influenced numerous authors, tabletop games, and cultural icons Correct Option: D
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 4: What was the format of the story "At the Mountains of Madness"? However, this question does not directly match the ground truth MCQ.
+
+A more suitable match would be a generated MCQ that directly addresses the incorporation of scientific elements into Lovecraft's stories. Unfortunately, none of the provided generated MCQs exactly match the ground truth MCQ.
+
+However, Question 1: What was the primary source of horror in Lovecraft's fiction? is related to the ground truth MCQ, as it mentions "invisible and indescribable forces" which could be interpreted as being related to scientific elements. 
+
+But since there isn't a direct match, I will choose the question that is most relevant to the topic.
+
+The index of the most similar generated MCQ is: 1
+
+Match Phase - Ground Truth Set 1, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s stories often leave us with a sense of cosmic indifference, which is:
+Options: A. The feeling that we are insignificant specks in the universe, B. The idea that we are powerful creatures in charge of our destiny, C. A theory of biological processes, D. All of the above
+Correct Option: A
+
+**Generated MCQs**:
+Question 1: What was the primary source of horror in Lovecraft's fiction? Options: A. Graphic violence and recognizable monsters, B. Supernatural folklore and graphic violence, C. Invisible and indescribable forces, D. Supernatural folklore and recognizable monsters Correct Option: C
+Question 2: In which year did Lovecraft begin writing? Options: A. 1890, B. 1917, C. 1920, D. 1930 Correct Option: B
+Question 3: What was the name of the author who inspired Lovecraft's love for Gothic horror stories? Options: A. Robert Chambers, B. Edgar Allan Poe, C. H.P. Lovecraft, D. Bram Stoker Correct Option: None
+Question 4: What was the format of the story "At the Mountains of Madness"? Options: A. A novel, B. A poem, C. A report of an Antarctic expedition, D. A short story Correct Option: C
+Question 5: What was the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Horror Mythos, D. The Dark Universe Correct Option: A
+Question 6: What was the name of the being that "froths as primal slime in nuclear chaos beyond the nethermost outposts of space and time"? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: A
+Question 7: What was the name of the tabletop game that was inspired by Lovecraft's work? Options: A. Dungeons & Dragons, B. Call of Cthulhu, C. The Elder Scrolls, D. World of Warcraft Correct Option: B
+Question 8: What was the main theme of Lovecraft's work, according to the author? Options: A. The power of love, B. The importance of friendship, C. The fear of the unknown, D. The triumph of good over evil Correct Option: C
+Question 9: How did Lovecraft's contemporaries view his work? Options: A. They were appalled by his racist views, B. They were inspired by his dark and mysterious themes, C. They were indifferent to his work, D. They were disappointed by his lack of commercial success Correct Option: B
+Question 10: What was the lasting impact of Lovecraft's work on popular culture? Options: A. It had no lasting impact, B. It inspired a new wave of horror writers, C. It created a new genre of fiction, D. It influenced numerous authors, tabletop games, and cultural icons Correct Option: D
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I have identified the most similar generated MCQ as:
+
+**Question 8: What was the main theme of Lovecraft's work, according to the author? Options: A. The power of love, B. The importance of friendship, C. The fear of the unknown, D. The triumph of good over evil Correct Option: C**
+
+Although this question does not directly ask about "cosmic indifference," it touches on the theme of Lovecraft's work, which is closely related to the concept of cosmic indifference. The correct option, "The fear of the unknown," is also closely related to the idea of cosmic indifference, as it implies that humans are insignificant in the face of an unknown and unknowable universe.
+
+However, an even more similar question can be argued to be:
+
+**Question 1: What was the primary source of horror in Lovecraft's fiction? Options: A. Graphic violence and recognizable monsters, B. Supernatural folklore and graphic violence, C. Invisible and indescribable forces, D. Supernatural folklore and recognizable monsters Correct Option: C**
+
+This question touches on the idea that Lovecraft's horror is not about direct portrayal, but about leaving things to the imagination, which is closely related to the concept of cosmic indifference.
+
+But the question that most closely matches the ground truth MCQ is not present in the list. However, if I had to choose one, I would say that **Question 1** is the most similar, as it touches on the idea of Lovecraft's horror being about the unknown and the unknowable, which is closely related to the concept of cosmic indifference.
+
+Index of the most similar generated MCQ: **1**
+
+Match Phase - Ground Truth Set 1, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: The Cthulhu Mythos is a:
+Options: A. Role-playing game, B. Shared universe, C. Series of movies, D. The title of a short story
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What was the primary source of horror in Lovecraft's fiction? Options: A. Graphic violence and recognizable monsters, B. Supernatural folklore and graphic violence, C. Invisible and indescribable forces, D. Supernatural folklore and recognizable monsters Correct Option: C
+Question 2: In which year did Lovecraft begin writing? Options: A. 1890, B. 1917, C. 1920, D. 1930 Correct Option: B
+Question 3: What was the name of the author who inspired Lovecraft's love for Gothic horror stories? Options: A. Robert Chambers, B. Edgar Allan Poe, C. H.P. Lovecraft, D. Bram Stoker Correct Option: None
+Question 4: What was the format of the story "At the Mountains of Madness"? Options: A. A novel, B. A poem, C. A report of an Antarctic expedition, D. A short story Correct Option: C
+Question 5: What was the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Horror Mythos, D. The Dark Universe Correct Option: A
+Question 6: What was the name of the being that "froths as primal slime in nuclear chaos beyond the nethermost outposts of space and time"? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: A
+Question 7: What was the name of the tabletop game that was inspired by Lovecraft's work? Options: A. Dungeons & Dragons, B. Call of Cthulhu, C. The Elder Scrolls, D. World of Warcraft Correct Option: B
+Question 8: What was the main theme of Lovecraft's work, according to the author? Options: A. The power of love, B. The importance of friendship, C. The fear of the unknown, D. The triumph of good over evil Correct Option: C
+Question 9: How did Lovecraft's contemporaries view his work? Options: A. They were appalled by his racist views, B. They were inspired by his dark and mysterious themes, C. They were indifferent to his work, D. They were disappointed by his lack of commercial success Correct Option: B
+Question 10: What was the lasting impact of Lovecraft's work on popular culture? Options: A. It had no lasting impact, B. It inspired a new wave of horror writers, C. It created a new genre of fiction, D. It influenced numerous authors, tabletop games, and cultural icons Correct Option: D
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 5: What was the name of the shared universe created by Lovecraft and his contemporaries? 
+
+Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Horror Mythos, D. The Dark Universe 
+
+Correct Option: A
+
+Index: 5
+
+This question matches the ground truth MCQ in terms of question intent (identifying the Cthulhu Mythos), options (providing a clear and correct answer choice), and content (relating to the shared universe created by Lovecraft and his contemporaries).
+
+Match Phase - Ground Truth Set 1, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s work has inspired numerous:
+Options: A. Video games, B. Short stories and novels, C. Movies, D. Comic books, E. All of the above
+Correct Option: E
+
+**Generated MCQs**:
+Question 1: What was the primary source of horror in Lovecraft's fiction? Options: A. Graphic violence and recognizable monsters, B. Supernatural folklore and graphic violence, C. Invisible and indescribable forces, D. Supernatural folklore and recognizable monsters Correct Option: C
+Question 2: In which year did Lovecraft begin writing? Options: A. 1890, B. 1917, C. 1920, D. 1930 Correct Option: B
+Question 3: What was the name of the author who inspired Lovecraft's love for Gothic horror stories? Options: A. Robert Chambers, B. Edgar Allan Poe, C. H.P. Lovecraft, D. Bram Stoker Correct Option: None
+Question 4: What was the format of the story "At the Mountains of Madness"? Options: A. A novel, B. A poem, C. A report of an Antarctic expedition, D. A short story Correct Option: C
+Question 5: What was the name of the shared universe created by Lovecraft and his contemporaries? Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Horror Mythos, D. The Dark Universe Correct Option: A
+Question 6: What was the name of the being that "froths as primal slime in nuclear chaos beyond the nethermost outposts of space and time"? Options: A. Yog-Sothoth, B. Azathoth, C. Cthulhu, D. Shub-Niggurath Correct Option: A
+Question 7: What was the name of the tabletop game that was inspired by Lovecraft's work? Options: A. Dungeons & Dragons, B. Call of Cthulhu, C. The Elder Scrolls, D. World of Warcraft Correct Option: B
+Question 8: What was the main theme of Lovecraft's work, according to the author? Options: A. The power of love, B. The importance of friendship, C. The fear of the unknown, D. The triumph of good over evil Correct Option: C
+Question 9: How did Lovecraft's contemporaries view his work? Options: A. They were appalled by his racist views, B. They were inspired by his dark and mysterious themes, C. They were indifferent to his work, D. They were disappointed by his lack of commercial success Correct Option: B
+Question 10: What was the lasting impact of Lovecraft's work on popular culture? Options: A. It had no lasting impact, B. It inspired a new wave of horror writers, C. It created a new genre of fiction, D. It influenced numerous authors, tabletop games, and cultural icons Correct Option: D
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 10. 
+
+Although the options do not exactly match, the intent and content of the question are similar. The ground truth MCQ asks about the types of works that Lovecraft's work has inspired, while Question 10 asks about the lasting impact of Lovecraft's work on popular culture. However, the correct option for Question 10 (D. It influenced numerous authors, tabletop games, and cultural icons) is similar to the correct option for the ground truth MCQ (E. All of the above), which includes short stories, novels, and other forms of media.
+
+Index of the most similar generated MCQ: 10
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 1, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft admired the work of:
+Options: A. Stephen King, B. Jane Austen, C. Jorge Luis Borges, D. Edgar Allan Poe and Robert Chambers
+Correct Option: D
+
+**Generated MCQ**:
+Question: What was the name of the author who inspired Lovecraft's love for Gothic horror stories?
+Options: A. Robert Chambers, B. Edgar Allan Poe, C. H.P. Lovecraft, D. Bram Stoker
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Lovecraft admired the work of:
+Options: A. Stephen King, B. Jane Austen, C. Jorge Luis Borges, D. Edgar Allan Poe and Robert Chambers
+Correct Option: D
+
+**Generated MCQ**:
+Question: What was the name of the author who inspired Lovecraft's love for Gothic horror stories?
+Options: A. Robert Chambers, B. Edgar Allan Poe, C. H.P. Lovecraft, D. Bram Stoker
+Correct Option: None (However, based on the transcript, the correct answer should be B. Edgar Allan Poe or both A and B, as the transcript mentions that Lovecraft admired the Gothic horror stories written by Edgar Allan Poe and Robert Chambers.)
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but it only asks about one author instead of both authors mentioned in the ground truth question.)
+- Correct Answer Matching Score: 0.5000 (The generated question does not have a correct answer option that exactly matches the ground truth answer, but one of the options, B. Edgar Allan Poe, is partially correct.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but option C, H.P. Lovecraft, is less plausible since the question is asking about authors who inspired Lovecraft.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.7750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 2, Matched Generated Question 4
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft often incorporated ____ into his stories.
+Options: A. Folklore, B. Superstition, C. Scientific elements, D. Metanarratives
+Correct Option: C
+
+**Generated MCQ**:
+Question: What was the format of the story "At the Mountains of Madness"?
+Options: A. A novel, B. A poem, C. A report of an Antarctic expedition, D. A short story
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Lovecraft often incorporated ____ into his stories.
+Options: A. Folklore, B. Superstition, C. Scientific elements, D. Metanarratives
+Correct Option: C
+
+**Generated MCQ**:
+Question: What was the format of the story "At the Mountains of Madness"?
+Options: A. A novel, B. A poem, C. A report of an Antarctic expedition, D. A short story
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.2000 (The generated question is not closely related to the ground truth question, as it focuses on the format of a specific story rather than Lovecraft's general storytelling approach.)
+- Correct Answer Matching Score: 0.0000 (The correct answer options do not match, as the ground truth question asks about Lovecraft's incorporation of elements, while the generated question asks about the format of a specific story.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, as they are all possible formats for a story.)
+- Clarity and Readability Score: 1.0000 (Both the question and options are clear and easy to understand.)
+- Total Score: 0.5000
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 3, Matched Generated Question 8
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s stories often leave us with a sense of cosmic indifference, which is:
+Options: A. The feeling that we are insignificant specks in the universe, B. The idea that we are powerful creatures in charge of our destiny, C. A theory of biological processes, D. All of the above
+Correct Option: A
+
+**Generated MCQ**:
+Question: What was the main theme of Lovecraft's work, according to the author?
+Options: A. The power of love, B. The importance of friendship, C. The fear of the unknown, D. The triumph of good over evil
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s stories often leave us with a sense of cosmic indifference, which is:
+Options: A. The feeling that we are insignificant specks in the universe, B. The idea that we are powerful creatures in charge of our destiny, C. A theory of biological processes, D. All of the above
+Correct Option: A
+
+**Generated MCQ**:
+Question: What was the main theme of Lovecraft's work, according to the author?
+Options: A. The power of love, B. The importance of friendship, C. The fear of the unknown, D. The triumph of good over evil
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.6000 (The generated question is related to the main theme of Lovecraft's work, but it doesn't directly address the concept of cosmic indifference.)
+- Correct Answer Matching Score: 0.0000 (The correct answer options do not match.)
+- Distractor Plausibility Score: 0.4000 (The distractors in the generated question are not very plausible, as they are unrelated to the topic of Lovecraft's work.)
+- Clarity and Readability Score: 0.8000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.4500
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 4, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: The Cthulhu Mythos is a:
+Options: A. Role-playing game, B. Shared universe, C. Series of movies, D. The title of a short story
+Correct Option: B
+
+**Generated MCQ**:
+Question: What was the name of the shared universe created by Lovecraft and his contemporaries?
+Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Horror Mythos, D. The Dark Universe
+Correct Option: A
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: The Cthulhu Mythos is a:
+Options: A. Role-playing game, B. Shared universe, C. Series of movies, D. The title of a short story
+Correct Option: B
+
+**Generated MCQ**:
+Question: What was the name of the shared universe created by Lovecraft and his contemporaries?
+Options: A. The Cthulhu Mythos, B. The Lovecraftian Universe, C. The Horror Mythos, D. The Dark Universe
+Correct Option: A
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is highly relevant to the ground truth question, but it asks for the name of the shared universe instead of its definition.)
+- Correct Answer Matching Score: 1.0000 (The correct answer option in the generated question matches the ground truth answer, considering that the generated question asks for the name of the shared universe.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible but could be more challenging. Options B, C, and D are not actual names of the shared universe, but they could be confused with it.)
+- Clarity and Readability Score: 1.0000 (The question and options are clear and easy to understand.)
+- Total Score: 0.9250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 5, Matched Generated Question 10
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Arcane books of forbidden lore, disturbing secrets in 
+the family bloodline, and terrors so unspeakable the very 
+thought of them might drive you mad. By now, these have become standard 
+elements in many modern horror stories. But they were largely popularized 
+by a single author– one whose name has become an adjective for the particular type of 
+terror he inspired. Born in Providence, Rhode Island in 1890, Howard Phillips Lovecraft grew up 
+admiring the Gothic horror stories written by Edgar Allan Poe 
+and Robert Chambers. But by the time he began writing in 1917, World War I had cast a long 
+shadow over the arts. People had seen real horrors, and were no longer frightened 
+of fantastical folklore. Lovecraft sought to invent a 
+new kind of terror, one that responded to the rapid 
+scientific progress of his era. His stories often used scientific elements
+to lend eerie plausibility. In "The Colour out of Space," a strange meteorite falls near 
+a farmhouse, mutating the farm into a 
+nightmarish hellscape. Others incorporated scientific 
+methodology into their form. "At the Mountains of Madness" is written 
+as a report of an Antarctic expedition that unearths things better 
+left undiscovered. In others, mathematics themselves 
+become a source of horror, as impossible geometric configurations wreak havoc on the minds of 
+any who behold them. Like then-recent discoveries of 
+subatomic particles or X-rays, the forces in Lovecraft’s fiction 
+were powerful, yet often invisible and indescribable. Rather than recognizable monsters,
+graphic violence, or startling shocks, the terror of “Lovecraftian” horror lies 
+in what’s not directly portrayed– but left instead to the dark depths 
+of our imagination. Lovecraft’s dozens of short stories, 
+novellas, and poems often take place in the same 
+fictional continuity, with recurring characters, locations, 
+and mythologies. At first glance, they appear to be set within Lovecraft’s 
+contemporary New England. But beneath the surface of this seemingly 
+similar reality lie dark masters, for whom Earth’s inhabitants 
+are mere playthings. More like primordial forces 
+than mere deities, Lovecraft’s Great Old Ones lurk at 
+the corners of our reality. Beings such as Yog-Sothoth, “who froths as primal slime 
+in nuclear chaos beyond the nethermost outposts 
+of space and time.” Or the blind, idiot god Azathoth, whose destructive impulses are 
+stalled only by the “maddening beating of vile drums and the thin monotonous whine 
+of accursed flutes.” These beings exist beyond our 
+conceptions of reality, their true forms as inscrutable 
+as their motives. Lovecraft’s protagonists– often researchers, anthropologists, 
+or antiquarians– stumble onto hints of their existence. But even these indirect glimpses are 
+enough to drive them insane. And if they survive, the reader is left with no feeling of 
+triumph, only cosmic indifference– the terrible sense that we are 
+but insignificant specks at the mercy of unfathomable forces. But perhaps the greatest power 
+these creatures had was their appeal to Lovecraft’s 
+contemporaries. During his lifetime, Lovecraft corresponded 
+with other writers, encouraging them to employ elements and 
+characters from his stories in their own. References to Lovecraftian gods 
+or arcane tomes can be found in many stories 
+by his pen pals, such as Robert E. Howard and Robert Bloch. Today, this shared universe is called 
+the Cthulhu Mythos, named after Lovecraft’s infamous blend 
+of dragon and octopus. Unfortunately, Lovecraft’s fear of the unknown found 
+a less savory expression in his personal views. The author held strong racist views, and some of his works include 
+crude stereotypes and slurs. But the rich world he created would 
+outlive his personal prejudices. And after Lovecraft’s death, the Cthulhu Mythos was adopted 
+by a wide variety of authors, often reimagining them from 
+diverse perspectives that transcend the author’s prejudices. Despite his literary legacy, Lovecraft was never able to 
+find financial success. He died unknown and penniless 
+at the age of 46– a victim of the universe’s cosmic 
+indifference. But his work has inspired numerous 
+short stories, novels, tabletop games, and cultural icons. And as long as humans feel a sense of 
+dread about our unknown future, Lovecraftian horror will have a place in 
+the darkest corners of our imagination.
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s work has inspired numerous:
+Options: A. Video games, B. Short stories and novels, C. Movies, D. Comic books, E. All of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: What was the lasting impact of Lovecraft's work on popular culture?
+Options: A. It had no lasting impact, B. It inspired a new wave of horror writers, C. It created a new genre of fiction, D. It influenced numerous authors, tabletop games, and cultural icons
+Correct Option: D
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Lovecraft’s work has inspired numerous:
+Options: A. Video games, B. Short stories and novels, C. Movies, D. Comic books, E. All of the above
+Correct Option: E
+
+**Generated MCQ**:
+Question: What was the lasting impact of Lovecraft's work on popular culture?
+Options: A. It had no lasting impact, B. It inspired a new wave of horror writers, C. It created a new genre of fiction, D. It influenced numerous authors, tabletop games, and cultural icons
+Correct Option: D
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but it's phrased differently and focuses on the lasting impact rather than specific examples of inspired works.)
+- Correct Answer Matching Score: 0.8000 (The correct answer in the generated question is not an exact match to the ground truth answer, but it conveys a similar idea. The ground truth answer is more comprehensive, including "all of the above," while the generated answer is more general.)
+- Distractor Plausibility Score: 0.7000 (The distractors in the generated question are plausible but could be improved. Option A is unlikely, but options B and C could be considered correct in a broader sense, making them less effective as distractors.)
+- Clarity and Readability Score: 0.9000 (Both the question and options in the generated MCQ are clear and easy to understand.)
+- Total Score: 0.8250
+

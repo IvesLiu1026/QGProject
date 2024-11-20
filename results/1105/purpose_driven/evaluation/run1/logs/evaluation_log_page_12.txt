@@ -11368,3 +11368,246 @@ Correct Option: None (However, based on the transcript, the correct answer shoul
 - Total Score: 0.5750
 
 Scoring Phase - Ground Truth Set 14, Ground Truth Question 7, Matched Generated Question 3
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+[Music] Not everybody likes the same kind of food, right? That's probably a good thing. 
+I mean, all the more pizza for me! But whether we eat milkshakes or mangoes, 
+pizzas or pears, tacos or toast, we use the energy that's in 
+our food to stay alive. But how did that energy get
+ into our food in the first place? The answer is that energy 
+flows between living things. It's almost like each form of food 
+is a link in a chain...a food chain! You might have heard that humans are on the top of the food chain because we eat pretty much everything, and except for the occasional 
+video game monster and maybe the odd bear, 
+nothing tries to eat us. But what is a food chain, exactly? A food chain is a model that shows 
+how energy flows between living things. You can think of animals and plants in the same food chain as all living in the same neighborhood, 
+which scientists call a "habitat." And they all have a job to do, 
+interacting with each other, day in and day out. Together, they form a kind of system. A self-contained collection of different things 
+that all work together as a whole. And, they also interact with the 
+non-living stuff around them, like the water, the air, the ground, and the sun. Put it all together, and what do you get? A special system 
+called an "ecosystem!" And food chains show us 
+what eats what in an ecosystem. Now, everything that's alive is in a food chain. Including you, my friend! And actually, most living things 
+are in more than one food chain, depending on what, or who, 
+they're munching on at the moment. I mean, you don't eat the same thing 
+for dinner every night, do you? Didn't think so! Now, let's see how a food chain works, by making a diagram of how 
+these interactions happen in nature. First, all of the energy that's 
+in a food chain starts with the Sun. I can't stress that enough, people! Plants take the energy from the Sun's rays and change it into chemical energy. So, when a nice patch of 
+lush, green grass starts to grow, it's capturing some of the energy 
+from the Sun to do it. Then when an animal, like a rabbit, 
+wanders by and nibbles on that grass, the energy from the plant is 
+transferred into the rabbit's body. Now, if hungry hawk decides that the 
+rabbit would make a yummy supper, then the energy from the rabbit 
+is transferred to the hawk. And in this ecosystem, nothing is large 
+or brave enough to take on the hawk. I mean, just look at her! So, we've hit the top of the food chain, and we've just made a nifty model of it. So, a food chain is a model that shows how energy flows between living things in an ecosystem. Energy in a food chain starts with the Sun, which is turned into chemical energy by plants. And this energy moves up the food chain 
+as animals eat the plants, and then other animals eat those animals. And speaking of energy, I'm starving! So I'm off to take my place in the food chain. See you next time!
+
+**Ground Truth MCQ**:
+Question: True or False? Most living things are only in one food chain.
+Options: A. True, B. False
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is a food chain, exactly?
+Options: A. A model that shows how energy flows between living things, B. A type of plant that stores energy from the sun, C. A type of animal that eats other animals, D. A type of ecosystem that includes only plants
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: True or False? Most living things are only in one food chain.
+Options: A. True, B. False
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is a food chain, exactly?
+Options: A. A model that shows how energy flows between living things, B. A type of plant that stores energy from the sun, C. A type of animal that eats other animals, D. A type of ecosystem that includes only plants
+Correct Option: None (However, A is the correct definition of a food chain)
+
+**Scores**:
+- Relevance Score: 0.2000 (The generated question does not directly address the content of the ground truth question, but it is related to the topic of food chains.)
+- Correct Answer Matching Score: 0.0000 (The generated question does not have a correct answer option that matches the ground truth answer.)
+- Distractor Plausibility Score: 0.5000 (The distractors in the generated question are somewhat plausible, but not very convincing.)
+- Clarity and Readability Score: 0.8000 (The question and options are clear and understandable, but the correct answer is not provided.)
+- Total Score: 0.3750
+
+Scoring Phase - Ground Truth Set 14, Ground Truth Question 8, Matched Generated Question 4
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+[Music] Not everybody likes the same kind of food, right? That's probably a good thing. 
+I mean, all the more pizza for me! But whether we eat milkshakes or mangoes, 
+pizzas or pears, tacos or toast, we use the energy that's in 
+our food to stay alive. But how did that energy get
+ into our food in the first place? The answer is that energy 
+flows between living things. It's almost like each form of food 
+is a link in a chain...a food chain! You might have heard that humans are on the top of the food chain because we eat pretty much everything, and except for the occasional 
+video game monster and maybe the odd bear, 
+nothing tries to eat us. But what is a food chain, exactly? A food chain is a model that shows 
+how energy flows between living things. You can think of animals and plants in the same food chain as all living in the same neighborhood, 
+which scientists call a "habitat." And they all have a job to do, 
+interacting with each other, day in and day out. Together, they form a kind of system. A self-contained collection of different things 
+that all work together as a whole. And, they also interact with the 
+non-living stuff around them, like the water, the air, the ground, and the sun. Put it all together, and what do you get? A special system 
+called an "ecosystem!" And food chains show us 
+what eats what in an ecosystem. Now, everything that's alive is in a food chain. Including you, my friend! And actually, most living things 
+are in more than one food chain, depending on what, or who, 
+they're munching on at the moment. I mean, you don't eat the same thing 
+for dinner every night, do you? Didn't think so! Now, let's see how a food chain works, by making a diagram of how 
+these interactions happen in nature. First, all of the energy that's 
+in a food chain starts with the Sun. I can't stress that enough, people! Plants take the energy from the Sun's rays and change it into chemical energy. So, when a nice patch of 
+lush, green grass starts to grow, it's capturing some of the energy 
+from the Sun to do it. Then when an animal, like a rabbit, 
+wanders by and nibbles on that grass, the energy from the plant is 
+transferred into the rabbit's body. Now, if hungry hawk decides that the 
+rabbit would make a yummy supper, then the energy from the rabbit 
+is transferred to the hawk. And in this ecosystem, nothing is large 
+or brave enough to take on the hawk. I mean, just look at her! So, we've hit the top of the food chain, and we've just made a nifty model of it. So, a food chain is a model that shows how energy flows between living things in an ecosystem. Energy in a food chain starts with the Sun, which is turned into chemical energy by plants. And this energy moves up the food chain 
+as animals eat the plants, and then other animals eat those animals. And speaking of energy, I'm starving! So I'm off to take my place in the food chain. See you next time!
+
+**Ground Truth MCQ**:
+Question: If all of the energy that's in the food chain starts with the sun. What role do plants play in food chains?
+Options: A. Capture carbon dioxide and water., B. Convert sunlight into chemical energy., C. Be consumed as food by other creatures., D. All of the above.
+Correct Option: D
+
+**Generated MCQ**:
+Question: What happens to the energy from the Sun as it is transferred to plants?
+Options: A. It is converted into mechanical energy, B. It is converted into chemical energy, C. It is lost in the atmosphere, D. It is stored in the ground
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: If all of the energy that's in the food chain starts with the sun. What role do plants play in food chains?
+Options: A. Capture carbon dioxide and water., B. Convert sunlight into chemical energy., C. Be consumed as food by other creatures., D. All of the above.
+Correct Option: D
+
+**Generated MCQ**:
+Question: What happens to the energy from the Sun as it is transferred to plants?
+Options: A. It is converted into mechanical energy, B. It is converted into chemical energy, C. It is lost in the atmosphere, D. It is stored in the ground
+Correct Option: None (However, based on the transcript, the correct answer should be B)
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the ground truth question, but it doesn't ask about the role of plants in food chains. Instead, it asks about the specific process of energy transfer from the Sun to plants.)
+- Correct Answer Matching Score: 0.5000 (Although the generated question doesn't have a correct answer marked, option B is the correct answer based on the transcript. However, it doesn't exactly match the ground truth answer, which is "all of the above.")
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are somewhat plausible, but not as strong as they could be. Options A, C, and D are not supported by the transcript, but they might be confusing for some test-takers.)
+- Clarity and Readability Score: 0.9000 (The generated question and options are clear and easy to understand.)
+- Total Score: 0.7000
+
+Scoring Phase - Ground Truth Set 15, Ground Truth Question 1, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+[ ♪ Intro ♪ ] It’s that time again! I’m getting a haircut later today. lots of people get them   Sometimes people decide to cut their hair
+much shorter, and sometimes they just get a trim, like I am. Even Squeaks had a little trim when he got
+a piece of gum stuck his fur, remember, Squeaks? [Squeaks squeaks] But there’s something that all haircuts
+have in common: They don’t hurt! When you think about it, it might seem kind
+of weird that they don’t. I mean, if you get a cut on almost any other
+part of your body, like your finger, it definitely hurts! But when someone cuts your hair, as long as
+you hold very still, it doesn’t hurt at all! There’s also another place on our bodies
+that it doesn’t hurt to cut, and we do it all the time. Can you guess what it is, Squeaks? [Squeaks guesses] That’s right — our nails! The reason it doesn’t hurt to cut your hair,
+toenails, or fingernails is that they don’t have nerves inside them. A nerve is a type of body part you have all
+over the inside of your body, kind of like how you have muscles all over. These nerves have a special job to do: they
+carry messages between different places in your body. Now, you have lots of body parts. So nerves have lots of jobs. But one of the biggest jobs nerves have is
+to help you sense the world around you. Nerves are the reason you can see, hear, smell,
+taste … and yes, feel things! Nerves are a big part of the sense of touch. Squeaks, can I touch your nose to show how
+this works? [Squeaks squeaks] When you touch something [taps Squeaks on
+the nose], it brushes up against your skin. And, like most parts of your body, your skin
+has nerves in it. When something touches your skin, it activates,
+or kind of ‘turns on’ the nerves. These nerves can feel all kinds of different
+things. Some of them feel whether something is warm
+or cold. Others can help us tell if something is smooth
+or rough. And there are also some that are in charge
+of sensing pain. When I tap Squeaks’ nose, some of the nerves
+in my finger get switched on, and each one sends a message. Those messages travel through my hands … up
+my arm … through a big bundle of nerves that’s in my back … and all the way to
+my brain! Then, my brain decodes the messages. It checks if I’ve ever touched anything
+like this before, and combines that with any other information it can get, like if I can
+see the thing I’m feeling. This all happens really fast, which is how
+I can figure out what I’m touching right away — Squeaks’ nose! [Squeaks sneezes] Oh, I’m sorry ! I guess your nose is kinda
+ticklish, Squeaks! So, our sense of touch takes more than just
+our hands. It also takes our nerves, and our brains,
+too! But what about our hair? Well, try this. Pat the top of your head. Just like the skin that’s on your fingers,
+the skin that’s under your hair has nerves. So your fingers can feel the top of your head,
+and your head can feel your fingers touching it! Just like how Squeaks felt my finger with
+his nose. Now find the very end of a piece of hair and
+try squeezing it, without pulling on it at all. Your fingers can feel your hair, but your
+hair can’t feel your fingers! That’s because there are no nerves inside
+your hair. And as long as you’re not pulling on your
+hair, or moving it around too much, you’re not going to feel a thing. The same goes for the very ends of your fingernails
+and toenails. They don’t have nerves in them either. No nerves means no sense of touch, so they
+don’t feel anything. And if there’s no sense of touch, there’s
+no pain. So the next time you get a haircut, now you’ll
+know why it doesn’t hurt! [Squeaks squeaks] Yikes, you’re right Squeaks — I should
+go if I don’t want to be late for my haircut! Thanks for joining us! If you want to keep learning and having fun
+with Squeaks and me, hit the subscribe button, and we’ll see you next time here at the
+Fort! [♪ Outro ♪ ]
+
+**Ground Truth MCQ**:
+Question: When the brain receives a message from the nerves, it decodes the message. What does this mean?
+Options: A. The brain receives the message, checks to see if it is a good message or a bad message, decides what steps to take, and then sends the action step back., B. The brain receives the message, checks to see if it feels like the correct message, decides which steps to take next, and then combines it with other messages it is receiving., C. The brain receives the message, checks to see if they have ever sensed something like the message they are receiving before, and combines that with any other information it can get. (If I touch something ,can I also see it), D. The brain receives the message, checks to see if they truly sense it or if it is a false positive, combines that decision with other information and returns a message.
+Correct Option: C
+
+**Generated MCQ**:
+Question: What is the process called when the brain decodes the messages from the nerves?
+Options: A. Sensory perception., B. Nerve transmission., C. Brain decoding., D. Neural processing.
+Correct Option: None
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
