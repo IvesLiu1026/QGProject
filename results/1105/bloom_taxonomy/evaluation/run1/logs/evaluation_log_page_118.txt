@@ -1,0 +1,1092 @@
+Match Phase - Ground Truth Set 1, Question 1
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: What is the central argument plaintiffs are using against the governments they are suing for their inaction on climate change?
+Options: A. Destructive environmental policies are detrimental to the economy., B. Destructive environmental policies are putting current and future lives at risk., C. Destructive environmental policies breed fascism., D. Destructive environmental policies increase housing prices.
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What was the first international document to outline human rights? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 2: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction? Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden Correct Option: B
+Question 3: In what year did the Colombian Supreme Court rule in favor of the young plaintiffs, finding that the government was legally obliged to reduce deforestation and greenhouse gas emissions? Options: A. 2015, B. 2018, C. 2020, D. 2023 Correct Option: B
+Question 4: What is the estimated number of countries and jurisdictions that have enshrined the right to a healthy environment into national legislation? Options: A. 100, B. 150, C. 200, D. 250 Correct Option: B
+Question 5: What is the potential impact of mass extinction on the world's biodiversity by 2100? Options: A. A 10% reduction, B. A 20% reduction, C. A 25% reduction, D. A 50% reduction Correct Option: C
+Question 6: According to the transcript, what is the main reason why protecting the right to a healthy environment is more urgent now than ever before? Options: A. Climate change is causing more frequent heatwaves and longer droughts, B. Climate change is causing more destructive wildfires, C. Climate change is causing mass extinction, D. All of the above Correct Option: D
+Question 7: What is the name of the document that describes the inherent freedoms that belong to all people, no matter who they are or where they live? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 8: According to the transcript, what is the estimated number of human rights-based environmental cases that have been filed across the globe as of the summer of 2023? Options: A. 1,000, B. 2,000, C. 5,000, D. 10,000 Correct Option: B
+Question 9: What is the main goal of the court cases being filed by young people around the world? Options: A. To hold governments accountable for climate inaction, B. To reduce greenhouse gas emissions, C. To protect the rights of present and future generations, D. All of the above Correct Option: D
+Question 10: According to the transcript, what is the estimated number of UN General Assembly states that came together in 2022 to recognize the right to a clean, healthy, and sustainable environment? Options: A. 50, B. 100, C. 150, D. 200 Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 2. 
+
+This question aligns with the ground truth MCQ in terms of question intent, options, and content. Both questions focus on the central argument made by plaintiffs against governments for their inaction on climate change. The correct option in Question 2, "That climate change is a human rights issue," is similar to the correct option in the ground truth MCQ, "Destructive environmental policies are putting current and future lives at risk." Both options convey the idea that climate change has severe consequences for human well-being and rights.
+
+Index of the most similar generated MCQ: 2.
+
+Match Phase - Ground Truth Set 1, Question 2
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: What is the Universal Declaration of Human Rights?
+Options: A. A lapsed document that established global environmental policies., B. A declaration of intention to reduce global poverty., C. A document that describes the inherent freedoms that belong to all people., D. A treaty that bans extreme interrogation tactics.
+Correct Option: C
+
+**Generated MCQs**:
+Question 1: What was the first international document to outline human rights? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 2: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction? Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden Correct Option: B
+Question 3: In what year did the Colombian Supreme Court rule in favor of the young plaintiffs, finding that the government was legally obliged to reduce deforestation and greenhouse gas emissions? Options: A. 2015, B. 2018, C. 2020, D. 2023 Correct Option: B
+Question 4: What is the estimated number of countries and jurisdictions that have enshrined the right to a healthy environment into national legislation? Options: A. 100, B. 150, C. 200, D. 250 Correct Option: B
+Question 5: What is the potential impact of mass extinction on the world's biodiversity by 2100? Options: A. A 10% reduction, B. A 20% reduction, C. A 25% reduction, D. A 50% reduction Correct Option: C
+Question 6: According to the transcript, what is the main reason why protecting the right to a healthy environment is more urgent now than ever before? Options: A. Climate change is causing more frequent heatwaves and longer droughts, B. Climate change is causing more destructive wildfires, C. Climate change is causing mass extinction, D. All of the above Correct Option: D
+Question 7: What is the name of the document that describes the inherent freedoms that belong to all people, no matter who they are or where they live? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 8: According to the transcript, what is the estimated number of human rights-based environmental cases that have been filed across the globe as of the summer of 2023? Options: A. 1,000, B. 2,000, C. 5,000, D. 10,000 Correct Option: B
+Question 9: What is the main goal of the court cases being filed by young people around the world? Options: A. To hold governments accountable for climate inaction, B. To reduce greenhouse gas emissions, C. To protect the rights of present and future generations, D. All of the above Correct Option: D
+Question 10: According to the transcript, what is the estimated number of UN General Assembly states that came together in 2022 to recognize the right to a clean, healthy, and sustainable environment? Options: A. 50, B. 100, C. 150, D. 200 Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is:
+
+**Question 7: What is the name of the document that describes the inherent freedoms that belong to all people, no matter who they are or where they live?**
+
+Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter
+
+Correct Option: A
+
+or 
+
+**Question 1: What was the first international document to outline human rights?**
+
+Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter
+
+Correct Option: A
+
+Both of these questions have the same intent and content as the ground truth MCQ, but the wording is slightly different. However, Question 7 is more similar in terms of the options provided.
+
+Therefore, the index of the most similar generated MCQ is: **7** or **1**
+
+Match Phase - Ground Truth Set 1, Question 3
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: Since the UDHR was crafted in 1948, countries have chosen to uphold the liberties they outline by ____.
+Options: A. Weaving them into international treaties, B. Incorporating them in national constitutions, C. Writing them into law, D. All of the above
+Correct Option: D
+
+**Generated MCQs**:
+Question 1: What was the first international document to outline human rights? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 2: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction? Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden Correct Option: B
+Question 3: In what year did the Colombian Supreme Court rule in favor of the young plaintiffs, finding that the government was legally obliged to reduce deforestation and greenhouse gas emissions? Options: A. 2015, B. 2018, C. 2020, D. 2023 Correct Option: B
+Question 4: What is the estimated number of countries and jurisdictions that have enshrined the right to a healthy environment into national legislation? Options: A. 100, B. 150, C. 200, D. 250 Correct Option: B
+Question 5: What is the potential impact of mass extinction on the world's biodiversity by 2100? Options: A. A 10% reduction, B. A 20% reduction, C. A 25% reduction, D. A 50% reduction Correct Option: C
+Question 6: According to the transcript, what is the main reason why protecting the right to a healthy environment is more urgent now than ever before? Options: A. Climate change is causing more frequent heatwaves and longer droughts, B. Climate change is causing more destructive wildfires, C. Climate change is causing mass extinction, D. All of the above Correct Option: D
+Question 7: What is the name of the document that describes the inherent freedoms that belong to all people, no matter who they are or where they live? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 8: According to the transcript, what is the estimated number of human rights-based environmental cases that have been filed across the globe as of the summer of 2023? Options: A. 1,000, B. 2,000, C. 5,000, D. 10,000 Correct Option: B
+Question 9: What is the main goal of the court cases being filed by young people around the world? Options: A. To hold governments accountable for climate inaction, B. To reduce greenhouse gas emissions, C. To protect the rights of present and future generations, D. All of the above Correct Option: D
+Question 10: According to the transcript, what is the estimated number of UN General Assembly states that came together in 2022 to recognize the right to a clean, healthy, and sustainable environment? Options: A. 50, B. 100, C. 150, D. 200 Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I found that the most similar generated MCQ is not an exact match, but Question 9 has some similarities in terms of the overall intent. However, the closest match in terms of question content is not available.
+
+That being said, if I had to choose the closest match from the available options, I would say that Question 9 is the closest match.
+
+Index of the most similar generated MCQ: 9
+
+Match Phase - Ground Truth Set 1, Question 4
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: What argument supports the belief that climate issues should considered part of the UDHR?
+Options: A. Animals should have the same rights as humans., B. The principles of the UDHR depend on access to healthy ecosystems., C. Access to beautiful green spaces should be a human right., D. Living in polluted areas causes mental anguish. 
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What was the first international document to outline human rights? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 2: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction? Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden Correct Option: B
+Question 3: In what year did the Colombian Supreme Court rule in favor of the young plaintiffs, finding that the government was legally obliged to reduce deforestation and greenhouse gas emissions? Options: A. 2015, B. 2018, C. 2020, D. 2023 Correct Option: B
+Question 4: What is the estimated number of countries and jurisdictions that have enshrined the right to a healthy environment into national legislation? Options: A. 100, B. 150, C. 200, D. 250 Correct Option: B
+Question 5: What is the potential impact of mass extinction on the world's biodiversity by 2100? Options: A. A 10% reduction, B. A 20% reduction, C. A 25% reduction, D. A 50% reduction Correct Option: C
+Question 6: According to the transcript, what is the main reason why protecting the right to a healthy environment is more urgent now than ever before? Options: A. Climate change is causing more frequent heatwaves and longer droughts, B. Climate change is causing more destructive wildfires, C. Climate change is causing mass extinction, D. All of the above Correct Option: D
+Question 7: What is the name of the document that describes the inherent freedoms that belong to all people, no matter who they are or where they live? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 8: According to the transcript, what is the estimated number of human rights-based environmental cases that have been filed across the globe as of the summer of 2023? Options: A. 1,000, B. 2,000, C. 5,000, D. 10,000 Correct Option: B
+Question 9: What is the main goal of the court cases being filed by young people around the world? Options: A. To hold governments accountable for climate inaction, B. To reduce greenhouse gas emissions, C. To protect the rights of present and future generations, D. All of the above Correct Option: D
+Question 10: According to the transcript, what is the estimated number of UN General Assembly states that came together in 2022 to recognize the right to a clean, healthy, and sustainable environment? Options: A. 50, B. 100, C. 150, D. 200 Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+After analyzing the ground truth MCQ and the generated MCQs, I have identified the most similar generated MCQ as:
+
+**Question 2: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction? Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden Correct Option: B**
+
+This generated MCQ is the most similar to the ground truth MCQ because it:
+
+1. Deals with the same topic of climate change and human rights.
+2. Asks about the main argument made by young plaintiffs, which is related to the ground truth MCQ's question about the argument supporting the belief that climate issues should be considered part of the UDHR.
+3. Has options that are similar in intent to the ground truth MCQ's options, with option B being the correct answer in both cases.
+
+However, it's worth noting that the generated MCQs do not have an exact match to the ground truth MCQ. But among the available options, Question 2 is the most similar.
+
+If I had to choose an index, I would say: **2**
+
+Match Phase - Ground Truth Set 1, Question 5
+Matching Prompt:
+
+You are an expert evaluator for educational content. Given a transcript and a set of ground truth multiple-choice questions (MCQs), your task is to match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: Without rapid and significant change, ____ of the world's biodiversity could be wiped out by the year 2100.
+Options: A. 10%, B. 25%, C. 50%, D. 60%
+Correct Option: B
+
+**Generated MCQs**:
+Question 1: What was the first international document to outline human rights? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 2: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction? Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden Correct Option: B
+Question 3: In what year did the Colombian Supreme Court rule in favor of the young plaintiffs, finding that the government was legally obliged to reduce deforestation and greenhouse gas emissions? Options: A. 2015, B. 2018, C. 2020, D. 2023 Correct Option: B
+Question 4: What is the estimated number of countries and jurisdictions that have enshrined the right to a healthy environment into national legislation? Options: A. 100, B. 150, C. 200, D. 250 Correct Option: B
+Question 5: What is the potential impact of mass extinction on the world's biodiversity by 2100? Options: A. A 10% reduction, B. A 20% reduction, C. A 25% reduction, D. A 50% reduction Correct Option: C
+Question 6: According to the transcript, what is the main reason why protecting the right to a healthy environment is more urgent now than ever before? Options: A. Climate change is causing more frequent heatwaves and longer droughts, B. Climate change is causing more destructive wildfires, C. Climate change is causing mass extinction, D. All of the above Correct Option: D
+Question 7: What is the name of the document that describes the inherent freedoms that belong to all people, no matter who they are or where they live? Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter Correct Option: A
+Question 8: According to the transcript, what is the estimated number of human rights-based environmental cases that have been filed across the globe as of the summer of 2023? Options: A. 1,000, B. 2,000, C. 5,000, D. 10,000 Correct Option: B
+Question 9: What is the main goal of the court cases being filed by young people around the world? Options: A. To hold governments accountable for climate inaction, B. To reduce greenhouse gas emissions, C. To protect the rights of present and future generations, D. All of the above Correct Option: D
+Question 10: According to the transcript, what is the estimated number of UN General Assembly states that came together in 2022 to recognize the right to a clean, healthy, and sustainable environment? Options: A. 50, B. 100, C. 150, D. 200 Correct Option: C
+
+
+Please identify the generated MCQ that most closely matches the ground truth MCQ, based on question intent, options, and content.
+Provide the index of the most similar generated MCQ.
+
+Matching Response:
+The generated MCQ that most closely matches the ground truth MCQ is Question 5. 
+
+This question has the same intent as the ground truth MCQ, which is to assess the potential impact of mass extinction on the world's biodiversity by 2100. The options provided in Question 5 are also similar to those in the ground truth MCQ, with the correct option being a 25% reduction.
+
+Index of the most similar generated MCQ: 5.
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 1, Matched Generated Question 2
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: What is the central argument plaintiffs are using against the governments they are suing for their inaction on climate change?
+Options: A. Destructive environmental policies are detrimental to the economy., B. Destructive environmental policies are putting current and future lives at risk., C. Destructive environmental policies breed fascism., D. Destructive environmental policies increase housing prices.
+Correct Option: B
+
+**Generated MCQ**:
+Question: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction?
+Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What is the central argument plaintiffs are using against the governments they are suing for their inaction on climate change?
+Options: A. Destructive environmental policies are detrimental to the economy., B. Destructive environmental policies are putting current and future lives at risk., C. Destructive environmental policies breed fascism., D. Destructive environmental policies increase housing prices.
+Correct Option: B
+
+**Generated MCQ**:
+Question: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction?
+Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question closely aligns with the content and intent of the ground truth question, but the wording is slightly different.)
+- Correct Answer Matching Score: 0.8000 (The correct answer option in the generated question partially matches the ground truth answer. The ground truth answer focuses on "destructive environmental policies putting current and future lives at risk," while the generated answer is more general, stating "climate change is a human rights issue.")
+- Distractor Plausibility Score: 0.7000 (The distractors in the generated question are plausible but could be more convincing. Options A, C, and D are somewhat related to climate change, but they do not directly address the central argument made by the plaintiffs.)
+- Clarity and Readability Score: 0.9000 (The question and options in the generated MCQ are clear and easy to understand.)
+- Total Score: 0.8250
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 2, Matched Generated Question 7
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: What is the Universal Declaration of Human Rights?
+Options: A. A lapsed document that established global environmental policies., B. A declaration of intention to reduce global poverty., C. A document that describes the inherent freedoms that belong to all people., D. A treaty that bans extreme interrogation tactics.
+Correct Option: C
+
+**Generated MCQ**:
+Question: What is the name of the document that describes the inherent freedoms that belong to all people, no matter who they are or where they live?
+Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter
+Correct Option: A
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What is the Universal Declaration of Human Rights?
+Options: A. A lapsed document that established global environmental policies., B. A declaration of intention to reduce global poverty., C. A document that describes the inherent freedoms that belong to all people., D. A treaty that bans extreme interrogation tactics.
+Correct Option: C
+
+**Generated MCQ**:
+Question: What is the name of the document that describes the inherent freedoms that belong to all people, no matter who they are or where they live?
+Options: A. The Universal Declaration of Human Rights (UDHR), B. The Paris Agreement, C. The Kyoto Protocol, D. The United Nations Charter
+Correct Option: A
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question closely aligns with the content and intent of the ground truth question, but is slightly rephrased.)
+- Correct Answer Matching Score: 1.0000 (The correct answer option in the generated question matches the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible but could be improved. Options B and C are environmental agreements, which might be confusing for some test-takers. Option D is a related but distinct document.)
+- Clarity and Readability Score: 0.9500 (The question and options are clear and understandable, but the generated question is slightly longer and more specific than the ground truth question.)
+- Total Score: 0.9125
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 3, Matched Generated Question 9
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: Since the UDHR was crafted in 1948, countries have chosen to uphold the liberties they outline by ____.
+Options: A. Weaving them into international treaties, B. Incorporating them in national constitutions, C. Writing them into law, D. All of the above
+Correct Option: D
+
+**Generated MCQ**:
+Question: What is the main goal of the court cases being filed by young people around the world?
+Options: A. To hold governments accountable for climate inaction, B. To reduce greenhouse gas emissions, C. To protect the rights of present and future generations, D. All of the above
+Correct Option: D
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Since the UDHR was crafted in 1948, countries have chosen to uphold the liberties they outline by ____.
+Options: A. Weaving them into international treaties, B. Incorporating them in national constitutions, C. Writing them into law, D. All of the above
+Correct Option: D
+
+**Generated MCQ (Most Similar)**:
+Unfortunately, no generated MCQ directly matches the content and intent of the ground truth MCQ. However, I will provide an evaluation of the provided generated MCQ for demonstration purposes.
+
+**Generated MCQ**:
+Question: What is the main goal of the court cases being filed by young people around the world?
+Options: A. To hold governments accountable for climate inaction, B. To reduce greenhouse gas emissions, C. To protect the rights of present and future generations, D. All of the above
+Correct Option: D
+
+**Scores**:
+- Relevance Score: 0.0000 (The generated MCQ does not align with the content and intent of the ground truth MCQ.)
+- Correct Answer Matching Score: 0.0000 (The correct answer option in the generated MCQ does not match the ground truth answer.)
+- Distractor Plausibility Score: 0.5000 (The distractors in the generated MCQ are plausible but not relevant to the ground truth MCQ.)
+- Clarity and Readability Score: 1.0000 (The question and options in the generated MCQ are clear and understandable.)
+- Total Score: 0.3750
+
+Please note that the evaluation is based on the assumption that the provided generated MCQ is the most similar one, which is not the case in this scenario. A more accurate evaluation would require a generated MCQ that directly matches the content and intent of the ground truth MCQ.
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 4, Matched Generated Question 2
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: What argument supports the belief that climate issues should considered part of the UDHR?
+Options: A. Animals should have the same rights as humans., B. The principles of the UDHR depend on access to healthy ecosystems., C. Access to beautiful green spaces should be a human right., D. Living in polluted areas causes mental anguish. 
+Correct Option: B
+
+**Generated MCQ**:
+Question: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction?
+Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden
+Correct Option: B
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: What argument supports the belief that climate issues should considered part of the UDHR?
+Options: A. Animals should have the same rights as humans., B. The principles of the UDHR depend on access to healthy ecosystems., C. Access to beautiful green spaces should be a human right., D. Living in polluted areas causes mental anguish. 
+Correct Option: B
+
+**Generated MCQ**:
+Question: According to the transcript, what is the main argument made by young plaintiffs suing their governments for climate inaction?
+Options: A. That climate change is a natural phenomenon, B. That climate change is a human rights issue, C. That climate change is a national security threat, D. That climate change is an economic burden
+Correct Option: B
+
+**Scores**:
+- Relevance Score: 0.8000 (The generated question is related to the ground truth question, but it focuses on the argument made by young plaintiffs, whereas the ground truth question is about the argument supporting the inclusion of climate issues in the UDHR.)
+- Correct Answer Matching Score: 0.8000 (The correct answer option in the generated question is related to the ground truth answer, but it is not an exact match.)
+- Distractor Plausibility Score: 0.6000 (The distractors in the generated question are plausible, but they could be more challenging and relevant to the topic.)
+- Clarity and Readability Score: 0.9000 (The question and options in the generated MCQ are clear and easy to understand.)
+- Total Score: 0.7750
+
+Scoring Phase - Ground Truth Set 1, Ground Truth Question 5, Matched Generated Question 5
+Evaluation Prompt:
+
+You are an expert evaluator for educational content. Given a transcript, a set of ground truth multiple-choice questions (MCQs), and a set of generated MCQs, your task is to:
+
+1. Match each ground truth MCQ with the most similar generated MCQ from the provided set. To determine similarity, consider the question content, options, and overall intent of the MCQ.
+
+**Transcript**:
+Since 2015, an unprecedented movement has
+been sweeping courts around the world. Groups of young plaintiffs,
+some as young as 7, are suing their governments for their
+inaction on tackling climate change. For example, in the winter of 2018, 25 young Colombians,
+including Indigenous youths, sued their government for failing
+to reduce deforestation in the Amazon and falling short on climate promises. This suit, as well as others, argued that destructive
+environmental policies put the plaintiffs’ current and future
+lives at risk. Climate inaction violates
+their basic human rights— specifically the right to a healthy
+environment, health, food, and water. But what do human rights
+have to do with the environment? Do you have the right
+to breathe clean air? To live in a world with white rhinos,
+polar bears, and lemur leaf frogs? What about the right to mangroves
+and coral reefs? The first international document
+to outline human rights was adopted by the newly-formed
+United Nations in 1948, against the backdrop of two world wars
+marked by countless atrocities and barbaric acts. This document, known as
+the Universal Declaration of Human Rights, or UDHR, describes the inherent freedoms
+that belong to all people, no matter who they are or where they live,
+and which can't be granted or revoked. It establishes rights
+like freedom of thought, political liberties
+like the right to a fair trial, and socioeconomic and cultural rights, like the right to adequate housing
+and healthcare. While the UDHR itself is non-binding, its formation gave people an
+internationally recognized set of ethics and standards, and laid the foundation
+for human rights law. And since 1948, these liberties have been
+woven into international treaties, constitutions, and laws, meaning that countries have opted
+to uphold and protect them. As a result, countless individual
+human rights struggles and movements have been granted legitimacy
+and a legal basis for pursuing justice. The UDHR makes no mention
+of nature, biodiversity, or climate. These rights, instead, first took hold
+at the national level. Many countries within the Global South, often influenced by Indigenous laws
+and worldviews, incorporated the right to a healthy
+environment into their constitutions and regional treaties. Soon, human rights advocates were calling
+on the rest of the world and the United Nations to recognize
+this right as well. Many argued that the very principles
+of the UDHR depend on access to healthy ecosystems. Each year, millions of people die
+from air and water pollution. Declining pollinator populations
+threaten basic food security. And the loss of coastal habitats has left
+millions exposed to greater risks from destructive floods and hurricanes. Protecting this right is more urgent
+now than ever before. Climate change is causing
+more frequent heatwaves, longer droughts, and more destructive wildfires. Without rapid and significant change,
+the planet is at risk of mass extinction, which could wipe out a quarter
+of the world’s biodiversity by 2100. Such losses to natural ecosystems would
+likely have disastrous knockoff effects, further threatening food supplies,
+destroying livelihoods, and leaving humanity
+more vulnerable to disease. Thankfully, momentum is building. Today, over 150 countries
+and jurisdictions have enshrined the right to a healthy
+environment into national legislation. On April 5th, 2018, the Colombian Supreme Court
+ruled in favor of the young plaintiffs, finding that the government was
+legally obliged to reduce deforestation and greenhouse gas emissions in order to protect the rights
+of present and future generations. This case and similar historic wins
+by young people in the courts of the Netherlands,
+Germany, and the US has inspired others to take up the cause. As of the summer of 2023, a wave of more than 2,000
+human rights-based environmental cases have been filed across the globe. And this number is likely to grow. In 2022, an overwhelming majority of
+UN General Assembly states came together to keep human rights aligned
+to a changing world by recognizing the right to a clean,
+healthy, and sustainable environment. It will take unprecedented
+global cooperation to reduce greenhouse gas emissions,
+stop deforestation, and keep our waterways clean. These court cases are a powerful first
+step to hold governments accountable and to give future generations
+a better chance to breathe clean air, and live in a world with white rhinos,
+polar bears, and coral reefs for years to come.
+
+**Ground Truth MCQ**:
+Question: Without rapid and significant change, ____ of the world's biodiversity could be wiped out by the year 2100.
+Options: A. 10%, B. 25%, C. 50%, D. 60%
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the potential impact of mass extinction on the world's biodiversity by 2100?
+Options: A. A 10% reduction, B. A 20% reduction, C. A 25% reduction, D. A 50% reduction
+Correct Option: C
+
+2. Evaluate each matched MCQ pair based on the following criteria:
+   - **Relevance (0.0000 - 1.0000)**: Assess how closely the generated question aligns with the content and intent of the ground truth question.
+   - **Correct Answer Matching (0.0000 - 1.0000)**: Check if the correct answer option in the generated question matches the ground truth answer.
+   - **Distractor Plausibility (0.0000-1.0000)**: Evaluate the quality of the distractors (incorrect options) in the generated question.
+   - **Clarity and Readability (0.0000-1.0000)**: Rate how clear and understandable the question and options are.
+
+**Response Format**:
+1. **MCQ Pair**: Display both the Ground Truth and Generated MCQ.
+2. **Scores**:
+   - Relevance Score: X.XXXX
+   - Correct Answer Matching Score: X.XXXX
+   - Distractor Plausibility Score: X.XXXX
+   - Clarity and Readability Score: X.XXXX
+   - Total Score: X.XXXX
+
+Evaluation Response:
+**MCQ Pair**:
+
+**Ground Truth MCQ**:
+Question: Without rapid and significant change, ____ of the world's biodiversity could be wiped out by the year 2100.
+Options: A. 10%, B. 25%, C. 50%, D. 60%
+Correct Option: B
+
+**Generated MCQ**:
+Question: What is the potential impact of mass extinction on the world's biodiversity by 2100?
+Options: A. A 10% reduction, B. A 20% reduction, C. A 25% reduction, D. A 50% reduction
+Correct Option: C
+
+**Scores**:
+- Relevance Score: 0.9000 (The generated question is closely related to the ground truth question, but the wording is slightly different.)
+- Correct Answer Matching Score: 1.0000 (The correct answer option in the generated question matches the ground truth answer.)
+- Distractor Plausibility Score: 0.8000 (The distractors in the generated question are plausible, but option B is not present in the ground truth question.)
+- Clarity and Readability Score: 0.9000 (The question and options are clear and understandable, but the generated question is slightly more verbose.)
+- Total Score: 0.9000
+
